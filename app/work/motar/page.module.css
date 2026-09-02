@@ -1,0 +1,43 @@
+.main {
+  padding-top: 48px;
+}
+
+.title {
+  margin-top: 16px;
+}
+
+.meta {
+  margin-top: 20px;
+}
+
+.statusList {
+  margin-top: 24px;
+}
+
+.chipMuted {
+  color: var(--muted);
+}
+
+.statusZero {
+  font-family: var(--font-mono);
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.deepDiveText {
+  font-size: 14.5px;
+  color: var(--muted);
+}
+
+.repoText {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 15px;
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+}

@@ -1,0 +1,115 @@
+:root {
+  color-scheme: light;
+  --bg: #ffffff;
+  --ink: #1a1a1a;
+  --muted: #6e6e68;
+  --accent: #1557ff;
+  --accent-hover: #0f3fbd;
+  --signal: #ff6a2a;
+  --hairline: #e6e4de;
+  --panel: #f2f1ec;
+  --panel-deep: #e9e7e0;
+  --paper-light: #faf9f6;
+  --grid: #dddbd2;
+  --obstacle: #cbc9c0;
+
+  --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-tight), var(--font-inter), "Helvetica Neue", Arial, sans-serif;
+  --font-mono: var(--font-plex), ui-monospace, Consolas, monospace;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #111210;
+  --ink: #f4f3ef;
+  --muted: #a6a69f;
+  --accent: #7da2ff;
+  --accent-hover: #abc0ff;
+  --signal: #ff8a52;
+  --hairline: #34352f;
+  --panel: #1d1e1a;
+  --panel-deep: #282923;
+  --paper-light: #171814;
+  --grid: #34352f;
+  --obstacle: #5b5c55;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --bg: #111210;
+    --ink: #f4f3ef;
+    --muted: #a6a69f;
+    --accent: #7da2ff;
+    --accent-hover: #abc0ff;
+    --signal: #ff8a52;
+    --hairline: #34352f;
+    --panel: #1d1e1a;
+    --panel-deep: #282923;
+    --paper-light: #171814;
+    --grid: #34352f;
+    --obstacle: #5b5c55;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+img,
+svg,
+video {
+  max-width: 100%;
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+.page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #ffffff;
+    color: #1a1a1a;
+  }
+}

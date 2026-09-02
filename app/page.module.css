@@ -1,0 +1,174 @@
+.main {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 56px 24px 0 24px;
+}
+
+.layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 64px;
+}
+
+/* Left column stays put; the right column scrolls past it. */
+.sidebar {
+  position: sticky;
+  top: 40px;
+  width: 250px;
+  flex: none;
+}
+
+.photo {
+  width: 200px;
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  margin: 26px 0 0 0;
+}
+
+.role {
+  font-size: 15.5px;
+  line-height: 1.45;
+  margin-top: 2px;
+}
+
+.role:first-of-type {
+  margin-top: 12px;
+}
+
+.affil {
+  font-size: 14.5px;
+  color: var(--muted);
+  margin-top: 10px;
+}
+
+.sidebarLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  row-gap: 8px;
+  font-size: 14.5px;
+  margin-top: 18px;
+}
+
+.content {
+  flex: 1;
+  min-width: 0;
+  padding-bottom: 8px;
+}
+
+.cover {
+  margin-bottom: 30px;
+  border: 1px solid var(--hairline);
+  overflow: hidden;
+}
+
+.coverImage {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  object-fit: cover;
+}
+
+.bio {
+  font-size: 16.5px;
+  line-height: 1.75;
+  margin: 0;
+}
+
+.reach {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--muted);
+  margin: 16px 0 0 0;
+}
+
+.newsList {
+  list-style: none;
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+.newsItem {
+  display: flex;
+  gap: 14px;
+  margin: 12px 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.newsDate {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  color: var(--muted);
+  flex: none;
+  padding-top: 2px;
+}
+
+.interests {
+  margin-top: 20px;
+}
+
+.rows {
+  margin-top: 12px;
+}
+
+/* Stack below the two-column breakpoint — sticky is dropped on narrow screens. */
+@media (max-width: 900px) {
+  .main {
+    max-width: 720px;
+    padding-top: 40px;
+  }
+  .layout {
+    flex-direction: column;
+    gap: 40px;
+  }
+  .sidebar {
+    position: static;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    column-gap: 28px;
+    align-items: center;
+  }
+  .photo {
+    width: 150px;
+    grid-row: span 5;
+  }
+  .name {
+    margin-top: 0;
+    font-size: 36px;
+  }
+  .role:first-of-type {
+    margin-top: 8px;
+  }
+
+  .cover {
+    margin-bottom: 26px;
+  }
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+  .sidebar {
+    grid-template-columns: 110px minmax(0, 1fr);
+    column-gap: 20px;
+  }
+  .photo {
+    width: 110px;
+  }
+  .name {
+    font-size: 30px;
+  }
+  .bio {
+    font-size: 16px;
+  }
+}

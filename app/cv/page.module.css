@@ -1,0 +1,35 @@
+.main {
+  padding-top: 48px;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.pdf {
+  font-size: 14px;
+}
+
+.contactLine {
+  display: flex;
+  gap: 28px;
+  flex-wrap: wrap;
+  row-gap: 8px;
+  font-size: 14.5px;
+  color: var(--muted);
+  margin-top: 20px;
+}
+
+.rows {
+  margin-top: 12px;
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+}

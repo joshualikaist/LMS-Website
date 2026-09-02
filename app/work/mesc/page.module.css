@@ -1,0 +1,48 @@
+.main {
+  padding-top: 48px;
+}
+
+.title {
+  margin-top: 16px;
+}
+
+.meta {
+  margin-top: 20px;
+}
+
+.productList {
+  margin: 20px 0 0 0;
+  padding-left: 22px;
+}
+
+.productList li {
+  margin: 10px 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.engGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+  margin-top: 28px;
+}
+
+.engValue {
+  margin-top: 10px;
+}
+
+@media (max-width: 720px) {
+  .engGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+  .engGrid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

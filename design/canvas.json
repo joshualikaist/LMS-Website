@@ -1,0 +1,14 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "title": "Home", "x": 0, "y": 0, "w": 1440, "h": 3960 },
+    { "file": "Motar.dc.html", "title": "MOTAR", "x": 1560, "y": 0, "w": 1440, "h": 3560 },
+    { "file": "About.dc.html", "title": "About", "x": 3120, "y": 0, "w": 1440, "h": 2480 },
+    { "file": "MotarTech.dc.html", "title": "MOTAR — Technical", "x": 1560, "y": 3760, "w": 1440, "h": 2550 }
+  ],
+  "annotations": [
+    { "id": "design-tokens", "x": 0, "y": -300, "w": 460, "text": "MINSEOK LI — 디자인 스펙\n\nBG #F4F3EF / TEXT #161616 / SECONDARY #8B8B84\nACCENT #1557FF (링크·활성 상태만) / SIGNAL #FF6A2A (상태 표시만)\n\nInter Tight — 헤드라인 / Inter — 본문 / IBM Plex Mono — 기술 라벨\n12컬럼 그리드 · 콘텐츠 폭 1280px · 거터 20px · 프레임 1440px\n\n링크 hover #0F3FBD.\n예외 — 시뮬레이션 궤적 그림에서만 파랑=UAV, 주황=TARGET 경로 코딩." },
+    { "id": "placeholders", "x": 520, "y": -300, "w": 460, "text": "모눈(그리드) 박스는 전부 placeholder — 실제 MOTAR 시뮬레이션 영상, MESC 스크린샷, 프로필 사진, repo의 motar-system-overview.svg / motar-control-stack.svg로 교체.\n\n[ ] 표기(이메일, 날짜)는 실제 값 입력.\n'SPEC /' 라벨은 인터랙션 메모 — 구현 시 참고 후 삭제." },
+    { "id": "motar-split", "x": 1040, "y": -300, "w": 460, "text": "MOTAR 케이스 스터디는 스토리 중심으로 경량화 — 문제 → 접근(SEE/DECIDE/FLY) → 상태.\n\n시스템 다이어그램 + 시스템 컨트랙트는 아래 'MOTAR — Technical' 서브페이지로 분리 (라우트 예: /research/motar).\n케이스 스터디의 'TECHNICAL DEEP DIVE ↗' 링크가 이 페이지로 연결." }
+  ],
+  "launch": { "view": "canvas" }
+}

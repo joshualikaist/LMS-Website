@@ -1,0 +1,44 @@
+.table {
+  border-top: 1px solid var(--hairline);
+}
+
+.row {
+  display: flex;
+  align-items: flex-end;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.rowLast {
+  border-bottom: 1px solid var(--hairline);
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  padding-bottom: 5px;
+  white-space: nowrap;
+}
+
+.leader {
+  flex: 1;
+  border-bottom: 1px dotted var(--hairline);
+  margin-bottom: 8px;
+}
+
+.value {
+  font-family: var(--font-mono);
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .value {
+    font-size: 17px;
+  }
+}

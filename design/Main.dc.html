@@ -1,0 +1,254 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter+Tight:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F4F3EF; color: #161616; font-family: Inter, 'Helvetica Neue', Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+    a { color: #1557FF; text-decoration: none; }
+    a:hover { color: #0F3FBD; }
+    .wrap { width: 1280px; margin: 0 auto; }
+    .grid12 { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 20px; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, Consolas, monospace; }
+    .tight { font-family: 'Inter Tight', Inter, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+</helmet>
+<div style="width: 1440px; background: #F4F3EF;">
+
+  <!-- NAV -->
+  <div style="border-bottom: 1px solid #D9D7CF;">
+    <div class="wrap" style="display: flex; align-items: center; justify-content: space-between; height: 88px;">
+      <div class="tight" style="font-size: 16px; font-weight: 700; letter-spacing: 0.04em;">MINSEOK LI</div>
+      <div style="display: flex; gap: 36px; font-size: 15px;">
+        <a href="#work" style="color: #161616;">Work</a>
+        <a href="#research" style="color: #161616;">Research</a>
+        <a href="#notes" style="color: #161616;">Notes</a>
+        <a href="#about" style="color: #161616;">About</a>
+      </div>
+      <div class="mono" style="display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.08em;">
+        <a href="#cv" style="color: #161616;">CV ↗</a>
+        <a href="#github" style="color: #161616;">GITHUB ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div class="wrap" style="padding: 104px 0 96px 0;">
+    <div class="grid12">
+      <div style="grid-column: 1 / span 7;">
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.12em; color: #8B8B84;">MECHANICAL ENGINEERING · ROBOTICS / AUTONOMOUS SYSTEMS</div>
+        <div class="tight" style="font-size: 92px; font-weight: 600; letter-spacing: -0.03em; line-height: 0.98; margin-top: 28px;">MINSEOK LI</div>
+        <div class="tight" style="font-size: 30px; font-weight: 500; line-height: 1.35; letter-spacing: -0.01em; margin-top: 44px; max-width: 620px;">I work on autonomous systems that perceive, navigate, and interact with dynamic environments.</div>
+        <div style="display: flex; align-items: baseline; gap: 48px; margin-top: 52px;">
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84;">KAIST — DAEJEON, KR</div>
+          <a href="#research" class="mono" style="font-size: 12px; letter-spacing: 0.1em;">RESEARCH ↗</a>
+          <a href="#github" class="mono" style="font-size: 12px; letter-spacing: 0.1em;">GITHUB ↗</a>
+        </div>
+      </div>
+      <div style="grid-column: 8 / span 5;">
+        <div style="position: relative; height: 440px; background: #EBE9E2; border: 1px solid #D9D7CF;">
+          <svg width="100%" height="100%" viewBox="0 0 520 440" preserveAspectRatio="xMidYMid slice" style="display: block;">
+            <defs>
+              <pattern id="gh" width="40" height="40" patternUnits="userSpaceOnUse">
+                <path d="M40 0H0V40" fill="none" stroke="#DDDBD2" stroke-width="1"></path>
+              </pattern>
+            </defs>
+            <rect width="520" height="440" fill="url(#gh)"></rect>
+            <g fill="#C7C5BC">
+              <circle cx="90" cy="120" r="14"></circle>
+              <circle cx="180" cy="60" r="10"></circle>
+              <circle cx="300" cy="150" r="18"></circle>
+              <circle cx="420" cy="90" r="12"></circle>
+              <circle cx="140" cy="260" r="16"></circle>
+              <circle cx="250" cy="340" r="12"></circle>
+              <circle cx="390" cy="290" r="20"></circle>
+              <circle cx="60" cy="370" r="12"></circle>
+            </g>
+            <path d="M480 60 C440 100 430 160 390 200 C360 230 330 290 302 348" stroke="#FF6A2A" stroke-width="1.5" stroke-dasharray="5 5" fill="none"></path>
+            <path d="M40 400 C100 370 120 310 170 300 C230 288 244 230 292 218 C336 208 330 290 302 348" stroke="#1557FF" stroke-width="2" fill="none"></path>
+            <circle cx="302" cy="348" r="9" stroke="#FF6A2A" stroke-width="1.5" fill="none"></circle>
+            <circle cx="302" cy="348" r="3.5" fill="#1557FF"></circle>
+            <circle cx="40" cy="400" r="4" fill="none" stroke="#1557FF" stroke-width="1.5"></circle>
+          </svg>
+          <div class="mono" style="position: absolute; top: 12px; left: 14px; font-size: 10px; letter-spacing: 0.1em; color: #8B8B84;">PLACEHOLDER — MOTAR SIMULATION VIDEO</div>
+          <div class="mono" style="position: absolute; bottom: 12px; left: 14px; display: flex; gap: 18px; font-size: 10px; letter-spacing: 0.08em; color: #8B8B84;">
+            <span style="display: flex; align-items: center; gap: 6px;"><span style="display: inline-block; width: 8px; height: 2px; background: #1557FF;"></span>UAV</span>
+            <span style="display: flex; align-items: center; gap: 6px;"><span style="display: inline-block; width: 8px; height: 2px; background: #FF6A2A;"></span>TARGET</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 01 / SELECTED RESEARCH -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0 104px 0;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">01 / SELECTED RESEARCH</div>
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84;">2026 — ONGOING</div>
+      </div>
+      <div class="grid12" style="margin-top: 56px; align-items: start;">
+        <div style="grid-column: 1 / span 5;">
+          <div class="tight" style="font-size: 64px; font-weight: 600; letter-spacing: -0.03em; line-height: 1;">MOTAR</div>
+        </div>
+        <div style="grid-column: 6 / span 7;">
+          <div class="tight" style="font-size: 26px; font-weight: 500; line-height: 1.35; letter-spacing: -0.01em;">Moving-target interception in dense obstacle fields with a sensor-only UAV policy.</div>
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; margin-top: 20px;">PPO · TRANSFORMER POLICY · ISAAC GYM</div>
+        </div>
+      </div>
+      <div style="position: relative; height: 620px; background: #EBE9E2; border: 1px solid #D9D7CF; margin-top: 56px;">
+        <svg width="100%" height="100%" viewBox="0 0 1280 620" preserveAspectRatio="xMidYMid slice" style="display: block;">
+          <defs>
+            <pattern id="gw" width="40" height="40" patternUnits="userSpaceOnUse">
+              <path d="M40 0H0V40" fill="none" stroke="#DDDBD2" stroke-width="1"></path>
+            </pattern>
+          </defs>
+          <rect width="1280" height="620" fill="url(#gw)"></rect>
+          <g fill="#CBC9C0">
+            <circle cx="120" cy="140" r="22"></circle>
+            <circle cx="260" cy="80" r="14"></circle>
+            <circle cx="340" cy="240" r="26"></circle>
+            <circle cx="520" cy="120" r="18"></circle>
+            <circle cx="600" cy="320" r="30"></circle>
+            <circle cx="760" cy="180" r="20"></circle>
+            <circle cx="880" cy="420" r="24"></circle>
+            <circle cx="980" cy="100" r="16"></circle>
+            <circle cx="1080" cy="260" r="28"></circle>
+            <circle cx="200" cy="420" r="20"></circle>
+            <circle cx="420" cy="480" r="16"></circle>
+            <circle cx="720" cy="520" r="18"></circle>
+            <circle cx="1160" cy="480" r="22"></circle>
+            <circle cx="560" cy="540" r="14"></circle>
+          </g>
+          <path d="M60 520 C180 480 260 360 380 340 C520 320 560 200 700 190 C820 180 900 240 1020 230" stroke="#FF6A2A" stroke-width="2" stroke-dasharray="6 6" fill="none"></path>
+          <path d="M1220 560 C1150 500 1100 480 1040 420 C980 360 1060 280 1020 230" stroke="#1557FF" stroke-width="2.5" fill="none"></path>
+          <circle cx="1020" cy="230" r="12" stroke="#FF6A2A" stroke-width="2" fill="none"></circle>
+          <circle cx="1020" cy="230" r="4.5" fill="#1557FF"></circle>
+          <circle cx="1220" cy="560" r="5" fill="none" stroke="#1557FF" stroke-width="2"></circle>
+          <circle cx="60" cy="520" r="5" fill="none" stroke="#FF6A2A" stroke-width="2"></circle>
+        </svg>
+        <div class="mono" style="position: absolute; top: 14px; left: 16px; font-size: 10px; letter-spacing: 0.1em; color: #8B8B84;">PLACEHOLDER — MOTAR SIMULATION VIDEO (16:9 · AUTOPLAY MUTED)</div>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 28px;">
+        <div class="mono" style="font-size: 10px; letter-spacing: 0.08em; color: #8B8B84;">SPEC / VIDEO PLAYS ON HOVER · IMAGE SCALE 1.00 → 1.02</div>
+        <a href="#motar" class="mono" style="font-size: 13px; letter-spacing: 0.1em;">VIEW PROJECT ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 02 / SOFTWARE -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0 104px 0;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">02 / SOFTWARE</div>
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84;">2026</div>
+      </div>
+      <div class="grid12" style="margin-top: 56px; align-items: start;">
+        <div style="grid-column: 1 / span 5;">
+          <div class="tight" style="font-size: 64px; font-weight: 600; letter-spacing: -0.03em; line-height: 1;">MESC</div>
+        </div>
+        <div style="grid-column: 6 / span 7;">
+          <div class="tight" style="font-size: 26px; font-weight: 500; line-height: 1.35; letter-spacing: -0.01em;">A single digital hub for KAIST Mechanical Engineering students.</div>
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; margin-top: 20px;">ANNOUNCEMENTS · CALENDAR · COMMUNITY · FEES · STUDY RESOURCES</div>
+        </div>
+      </div>
+      <div style="border: 1px solid #D9D7CF; margin-top: 56px;">
+        <div style="height: 44px; background: #EBE9E2; border-bottom: 1px solid #D9D7CF; display: flex; align-items: center; padding: 0 20px;">
+          <div class="mono" style="font-size: 11px; letter-spacing: 0.08em; color: #8B8B84;">MESC — STUDENT COUNCIL WEBSITE</div>
+        </div>
+        <div style="position: relative; height: 516px; background: #F7F6F2; padding: 36px 48px; box-sizing: border-box;">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <div style="width: 120px; height: 14px; background: #D9D7CF;"></div>
+            <div style="display: flex; gap: 16px;">
+              <div style="width: 56px; height: 10px; background: #E2E0D8;"></div>
+              <div style="width: 56px; height: 10px; background: #E2E0D8;"></div>
+              <div style="width: 56px; height: 10px; background: #E2E0D8;"></div>
+              <div style="width: 56px; height: 10px; background: #E2E0D8;"></div>
+            </div>
+          </div>
+          <div style="height: 150px; background: #E7E5DD; margin-top: 32px;"></div>
+          <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin-top: 24px;">
+            <div style="height: 170px; background: #ECEAE3;"></div>
+            <div style="height: 170px; background: #ECEAE3;"></div>
+            <div style="height: 170px; background: #ECEAE3;"></div>
+          </div>
+          <div class="mono" style="position: absolute; bottom: 14px; left: 16px; font-size: 10px; letter-spacing: 0.1em; color: #8B8B84;">PLACEHOLDER — MESC WEBSITE SCREENSHOT</div>
+        </div>
+      </div>
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 28px;">
+        <div class="mono" style="font-size: 10px; letter-spacing: 0.08em; color: #8B8B84;">FULL-STACK WEB DEVELOPMENT</div>
+        <a href="#mesc" class="mono" style="font-size: 13px; letter-spacing: 0.1em;">VIEW PROJECT ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 03 / NOTES -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0 96px 0;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">03 / NOTES</div>
+        <a href="#notes" class="mono" style="font-size: 12px; letter-spacing: 0.1em;">ALL NOTES ↗</a>
+      </div>
+      <div style="margin-top: 44px;">
+        <div class="grid12" style="align-items: baseline; border-top: 1px solid #D9D7CF; padding: 30px 0;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84;">2026.09</div>
+          <div class="tight" style="grid-column: 3 / span 7; font-size: 26px; font-weight: 500; letter-spacing: -0.01em;">Failure modes in sensor-only UAV navigation</div>
+          <div class="mono" style="grid-column: 10 / span 3; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84; text-align: right;">RESEARCH NOTE · 7 MIN</div>
+        </div>
+        <div class="grid12" style="align-items: baseline; border-top: 1px solid #D9D7CF; padding: 30px 0;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84;">2026.08</div>
+          <div class="tight" style="grid-column: 3 / span 7; font-size: 26px; font-weight: 500; letter-spacing: -0.01em;">Understanding PPO through UAV navigation</div>
+          <div class="mono" style="grid-column: 10 / span 3; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84; text-align: right;">LEARNING NOTE · 11 MIN</div>
+        </div>
+        <div class="grid12" style="align-items: baseline; border-top: 1px solid #D9D7CF; border-bottom: 1px solid #D9D7CF; padding: 30px 0;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84;">2026.08</div>
+          <div class="tight" style="grid-column: 3 / span 7; font-size: 26px; font-weight: 500; letter-spacing: -0.01em;">Isaac Gym, Isaac Sim, and what actually changes</div>
+          <div class="mono" style="grid-column: 10 / span 3; font-size: 12px; letter-spacing: 0.08em; color: #8B8B84; text-align: right;">ENGINEERING NOTE · 9 MIN</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="border-top: 1px solid #161616;">
+    <div class="wrap" style="padding: 56px 0 72px 0;">
+      <div class="grid12">
+        <div style="grid-column: 1 / span 5;">
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em;">MINSEOK LI</div>
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; margin-top: 8px;">ENGINEERING FIELD NOTES</div>
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; margin-top: 32px;">© 2026</div>
+        </div>
+        <div style="grid-column: 6 / span 3;">
+          <div class="mono" style="display: flex; flex-direction: column; gap: 12px; font-size: 12px; letter-spacing: 0.08em;">
+            <a href="#work" style="color: #161616;">WORK</a>
+            <a href="#research" style="color: #161616;">RESEARCH</a>
+            <a href="#notes" style="color: #161616;">NOTES</a>
+            <a href="#about" style="color: #161616;">ABOUT</a>
+            <a href="#cv" style="color: #161616;">CV ↗</a>
+          </div>
+        </div>
+        <div style="grid-column: 9 / span 4;">
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; border-bottom: 1px solid #161616; display: inline-block; padding-bottom: 2px;">SYSTEM STATUS</div>
+          <div class="mono" style="background: #161616; color: #8B8B84; padding: 22px 24px; font-size: 12px; line-height: 2; margin-top: 16px;">
+            <div style="color: #F4F3EF;">MINSEOK.LI / STATUS</div>
+            <div style="white-space: pre; margin-top: 10px;">RESEARCH ....... <span style="color: #FF6A2A;">ACTIVE</span></div>
+            <div style="white-space: pre;">MOTAR .......... <span style="color: #FF6A2A;">ONGOING</span></div>
+            <div style="white-space: pre;">HARDWARE ....... PENDING</div>
+            <div style="white-space: pre;">WEBSITE ........ <span style="color: #F4F3EF;">ONLINE</span></div>
+            <div style="white-space: pre;">COFFEE ......... LOW</div>
+          </div>
+          <div class="mono" style="font-size: 10px; letter-spacing: 0.08em; color: #8B8B84; margin-top: 12px;">SPEC / OPENS ON CLICK — HIDDEN BY DEFAULT</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

@@ -1,0 +1,199 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter+Tight:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F4F3EF; color: #161616; font-family: Inter, 'Helvetica Neue', Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+    a { color: #1557FF; text-decoration: none; }
+    a:hover { color: #0F3FBD; }
+    .wrap { width: 1280px; margin: 0 auto; }
+    .grid12 { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 20px; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, Consolas, monospace; }
+    .tight { font-family: 'Inter Tight', Inter, 'Helvetica Neue', Arial, sans-serif; }
+    .box { border: 1.5px solid #161616; padding: 14px 12px; text-align: center; background: #F4F3EF; }
+    .boxlabel { font-family: 'IBM Plex Mono', ui-monospace, Consolas, monospace; font-size: 12px; font-weight: 600; letter-spacing: 0.06em; }
+    .boxsub { font-family: 'IBM Plex Mono', ui-monospace, Consolas, monospace; font-size: 11px; color: #8B8B84; margin-top: 5px; letter-spacing: 0.04em; }
+    .vline { width: 1.5px; height: 22px; background: #161616; margin: 0 auto; }
+  </style>
+</helmet>
+<div style="width: 1440px; background: #F4F3EF;">
+
+  <!-- NAV -->
+  <div style="border-bottom: 1px solid #D9D7CF;">
+    <div class="wrap" style="display: flex; align-items: center; justify-content: space-between; height: 88px;">
+      <div class="tight" style="font-size: 16px; font-weight: 700; letter-spacing: 0.04em;">MINSEOK LI</div>
+      <div style="display: flex; gap: 36px; font-size: 15px;">
+        <a href="#work" style="color: #161616;">Work</a>
+        <a href="#research" style="color: #1557FF;">Research</a>
+        <a href="#notes" style="color: #161616;">Notes</a>
+        <a href="#about" style="color: #161616;">About</a>
+      </div>
+      <div class="mono" style="display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.08em;">
+        <a href="#cv" style="color: #161616;">CV ↗</a>
+        <a href="#github" style="color: #161616;">GITHUB ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <div class="wrap" style="padding: 96px 0 88px 0;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">MOTAR / TECHNICAL</div>
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84;">RESEARCH / MOTAR / TECHNICAL</div>
+    </div>
+    <div class="tight" style="font-size: 64px; font-weight: 700; letter-spacing: -0.03em; line-height: 1; margin-top: 40px;">Technical Notes</div>
+    <div style="font-size: 18px; line-height: 1.6; color: #8B8B84; margin-top: 24px; max-width: 640px;">The system architecture and engineering contract behind the case study — for readers who build these systems.</div>
+    <a href="#motar" class="mono" style="display: inline-block; font-size: 12px; letter-spacing: 0.1em; margin-top: 36px;">← MOTAR CASE STUDY</a>
+  </div>
+
+  <!-- T-01 / SYSTEM -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 96px 0;">
+      <div class="grid12">
+        <div style="grid-column: 1 / span 2;">
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">T-01</div>
+          <div class="mono" style="font-size: 11px; letter-spacing: 0.12em; color: #8B8B84; margin-top: 8px;">SYSTEM</div>
+        </div>
+        <div style="grid-column: 3 / span 9;">
+          <div class="tight" style="font-size: 32px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.25;">From raw sensing to a bounded body-frame command.</div>
+          <div style="width: 860px; margin-top: 64px;">
+            <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 20px;">
+              <div style="grid-column: 3;">
+                <div class="box">
+                  <div class="boxlabel">CAMERA / RGB-D</div>
+                  <div class="boxsub">RGB-D STREAM</div>
+                </div>
+                <div class="vline"></div>
+                <div class="box">
+                  <div class="boxlabel">TARGET TRACK</div>
+                  <div class="boxsub">DETECTION + TRACKING</div>
+                </div>
+                <div class="vline"></div>
+              </div>
+              <div style="grid-column: 1; grid-row: 2;">
+                <div class="box">
+                  <div class="boxlabel">LIDAR</div>
+                  <div class="boxsub">4 × 72 BEAMS</div>
+                </div>
+              </div>
+              <div style="grid-column: 2; grid-row: 2;">
+                <div class="box">
+                  <div class="boxlabel">EGO STATE</div>
+                  <div class="boxsub">ATTITUDE · VELOCITY</div>
+                </div>
+              </div>
+              <div style="grid-column: 3; grid-row: 2;">
+                <div class="box">
+                  <div class="boxlabel">TARGET HISTORY</div>
+                  <div class="boxsub">TRACK BUFFER</div>
+                </div>
+              </div>
+            </div>
+            <svg width="860" height="56" viewBox="0 0 860 56" style="display: block;">
+              <path d="M137 0V20 M430 0V20 M723 0V20 M137 20H723 M430 20V46" stroke="#161616" stroke-width="1.5" fill="none"></path>
+              <path d="M424 46L436 46L430 56Z" fill="#161616"></path>
+            </svg>
+            <div class="box" style="width: 380px; margin: 0 auto; box-sizing: border-box;">
+              <div class="boxlabel">STRUCTURED OBSERVATION</div>
+              <div class="boxsub">898-D · 17 TOKENS</div>
+            </div>
+            <div class="vline"></div>
+            <div class="box" style="width: 380px; margin: 0 auto; box-sizing: border-box;">
+              <div class="boxlabel">TRANSFORMER POLICY</div>
+              <div class="boxsub">10 Hz</div>
+            </div>
+            <div class="vline"></div>
+            <div class="box" style="width: 380px; margin: 0 auto; box-sizing: border-box;">
+              <div class="boxlabel">BODY-FRAME COMMAND</div>
+              <div class="boxsub">BOUNDED</div>
+            </div>
+            <div class="vline"></div>
+            <div class="box" style="width: 380px; margin: 0 auto; box-sizing: border-box;">
+              <div class="boxlabel">FLIGHT CONTROLLER</div>
+            </div>
+            <div class="vline"></div>
+            <div class="box" style="width: 380px; margin: 0 auto; box-sizing: border-box; background: #161616;">
+              <div class="boxlabel" style="color: #F4F3EF;">UAV</div>
+              <div class="boxsub">RIGID-BODY PHYSICS · 100 Hz</div>
+            </div>
+          </div>
+          <div class="mono" style="font-size: 10px; letter-spacing: 0.08em; color: #8B8B84; margin-top: 40px;">SPEC / FINAL FIGURES — motar-system-overview.svg · motar-control-stack.svg (REPO)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- T-02 / SYSTEM CONTRACT -->
+  <div style="background: #161616;">
+    <div class="wrap" style="padding: 88px 0 96px 0;">
+      <div class="grid12">
+        <div style="grid-column: 1 / span 2;">
+          <div class="mono" style="font-size: 12px; letter-spacing: 0.12em; color: #8B8B84;">T-02</div>
+          <div class="mono" style="font-size: 11px; letter-spacing: 0.12em; color: #8B8B84; margin-top: 8px;">CONTRACT</div>
+        </div>
+        <div style="grid-column: 3 / span 8;">
+          <div class="mono" style="font-size: 13px; letter-spacing: 0.12em; color: #F4F3EF; border-bottom: 2px solid #F4F3EF; padding-bottom: 16px;">MOTAR / SYSTEM CONTRACT</div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">OBSERVATION</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">898 D</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">TOKENS</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">17</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">LIDAR</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">4 × 72</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">POLICY RATE</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">10 Hz</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">PHYSICS RATE</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">100 Hz</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 1px solid #33332F;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">ARENA</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">40 × 40 m</div>
+          </div>
+          <div style="display: flex; align-items: flex-end; gap: 16px; padding: 17px 0; border-bottom: 2px solid #F4F3EF;">
+            <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; padding-bottom: 7px;">TARGET SPEED</div>
+            <div style="flex: 1; border-bottom: 1px dotted #3F3F3B; margin-bottom: 10px;"></div>
+            <div class="mono" style="font-size: 26px; font-weight: 500; color: #F4F3EF;">0.3 — 1.5 m/s</div>
+          </div>
+          <div class="mono" style="font-size: 10px; letter-spacing: 0.08em; color: #8B8B84; margin-top: 24px;">SPEC / VALUES COUNT UP ON FIRST SCROLL — SUBTLE, ~400 MS</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="border-top: 1px solid #161616;">
+    <div class="wrap" style="display: flex; justify-content: space-between; align-items: center; height: 96px;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.08em;">MINSEOK LI — ENGINEERING FIELD NOTES · © 2026</div>
+      <div class="mono" style="display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.08em;">
+        <a href="#work" style="color: #161616;">WORK</a>
+        <a href="#notes" style="color: #161616;">NOTES</a>
+        <a href="#about" style="color: #161616;">ABOUT</a>
+        <span style="color: #8B8B84;">SYSTEM STATUS</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

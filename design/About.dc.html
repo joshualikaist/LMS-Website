@@ -1,0 +1,154 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;family=Inter+Tight:wght@500;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap">
+  <style>
+    body { margin: 0; background: #F4F3EF; color: #161616; font-family: Inter, 'Helvetica Neue', Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+    a { color: #1557FF; text-decoration: none; }
+    a:hover { color: #0F3FBD; }
+    .wrap { width: 1280px; margin: 0 auto; }
+    .grid12 { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 20px; }
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, Consolas, monospace; }
+    .tight { font-family: 'Inter Tight', Inter, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+</helmet>
+<div style="width: 1440px; background: #F4F3EF;">
+
+  <!-- NAV -->
+  <div style="border-bottom: 1px solid #D9D7CF;">
+    <div class="wrap" style="display: flex; align-items: center; justify-content: space-between; height: 88px;">
+      <div class="tight" style="font-size: 16px; font-weight: 700; letter-spacing: 0.04em;">MINSEOK LI</div>
+      <div style="display: flex; gap: 36px; font-size: 15px;">
+        <a href="#work" style="color: #161616;">Work</a>
+        <a href="#research" style="color: #161616;">Research</a>
+        <a href="#notes" style="color: #161616;">Notes</a>
+        <a href="#about" style="color: #1557FF;">About</a>
+      </div>
+      <div class="mono" style="display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.08em;">
+        <a href="#cv" style="color: #161616;">CV ↗</a>
+        <a href="#github" style="color: #161616;">GITHUB ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <div class="wrap" style="padding: 104px 0 96px 0;">
+    <div class="grid12">
+      <div style="grid-column: 1 / span 2;">
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">ABOUT</div>
+      </div>
+      <div style="grid-column: 3 / span 6;">
+        <div class="tight" style="font-size: 36px; font-weight: 500; letter-spacing: -0.015em; line-height: 1.35;">Mechanical Engineering undergraduate at KAIST, working on robotics, autonomous systems, and learning-based UAV navigation.</div>
+        <div style="font-size: 19px; line-height: 1.6; margin-top: 36px; max-width: 560px;">I enjoy building systems where perception, learning, and physical dynamics have to work together.</div>
+        <div class="mono" style="font-size: 12px; letter-spacing: 0.1em; color: #8B8B84; margin-top: 44px;">KAIST — DAEJEON, KR</div>
+      </div>
+      <div style="grid-column: 10 / span 3;">
+        <div style="position: relative; height: 400px; background: #EBE9E2; border: 1px solid #D9D7CF;">
+          <svg width="100%" height="100%" viewBox="0 0 300 400" preserveAspectRatio="none" style="display: block;">
+            <path d="M0 0L300 400M300 0L0 400" stroke="#D9D7CF" stroke-width="1"></path>
+          </svg>
+          <div class="mono" style="position: absolute; bottom: 12px; left: 14px; font-size: 10px; letter-spacing: 0.1em; color: #8B8B84;">PLACEHOLDER — PORTRAIT (3:4)</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 01 / EXPERIENCE -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">01 / EXPERIENCE</div>
+      <div style="margin-top: 48px;">
+        <div class="grid12" style="border-top: 1px solid #D9D7CF; padding: 32px 0; align-items: start;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.06em; color: #8B8B84;">2026.03 — PRESENT</div>
+          <div style="grid-column: 3 / span 5;">
+            <div class="tight" style="font-size: 24px; font-weight: 600; letter-spacing: -0.015em;">Field AI &amp; Robotics Lab</div>
+            <div style="font-size: 14px; color: #8B8B84; margin-top: 6px;">KAIST</div>
+            <div class="mono" style="font-size: 11px; letter-spacing: 0.08em; color: #8B8B84; margin-top: 14px;">UAV NAVIGATION · ROBOT LEARNING · AUTONOMOUS SYSTEMS</div>
+          </div>
+          <div style="grid-column: 8 / span 3; font-size: 15px; line-height: 1.5;">Undergraduate Student Researcher</div>
+          <div class="mono" style="grid-column: 11 / span 2; display: flex; align-items: center; justify-content: flex-end; gap: 8px; font-size: 11px; letter-spacing: 0.1em;">
+            <span style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #FF6A2A;"></span>CURRENT
+          </div>
+        </div>
+        <div class="grid12" style="border-top: 1px solid #D9D7CF; padding: 32px 0; align-items: start;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.06em; color: #8B8B84;">2025.09 — 2026.01</div>
+          <div style="grid-column: 3 / span 5;">
+            <div class="tight" style="font-size: 24px; font-weight: 600; letter-spacing: -0.015em;">Dynamic Robot Control &amp; Design Lab</div>
+            <div style="font-size: 14px; color: #8B8B84; margin-top: 6px;">KAIST</div>
+          </div>
+          <div style="grid-column: 8 / span 3; font-size: 15px; line-height: 1.5;">Undergraduate Student Researcher</div>
+        </div>
+        <div class="grid12" style="border-top: 1px solid #D9D7CF; border-bottom: 1px solid #D9D7CF; padding: 32px 0; align-items: start;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.06em; color: #8B8B84;">2025.06 — 2025.08</div>
+          <div style="grid-column: 3 / span 5;">
+            <div class="tight" style="font-size: 24px; font-weight: 600; letter-spacing: -0.015em;">Welaaa</div>
+          </div>
+          <div style="grid-column: 8 / span 3; font-size: 15px; line-height: 1.5;">Marketing Communication Intern</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 02 / EDUCATION -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">02 / EDUCATION</div>
+      <div style="margin-top: 48px;">
+        <div class="grid12" style="border-top: 1px solid #D9D7CF; padding: 32px 0; align-items: start;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.06em; color: #8B8B84;">2024 — 2028</div>
+          <div style="grid-column: 3 / span 5;">
+            <div class="tight" style="font-size: 24px; font-weight: 600; letter-spacing: -0.015em;">KAIST</div>
+            <div style="font-size: 14px; color: #8B8B84; margin-top: 6px;">Korea Advanced Institute of Science and Technology</div>
+          </div>
+          <div style="grid-column: 8 / span 3; font-size: 15px; line-height: 1.5;">B.S. Mechanical Engineering</div>
+        </div>
+        <div class="grid12" style="border-top: 1px solid #D9D7CF; border-bottom: 1px solid #D9D7CF; padding: 32px 0; align-items: start;">
+          <div class="mono" style="grid-column: 1 / span 2; font-size: 12px; letter-spacing: 0.06em; color: #8B8B84;">2021 — 2024</div>
+          <div style="grid-column: 3 / span 5;">
+            <div class="tight" style="font-size: 24px; font-weight: 600; letter-spacing: -0.015em;">Hansung Science High School</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 03 / CONTACT -->
+  <div style="border-top: 1px solid #D9D7CF;">
+    <div class="wrap" style="padding: 88px 0 104px 0;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.12em;">03 / CONTACT</div>
+      <div class="grid12" style="margin-top: 48px;">
+        <div style="grid-column: 3 / span 8;">
+          <a href="#email" class="tight" style="font-size: 40px; font-weight: 600; letter-spacing: -0.02em;">[YOUR EMAIL]</a>
+          <div class="mono" style="display: flex; gap: 40px; font-size: 12px; letter-spacing: 0.1em; margin-top: 32px;">
+            <a href="#github">GITHUB ↗ — joshualikaist</a>
+            <a href="#linkedin">LINKEDIN ↗</a>
+            <a href="#cv">CV — PDF ↗</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="border-top: 1px solid #161616;">
+    <div class="wrap" style="display: flex; justify-content: space-between; align-items: center; height: 96px;">
+      <div class="mono" style="font-size: 12px; letter-spacing: 0.08em;">MINSEOK LI — ENGINEERING FIELD NOTES · © 2026</div>
+      <div class="mono" style="display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.08em;">
+        <a href="#work" style="color: #161616;">WORK</a>
+        <a href="#research" style="color: #161616;">RESEARCH</a>
+        <a href="#notes" style="color: #161616;">NOTES</a>
+        <span style="color: #8B8B84;">SYSTEM STATUS</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

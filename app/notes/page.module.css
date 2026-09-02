@@ -1,0 +1,22 @@
+.main {
+  padding-top: 48px;
+}
+
+.list {
+  margin-top: 36px;
+  border-top: 1px solid var(--hairline);
+}
+
+.chipMuted {
+  color: var(--muted);
+  align-self: center;
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+  .chipMuted {
+    align-self: flex-start;
+  }
+}

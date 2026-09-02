@@ -1,0 +1,203 @@
+.frame {
+  position: relative;
+  background: var(--panel);
+  border: 1px solid var(--hairline);
+  overflow: hidden;
+}
+
+.svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.aspectHero {
+  aspect-ratio: 520 / 440;
+}
+
+.aspectWide {
+  aspect-ratio: 1280 / 620;
+}
+
+.aspectCover {
+  aspect-ratio: 1280 / 560;
+}
+
+.portrait {
+  aspect-ratio: 3 / 4;
+}
+
+.label,
+.labelBottom {
+  position: absolute;
+  left: 14px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+}
+
+.label {
+  top: 12px;
+}
+
+.labelBottom {
+  bottom: 12px;
+}
+
+.legend {
+  position: absolute;
+  bottom: 12px;
+  left: 14px;
+  display: flex;
+  gap: 18px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.swatchUav,
+.swatchTarget {
+  display: inline-block;
+  width: 8px;
+  height: 2px;
+}
+
+.swatchUav {
+  background: var(--accent);
+}
+
+.swatchTarget {
+  background: var(--signal);
+}
+
+/* Browser mockup */
+.browser {
+  border: 1px solid var(--hairline);
+}
+
+.browserCompact .browserBar {
+  height: 28px;
+  padding: 0 12px;
+}
+
+.browserCompact .browserTitle {
+  font-size: 9px;
+}
+
+.browserCompact .browserBody {
+  padding: 16px 16px 36px 16px;
+}
+
+.browserCompact .wireHero {
+  height: 48px;
+  margin-top: 14px;
+}
+
+.browserCompact .wireCards {
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.browserCompact .wireCard {
+  height: 42px;
+}
+
+.browserCompact .wireLogo {
+  width: 60px;
+  height: 8px;
+}
+
+.browserCompact .wireNav {
+  gap: 8px;
+}
+
+.browserCompact .wireNavItem {
+  width: 24px;
+  height: 6px;
+}
+
+.browserBar {
+  height: 44px;
+  background: var(--panel);
+  border-bottom: 1px solid var(--hairline);
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.browserTitle {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.browserBody {
+  position: relative;
+  background: var(--paper-light);
+  padding: 36px 48px 48px 48px;
+}
+
+.wireHead {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+
+.wireLogo {
+  width: 120px;
+  height: 14px;
+  background: var(--hairline);
+}
+
+.wireNav {
+  display: flex;
+  gap: 16px;
+}
+
+.wireNavItem {
+  width: 56px;
+  height: 10px;
+  background: var(--hairline);
+}
+
+.wireHero {
+  height: 150px;
+  background: var(--panel-deep);
+  margin-top: 32px;
+}
+
+.wireCards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  margin-top: 24px;
+}
+
+.wireCard {
+  height: 170px;
+  background: var(--panel);
+}
+
+@media (max-width: 720px) {
+  .browserBody {
+    padding: 24px 24px 44px 24px;
+  }
+  .wireCards {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .wireCard {
+    height: 80px;
+  }
+}

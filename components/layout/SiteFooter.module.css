@@ -1,0 +1,82 @@
+.bar {
+  border-top: 1px solid var(--hairline);
+  margin-top: 72px;
+  padding-bottom: 40px;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding-top: 28px;
+}
+
+.copyright {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.link {
+  font-size: 13px;
+}
+
+.statusButton {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--hairline);
+  padding: 0 0 2px 0;
+  cursor: pointer;
+}
+
+.statusButton:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+.terminalWrap {
+  margin-top: 20px;
+}
+
+.terminal {
+  background: var(--ink);
+  color: var(--muted);
+  padding: 20px 22px;
+  max-width: 380px;
+}
+
+.terminalTitle {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: #f4f3ef;
+}
+
+.terminalBody {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  line-height: 2;
+  margin: 10px 0 0 0;
+  white-space: pre;
+  overflow-x: auto;
+}
+
+.valSignal {
+  color: var(--signal);
+}
+
+.valLight {
+  color: #f4f3ef;
+}
