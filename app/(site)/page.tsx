@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import DigestLink from "@/components/links/DigestLink";
 import Lightbox from "@/components/media/Lightbox";
 import { ArenaPlaceholder, BrowserPlaceholder } from "@/components/media/Placeholders";
 import ProfilePhoto from "@/components/media/ProfilePhoto";
@@ -90,6 +91,26 @@ export default function HomePage() {
                 </li>
               ))}
             </ul>
+          </section>
+
+          <section className={s.section}>
+            <h2 className={s.sectionTitle}>Study</h2>
+            <div className={styles.studyCard}>
+              <div className={styles.studyBody}>
+                <DigestLink className={styles.studyTitle}>Morning Digest ↗</DigestLink>
+                <p className={s.entryDesc}>
+                  A separate daily feed for trend, tech, and design — fetched each morning at 10:00
+                  KST and frozen as that day&apos;s edition.
+                </p>
+                <div className={s.entryMeta}>
+                  <span>Trend · Tech · Design</span>
+                  <span className={s.statusChip}>
+                    <span className={s.dotSignal} />
+                    DAILY 10:00 KST
+                  </span>
+                </div>
+              </div>
+            </div>
           </section>
 
           <section className={s.section}>

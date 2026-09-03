@@ -32,6 +32,7 @@ export default function SiteFooter() {
             <pre className={styles.terminalBody}>
 {`RESEARCH ....... `}<span className={styles.valSignal}>ACTIVE</span>{`
 MOTAR .......... `}<span className={styles.valSignal}>ONGOING</span>{`
+DIGEST ......... DAILY 10:00 KST
 HARDWARE ....... PENDING
 WEBSITE ........ `}<span className={styles.valLight}>ONLINE</span>{`
 COFFEE ......... LOW`}

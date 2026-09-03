@@ -15,6 +15,7 @@ function getBaseUrl() {
 
 export function GET() {
   const baseUrl = getBaseUrl();
+  const digestUrl = site.digestIsExternal ? site.digest : `${baseUrl}${site.digest}`;
   const contact = [
     `- GitHub: ${site.github}`,
     site.email ? `- Email: mailto:${site.email}` : null,
@@ -48,6 +49,10 @@ export function GET() {
 ## Notes
 
 - [Engineering and research notes](${baseUrl}/notes)
+
+## Study
+
+- [Morning Digest](${digestUrl}): Daily trend, tech, and design snapshot — updated at 10:00 KST.
 
 ## Contact and external profiles
 

@@ -1,0 +1,23 @@
+.main {
+  padding-top: 48px;
+  padding-bottom: 24px;
+}
+
+.pending {
+  margin-top: 28px;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.pending code {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+}

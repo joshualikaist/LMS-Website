@@ -1,0 +1,89 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.kicker {
+  margin: 0 0 10px 0;
+}
+
+.meta {
+  display: flex;
+  gap: 22px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.failures {
+  margin: 10px 0 0 0;
+  font-size: 13.5px;
+  color: var(--muted);
+}
+
+.list {
+  border-top: 1px solid var(--hairline);
+}
+
+.source {
+  width: 190px;
+}
+
+.title {
+  font-weight: 600;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+
+.title:hover {
+  color: var(--accent);
+}
+
+.author {
+  display: block;
+  font-size: 12.5px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.score {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  white-space: nowrap;
+  align-self: center;
+}
+
+.emptyLane {
+  margin: 18px 0 0 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  margin-top: 48px;
+  padding-top: 16px;
+  border-top: 1px solid var(--hairline);
+  font-size: 14.5px;
+}
+
+@media (max-width: 680px) {
+  .source {
+    width: auto;
+  }
+
+  .score {
+    align-self: flex-start;
+  }
+}

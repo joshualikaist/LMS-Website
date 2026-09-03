@@ -1,0 +1,97 @@
+{
+  "sources": [
+    {
+      "id": "hn",
+      "name": "Hacker News",
+      "lane": "trend",
+      "kind": "hn",
+      "limit": 10
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "lane": "trend",
+      "kind": "lobsters",
+      "limit": 8
+    },
+    {
+      "id": "github-python",
+      "name": "GitHub · Python",
+      "lane": "trend",
+      "kind": "github-search",
+      "language": "Python",
+      "limit": 5
+    },
+    {
+      "id": "github-typescript",
+      "name": "GitHub · TypeScript",
+      "lane": "trend",
+      "kind": "github-search",
+      "language": "TypeScript",
+      "limit": 5
+    },
+    {
+      "id": "github-cpp",
+      "name": "GitHub · C++",
+      "lane": "trend",
+      "kind": "github-search",
+      "language": "C++",
+      "limit": 5
+    },
+    {
+      "id": "devto",
+      "name": "Dev.to",
+      "lane": "tech",
+      "kind": "devto",
+      "limit": 8
+    },
+    {
+      "id": "arxiv-cs-ro",
+      "name": "arXiv · cs.RO",
+      "lane": "tech",
+      "kind": "rss",
+      "url": "https://rss.arxiv.org/rss/cs.RO",
+      "limit": 6
+    },
+    {
+      "id": "smashing",
+      "name": "Smashing Magazine",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "limit": 6
+    },
+    {
+      "id": "css-tricks",
+      "name": "CSS-Tricks",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://css-tricks.com/feed/",
+      "limit": 6
+    },
+    {
+      "id": "nngroup",
+      "name": "Nielsen Norman Group",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "limit": 5
+    },
+    {
+      "id": "uxcollective",
+      "name": "UX Collective",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://uxdesign.cc/feed",
+      "limit": 6
+    },
+    {
+      "id": "heydesigner",
+      "name": "Hey Designer",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://heydesigner.com/rss.xml",
+      "limit": 6
+    }
+  ]
+}

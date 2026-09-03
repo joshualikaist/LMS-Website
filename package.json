@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "digest": "node scripts/fetch-digest.mjs"
   },
   "dependencies": {
     "next": "^15.5.0",

@@ -1,7 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import { IBM_Plex_Mono, Inter, Inter_Tight } from "next/font/google";
-import SiteFooter from "@/components/layout/SiteFooter";
-import SiteNav from "@/components/layout/SiteNav";
 import { site } from "@/content/site";
 import "./globals.css";
 
@@ -119,11 +117,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema).replace(/</g, "\\u003c") }}
         />
       </head>
-      <body>
-        <SiteNav />
-        {children}
-        <SiteFooter />
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

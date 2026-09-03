@@ -1,3 +1,5 @@
+const digestUrl = (process.env.NEXT_PUBLIC_DIGEST_URL ?? "/digest").replace(/\/$/, "");
+
 // Single place for identity, links, and values that must be filled in by hand.
 // null means "not configured yet" — pages render an explicit placeholder instead.
 export const site = {
@@ -14,4 +16,6 @@ export const site = {
   googleScholar: null as string | null,
   orcid: null as string | null,
   cvPdf: null as string | null, // e.g. "/cv/minseok-li-cv.pdf" after adding the file under public/cv/
+  digest: digestUrl,
+  digestIsExternal: digestUrl.startsWith("http"),
 };
