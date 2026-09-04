@@ -8,6 +8,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SOURCES_PATH = path.join(ROOT, "content/digest/sources.json");
+const INTERESTS_PATH = path.join(ROOT, "content/digest/interests.json");
 const EDITIONS_DIR = path.join(ROOT, "content/digest/editions");
 const UA = "MinseokLiDigest/1.0 (+https://github.com/joshualikaist)";
 const TIMEOUT_MS = 12_000;
@@ -78,11 +79,35 @@ function item({ source, sourceId, lane, title, url, summary = null, score = null
     title: cleanTitle,
     url: cleanUrl,
     summary,
+    comment: null,
     score: typeof score === "number" && Number.isFinite(score) ? score : null,
     scoreLabel,
     author: author ? String(author) : null,
     publishedAt,
+    interestHits: [],
   };
+}
+
+function haystack(entry) {
+  return `${entry.title} ${entry.summary || ""} ${entry.source}`.toLowerCase();
+}
+
+function annotate(entry, keywords) {
+  const text = haystack(entry);
+  const hits = [];
+  let boost = 0;
+  for (const { term, weight } of keywords) {
+    if (text.includes(term.toLowerCase())) {
+      hits.push(term);
+      boost += weight;
+    }
+  }
+  const comment = hits.length
+    ? `Watch — matches ${hits.slice(0, 3).join(", ")}.`
+    : entry.summary
+      ? clip(entry.summary, 110)
+      : `From ${entry.source}.`;
+  return { ...entry, interestHits: hits, comment, _boost: boost };
 }
 
 function extractTag(block, tag) {
@@ -262,6 +287,8 @@ function dedupe(items) {
 
 function rankByScore(items) {
   return [...items].sort((a, b) => {
+    const boostDiff = (b._boost ?? 0) - (a._boost ?? 0);
+    if (boostDiff !== 0) return boostDiff;
     const scoreDiff = (b.score ?? 0) - (a.score ?? 0);
     if (scoreDiff !== 0) return scoreDiff;
     const aTime = a.publishedAt ? Date.parse(a.publishedAt) : 0;
@@ -270,15 +297,21 @@ function rankByScore(items) {
   });
 }
 
-function trimByLane(items) {
-  const unique = dedupe(items);
+function stripRankFields(entry) {
+  const { _boost, ...rest } = entry;
+  return rest;
+}
+
+function trimByLane(items, keywords) {
+  const unique = dedupe(items).map((entry) => annotate(entry, keywords));
   return LANES.flatMap((lane) =>
-    rankByScore(unique.filter((item) => item.lane === lane)).slice(0, ITEMS_PER_LANE),
+    rankByScore(unique.filter((item) => item.lane === lane)).slice(0, ITEMS_PER_LANE).map(stripRankFields),
   );
 }
 
 async function main() {
   const { sources } = JSON.parse(await readFile(SOURCES_PATH, "utf8"));
+  const { keywords } = JSON.parse(await readFile(INTERESTS_PATH, "utf8"));
   const date = seoulDate();
   const fetchedAt = new Date().toISOString();
   const failures = [];
@@ -302,7 +335,7 @@ async function main() {
     date,
     fetchedAt,
     timezone: "Asia/Seoul",
-    items: trimByLane(collected),
+    items: trimByLane(collected, keywords),
     failures,
   };
 

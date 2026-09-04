@@ -88,7 +88,7 @@ const themeScript = `
 `;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  const sameAs = [site.github, site.linkedin, site.googleScholar, site.orcid].filter(Boolean);
+  const sameAs = [site.github, site.linkedin, site.instagram, site.googleScholar, site.orcid].filter(Boolean);
   const personSchema = {
     "@context": "https://schema.org",
     "@type": "Person",

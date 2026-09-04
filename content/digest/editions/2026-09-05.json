@@ -1,33 +1,24 @@
 {
   "date": "2026-09-05",
-  "fetchedAt": "2026-09-04T17:36:16.086Z",
+  "fetchedAt": "2026-09-04T18:19:48.624Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
-      "id": "hn:neil-fraser-name-news-2026-09-03",
+      "id": "techcrunch:techcrunch-com-2026-09-04-no-little-kids-allowed-and-other-new-info-about-teslas",
       "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "summary": null,
-      "score": 2094,
-      "scoreLabel": "pts",
-      "author": "pavel_lishin",
-      "publishedAt": "2026-09-03T14:54:39.000Z"
-    },
-    {
-      "id": "hn:openai-com-index-gpt-6-astra",
-      "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "summary": null,
-      "score": 2068,
-      "scoreLabel": "pts",
-      "author": "kibae",
-      "publishedAt": "2026-09-03T18:41:05.000Z"
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sean O'Kane",
+      "publishedAt": "2026-09-04T16:51:23.000Z",
+      "interestHits": [
+        "robot"
+      ]
     },
     {
       "id": "hn:collusion-wiki",
@@ -37,36 +28,91 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "summary": null,
-      "score": 924,
+      "comment": "Watch — matches agent.",
+      "score": 1031,
       "scoreLabel": "pts",
       "author": "moultano",
-      "publishedAt": "2026-09-04T11:54:53.000Z"
+      "publishedAt": "2026-09-04T11:54:53.000Z",
+      "interestHits": [
+        "agent"
+      ]
     },
     {
-      "id": "hn:jestoph-com-2026-09-04-jane-street-challenge-html",
+      "id": "techcrunch:techcrunch-com-2026-09-04-another-swarm-of-openai-agents-reached-the-open-intern",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-09-04T16:21:11.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:openai-com-index-gpt-6-astra",
       "lane": "trend",
       "source": "Hacker News",
       "sourceId": "hn",
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
       "summary": null,
-      "score": 292,
+      "comment": "From Hacker News.",
+      "score": 2085,
       "scoreLabel": "pts",
-      "author": "anitil",
-      "publishedAt": "2026-09-04T10:17:01.000Z"
+      "author": "kibae",
+      "publishedAt": "2026-09-03T18:41:05.000Z",
+      "interestHits": []
     },
     {
-      "id": "hn:www-nytimes-com-2026-09-04-technology-open-source-ai-anthropic-openai-html",
+      "id": "lobsters:neil-fraser-name-news-2026-09-03",
       "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
       "summary": null,
-      "score": 118,
+      "comment": "From Lobsters.",
+      "score": 339,
       "scoreLabel": "pts",
-      "author": "aaraujo002",
-      "publishedAt": "2026-09-04T15:33:45.000Z"
+      "author": "fancybone",
+      "publishedAt": "2026-09-03T09:55:14.657-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-04-maria-bartiromo-fox-news-termination-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Longtime host Maria Bartiromo disputes reports of Fox News termination",
+      "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
+      "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
+      "comment": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fir…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-04T17:32:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-04-fall-travel-wealthy-europe-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
+      "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
+      "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
+      "comment": "Wealthy travelers are moving their typical summer getaways to autumn.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-04T17:31:44.000Z",
+      "interestHits": []
     },
     {
       "id": "bbc-business:www-bbc-co-uk-news-articles-cy0zx2pkpx9o-at-medium-rss-amp-at-campaign-rss",
@@ -76,62 +122,42 @@
       "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
       "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&amp;at_campaign=rss",
       "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "comment": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates…",
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-04T17:23:13.000Z"
+      "publishedAt": "2026-09-04T17:23:13.000Z",
+      "interestHits": []
     },
     {
-      "id": "npr-business:www-npr-org-2026-09-04-nx-s1-5955821-pulling-the-snap-lever-why-gen-zers-bet-inv",
+      "id": "cnbc-business:www-cnbc-com-2026-09-04-wbna-commissioner-cathy-engelbert-to-retire-at-the-end-o",
       "lane": "economy",
-      "source": "NPR Business",
-      "sourceId": "npr-business",
-      "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
-      "summary": "Changing SNAP eligibility actually can change consumption habits.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Cooper Katz McKim",
-      "publishedAt": "2026-09-04T15:04:53.000Z"
-    },
-    {
-      "id": "guardian-business:www-theguardian-com-world-2026-sep-04-deadly-black-sea-attacks-threaten-grain-ex",
-      "lane": "economy",
-      "source": "The Guardian · Business",
-      "sourceId": "guardian-business",
-      "title": "Deadly escalation in Black Sea attacks prompts fears of even higher food prices",
-      "url": "https://www.theguardian.com/world/2026/sep/04/deadly-black-sea-attacks-threaten-grain-exports-food-prices-russia-ukraine",
-      "summary": "Russian and Ukrainian strikes in July killed more crew than in whole war to that month, preventing grain exports A summer of hostilities in the Black Sea proved deadly for seafare…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Joanna Partridge",
-      "publishedAt": "2026-09-04T14:35:16.000Z"
-    },
-    {
-      "id": "guardian-business:www-theguardian-com-business-2026-sep-04-populism-serious-challenge-independence",
-      "lane": "economy",
-      "source": "The Guardian · Business",
-      "sourceId": "guardian-business",
-      "title": "Populism poses serious challenge to independent central banks, Bailey says",
-      "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-      "summary": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’ The governor of the Bank of England has said the rise of populi…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Heather Stewart",
-      "publishedAt": "2026-09-04T13:44:00.000Z"
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-c20zgjzz0e4o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "WNBA Commissioner Cathy Engelbert to retire at the end of 2026",
+      "url": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
+      "summary": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.",
+      "comment": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over he…",
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-04T13:05:52.000Z"
+      "publishedAt": "2026-09-04T17:12:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-sep-04-instability-in-global-bond-markets-risi",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising…",
+      "comment": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequ…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Heather Stewart and Patrick Commins",
+      "publishedAt": "2026-09-04T16:49:28.000Z",
+      "interestHits": []
     },
     {
       "id": "heydesigner:heydesigner-com-2026-09-04",
@@ -141,23 +167,66 @@
       "title": "Designing Grok Bot for a world of persistent agents",
       "url": "https://heydesigner.com/2026-09-04/",
       "summary": "Try these 10 skills, DialKit: Tune interfaces in real time, Design system contracts, The four modes of thinking with AI.",
+      "comment": "Watch — matches design system, agent.",
       "score": null,
       "scoreLabel": null,
       "author": "Tamas Sari",
-      "publishedAt": "2026-09-04T06:31:00.000Z"
+      "publishedAt": "2026-09-04T06:31:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
     },
     {
-      "id": "uxcollective:uxdesign-cc-what-minority-report-got-wrong-about-ai-so-far-9048573aa70f-source-r",
+      "id": "nngroup:www-nngroup-com-articles-ai-generated-images-utm-source-rss-amp-utm-medium-feed-",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "comment": "Watch — matches perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Banawa",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "perception"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-users-dont-see-your-design-system-d6abd51c18fc-source-rss-138adf9c44",
       "lane": "design",
       "source": "UX Collective",
       "sourceId": "uxcollective",
-      "title": "What Minority Report got wrong about AI (so far)",
-      "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
-      "summary": null,
+      "title": "Users don’t see your design system",
+      "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+      "summary": "How Gestalt principles power any great design system Continue reading on UX Collective »",
+      "comment": "Watch — matches design system.",
       "score": null,
       "scoreLabel": null,
-      "author": "Patrick Neeman",
-      "publishedAt": "2026-09-03T22:39:12.000Z"
+      "author": "Chris R Becker",
+      "publishedAt": "2026-09-01T11:28:51.000Z",
+      "interestHits": [
+        "design system"
+      ]
     },
     {
       "id": "heydesigner:heydesigner-com-2026-09-03",
@@ -167,101 +236,100 @@
       "title": "Gestalt principles for visual UI design",
       "url": "https://heydesigner.com/2026-09-03/",
       "summary": "Looogos: Logo design inspiration, My view on design engineering, CSS is still awesome, eve: The framework for building agents.",
+      "comment": "Watch — matches agent.",
       "score": null,
       "scoreLabel": null,
       "author": "Tamas Sari",
-      "publishedAt": "2026-09-03T05:22:00.000Z"
+      "publishedAt": "2026-09-03T05:22:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
     },
     {
-      "id": "nngroup:www-nngroup-com-training-nov-asia-au-utm-source-rss-amp-utm-medium-feed-amp-utm-",
-      "lane": "design",
-      "source": "Nielsen Norman Group",
-      "sourceId": "nngroup",
-      "title": "UX Conference November Announced (Nov 16 - Nov 19)",
-      "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "summary": "Take up to 2 in-depth training courses, teaching user experience best practices for successful design. Live online training focused on long-lasting skills for UX professionals. No…",
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-03055",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports",
+      "url": "https://arxiv.org/abs/2609.03055",
+      "summary": "arXiv:2609.03055v1 Announce Type: new Abstract: Domestic robots rely on rich perception to operate in private homes, but privacy risk persists even when raw sensor data remain loc…",
+      "comment": "Watch — matches robot, perception.",
       "score": null,
       "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-03T04:50:49.000Z"
+      "author": "Yuqiao Xu, Erman Ayday",
+      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
     },
     {
-      "id": "uxcollective:uxdesign-cc-when-the-canvas-starts-acting-whos-really-in-control-0128f641223c-so",
-      "lane": "design",
-      "source": "UX Collective",
-      "sourceId": "uxcollective",
-      "title": "When the canvas starts acting, who’s really in control?",
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
-      "summary": null,
+      "id": "devto:dev-to-devengers-dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-a",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Dev Opportunity Radar #15: HackerRank Orchestrate, Claude Campus Ambassadors & the Bharat Builds Tour",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-ambassadors-the-bharat-builds-3oc",
+      "summary": "TL;DR Welcome back to Dev Opportunity Radar. This is a weekly series where I share opportunities,...",
+      "comment": "Watch — matches ppo.",
+      "score": 10,
+      "scoreLabel": "rxn",
+      "author": "Hemapriya Kanagala",
+      "publishedAt": "2026-09-04T17:37:52Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-03402",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "url": "https://arxiv.org/abs/2609.03402",
+      "summary": "arXiv:2609.03402v1 Announce Type: new Abstract: Artificial intelligence (AI) teaching assistants powered by large language models (LLMs) offer scalable educational support but oft…",
+      "comment": "Watch — matches ppo.",
       "score": null,
       "scoreLabel": null,
-      "author": "Aurélie Radom",
-      "publishedAt": "2026-09-02T22:13:30.000Z"
+      "author": "Saptarshi Basu, Sandeep Kakar, Ashok Goel",
+      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
     },
     {
-      "id": "github-python:github-com-anthropics-commerce-agents",
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-03225",
       "lane": "tech",
-      "source": "GitHub · Python",
-      "sourceId": "github-python",
-      "title": "anthropics/commerce-agents",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "score": 1877,
-      "scoreLabel": "stars",
-      "author": "anthropics",
-      "publishedAt": "2026-09-01T12:30:12Z"
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
+      "url": "https://arxiv.org/abs/2609.03225",
+      "summary": "arXiv:2609.03225v1 Announce Type: new Abstract: End-to-end autonomous driving has increasingly adopted world model-based reinforcement learning frameworks to improve learning effi…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yuxuan Han, Kunyuan Wu, Liyunong Yang, Zilu Wang, Cansen Jiang, Yi Xiao, Liang Hu",
+      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
     },
     {
-      "id": "github-typescript:github-com-lnkiai-m3e-canvas",
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-02987",
       "lane": "tech",
-      "source": "GitHub · TypeScript",
-      "sourceId": "github-typescript",
-      "title": "lnkiai/m3e-canvas",
-      "url": "https://github.com/lnkiai/m3e-canvas",
-      "summary": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-      "score": 1320,
-      "scoreLabel": "stars",
-      "author": "lnkiai",
-      "publishedAt": "2026-09-02T04:36:34Z"
-    },
-    {
-      "id": "github-typescript:github-com-shadcn-ui-cn",
-      "lane": "tech",
-      "source": "GitHub · TypeScript",
-      "sourceId": "github-typescript",
-      "title": "shadcn-ui/cn",
-      "url": "https://github.com/shadcn-ui/cn",
-      "summary": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-      "score": 1068,
-      "scoreLabel": "stars",
-      "author": "shadcn-ui",
-      "publishedAt": "2026-08-31T07:04:03Z"
-    },
-    {
-      "id": "github-python:github-com-gangtailorupgrade-undress-service",
-      "lane": "tech",
-      "source": "GitHub · Python",
-      "sourceId": "github-python",
-      "title": "GangTailorUpgrade/undress-service",
-      "url": "https://github.com/GangTailorUpgrade/undress-service",
-      "summary": "Dress AI Sponsor",
-      "score": 1041,
-      "scoreLabel": "stars",
-      "author": "GangTailorUpgrade",
-      "publishedAt": "2026-08-31T00:12:45Z"
-    },
-    {
-      "id": "github-python:github-com-2akouwu-reverify",
-      "lane": "tech",
-      "source": "GitHub · Python",
-      "sourceId": "github-python",
-      "title": "2akouwu/reverify",
-      "url": "https://github.com/2akouwu/reverify",
-      "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes,…",
-      "score": 865,
-      "scoreLabel": "stars",
-      "author": "2akouwu",
-      "publishedAt": "2026-08-31T01:02:18Z"
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Tail-Likelihood Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.02987",
+      "summary": "arXiv:2609.02987v1 Announce Type: new Abstract: Reinforcement learning typically optimizes average reward. For generative policies, the average can hide an important distinction:…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Shrinivas Ramasubramanian, Daman Arora, Fahim Tajwar, Guanning Zeng, Qingyang Wu, Zhongzhu Zhou, Chenfeng Xu, Haiwen Feng, Yuda Song, Aarti Singh, Ruslan Salakhutdinov, J. Andrew Bagnell, Jeff Schneider, Andrea Zanette",
+      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
     }
   ],
   "failures": []

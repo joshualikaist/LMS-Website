@@ -1,0 +1,19 @@
+.article {
+  margin-top: 32px;
+}
+
+.article p {
+  font-size: 16.5px;
+  line-height: 1.75;
+  margin: 0 0 18px 0;
+}
+
+.back {
+  display: flex;
+  gap: 22px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid var(--hairline);
+  font-size: 14.5px;
+}

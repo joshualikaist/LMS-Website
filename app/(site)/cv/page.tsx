@@ -31,6 +31,16 @@ export default function CvPage() {
           GitHub — {site.githubHandle}
         </a>
         {site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <span>[YOUR EMAIL]</span>}
+        {site.linkedin ? (
+          <a href={site.linkedin} target="_blank" rel="noreferrer">
+            LinkedIn
+          </a>
+        ) : null}
+        {site.instagram ? (
+          <a href={site.instagram} target="_blank" rel="noreferrer">
+            Instagram
+          </a>
+        ) : null}
       </div>
 
       <section className={s.section}>

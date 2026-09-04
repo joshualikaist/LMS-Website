@@ -1,8 +1,8 @@
 # LMS Website
 
-Personal academic portfolio for Minseok Li, focused on robotics, autonomous systems, and learning-based UAV navigation at KAIST.
+Personal academic portfolio for Minseok Li — robotics, autonomous systems, and learning-based UAV navigation at KAIST.
 
-Includes a separate **Morning Digest** feed at `/digest` — trend, tech, and design, fetched daily at 10:00 KST.
+**Trend** (`/trend`) is a separate daily board: trend, economy, design, and tech. Fetched at 10:00 KST.
 
 ## Development
 
@@ -11,42 +11,47 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000` in a browser. Set `NEXT_PUBLIC_SITE_URL` from `.env.example` when deploying to a custom domain.
+Open `http://localhost:3000`. Set `NEXT_PUBLIC_SITE_URL` from `.env.example` on a custom domain.
 
-## Morning Digest
+## Trend
 
-The digest is a separate section of the site (own nav and layout), linked from the homepage **Study** block.
-
-### Fetch an edition locally
+Linked from the homepage **Study** block and the nav.
 
 ```bash
 npm run digest
 ```
 
-This writes `content/digest/editions/YYYY-MM-DD.json` using the sources in `content/digest/sources.json`.
+Writes `content/digest/editions/YYYY-MM-DD.json` from `content/digest/sources.json`. Keyword boosts live in `content/digest/interests.json`.
 
-### View it
+- Latest: `http://localhost:3000/trend`
+- Archive: `http://localhost:3000/trend/YYYY-MM-DD`
+- Legacy `/digest` redirects to `/trend`
 
-- Latest edition: `http://localhost:3000/digest`
-- Archive: `http://localhost:3000/digest/YYYY-MM-DD`
+GitHub Action `.github/workflows/daily-digest.yml` runs daily at **10:00 KST**. If Vercel is not connected to GitHub, also run `npx vercel deploy --prod`.
 
-### Automatic daily updates
+Optional later: `NEXT_PUBLIC_DIGEST_URL=https://digest.example.com`
 
-After you push to GitHub, the workflow in `.github/workflows/daily-digest.yml` runs every day at **10:00 KST** (01:00 UTC):
+## Notes
 
-1. Fetches all configured sources
-2. Saves the day's JSON edition
-3. Commits and pushes
-4. Triggers a Vercel redeploy
+Published field notes under `/notes`. Bodies live in `content/notes.ts`.
 
-You can also run it manually from **Actions → Daily digest → Run workflow**.
+## Still by hand
 
-### Optional: separate subdomain later
+These need files or account URLs before they can go live:
 
-To host Digest on its own URL later (e.g. `https://digest.example.com`), set:
+- Profile photo (upload on the homepage in local/dev, or add under `public/`)
+- CV PDF → `public/cv/` then set `cvPdf` in `content/site.ts`
+- Google Scholar and ORCID URLs in `content/site.ts`
+
+## Cursor skills
+
+Project skills in `.cursor/skills/`:
+
+- `morning-trend` — refresh and curate `/trend`
+- `news-aggregator` — wider news scan; optional community packs
+- `academic-research` — MOTAR-scoped literature loop; optional [academic-research-skills](https://github.com/Imbad0202/academic-research-skills)
 
 ```bash
-NEXT_PUBLIC_DIGEST_URL=https://digest.example.com
+npx skills add Imbad0202/academic-research-skills --agent cursor
+npx @stevegogogo/news-aggregator-skill install --target cursor
 ```
-
-The portfolio homepage will then link out to that URL instead of `/digest`.

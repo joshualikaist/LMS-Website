@@ -56,6 +56,11 @@ export default function HomePage() {
             ) : (
               <span className={s.pending}>LinkedIn — [add]</span>
             )}
+            {site.instagram ? (
+              <a href={site.instagram} target="_blank" rel="noreferrer">
+                Instagram
+              </a>
+            ) : null}
             <Link href="/cv">CV</Link>
             <DigestLink className={styles.sidebarDigest}>Trend</DigestLink>
           </div>
@@ -105,7 +110,7 @@ export default function HomePage() {
                 <DigestLink className={styles.studyTitle}>Trend ↗</DigestLink>
                 <p className={s.entryDesc}>
                   A separate daily board for trend, economy, design, and tech — five links per lane,
-                  fetched each morning at 10:00 KST.
+                  with a one-line note when a story matches UAV, robot learning, or the web work.
                 </p>
                 <div className={s.entryMeta}>
                   <span>Trend · Economy · Design · Tech</span>

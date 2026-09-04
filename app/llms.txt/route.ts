@@ -20,6 +20,7 @@ export function GET() {
     `- GitHub: ${site.github}`,
     site.email ? `- Email: mailto:${site.email}` : null,
     site.linkedin ? `- LinkedIn: ${site.linkedin}` : null,
+    site.instagram ? `- Instagram: ${site.instagram}` : null,
     site.googleScholar ? `- Google Scholar: ${site.googleScholar}` : null,
     site.orcid ? `- ORCID: ${site.orcid}` : null,
   ]
@@ -49,6 +50,9 @@ export function GET() {
 ## Notes
 
 - [Engineering and research notes](${baseUrl}/notes)
+- [Failure modes in sensor-only UAV navigation](${baseUrl}/notes/sensor-only-failure-modes)
+- [Understanding PPO through UAV navigation](${baseUrl}/notes/ppo-through-uav-navigation)
+- [Isaac Gym, Isaac Sim, and what actually changes](${baseUrl}/notes/isaac-gym-and-isaac-sim)
 
 ## Study
 

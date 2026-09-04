@@ -89,6 +89,14 @@
   text-decoration: none;
 }
 
+.newsComment {
+  display: block;
+  margin-top: 5px;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: var(--muted);
+}
+
 .newsSource {
   display: block;
   margin-top: 4px;

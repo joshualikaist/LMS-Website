@@ -1,0 +1,21 @@
+{
+  "keywords": [
+    { "term": "uav", "weight": 80 },
+    { "term": "drone", "weight": 70 },
+    { "term": "quadrot", "weight": 70 },
+    { "term": "robot", "weight": 50 },
+    { "term": "reinforcement", "weight": 60 },
+    { "term": "ppo", "weight": 70 },
+    { "term": "isaac", "weight": 60 },
+    { "term": "navigation", "weight": 40 },
+    { "term": "perception", "weight": 40 },
+    { "term": "lidar", "weight": 45 },
+    { "term": "sim-to-real", "weight": 70 },
+    { "term": "sim2real", "weight": 70 },
+    { "term": "embodied", "weight": 50 },
+    { "term": "next.js", "weight": 35 },
+    { "term": "nextjs", "weight": 35 },
+    { "term": "design system", "weight": 30 },
+    { "term": "agent", "weight": 25 }
+  ]
+}

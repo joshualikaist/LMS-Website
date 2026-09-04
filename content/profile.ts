@@ -1,6 +1,10 @@
 // Homepage content that changes over time. Add new items to the top of `news`.
 export const news = [
   {
+    date: "2026.09",
+    text: "Opened Trend — a daily morning board for trend, economy, design, and tech.",
+  },
+  {
     date: "2026",
     text: "Started MOTAR — research on sensor-only UAV interception of moving targets in cluttered environments.",
   },

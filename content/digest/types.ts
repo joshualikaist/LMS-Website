@@ -8,10 +8,12 @@ export type DigestItem = {
   title: string;
   url: string;
   summary: string | null;
+  comment: string | null;
   score: number | null;
   scoreLabel: string | null;
   author: string | null;
   publishedAt: string | null;
+  interestHits: string[];
 };
 
 export type DigestFailure = {

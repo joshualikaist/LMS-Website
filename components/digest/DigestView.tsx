@@ -33,6 +33,7 @@ function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) 
                 <a href={item.url} target="_blank" rel="noreferrer" className={styles.newsLink}>
                   {item.title}
                 </a>
+                {item.comment ? <span className={styles.newsComment}>{item.comment}</span> : null}
                 <span className={styles.newsSource}>{item.source}</span>
               </div>
             </li>
@@ -73,8 +74,8 @@ export default function DigestView({
         </span>
       </div>
       <p className={s.lead}>
-        Four lanes — trend, economy, design, and tech — five links each. Fetched each morning and
-        frozen as that day&apos;s edition.
+        Four lanes — trend, economy, design, and tech — five links each. Items that match UAV,
+        robot learning, or design-system work float up and get a one-line note.
       </p>
       <div className={styles.meta}>
         <span>{displayDate(edition.date)}</span>

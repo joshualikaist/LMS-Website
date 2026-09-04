@@ -8,11 +8,12 @@ export const site = {
   location: "KAIST — DAEJEON, KR",
   description:
     "Personal research archive and engineering portfolio — robotics, autonomous systems, and learning-based UAV navigation at KAIST.",
-  email: null as string | null, // e.g. "you@example.com"
+  email: "joshualiuniv@gmail.com",
   github: "https://github.com/joshualikaist",
   githubHandle: "joshualikaist",
   motarRepo: "https://github.com/joshualikaist/MOTAR",
-  linkedin: null as string | null,
+  linkedin: "https://www.linkedin.com/in/minseok-li-533b85420",
+  instagram: "https://www.instagram.com/joshualisky",
   googleScholar: null as string | null,
   orcid: null as string | null,
   cvPdf: null as string | null, // e.g. "/cv/minseok-li-cv.pdf" after adding the file under public/cv/
