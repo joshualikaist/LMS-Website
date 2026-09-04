@@ -13,7 +13,7 @@
 /* Left column stays put; the right column scrolls past it. */
 .sidebar {
   position: sticky;
-  top: 40px;
+  top: calc(var(--nav-height) + 24px);
   width: 250px;
   flex: none;
 }

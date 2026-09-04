@@ -16,6 +16,7 @@
   --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-display: var(--font-tight), var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-mono: var(--font-plex), ui-monospace, Consolas, monospace;
+  --nav-height: 60px;
 }
 
 :root[data-theme="dark"] {

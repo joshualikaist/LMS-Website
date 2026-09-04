@@ -1,5 +1,10 @@
 .bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  height: var(--nav-height);
   border-bottom: 1px solid var(--hairline);
+  background: var(--bg);
 }
 
 .inner {
@@ -7,7 +12,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  height: 60px;
+  height: var(--nav-height);
 }
 
 .brand {
