@@ -7,17 +7,17 @@ import styles from "./DigestNav.module.css";
 
 export default function DigestNav() {
   const pathname = usePathname();
-  const onArchive = pathname.startsWith("/digest/");
+  const onArchive = pathname.startsWith("/trend/");
 
   return (
     <header className={`${styles.bar} no-print`}>
       <div className={`page ${styles.inner}`}>
-        <Link href="/digest" className={styles.brand}>
-          Morning Digest
+        <Link href="/trend" className={styles.brand}>
+          Trend
         </Link>
         <div className={styles.controls}>
-          <nav className={styles.links} aria-label="Digest navigation">
-            <Link href="/digest" className={pathname === "/digest" ? styles.active : styles.link}>
+          <nav className={styles.links} aria-label="Trend navigation">
+            <Link href="/trend" className={pathname === "/trend" ? styles.active : styles.link}>
               Today
             </Link>
             {onArchive ? <span className={styles.active}>Archive</span> : null}

@@ -1,4 +1,4 @@
-const digestUrl = (process.env.NEXT_PUBLIC_DIGEST_URL ?? "/digest").replace(/\/$/, "");
+const digestUrl = (process.env.NEXT_PUBLIC_DIGEST_URL ?? "/trend").replace(/\/$/, "");
 
 // Single place for identity, links, and values that must be filled in by hand.
 // null means "not configured yet" — pages render an explicit placeholder instead.

@@ -17,7 +17,7 @@ export default function SiteNav() {
   const pathname = usePathname();
   const digestActive =
     !site.digestIsExternal &&
-    (pathname === site.digest || pathname.startsWith(`${site.digest}/`));
+    (pathname === site.digest || pathname.startsWith(`${site.digest}/`) || pathname.startsWith("/digest"));
 
   return (
     <header className={`${styles.bar} no-print`}>
@@ -36,7 +36,7 @@ export default function SiteNav() {
                 </Link>
               );
             })}
-            <DigestLink className={digestActive ? styles.active : styles.link}>Digest</DigestLink>
+            <DigestLink className={digestActive ? styles.active : styles.link}>Trend</DigestLink>
             <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
               GitHub ↗
             </a>

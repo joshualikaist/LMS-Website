@@ -11,6 +11,8 @@ const SOURCES_PATH = path.join(ROOT, "content/digest/sources.json");
 const EDITIONS_DIR = path.join(ROOT, "content/digest/editions");
 const UA = "MinseokLiDigest/1.0 (+https://github.com/joshualikaist)";
 const TIMEOUT_MS = 12_000;
+const ITEMS_PER_LANE = 5;
+const LANES = ["trend", "economy", "design", "tech"];
 
 const seoulDate = (value = new Date()) =>
   new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Seoul" }).format(value);
@@ -258,6 +260,23 @@ function dedupe(items) {
   });
 }
 
+function rankByScore(items) {
+  return [...items].sort((a, b) => {
+    const scoreDiff = (b.score ?? 0) - (a.score ?? 0);
+    if (scoreDiff !== 0) return scoreDiff;
+    const aTime = a.publishedAt ? Date.parse(a.publishedAt) : 0;
+    const bTime = b.publishedAt ? Date.parse(b.publishedAt) : 0;
+    return bTime - aTime;
+  });
+}
+
+function trimByLane(items) {
+  const unique = dedupe(items);
+  return LANES.flatMap((lane) =>
+    rankByScore(unique.filter((item) => item.lane === lane)).slice(0, ITEMS_PER_LANE),
+  );
+}
+
 async function main() {
   const { sources } = JSON.parse(await readFile(SOURCES_PATH, "utf8"));
   const date = seoulDate();
@@ -283,7 +302,7 @@ async function main() {
     date,
     fetchedAt,
     timezone: "Asia/Seoul",
-    items: dedupe(collected),
+    items: trimByLane(collected),
     failures,
   };
 

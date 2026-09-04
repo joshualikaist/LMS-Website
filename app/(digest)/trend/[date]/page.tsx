@@ -13,14 +13,14 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<Params> }): Promise<Metadata> {
   const { date } = await params;
   const edition = getEdition(date);
-  if (!edition) return { title: "Digest" };
+  if (!edition) return { title: "Trend" };
   return {
-    title: `Digest · ${date.replaceAll("-", ".")}`,
-    description: `Morning digest for ${date.replaceAll("-", ".")} — trend, tech, and design.`,
+    title: `Trend · ${date.replaceAll("-", ".")}`,
+    description: `Morning trend edition for ${date.replaceAll("-", ".")}.`,
   };
 }
 
-export default async function DigestDatePage({ params }: { params: Promise<Params> }) {
+export default async function TrendDatePage({ params }: { params: Promise<Params> }) {
   const { date } = await params;
   const edition = getEdition(date);
   if (!edition) notFound();

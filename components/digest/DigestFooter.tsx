@@ -6,7 +6,7 @@ export default function DigestFooter() {
     <footer className={`${styles.bar} no-print`}>
       <div className={`page ${styles.inner}`}>
         <div className={styles.copy}>
-          <span>Morning Digest</span>
+          <span>Trend</span>
           <span className={styles.dot}>·</span>
           <span>Updated daily at 10:00 KST</span>
         </div>

@@ -57,7 +57,7 @@ export default function HomePage() {
               <span className={s.pending}>LinkedIn — [add]</span>
             )}
             <Link href="/cv">CV</Link>
-            <DigestLink className={styles.sidebarDigest}>Morning Digest</DigestLink>
+            <DigestLink className={styles.sidebarDigest}>Trend</DigestLink>
           </div>
         </aside>
 
@@ -102,20 +102,20 @@ export default function HomePage() {
             <h2 className={s.sectionTitle}>Study</h2>
             <div className={styles.studyCard}>
               <div className={styles.studyBody}>
-                <DigestLink className={styles.studyTitle}>Morning Digest ↗</DigestLink>
+                <DigestLink className={styles.studyTitle}>Trend ↗</DigestLink>
                 <p className={s.entryDesc}>
-                  A separate daily feed for trend, tech, and design — fetched each morning at 10:00
-                  KST and frozen as that day&apos;s edition.
+                  A separate daily board for trend, economy, design, and tech — five links per lane,
+                  fetched each morning at 10:00 KST.
                 </p>
                 <div className={s.entryMeta}>
-                  <span>Trend · Tech · Design</span>
+                  <span>Trend · Economy · Design · Tech</span>
                   <span className={s.statusChip}>
                     <span className={s.dotSignal} />
                     DAILY 10:00 KST
                   </span>
                 </div>
                 <DigestLink className={styles.studyButton}>
-                  {editionLabel ? `Open ${editionLabel} edition →` : "Open Morning Digest →"}
+                  {editionLabel ? `Open ${editionLabel} edition →` : "Open Trend →"}
                 </DigestLink>
               </div>
             </div>

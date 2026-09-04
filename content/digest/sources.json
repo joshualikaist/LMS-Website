@@ -5,7 +5,7 @@
       "name": "Hacker News",
       "lane": "trend",
       "kind": "hn",
-      "limit": 10
+      "limit": 8
     },
     {
       "id": "lobsters",
@@ -15,28 +15,68 @@
       "limit": 8
     },
     {
-      "id": "github-python",
-      "name": "GitHub · Python",
-      "lane": "trend",
-      "kind": "github-search",
-      "language": "Python",
-      "limit": 5
+      "id": "bbc-business",
+      "name": "BBC Business",
+      "lane": "economy",
+      "kind": "rss",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "limit": 8
     },
     {
-      "id": "github-typescript",
-      "name": "GitHub · TypeScript",
-      "lane": "trend",
-      "kind": "github-search",
-      "language": "TypeScript",
-      "limit": 5
+      "id": "npr-business",
+      "name": "NPR Business",
+      "lane": "economy",
+      "kind": "rss",
+      "url": "https://feeds.npr.org/1006/rss.xml",
+      "limit": 8
     },
     {
-      "id": "github-cpp",
-      "name": "GitHub · C++",
-      "lane": "trend",
-      "kind": "github-search",
-      "language": "C++",
-      "limit": 5
+      "id": "guardian-business",
+      "name": "The Guardian · Business",
+      "lane": "economy",
+      "kind": "rss",
+      "url": "https://www.theguardian.com/business/rss",
+      "limit": 8
+    },
+    {
+      "id": "smashing",
+      "name": "Smashing Magazine",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://www.smashingmagazine.com/feed/",
+      "limit": 8
+    },
+    {
+      "id": "css-tricks",
+      "name": "CSS-Tricks",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://css-tricks.com/feed/",
+      "limit": 8
+    },
+    {
+      "id": "nngroup",
+      "name": "Nielsen Norman Group",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "limit": 8
+    },
+    {
+      "id": "uxcollective",
+      "name": "UX Collective",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://uxdesign.cc/feed",
+      "limit": 8
+    },
+    {
+      "id": "heydesigner",
+      "name": "Hey Designer",
+      "lane": "design",
+      "kind": "rss",
+      "url": "https://heydesigner.com/rss.xml",
+      "limit": 8
     },
     {
       "id": "devto",
@@ -51,47 +91,23 @@
       "lane": "tech",
       "kind": "rss",
       "url": "https://rss.arxiv.org/rss/cs.RO",
-      "limit": 6
+      "limit": 8
     },
     {
-      "id": "smashing",
-      "name": "Smashing Magazine",
-      "lane": "design",
-      "kind": "rss",
-      "url": "https://www.smashingmagazine.com/feed/",
-      "limit": 6
+      "id": "github-typescript",
+      "name": "GitHub · TypeScript",
+      "lane": "tech",
+      "kind": "github-search",
+      "language": "TypeScript",
+      "limit": 8
     },
     {
-      "id": "css-tricks",
-      "name": "CSS-Tricks",
-      "lane": "design",
-      "kind": "rss",
-      "url": "https://css-tricks.com/feed/",
-      "limit": 6
-    },
-    {
-      "id": "nngroup",
-      "name": "Nielsen Norman Group",
-      "lane": "design",
-      "kind": "rss",
-      "url": "https://www.nngroup.com/feed/rss/",
-      "limit": 5
-    },
-    {
-      "id": "uxcollective",
-      "name": "UX Collective",
-      "lane": "design",
-      "kind": "rss",
-      "url": "https://uxdesign.cc/feed",
-      "limit": 6
-    },
-    {
-      "id": "heydesigner",
-      "name": "Hey Designer",
-      "lane": "design",
-      "kind": "rss",
-      "url": "https://heydesigner.com/rss.xml",
-      "limit": 6
+      "id": "github-python",
+      "name": "GitHub · Python",
+      "lane": "tech",
+      "kind": "github-search",
+      "language": "Python",
+      "limit": 8
     }
   ]
 }

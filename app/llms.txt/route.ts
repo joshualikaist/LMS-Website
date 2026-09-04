@@ -52,7 +52,7 @@ export function GET() {
 
 ## Study
 
-- [Morning Digest](${digestUrl}): Daily trend, tech, and design snapshot — updated at 10:00 KST.
+- [Trend](${digestUrl}): Daily trend, economy, design, and tech — five links per lane, updated at 10:00 KST.
 
 ## Contact and external profiles
 

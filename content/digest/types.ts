@@ -1,4 +1,4 @@
-export type DigestLane = "trend" | "tech" | "design";
+export type DigestLane = "trend" | "economy" | "design" | "tech";
 
 export type DigestItem = {
   id: string;
@@ -27,10 +27,13 @@ export type DigestEdition = {
   failures: DigestFailure[];
 };
 
-export const LANE_ORDER: DigestLane[] = ["trend", "tech", "design"];
+export const ITEMS_PER_LANE = 5;
+
+export const LANE_ORDER: DigestLane[] = ["trend", "economy", "design", "tech"];
 
 export const LANE_LABEL: Record<DigestLane, string> = {
   trend: "Trend",
-  tech: "Tech",
+  economy: "Economy",
   design: "Design",
+  tech: "Tech",
 };

@@ -4,11 +4,11 @@ import DigestNav from "@/components/digest/DigestNav";
 
 export const metadata: Metadata = {
   title: {
-    default: "Morning Digest",
-    template: "%s — Morning Digest",
+    default: "Trend",
+    template: "%s — Trend",
   },
-  description: "Daily morning snapshot of trend, tech, and design — frozen at 10:00 KST.",
-  applicationName: "Morning Digest",
+  description: "Daily morning snapshot — trend, economy, design, and tech. Updated at 10:00 KST.",
+  applicationName: "Trend",
 };
 
 export default function DigestLayout({ children }: { children: React.ReactNode }) {
