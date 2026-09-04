@@ -4,12 +4,16 @@ import DigestLink from "@/components/links/DigestLink";
 import Lightbox from "@/components/media/Lightbox";
 import { ArenaPlaceholder, BrowserPlaceholder } from "@/components/media/Placeholders";
 import ProfilePhoto from "@/components/media/ProfilePhoto";
+import { getLatestEdition } from "@/content/digest/load";
 import { interests, news } from "@/content/profile";
 import { site } from "@/content/site";
 import s from "@/styles/shared.module.css";
 import styles from "./page.module.css";
 
 export default function HomePage() {
+  const latest = getLatestEdition();
+  const editionLabel = latest?.date.replaceAll("-", ".") ?? null;
+
   return (
     <main className={styles.main}>
       <div className={styles.layout}>
@@ -53,6 +57,7 @@ export default function HomePage() {
               <span className={s.pending}>LinkedIn — [add]</span>
             )}
             <Link href="/cv">CV</Link>
+            <DigestLink className={styles.sidebarDigest}>Morning Digest</DigestLink>
           </div>
         </aside>
 
@@ -109,6 +114,9 @@ export default function HomePage() {
                     DAILY 10:00 KST
                   </span>
                 </div>
+                <DigestLink className={styles.studyButton}>
+                  {editionLabel ? `Open ${editionLabel} edition →` : "Open Morning Digest →"}
+                </DigestLink>
               </div>
             </div>
           </section>

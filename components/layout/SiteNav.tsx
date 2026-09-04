@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import DigestLink from "@/components/links/DigestLink";
 import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
 import styles from "./SiteNav.module.css";
@@ -14,6 +15,9 @@ const LINKS = [
 
 export default function SiteNav() {
   const pathname = usePathname();
+  const digestActive =
+    !site.digestIsExternal &&
+    (pathname === site.digest || pathname.startsWith(`${site.digest}/`));
 
   return (
     <header className={`${styles.bar} no-print`}>
@@ -32,6 +36,7 @@ export default function SiteNav() {
                 </Link>
               );
             })}
+            <DigestLink className={digestActive ? styles.active : styles.link}>Digest</DigestLink>
             <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
               GitHub ↗
             </a>
