@@ -119,8 +119,8 @@ export default function HomePage() {
                     DAILY 10:00 KST
                   </span>
                 </div>
-                <DigestLink className={styles.studyButton}>
-                  {editionLabel ? `Open ${editionLabel} edition →` : "Open Trend →"}
+                <DigestLink className={styles.studyLink}>
+                  {editionLabel ? `[Open ${editionLabel} edition →]` : "[Open Trend →]"}
                 </DigestLink>
               </div>
             </div>

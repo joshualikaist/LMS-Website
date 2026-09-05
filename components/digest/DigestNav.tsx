@@ -11,7 +11,7 @@ export default function DigestNav() {
 
   return (
     <header className={`${styles.bar} no-print`}>
-      <div className={`page ${styles.inner}`}>
+      <div className={`pageWide ${styles.inner}`}>
         <Link href="/trend" className={styles.brand}>
           Trend
         </Link>

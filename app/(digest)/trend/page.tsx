@@ -14,7 +14,7 @@ export default function TrendPage() {
   const dates = listEditionDates();
 
   return (
-    <main className={`page ${styles.main}`}>
+    <main className={`pageWide ${styles.main}`}>
       {edition ? (
         <DigestView edition={edition} dates={dates} latest />
       ) : (

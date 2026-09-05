@@ -24,7 +24,7 @@
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 20px;
+  gap: 28px 32px;
   margin-top: 36px;
   border-top: 1px solid var(--hairline);
   padding-top: 28px;
@@ -75,10 +75,13 @@
 }
 
 .newsLink {
-  display: block;
-  font-size: 14px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+  font-size: 14.5px;
   font-weight: 600;
-  line-height: 1.45;
+  line-height: 1.4;
   letter-spacing: -0.01em;
   color: var(--ink);
   text-decoration: none;
@@ -93,8 +96,11 @@
   display: block;
   margin-top: 5px;
   font-size: 12.5px;
-  line-height: 1.45;
+  line-height: 1.4;
   color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .newsSource {
@@ -131,15 +137,16 @@
   border-top: 1px solid var(--hairline);
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1099px) {
   .grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 36px 40px;
   }
 }
 
-@media (max-width: 560px) {
+@media (max-width: 639px) {
   .grid {
     grid-template-columns: minmax(0, 1fr);
-    gap: 28px;
+    gap: 32px;
   }
 }
