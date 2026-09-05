@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArenaPlaceholder } from "@/components/media/Placeholders";
 import { site } from "@/content/site";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
@@ -110,7 +111,9 @@ export default function MotarPage() {
           <span className={styles.deepDiveText}>
             Full system architecture, observation design, and rates &amp; spec.
           </span>
-          <Link href="/research/motar">Technical Notes →</Link>
+          <Link href="/research/motar" className={raised.btn}>
+            Technical Notes →
+          </Link>
         </div>
       </section>
 
@@ -159,7 +162,7 @@ export default function MotarPage() {
             </b>
             <span className={s.mono11m}>PUBLIC · research/navrl-env</span>
           </span>
-          <a href={site.motarRepo} target="_blank" rel="noreferrer">
+          <a href={site.motarRepo} target="_blank" rel="noreferrer" className={raised.btn}>
             Repository ↗
           </a>
         </div>

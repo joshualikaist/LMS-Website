@@ -91,14 +91,6 @@
   background: linear-gradient(#b8d432, #a6ce39);
 }
 
-.cv {
-  background: linear-gradient(#3a3a36, #1a1a1a);
-}
-
-.trend {
-  background: linear-gradient(#4d7cff, #1557ff);
-}
-
 @media (max-width: 900px) {
   .dock {
     margin-top: 16px;

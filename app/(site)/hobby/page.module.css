@@ -1,0 +1,31 @@
+.main {
+  padding-top: 48px;
+}
+
+.list {
+  margin-top: 36px;
+}
+
+.open {
+  margin-top: 22px;
+}
+
+.copy {
+  font-size: 16px;
+  line-height: 1.65;
+  margin: 16px 0 0 0;
+}
+
+.title {
+  margin-top: 16px;
+}
+
+.meta {
+  margin-top: 16px;
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+}

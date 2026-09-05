@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { site } from "@/content/site";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
@@ -14,7 +15,7 @@ export default function CvPage() {
       <div className={styles.head}>
         <h1 className={s.h1}>Minseok Li</h1>
         {site.cvPdf ? (
-          <a href={site.cvPdf} target="_blank" rel="noreferrer" className={styles.pdf}>
+          <a href={site.cvPdf} target="_blank" rel="noreferrer" className={raised.btn}>
             Download PDF ↗
           </a>
         ) : (
@@ -27,17 +28,23 @@ export default function CvPage() {
       </p>
       <div className={styles.contactLine}>
         <span>{site.location}</span>
-        <a href={site.github} target="_blank" rel="noreferrer">
+        <a href={site.github} target="_blank" rel="noreferrer" className={raised.btn}>
           GitHub — {site.githubHandle}
         </a>
-        {site.email ? <a href={`mailto:${site.email}`}>{site.email}</a> : <span>[YOUR EMAIL]</span>}
+        {site.email ? (
+          <a href={`mailto:${site.email}`} className={raised.btn}>
+            {site.email}
+          </a>
+        ) : (
+          <span>[YOUR EMAIL]</span>
+        )}
         {site.linkedin ? (
-          <a href={site.linkedin} target="_blank" rel="noreferrer">
+          <a href={site.linkedin} target="_blank" rel="noreferrer" className={raised.btn}>
             LinkedIn
           </a>
         ) : null}
         {site.instagram ? (
-          <a href={site.instagram} target="_blank" rel="noreferrer">
+          <a href={site.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
             Instagram
           </a>
         ) : null}

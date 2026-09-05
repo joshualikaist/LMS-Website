@@ -9,6 +9,7 @@ import { getLatestEdition } from "@/content/digest/load";
 import { interests, news } from "@/content/profile";
 import { site } from "@/content/site";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
 
 export default function HomePage() {
@@ -71,7 +72,7 @@ export default function HomePage() {
             <h2 className={s.sectionTitle}>Study</h2>
             <div className={styles.studyCard}>
               <div className={styles.studyBody}>
-                <DigestLink className={styles.studyTitle}>Trend ↗</DigestLink>
+                <DigestLink className={raised.btn}>Trend ↗</DigestLink>
                 <p className={s.entryDesc}>
                   A separate daily board for trend, economy, design, and tech — five links per lane,
                   with a one-line note when a story matches UAV, robot learning, or the web work.
@@ -83,9 +84,11 @@ export default function HomePage() {
                     DAILY 10:00 KST
                   </span>
                 </div>
-                <DigestLink className={styles.studyLink}>
-                  {editionLabel ? `[Open ${editionLabel} edition →]` : "[Open Trend →]"}
-                </DigestLink>
+                <div className={styles.studyLink}>
+                  <DigestLink className={raised.btn}>
+                    {editionLabel ? `Open ${editionLabel} edition →` : "Open Trend →"}
+                  </DigestLink>
+                </div>
               </div>
             </div>
           </section>
@@ -97,7 +100,7 @@ export default function HomePage() {
                 <ArenaPlaceholder variant="hero" label="PLACEHOLDER — SIM GIF" />
               </div>
               <div className={s.entryBody}>
-                <Link href="/work/motar" className={s.entryTitle}>
+                <Link href="/work/motar" className={`${raised.btn} ${raised.title}`}>
                   MOTAR: Sensor-Only UAV Interception of Moving Targets
                 </Link>
                 <p className={s.entryDesc}>
@@ -112,10 +115,14 @@ export default function HomePage() {
                   </span>
                 </div>
                 <div className={s.entryLinks}>
-                  <Link href="/work/motar">[Case Study]</Link>
-                  <Link href="/research/motar">[Technical Notes]</Link>
-                  <a href={site.motarRepo} target="_blank" rel="noreferrer">
-                    [Code]
+                  <Link href="/work/motar" className={raised.btn}>
+                    Case Study
+                  </Link>
+                  <Link href="/research/motar" className={raised.btn}>
+                    Technical Notes
+                  </Link>
+                  <a href={site.motarRepo} target="_blank" rel="noreferrer" className={raised.btn}>
+                    Code ↗
                   </a>
                 </div>
               </div>
@@ -129,7 +136,7 @@ export default function HomePage() {
                 <BrowserPlaceholder title="MESC" label="PLACEHOLDER — SCREENSHOT" compact />
               </div>
               <div className={s.entryBody}>
-                <Link href="/work/mesc" className={s.entryTitle}>
+                <Link href="/work/mesc" className={`${raised.btn} ${raised.title}`}>
                   MESC: Student Council Website for KAIST Mechanical Engineering
                 </Link>
                 <p className={s.entryDesc}>
@@ -140,7 +147,9 @@ export default function HomePage() {
                   <span>Full-stack web development · 2026</span>
                 </div>
                 <div className={s.entryLinks}>
-                  <Link href="/work/mesc">[Project Page]</Link>
+                  <Link href="/work/mesc" className={raised.btn}>
+                    Project Page
+                  </Link>
                 </div>
               </div>
             </div>

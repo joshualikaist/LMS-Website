@@ -1,25 +1,11 @@
 .button {
-  display: inline-flex;
-  align-items: center;
   gap: 7px;
   min-width: 69px;
-  padding: 4px 0;
-  color: var(--muted);
-  background: transparent;
-  border: 0;
-  font-family: var(--font-mono);
-  font-size: 10px;
-  letter-spacing: 0.08em;
-  cursor: pointer;
-}
-
-.button:hover {
-  color: var(--ink);
 }
 
 .button:focus-visible {
   outline: 2px solid var(--accent);
-  outline-offset: 4px;
+  outline-offset: 3px;
 }
 
 .mark {
@@ -32,7 +18,9 @@
 
 @media (max-width: 560px) {
   .button {
-    min-width: 20px;
+    min-width: 32px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
   .label {

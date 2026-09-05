@@ -74,24 +74,6 @@
   min-width: 0;
 }
 
-.newsLink {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  overflow: hidden;
-  font-size: 14.5px;
-  font-weight: 600;
-  line-height: 1.4;
-  letter-spacing: -0.01em;
-  color: var(--ink);
-  text-decoration: none;
-}
-
-.newsLink:hover {
-  color: var(--accent);
-  text-decoration: none;
-}
-
 .newsComment {
   display: block;
   margin-top: 5px;

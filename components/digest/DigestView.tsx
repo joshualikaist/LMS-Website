@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { DigestEdition, DigestItem, DigestLane } from "@/content/digest/types";
 import { ITEMS_PER_LANE, LANE_LABEL, LANE_ORDER } from "@/content/digest/types";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./DigestView.module.css";
 
 const displayDate = (isoDate: string) => isoDate.replaceAll("-", ".");
@@ -30,7 +31,12 @@ function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) 
             <li key={item.id} className={styles.newsItem}>
               <span className={styles.rank}>{String(index + 1).padStart(2, "0")}</span>
               <div className={styles.newsBody}>
-                <a href={item.url} target="_blank" rel="noreferrer" className={styles.newsLink}>
+                <a
+                  href={item.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={`${raised.btn} ${raised.wrap} ${raised.block}`}
+                >
                   {item.title}
                 </a>
                 {item.comment ? <span className={styles.newsComment}>{item.comment}</span> : null}
@@ -91,12 +97,16 @@ export default function DigestView({
 
       <nav className={styles.pager} aria-label="Edition navigation">
         {older ? (
-          <Link href={`/trend/${older}`}>← {displayDate(older)}</Link>
+          <Link href={`/trend/${older}`} className={raised.btn}>
+            ← {displayDate(older)}
+          </Link>
         ) : (
           <span className={s.pending}>Oldest edition</span>
         )}
         {newer ? (
-          <Link href={newer === dates[0] ? "/trend" : `/trend/${newer}`}>{displayDate(newer)} →</Link>
+          <Link href={newer === dates[0] ? "/trend" : `/trend/${newer}`} className={raised.btn}>
+            {displayDate(newer)} →
+          </Link>
         ) : (
           <span className={s.pending}>{latest ? "Latest edition" : ""}</span>
         )}
@@ -110,7 +120,12 @@ export default function DigestView({
               <div key={date} className={s.row}>
                 <span className={s.rowDate}>{displayDate(date)}</span>
                 <span className={s.rowBody}>
-                  <Link href={date === dates[0] ? "/trend" : `/trend/${date}`}>Morning edition</Link>
+                  <Link
+                    href={date === dates[0] ? "/trend" : `/trend/${date}`}
+                    className={raised.btn}
+                  >
+                    Morning edition
+                  </Link>
                   {date === dates[0] ? <span className={s.rowSub}>Latest</span> : null}
                 </span>
               </div>

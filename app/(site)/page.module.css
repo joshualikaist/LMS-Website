@@ -16,6 +16,8 @@
   top: calc(var(--nav-height) + 24px);
   width: 250px;
   flex: none;
+  max-height: calc(100vh - var(--nav-height) - var(--footer-height) - 36px);
+  overflow: auto;
 }
 
 .photo {

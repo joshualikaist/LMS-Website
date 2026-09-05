@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notes } from "@/content/notes";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
@@ -23,8 +24,8 @@ export default function NotesPage() {
             <span className={s.rowDate}>{note.date}</span>
             <span className={s.rowBody}>
               {note.status === "published" && note.slug ? (
-                <Link href={`/notes/${note.slug}`}>
-                  <b>{note.title}</b>
+                <Link href={`/notes/${note.slug}`} className={`${raised.btn} ${raised.wrap}`}>
+                  {note.title}
                 </Link>
               ) : (
                 <b>{note.title}</b>

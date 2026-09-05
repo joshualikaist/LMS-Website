@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getNote, publishedNotes } from "@/content/notes";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "../page.module.css";
 import noteStyles from "./page.module.css";
 
@@ -42,8 +43,12 @@ export default async function NotePage({ params }: { params: Promise<Params> }) 
         ))}
       </div>
       <p className={noteStyles.back}>
-        <Link href="/notes">← All notes</Link>
-        <Link href="/work/motar">MOTAR case study</Link>
+        <Link href="/notes" className={raised.btn}>
+          ← All notes
+        </Link>
+        <Link href="/work/motar" className={raised.btn}>
+          MOTAR case study
+        </Link>
       </p>
     </main>
   );

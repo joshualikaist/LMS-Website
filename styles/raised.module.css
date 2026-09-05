@@ -1,0 +1,108 @@
+.btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  padding: 0 11px;
+  border-radius: 9px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  color: var(--ink);
+  background: linear-gradient(var(--bg), var(--panel));
+  border: 1px solid var(--hairline);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.72),
+    inset 0 -3px 0 rgba(0, 0, 0, 0.14),
+    0 4px 8px rgba(22, 22, 18, 0.12);
+  text-decoration: none;
+  transform: translateY(0);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.04);
+  color: var(--ink);
+  text-decoration: none;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.8),
+    inset 0 -3px 0 rgba(0, 0, 0, 0.12),
+    0 8px 12px rgba(22, 22, 18, 0.16);
+}
+
+.btn:active {
+  transform: translateY(2px);
+  filter: none;
+  box-shadow:
+    inset 0 3px 6px rgba(0, 0, 0, 0.22),
+    0 1px 2px rgba(22, 22, 18, 0.1);
+}
+
+.on {
+  color: #fff;
+  background: linear-gradient(#4d7cff, #1557ff);
+  border-color: rgba(255, 255, 255, 0.28);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.42),
+    inset 0 -3px 0 rgba(0, 0, 0, 0.22),
+    0 4px 8px rgba(22, 22, 18, 0.16);
+}
+
+.on:hover {
+  color: #fff;
+}
+
+.mono {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+.wrap {
+  white-space: normal;
+  height: auto;
+  min-height: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  line-height: 1.35;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.block {
+  width: 100%;
+}
+
+.title {
+  white-space: normal;
+  height: auto;
+  min-height: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  line-height: 1.35;
+  text-align: left;
+  justify-content: flex-start;
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+@media (max-width: 720px) {
+  .btn {
+    height: 28px;
+    padding: 0 8px;
+    font-size: 12px;
+    border-radius: 8px;
+  }
+
+  .mono {
+    font-size: 10px;
+  }
+}

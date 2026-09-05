@@ -47,6 +47,12 @@ export function GET() {
 
 - [MESC](${baseUrl}/work/mesc): Student Council website for KAIST Mechanical Engineering.
 
+## Hobby
+
+- [Hobby](${baseUrl}/hobby): Personal channels under joshualisky.
+- [Shelton LMS](${baseUrl}/hobby/shelton-lms): Personal Instagram brand @shelton_lms.
+- [밥도둑](${baseUrl}/hobby/babdoduk): Food diary site at https://babdoduk.vercel.app.
+
 ## Notes
 
 - [Engineering and research notes](${baseUrl}/notes)

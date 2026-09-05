@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { site } from "@/content/site";
+import raised from "@/styles/raised.module.css";
 import styles from "./SiteFooter.module.css";
 
 export default function SiteFooter() {
@@ -13,26 +14,26 @@ export default function SiteFooter() {
         <div className={styles.copyright}>© 2026 Minseok Li</div>
         <div className={styles.right}>
           {site.email ? (
-            <a href={`mailto:${site.email}`} className={styles.link}>
+            <a href={`mailto:${site.email}`} className={raised.btn}>
               Email
             </a>
           ) : null}
           {site.linkedin ? (
-            <a href={site.linkedin} target="_blank" rel="noreferrer" className={styles.link}>
+            <a href={site.linkedin} target="_blank" rel="noreferrer" className={raised.btn}>
               LinkedIn
             </a>
           ) : null}
           {site.instagram ? (
-            <a href={site.instagram} target="_blank" rel="noreferrer" className={styles.link}>
+            <a href={site.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
               Instagram
             </a>
           ) : null}
-          <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
+          <a href={site.github} target="_blank" rel="noreferrer" className={raised.btn}>
             GitHub ↗
           </a>
           <button
             type="button"
-            className={styles.statusButton}
+            className={`${raised.btn} ${raised.mono}`}
             onClick={() => setOpen((v) => !v)}
             aria-expanded={open}
           >

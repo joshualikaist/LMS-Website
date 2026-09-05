@@ -16,8 +16,9 @@
 
 .contactLine {
   display: flex;
-  gap: 28px;
+  gap: 8px;
   flex-wrap: wrap;
+  align-items: center;
   row-gap: 8px;
   font-size: 14.5px;
   color: var(--muted);

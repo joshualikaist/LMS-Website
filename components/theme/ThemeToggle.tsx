@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import raised from "@/styles/raised.module.css";
 import styles from "./ThemeToggle.module.css";
 
 type Theme = "light" | "dark";
@@ -40,7 +41,7 @@ export default function ThemeToggle() {
   return (
     <button
       type="button"
-      className={styles.button}
+      className={`${raised.btn} ${raised.mono} ${styles.button}`}
       onClick={toggleTheme}
       aria-label={`Switch to ${target} mode`}
       title={`Switch to ${target} mode`}

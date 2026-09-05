@@ -1,52 +1,38 @@
 .bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 90;
+  background: var(--bg);
   border-top: 1px solid var(--hairline);
-  margin-top: 72px;
-  padding-bottom: 40px;
+  box-shadow: 0 -10px 24px rgba(22, 22, 18, 0.06);
 }
 
 .inner {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 16px;
-  flex-wrap: wrap;
-  padding-top: 28px;
+  gap: 12px;
+  min-height: var(--footer-height);
 }
 
 .copyright {
   font-size: 13px;
   color: var(--muted);
+  flex: none;
 }
 
 .right {
   display: flex;
   align-items: center;
-  gap: 24px;
-}
-
-.link {
-  font-size: 13px;
-}
-
-.statusButton {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.1em;
-  color: var(--muted);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--hairline);
-  padding: 0 0 2px 0;
-  cursor: pointer;
-}
-
-.statusButton:hover {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
+  justify-content: flex-end;
+  gap: 7px;
+  flex-wrap: wrap;
 }
 
 .terminalWrap {
-  margin-top: 20px;
+  padding-bottom: 16px;
 }
 
 .terminal {
@@ -54,6 +40,7 @@
   color: var(--muted);
   padding: 20px 22px;
   max-width: 380px;
+  margin-left: auto;
 }
 
 .terminalTitle {
@@ -79,4 +66,16 @@
 
 .valLight {
   color: #f4f3ef;
+}
+
+@media (max-width: 720px) {
+  .copyright {
+    display: none;
+  }
+
+  .right {
+    width: 100%;
+    justify-content: center;
+    gap: 5px;
+  }
 }

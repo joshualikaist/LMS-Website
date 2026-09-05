@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import ThemeToggle from "@/components/theme/ThemeToggle";
+import raised from "@/styles/raised.module.css";
 import styles from "./DigestNav.module.css";
 
 export default function DigestNav() {
@@ -17,11 +18,11 @@ export default function DigestNav() {
         </Link>
         <div className={styles.controls}>
           <nav className={styles.links} aria-label="Trend navigation">
-            <Link href="/trend" className={pathname === "/trend" ? styles.active : styles.link}>
+            <Link href="/trend" className={`${raised.btn} ${pathname === "/trend" ? raised.on : ""}`}>
               Today
             </Link>
-            {onArchive ? <span className={styles.active}>Archive</span> : null}
-            <Link href="/" className={styles.back}>
+            {onArchive ? <span className={`${raised.btn} ${raised.on}`}>Archive</span> : null}
+            <Link href="/" className={raised.btn}>
               Minseok Li ↗
             </Link>
           </nav>

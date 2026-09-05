@@ -10,10 +10,9 @@
 
 .back {
   display: flex;
-  gap: 22px;
+  gap: 8px;
   flex-wrap: wrap;
   margin-top: 40px;
   padding-top: 16px;
   border-top: 1px solid var(--hairline);
-  font-size: 14.5px;
 }

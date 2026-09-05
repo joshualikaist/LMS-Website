@@ -3,6 +3,7 @@ import Link from "next/link";
 import ContractTable from "@/components/motar/ContractTable";
 import SystemDiagram from "@/components/motar/SystemDiagram";
 import s from "@/styles/shared.module.css";
+import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
@@ -32,7 +33,7 @@ export default function MotarTechnicalPage() {
         The system architecture and engineering contract behind the case study — for readers who
         build these systems.
       </p>
-      <Link href="/work/motar" className={styles.backLink}>
+      <Link href="/work/motar" className={`${raised.btn} ${styles.backLink}`}>
         ← Back to the case study
       </Link>
 

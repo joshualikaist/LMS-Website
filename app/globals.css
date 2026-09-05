@@ -16,7 +16,8 @@
   --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-display: var(--font-tight), var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-mono: var(--font-plex), ui-monospace, Consolas, monospace;
-  --nav-height: 60px;
+  --nav-height: 64px;
+  --footer-height: 58px;
 }
 
 :root[data-theme="dark"] {
@@ -70,6 +71,7 @@ body {
   font-size: 16px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  padding-bottom: calc(var(--footer-height) + 20px);
 }
 
 button,
@@ -112,6 +114,13 @@ video {
   padding-right: 24px;
 }
 
+@media (max-width: 720px) {
+  :root {
+    --footer-height: 52px;
+    --nav-height: 56px;
+  }
+}
+
 @media print {
   .no-print {
     display: none !important;
@@ -119,5 +128,6 @@ video {
   body {
     background: #ffffff;
     color: #1a1a1a;
+    padding-bottom: 0;
   }
 }

@@ -1,5 +1,4 @@
 import Link from "next/link";
-import DigestLink from "@/components/links/DigestLink";
 import { site } from "@/content/site";
 import styles from "./SidebarDock.module.css";
 
@@ -10,7 +9,6 @@ type DockItem = {
   icon: string;
   tone: string;
   external?: boolean;
-  trend?: boolean;
 };
 
 export default function SidebarDock() {
@@ -32,8 +30,6 @@ export default function SidebarDock() {
   if (site.orcid) {
     items.push({ key: "orcid", label: "ORCID", href: site.orcid, icon: "/icons/orcid.svg", tone: "orcid", external: true });
   }
-  items.push({ key: "cv", label: "CV", href: "/cv", icon: "/icons/cv.svg", tone: "cv" });
-  items.push({ key: "trend", label: "Trend", icon: "/icons/rss.svg", tone: "trend", trend: true });
 
   return (
     <nav className={styles.dock} aria-label="Profiles and pages">
@@ -47,14 +43,6 @@ export default function SidebarDock() {
             <span className={styles.sr}>{item.label}</span>
           </>
         );
-
-        if (item.trend) {
-          return (
-            <DigestLink key={item.key} className={`${styles.btn} ${styles[item.tone]}`} title={item.label}>
-              {inner}
-            </DigestLink>
-          );
-        }
 
         if (item.external) {
           return (
