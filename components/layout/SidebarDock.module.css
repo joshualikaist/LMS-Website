@@ -8,51 +8,37 @@
 
 .btn {
   position: relative;
-  isolation: isolate;
-  overflow: hidden;
   width: 46px;
   height: 46px;
-  border-radius: 50%;
+  border-radius: 13px;
   display: grid;
   place-items: center;
   text-decoration: none;
-  color: var(--ink);
-  border: 1px solid color-mix(in srgb, var(--ink) 10%, transparent);
-  background: color-mix(in srgb, var(--tint, #888) 22%, rgba(255, 255, 255, 0.38));
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.28);
   box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.55),
-    0 1px 2px rgba(22, 22, 18, 0.05),
-    0 8px 18px rgba(22, 22, 18, 0.08);
-  -webkit-backdrop-filter: blur(12px) saturate(1.45);
-  backdrop-filter: blur(12px) saturate(1.45);
+    inset 0 1px 0 rgba(255, 255, 255, 0.42),
+    inset 0 -4px 0 rgba(0, 0, 0, 0.22),
+    0 6px 12px rgba(22, 22, 18, 0.18);
   transform: translateY(0);
-  transition: transform 0.16s ease, box-shadow 0.16s ease, filter 0.16s ease;
-}
-
-.btn::before {
-  content: "";
-  position: absolute;
-  inset: 3px 8px auto 8px;
-  height: 42%;
-  border-radius: 999px;
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0));
-  pointer-events: none;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease;
 }
 
 .btn:hover {
-  transform: translateY(-2px);
+  transform: translateY(-3px);
+  filter: brightness(1.06);
   text-decoration: none;
   box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.7),
-    0 4px 8px rgba(22, 22, 18, 0.06),
-    0 14px 24px rgba(22, 22, 18, 0.1);
+    inset 0 1px 0 rgba(255, 255, 255, 0.5),
+    inset 0 -4px 0 rgba(0, 0, 0, 0.2),
+    0 10px 16px rgba(22, 22, 18, 0.22);
 }
 
 .btn:active {
-  transform: translateY(0) scale(0.96);
+  transform: translateY(2px);
   box-shadow:
-    inset 0 2px 6px rgba(22, 22, 18, 0.12),
-    0 1px 2px rgba(22, 22, 18, 0.05);
+    inset 0 4px 8px rgba(0, 0, 0, 0.28),
+    0 1px 2px rgba(22, 22, 18, 0.12);
 }
 
 .face {
@@ -60,25 +46,13 @@
   height: 22px;
   display: grid;
   place-items: center;
-  position: relative;
-  z-index: 1;
 }
 
 .glyph {
   width: 22px;
   height: 22px;
   display: block;
-  opacity: 0.86;
-}
-
-:global(:root[data-theme="dark"]) .glyph {
   filter: brightness(0) invert(1);
-}
-
-@media (prefers-color-scheme: dark) {
-  :global(:root:not([data-theme])) .glyph {
-    filter: brightness(0) invert(1);
-  }
 }
 
 .sr {
@@ -94,45 +68,31 @@
 }
 
 .gmail {
-  --tint: #c5221f;
+  background: linear-gradient(#ea5a4a, #c5221f);
 }
 
 .github {
-  --tint: #171717;
+  background: linear-gradient(#3a3a3a, #171717);
 }
 
 .linkedin {
-  --tint: #0a66c2;
+  background: linear-gradient(#1a7de0, #0a66c2);
 }
 
 .instagram {
-  --tint: #ee2a7b;
-  background: linear-gradient(
-    135deg,
-    color-mix(in srgb, #f9ce34 32%, rgba(255, 255, 255, 0.35)),
-    color-mix(in srgb, #ee2a7b 28%, rgba(255, 255, 255, 0.28)),
-    color-mix(in srgb, #6228d7 26%, rgba(255, 255, 255, 0.28))
-  );
+  background: linear-gradient(135deg, #f9ce34 0%, #ee2a7b 48%, #6228d7 100%);
 }
 
 .scholar {
-  --tint: #185abc;
+  background: linear-gradient(#4b8ef0, #185abc);
 }
 
 .orcid {
-  --tint: #a6ce39;
+  background: linear-gradient(#b8d432, #a6ce39);
 }
 
 @media (max-width: 900px) {
   .dock {
     margin-top: 16px;
-  }
-}
-
-@media (prefers-reduced-transparency: reduce) {
-  .btn {
-    background: color-mix(in srgb, var(--tint, #888) 18%, var(--panel));
-    -webkit-backdrop-filter: none;
-    backdrop-filter: none;
   }
 }
