@@ -1,8 +1,25 @@
 {
   "date": "2026-09-05",
-  "fetchedAt": "2026-09-04T18:19:48.624Z",
+  "fetchedAt": "2026-09-05T04:59:31.955Z",
   "timezone": "Asia/Seoul",
   "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-04-xdof-just-three-months-out-of-stealth-is-in-talks-for-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Marina Temkin",
+      "publishedAt": "2026-09-04T23:36:14.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
     {
       "id": "techcrunch:techcrunch-com-2026-09-04-no-little-kids-allowed-and-other-new-info-about-teslas",
       "lane": "trend",
@@ -29,10 +46,27 @@
       "url": "https://collusion.wiki/",
       "summary": null,
       "comment": "Watch — matches agent.",
-      "score": 1031,
+      "score": 1569,
       "scoreLabel": "pts",
       "author": "moultano",
       "publishedAt": "2026-09-04T11:54:53.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-04-openais-rogue-agents-keep-escaping-with-no-formal-proc",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their o…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rebecca Bellan",
+      "publishedAt": "2026-09-04T23:15:11.000Z",
       "interestHits": [
         "agent"
       ]
@@ -55,33 +89,52 @@
       ]
     },
     {
-      "id": "hn:openai-com-index-gpt-6-astra",
-      "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "summary": null,
-      "comment": "From Hacker News.",
-      "score": 2085,
-      "scoreLabel": "pts",
-      "author": "kibae",
-      "publishedAt": "2026-09-03T18:41:05.000Z",
-      "interestHits": []
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-03-nvidia-to-buy-hugging-face-in-129bn-d",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearl…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Robins-Early and agencies",
+      "publishedAt": "2026-09-03T16:59:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
     },
     {
-      "id": "lobsters:neil-fraser-name-news-2026-09-03",
-      "lane": "trend",
-      "source": "Lobsters",
-      "sourceId": "lobsters",
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "summary": null,
-      "comment": "From Lobsters.",
-      "score": 339,
-      "scoreLabel": "pts",
-      "author": "fancybone",
-      "publishedAt": "2026-09-03T09:55:14.657-05:00",
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-02-teamsters-union-republican-endorsement",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+      "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican candi…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-09-02T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-04-nx-s1-5958601-labor-department-inspector-general-secretar",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+      "summary": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
+      "comment": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her ow…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Andrea Hsu",
+      "publishedAt": "2026-09-04T21:47:19.000Z",
       "interestHits": []
     },
     {
@@ -89,44 +142,14 @@
       "lane": "economy",
       "source": "CNBC · Business",
       "sourceId": "cnbc-business",
-      "title": "Longtime host Maria Bartiromo disputes reports of Fox News termination",
+      "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
       "url": "https://www.cnbc.com/2026/09/04/maria-bartiromo-fox-news-termination.html",
       "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
       "comment": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fir…",
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-04T17:32:35.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "cnbc-business:www-cnbc-com-2026-09-04-fall-travel-wealthy-europe-html",
-      "lane": "economy",
-      "source": "CNBC · Business",
-      "sourceId": "cnbc-business",
-      "title": "Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds",
-      "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
-      "summary": "Wealthy travelers are moving their typical summer getaways to autumn.",
-      "comment": "Wealthy travelers are moving their typical summer getaways to autumn.",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-04T17:31:44.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cy0zx2pkpx9o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
-      "comment": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates…",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-04T17:23:13.000Z",
+      "publishedAt": "2026-09-04T20:17:13.000Z",
       "interestHits": []
     },
     {
@@ -141,22 +164,7 @@
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-04T17:12:15.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "guardian-business:www-theguardian-com-business-2026-sep-04-instability-in-global-bond-markets-risi",
-      "lane": "economy",
-      "source": "The Guardian · Business",
-      "sourceId": "guardian-business",
-      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising…",
-      "comment": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequ…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Heather Stewart and Patrick Commins",
-      "publishedAt": "2026-09-04T16:49:28.000Z",
+      "publishedAt": "2026-09-04T19:29:31.000Z",
       "interestHits": []
     },
     {
@@ -246,24 +254,6 @@
       ]
     },
     {
-      "id": "arxiv-cs-ro:arxiv-org-abs-2609-03055",
-      "lane": "tech",
-      "source": "arXiv · cs.RO",
-      "sourceId": "arxiv-cs-ro",
-      "title": "Seeing Less Is Not Seeing Safely: Privacy Leakage from Task-Scoped Robot Perception Exports",
-      "url": "https://arxiv.org/abs/2609.03055",
-      "summary": "arXiv:2609.03055v1 Announce Type: new Abstract: Domestic robots rely on rich perception to operate in private homes, but privacy risk persists even when raw sensor data remain loc…",
-      "comment": "Watch — matches robot, perception.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Yuqiao Xu, Erman Ayday",
-      "publishedAt": "2026-09-04T04:00:00.000Z",
-      "interestHits": [
-        "robot",
-        "perception"
-      ]
-    },
-    {
       "id": "devto:dev-to-devengers-dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-a",
       "lane": "tech",
       "source": "Dev.to",
@@ -272,7 +262,7 @@
       "url": "https://dev.to/devengers/dev-opportunity-radar-15-hackerrank-orchestrate-claude-campus-ambassadors-the-bharat-builds-3oc",
       "summary": "TL;DR Welcome back to Dev Opportunity Radar. This is a weekly series where I share opportunities,...",
       "comment": "Watch — matches ppo.",
-      "score": 10,
+      "score": 24,
       "scoreLabel": "rxn",
       "author": "Hemapriya Kanagala",
       "publishedAt": "2026-09-04T17:37:52Z",
@@ -292,45 +282,71 @@
       "score": null,
       "scoreLabel": null,
       "author": "Saptarshi Basu, Sandeep Kakar, Ashok Goel",
-      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "publishedAt": "2026-09-05T04:00:00.000Z",
       "interestHits": [
         "ppo"
       ]
     },
     {
-      "id": "arxiv-cs-ro:arxiv-org-abs-2609-03225",
+      "id": "github-python:github-com-anthropics-commerce-agents",
       "lane": "tech",
-      "source": "arXiv · cs.RO",
-      "sourceId": "arxiv-cs-ro",
-      "title": "Long-Horizon Consistent and Interaction-Aware World Models for Multi-Style End-to-End Driving",
-      "url": "https://arxiv.org/abs/2609.03225",
-      "summary": "arXiv:2609.03225v1 Announce Type: new Abstract: End-to-end autonomous driving has increasingly adopted world model-based reinforcement learning frameworks to improve learning effi…",
-      "comment": "Watch — matches reinforcement.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Yuxuan Han, Kunyuan Wu, Liyunong Yang, Zilu Wang, Cansen Jiang, Yi Xiao, Liang Hu",
-      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "comment": "Watch — matches agent.",
+      "score": 1949,
+      "scoreLabel": "stars",
+      "author": "anthropics",
+      "publishedAt": "2026-09-01T12:30:12Z",
       "interestHits": [
-        "reinforcement"
+        "agent"
       ]
     },
     {
-      "id": "arxiv-cs-lg:arxiv-org-abs-2609-02987",
+      "id": "github-python:github-com-2akouwu-reverify",
       "lane": "tech",
-      "source": "arXiv · cs.LG",
-      "sourceId": "arxiv-cs-lg",
-      "title": "Tail-Likelihood Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.02987",
-      "summary": "arXiv:2609.02987v1 Announce Type: new Abstract: Reinforcement learning typically optimizes average reward. For generative policies, the average can hide an important distinction:…",
-      "comment": "Watch — matches reinforcement.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Shrinivas Ramasubramanian, Daman Arora, Fahim Tajwar, Guanning Zeng, Qingyang Wu, Zhongzhu Zhou, Chenfeng Xu, Haiwen Feng, Yuda Song, Aarti Singh, Ruslan Salakhutdinov, J. Andrew Bagnell, Jeff Schneider, Andrea Zanette",
-      "publishedAt": "2026-09-04T04:00:00.000Z",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "2akouwu/reverify",
+      "url": "https://github.com/2akouwu/reverify",
+      "summary": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes,…",
+      "comment": "Watch — matches agent.",
+      "score": 891,
+      "scoreLabel": "stars",
+      "author": "2akouwu",
+      "publishedAt": "2026-08-31T01:02:18Z",
       "interestHits": [
-        "reinforcement"
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-human-agent-society-reef",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "summary": "Continual learning infra for self-improving agents",
+      "comment": "Watch — matches agent.",
+      "score": 439,
+      "scoreLabel": "stars",
+      "author": "Human-Agent-Society",
+      "publishedAt": "2026-08-31T01:39:18Z",
+      "interestHits": [
+        "agent"
       ]
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    }
+  ]
 }
