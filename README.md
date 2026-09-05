@@ -27,7 +27,7 @@ Writes `content/digest/editions/YYYY-MM-DD.json` from `content/digest/sources.js
 - Archive: `http://localhost:3000/trend/YYYY-MM-DD`
 - Legacy `/digest` redirects to `/trend`
 
-GitHub Action `.github/workflows/daily-digest.yml` runs daily at **10:00 KST**. If Vercel is not connected to GitHub, also run `npx vercel deploy --prod`.
+GitHub Action `.github/workflows/daily-digest.yml` runs daily at **10:00 KST**. A push to `main` deploys production on Vercel. The digest job also pings a deploy hook so the bot commit still goes live.
 
 Optional later: `NEXT_PUBLIC_DIGEST_URL=https://digest.example.com`
 

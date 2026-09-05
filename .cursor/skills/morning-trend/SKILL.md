@@ -43,4 +43,4 @@ Do not hand-write comments into old JSON unless the user asks. Change `interests
 
 ## Deploy
 
-GitHub push does not always rebuild this Vercel project. After a content change, commit, push, and if live `/trend` is stale, run `npx vercel deploy --prod --yes`.
+The Vercel project `lms-website` is connected to `joshualikaist/LMS-Website` on branch `main`. After a content change, commit and push. Production updates from that push — do not run a separate `vercel deploy` unless the Git deploy failed.
