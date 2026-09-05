@@ -1,0 +1,106 @@
+.dock {
+  display: grid;
+  grid-template-columns: repeat(4, 46px);
+  gap: 10px;
+  margin-top: 22px;
+  width: fit-content;
+}
+
+.btn {
+  position: relative;
+  width: 46px;
+  height: 46px;
+  border-radius: 13px;
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.42),
+    inset 0 -4px 0 rgba(0, 0, 0, 0.22),
+    0 6px 12px rgba(22, 22, 18, 0.18);
+  transform: translateY(0);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease;
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+  filter: brightness(1.06);
+  text-decoration: none;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.5),
+    inset 0 -4px 0 rgba(0, 0, 0, 0.2),
+    0 10px 16px rgba(22, 22, 18, 0.22);
+}
+
+.btn:active {
+  transform: translateY(2px);
+  box-shadow:
+    inset 0 4px 8px rgba(0, 0, 0, 0.28),
+    0 1px 2px rgba(22, 22, 18, 0.12);
+}
+
+.face {
+  width: 22px;
+  height: 22px;
+  display: grid;
+  place-items: center;
+}
+
+.glyph {
+  width: 22px;
+  height: 22px;
+  display: block;
+  filter: brightness(0) invert(1);
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.gmail {
+  background: linear-gradient(#ea5a4a, #c5221f);
+}
+
+.github {
+  background: linear-gradient(#3a3a3a, #171717);
+}
+
+.linkedin {
+  background: linear-gradient(#1a7de0, #0a66c2);
+}
+
+.instagram {
+  background: linear-gradient(135deg, #f9ce34 0%, #ee2a7b 48%, #6228d7 100%);
+}
+
+.scholar {
+  background: linear-gradient(#4b8ef0, #185abc);
+}
+
+.orcid {
+  background: linear-gradient(#b8d432, #a6ce39);
+}
+
+.cv {
+  background: linear-gradient(#3a3a36, #1a1a1a);
+}
+
+.trend {
+  background: linear-gradient(#4d7cff, #1557ff);
+}
+
+@media (max-width: 900px) {
+  .dock {
+    margin-top: 16px;
+  }
+}

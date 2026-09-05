@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import SidebarDock from "@/components/layout/SidebarDock";
 import DigestLink from "@/components/links/DigestLink";
 import Lightbox from "@/components/media/Lightbox";
 import { ArenaPlaceholder, BrowserPlaceholder } from "@/components/media/Placeholders";
@@ -26,44 +27,7 @@ export default function HomePage() {
           <div className={styles.role}>Undergraduate Student</div>
           <div className={styles.role}>Mechanical Engineering</div>
           <div className={styles.affil}>KAIST · Daejeon, South Korea</div>
-          <div className={styles.sidebarLinks}>
-            {site.email ? (
-              <a href={`mailto:${site.email}`}>Email</a>
-            ) : (
-              <span className={s.pending}>Email — [add]</span>
-            )}
-            <a href={site.github} target="_blank" rel="noreferrer">
-              GitHub
-            </a>
-            {site.googleScholar ? (
-              <a href={site.googleScholar} target="_blank" rel="noreferrer">
-                Google Scholar
-              </a>
-            ) : (
-              <span className={s.pending}>Scholar — [add]</span>
-            )}
-            {site.orcid ? (
-              <a href={site.orcid} target="_blank" rel="noreferrer">
-                ORCID
-              </a>
-            ) : (
-              <span className={s.pending}>ORCID — [add]</span>
-            )}
-            {site.linkedin ? (
-              <a href={site.linkedin} target="_blank" rel="noreferrer">
-                LinkedIn
-              </a>
-            ) : (
-              <span className={s.pending}>LinkedIn — [add]</span>
-            )}
-            {site.instagram ? (
-              <a href={site.instagram} target="_blank" rel="noreferrer">
-                Instagram
-              </a>
-            ) : null}
-            <Link href="/cv">CV</Link>
-            <DigestLink className={styles.sidebarDigest}>Trend</DigestLink>
-          </div>
+          <SidebarDock />
         </aside>
 
         {/* RIGHT — scrolling content */}
