@@ -82,10 +82,7 @@ body:has([data-home]) {
 
 body:has([data-sky]) {
   background-color: #7ea0b8;
-  background-image: url("/home/sky.jpg");
-  background-size: cover;
-  background-position: center 42%;
-  background-attachment: fixed;
+  background-image: linear-gradient(180deg, #5a7a96 0%, #87a3b5 48%, #b7c6c8 100%);
   color: #14202a;
   --bg: transparent;
   --ink: #14202a;
