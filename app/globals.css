@@ -77,7 +77,23 @@ body {
 
 body:has([data-home]) {
   padding-bottom: 0;
-  background: #07141f;
+  background: #7ea0b8;
+}
+
+body:has([data-sky]) {
+  background-color: #7ea0b8;
+  background-image: url("/home/sky.jpg");
+  background-size: cover;
+  background-position: center 42%;
+  background-attachment: fixed;
+  color: #14202a;
+  --bg: transparent;
+  --ink: #14202a;
+  --muted: #3d4f5e;
+  --hairline: rgba(20, 32, 44, 0.16);
+  --panel: rgba(255, 255, 255, 0.4);
+  --panel-deep: rgba(255, 255, 255, 0.55);
+  --paper-light: rgba(255, 255, 255, 0.35);
 }
 
 button,

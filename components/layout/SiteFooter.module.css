@@ -4,9 +4,10 @@
   right: 0;
   bottom: 0;
   z-index: 90;
-  background: var(--bg);
-  border-top: 1px solid var(--hairline);
-  box-shadow: 0 -10px 24px rgba(22, 22, 18, 0.06);
+  background: rgba(255, 255, 255, 0.28);
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
 }
 
 .inner {
@@ -19,7 +20,7 @@
 
 .copyright {
   font-size: 13px;
-  color: var(--muted);
+  color: rgba(20, 32, 44, 0.7);
   flex: none;
 }
 
@@ -27,45 +28,19 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 7px;
+  gap: 16px;
   flex-wrap: wrap;
 }
 
-.terminalWrap {
-  padding-bottom: 16px;
+.link {
+  font-size: 13px;
+  color: rgba(20, 32, 44, 0.82);
+  text-decoration: none;
 }
 
-.terminal {
-  background: var(--ink);
-  color: var(--muted);
-  padding: 20px 22px;
-  max-width: 380px;
-  margin-left: auto;
-}
-
-.terminalTitle {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.06em;
-  color: #f4f3ef;
-}
-
-.terminalBody {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.06em;
-  line-height: 2;
-  margin: 10px 0 0 0;
-  white-space: pre;
-  overflow-x: auto;
-}
-
-.valSignal {
-  color: var(--signal);
-}
-
-.valLight {
-  color: #f4f3ef;
+.link:hover {
+  color: #111;
+  text-decoration: none;
 }
 
 @media (max-width: 720px) {
@@ -76,6 +51,6 @@
   .right {
     width: 100%;
     justify-content: center;
-    gap: 5px;
+    gap: 14px;
   }
 }

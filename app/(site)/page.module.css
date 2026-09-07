@@ -2,11 +2,8 @@
   position: relative;
   min-height: 100dvh;
   overflow: hidden;
-  color: #f4f7fb;
-  background:
-    radial-gradient(1200px 700px at 72% 42%, #16324c 0%, transparent 58%),
-    radial-gradient(900px 600px at 18% 70%, #0b1c2c 0%, transparent 55%),
-    #07141f;
+  color: #f7fbff;
+  background: #7ea0b8;
 }
 
 .veil {
@@ -14,7 +11,7 @@
   inset: 0;
   z-index: 1;
   pointer-events: none;
-  background: linear-gradient(90deg, rgba(7, 20, 31, 0.72) 0%, rgba(7, 20, 31, 0.28) 42%, rgba(7, 20, 31, 0.08) 68%, rgba(7, 20, 31, 0.2) 100%);
+  background: linear-gradient(90deg, rgba(18, 42, 64, 0.22) 0%, rgba(18, 42, 64, 0.04) 46%, rgba(18, 42, 64, 0) 100%);
 }
 
 .copy {
