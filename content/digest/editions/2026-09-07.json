@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "fetchedAt": "2026-09-07T02:45:54.345Z",
+  "fetchedAt": "2026-09-07T05:19:08.447Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -80,11 +80,45 @@
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 549,
+      "score": 612,
       "scoreLabel": "pts",
       "author": "cyb0rg0",
       "publishedAt": "2026-09-06T11:56:43.000Z",
       "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-03-nvidia-to-buy-hugging-face-in-129bn-d",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearl…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Robins-Early and agencies",
+      "publishedAt": "2026-09-03T16:59:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-02-teamsters-union-republican-endorsement",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+      "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican candi…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-09-02T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
     },
     {
       "id": "bbc-business:www-bbc-co-uk-news-articles-cx2z37qj4wno-at-medium-rss-amp-at-campaign-rss",
@@ -129,36 +163,6 @@
       "scoreLabel": null,
       "author": null,
       "publishedAt": "2026-09-06T23:34:18.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-c23x0kd8eleo-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "The £70 refund letter that isn't a scam",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-      "comment": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-06T23:16:05.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-06-amazon-cargo-plane-crashes-miami-airport",
-      "lane": "economy",
-      "source": "The Guardian · Business",
-      "sourceId": "guardian-business",
-      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
-      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
-      "summary": "Three people in critical condition and two hospitalized as operations at one of busiest US airports brought to a halt An Amazon cargo plane crashed at Miami international airport…",
-      "comment": "Three people in critical condition and two hospitalized as operations at one of busiest US airports brought t…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Maya Yang",
-      "publishedAt": "2026-09-06T21:49:27.000Z",
       "interestHits": []
     },
     {
@@ -248,6 +252,42 @@
       ]
     },
     {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-04411",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "AquaBEV: Monocular Underwater BEV Occupancy with 3D Sonar Supervision",
+      "url": "https://arxiv.org/abs/2609.04411",
+      "summary": "arXiv:2609.04411v1 Announce Type: new Abstract: Autonomous underwater robots are widely used for exploration, monitoring, and inspection, where safe navigation depends on understa…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Trung Tien Dong, Shengji Jin, Chen Chen, Yi Sheng, Xiaomin Lin",
+      "publishedAt": "2026-09-07T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-04545",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "SocioGesture: Real-Time and Adaptive Social Gesture Perception for Human-Robot Interaction",
+      "url": "https://arxiv.org/abs/2609.04545",
+      "summary": "arXiv:2609.04545v1 Announce Type: new Abstract: Robots interacting with people must recognize not only explicit commands, but also social cues such as invitations, refusals, and u…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Wenjin Fu, Li-Fan Wu, Jerin Peter, Chip Huyen, Boyuan Chen, Jan Liphardt",
+      "publishedAt": "2026-09-07T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
       "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
       "lane": "tech",
       "source": "GitHub · Python",
@@ -256,7 +296,7 @@
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "comment": "Watch — matches ppo.",
-      "score": 1194,
+      "score": 1334,
       "scoreLabel": "stars",
       "author": "Rion-Wu-tech",
       "publishedAt": "2026-09-04T15:00:53Z",
@@ -273,7 +313,7 @@
       "url": "https://dev.to/alvaromontoro/la-ligas-web-accessibility-table-how-do-clubs-actually-score-21ib",
       "summary": "Web accessibility ensures that every supporter –including those with visual, auditory, motor, or cognitive disabilities) can use a website–. So how well do these teams' homepages…",
       "comment": "Watch — matches ppo.",
-      "score": 1,
+      "score": 2,
       "scoreLabel": "rxn",
       "author": "Alvaro Montoro",
       "publishedAt": "2026-09-06T20:13:44Z",
@@ -282,69 +322,22 @@
       ]
     },
     {
-      "id": "github-python:github-com-anthropics-commerce-agents",
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-04339",
       "lane": "tech",
-      "source": "GitHub · Python",
-      "sourceId": "github-python",
-      "title": "anthropics/commerce-agents",
-      "url": "https://github.com/anthropics/commerce-agents",
-      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-      "comment": "Watch — matches agent.",
-      "score": 2239,
-      "scoreLabel": "stars",
-      "author": "anthropics",
-      "publishedAt": "2026-09-01T12:30:12Z",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Modular Deep Recurrent Neural Network: Application to Quadrotors",
+      "url": "https://arxiv.org/abs/2609.04339",
+      "summary": "arXiv:2609.04339v1 Announce Type: new Abstract: A modular deep Recurrent Neural Network (RNN) is introduced to facilitate the process of deploying various architectures of RNNs, a…",
+      "comment": "Watch — matches quadrot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nima Mohajerin, Steven L. Waslander",
+      "publishedAt": "2026-09-07T04:00:00.000Z",
       "interestHits": [
-        "agent"
-      ]
-    },
-    {
-      "id": "github-python:github-com-human-agent-society-reef",
-      "lane": "tech",
-      "source": "GitHub · Python",
-      "sourceId": "github-python",
-      "title": "Human-Agent-Society/reef",
-      "url": "https://github.com/Human-Agent-Society/reef",
-      "summary": "Continual learning infra for self-improving agents",
-      "comment": "Watch — matches agent.",
-      "score": 576,
-      "scoreLabel": "stars",
-      "author": "Human-Agent-Society",
-      "publishedAt": "2026-08-31T01:39:18Z",
-      "interestHits": [
-        "agent"
-      ]
-    },
-    {
-      "id": "github-typescript:github-com-fitchmultz-pi-posthorse",
-      "lane": "tech",
-      "source": "GitHub · TypeScript",
-      "sourceId": "github-typescript",
-      "title": "fitchmultz/pi-posthorse",
-      "url": "https://github.com/fitchmultz/pi-posthorse",
-      "summary": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes…",
-      "comment": "Watch — matches agent.",
-      "score": 219,
-      "scoreLabel": "stars",
-      "author": "fitchmultz",
-      "publishedAt": "2026-08-31T15:06:23Z",
-      "interestHits": [
-        "agent"
+        "quadrot"
       ]
     }
   ],
-  "failures": [
-    {
-      "sourceId": "arxiv-cs-ro",
-      "error": "no items"
-    },
-    {
-      "sourceId": "arxiv-cs-lg",
-      "error": "no items"
-    },
-    {
-      "sourceId": "arxiv-cs-ai",
-      "error": "no items"
-    }
-  ]
+  "failures": []
 }
