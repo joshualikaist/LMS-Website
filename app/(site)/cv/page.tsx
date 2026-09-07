@@ -9,6 +9,60 @@ export const metadata: Metadata = {
   description: "Curriculum vitae — Minseok Li, Mechanical Engineering, KAIST.",
 };
 
+type TimelineItem = {
+  when: string;
+  title: string;
+  place: string;
+  note?: string;
+};
+
+const education: TimelineItem[] = [
+  {
+    when: "2024 — 2028",
+    title: "B.S. in Mechanical Engineering",
+    place: "KAIST",
+  },
+  {
+    when: "2021 — 2024",
+    title: "Hansung Science High School",
+    place: "Seoul",
+  },
+];
+
+const experience: TimelineItem[] = [
+  {
+    when: "2026.03 — Present",
+    title: "Undergraduate Student Researcher",
+    place: "Field AI & Robotics Lab, KAIST",
+    note: "UAV navigation · robot learning · autonomous systems",
+  },
+  {
+    when: "2025.09 — 2026.01",
+    title: "Undergraduate Student Researcher",
+    place: "Dynamic Robot Control & Design Lab, KAIST",
+  },
+  {
+    when: "2025.06 — 2025.08",
+    title: "Marketing Communication Intern",
+    place: "Welaaa",
+  },
+];
+
+function Timeline({ items }: { items: TimelineItem[] }) {
+  return (
+    <ol className={styles.timeline}>
+      {items.map((item) => (
+        <li key={`${item.when}-${item.title}-${item.place}`} className={styles.item}>
+          <p className={styles.when}>{item.when}</p>
+          <p className={styles.itemTitle}>{item.title}</p>
+          <p className={styles.place}>{item.place}</p>
+          {item.note ? <p className={styles.note}>{item.note}</p> : null}
+        </li>
+      ))}
+    </ol>
+  );
+}
+
 export default function CvPage() {
   return (
     <main className={`page ${styles.main}`}>
@@ -52,46 +106,12 @@ export default function CvPage() {
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Education</h2>
-        <div className={styles.rows}>
-          <div className={s.row}>
-            <span className={s.rowDate}>2024 — 2028</span>
-            <span className={s.rowBody}>
-              <b>KAIST</b> — B.S. in Mechanical Engineering
-              <span className={s.rowSub}>Korea Advanced Institute of Science and Technology</span>
-            </span>
-          </div>
-          <div className={s.row}>
-            <span className={s.rowDate}>2021 — 2024</span>
-            <span className={s.rowBody}>
-              <b>Hansung Science High School</b>
-            </span>
-          </div>
-        </div>
+        <Timeline items={education} />
       </section>
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Experience</h2>
-        <div className={styles.rows}>
-          <div className={s.row}>
-            <span className={s.rowDate}>2026.03 — Present</span>
-            <span className={s.rowBody}>
-              <b>Field AI &amp; Robotics Lab, KAIST</b> — Undergraduate Student Researcher
-              <span className={s.rowSub}>UAV navigation · robot learning · autonomous systems</span>
-            </span>
-          </div>
-          <div className={s.row}>
-            <span className={s.rowDate}>2025.09 — 2026.01</span>
-            <span className={s.rowBody}>
-              <b>Dynamic Robot Control &amp; Design Lab, KAIST</b> — Undergraduate Student Researcher
-            </span>
-          </div>
-          <div className={s.row}>
-            <span className={s.rowDate}>2025.06 — 2025.08</span>
-            <span className={s.rowBody}>
-              <b>Welaaa</b> — Marketing Communication Intern
-            </span>
-          </div>
-        </div>
+        <Timeline items={experience} />
       </section>
 
       <section className={s.section}>
