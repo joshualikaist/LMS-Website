@@ -30,7 +30,7 @@ export default async function TrendDatePage({ params }: { params: Promise<Params
   const isLatest = latest?.date === edition.date;
 
   return (
-    <main className={`pageWide ${styles.main}`}>
+    <main className={styles.main}>
       <DigestView edition={edition} dates={dates} latest={isLatest} />
     </main>
   );

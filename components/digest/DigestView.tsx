@@ -2,7 +2,6 @@ import Link from "next/link";
 import type { DigestEdition, DigestItem, DigestLane } from "@/content/digest/types";
 import { ITEMS_PER_LANE, LANE_LABEL, LANE_ORDER } from "@/content/digest/types";
 import s from "@/styles/shared.module.css";
-import raised from "@/styles/raised.module.css";
 import styles from "./DigestView.module.css";
 
 const displayDate = (isoDate: string) => isoDate.replaceAll("-", ".");
@@ -19,29 +18,44 @@ function laneItems(edition: DigestEdition, lane: DigestLane): DigestItem[] {
   return edition.items.filter((item) => item.lane === lane).slice(0, ITEMS_PER_LANE);
 }
 
+function leadStory(edition: DigestEdition): DigestItem | null {
+  const ranked = [...edition.items].sort((a, b) => {
+    const hits = (b.interestHits?.length ?? 0) - (a.interestHits?.length ?? 0);
+    if (hits !== 0) return hits;
+    return (b.score ?? 0) - (a.score ?? 0);
+  });
+  return ranked[0] ?? null;
+}
+
+function sourceMark(source: string) {
+  const letters = source.replace(/[^A-Za-z0-9]/g, "");
+  return (letters.slice(0, 2) || "TR").toUpperCase();
+}
+
 function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) {
   return (
-    <section className={styles.column} aria-labelledby={`lane-${lane}`}>
-      <h2 id={`lane-${lane}`} className={styles.columnTitle}>
-        {LANE_LABEL[lane]}
-      </h2>
+    <section className={styles.column} id={`lane-${lane}`} aria-labelledby={`title-${lane}`}>
+      <div className={styles.columnHead}>
+        <h2 id={`title-${lane}`} className={styles.columnTitle}>
+          {LANE_LABEL[lane]}
+        </h2>
+        <a href={`#lane-${lane}`} className={styles.followBtn}>
+          Follow
+        </a>
+      </div>
       {items.length ? (
         <ol className={styles.newsList}>
-          {items.map((item, index) => (
+          {items.map((item) => (
             <li key={item.id} className={styles.newsItem}>
-              <span className={styles.rank}>{String(index + 1).padStart(2, "0")}</span>
-              <div className={styles.newsBody}>
-                <a
-                  href={item.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={`${raised.btn} ${raised.wrap} ${raised.block}`}
-                >
-                  {item.title}
-                </a>
-                {item.comment ? <span className={styles.newsComment}>{item.comment}</span> : null}
-                <span className={styles.newsSource}>{item.source}</span>
-              </div>
+              <a href={item.url} target="_blank" rel="noreferrer" className={styles.newsLink}>
+                <span className={styles.newsCopy}>
+                  <span className={styles.headline}>{item.title}</span>
+                  <span className={styles.newsSource}>{item.source}</span>
+                </span>
+                <span className={`${styles.thumb} ${styles[`thumb_${lane}`]}`} aria-hidden="true">
+                  {sourceMark(item.source)}
+                </span>
+              </a>
             </li>
           ))}
         </ol>
@@ -66,73 +80,92 @@ export default function DigestView({
   const byLane = Object.fromEntries(
     LANE_ORDER.map((lane) => [lane, laneItems(edition, lane)]),
   ) as Record<DigestLane, DigestItem[]>;
+  const lead = leadStory(edition);
 
   return (
     <>
-      <div className={styles.head}>
-        <div>
-          <p className={`${s.kicker} ${styles.kicker}`}>MORNING EDITION · 10:00 KST</p>
-          <h1 className={s.h1}>Trend</h1>
+      {lead ? (
+        <a href={lead.url} target="_blank" rel="noreferrer" className={styles.banner}>
+          <div className={styles.bannerInner}>
+            <div className={styles.bannerMeta}>
+              <span className={styles.bannerChip}>{LANE_LABEL[lead.lane]}</span>
+              <span>Morning edition</span>
+              <span>{displayDate(edition.date)}</span>
+              <span>{lead.source}</span>
+            </div>
+            <h1 className={styles.bannerTitle}>{lead.title}</h1>
+            <p className={styles.bannerDeck}>{lead.comment || lead.summary || `From ${lead.source}.`}</p>
+            <span className={styles.bannerContinue}>Continue reading</span>
+          </div>
+        </a>
+      ) : null}
+
+      <div className={`pageWide ${styles.shell}`}>
+        <div className={styles.sectionHead}>
+          <h2 className={styles.sectionTitle}>Your News</h2>
+          <span className={styles.sectionNote}>{fetchedClock(edition.fetchedAt)} KST</span>
         </div>
-        <span className={s.statusChip}>
-          <span className={latest ? s.dotSignal : s.dotInk} />
-          {latest ? "LATEST" : displayDate(edition.date)}
-        </span>
-      </div>
-      <p className={s.lead}>
-        Four lanes — trend, economy, design, and tech — five links each. Items that match UAV,
-        robot learning, or design-system work float up and get a one-line note.
-      </p>
-      <div className={styles.meta}>
-        <span>{displayDate(edition.date)}</span>
-        <span>Fetched {fetchedClock(edition.fetchedAt)} KST</span>
-        {edition.failures.length ? <span>{edition.failures.length} source miss(es)</span> : null}
-      </div>
 
-      <div className={styles.grid}>
-        {LANE_ORDER.map((lane) => (
-          <NewsColumn key={lane} lane={lane} items={byLane[lane]} />
-        ))}
-      </div>
+        <div className={styles.board}>
+          <aside className={styles.follow} aria-label="Lanes">
+            <div className={styles.followKicker}>Follow lanes</div>
+            <p className={styles.followLead}>Four desks. Five links each.</p>
+            <div className={styles.pills}>
+              {LANE_ORDER.map((lane) => (
+                <a key={lane} href={`#lane-${lane}`} className={styles.pill}>
+                  <span aria-hidden="true">+</span>
+                  {LANE_LABEL[lane]}
+                </a>
+              ))}
+            </div>
+            <div className={styles.followMeta}>
+              {latest ? <span>Latest</span> : <span>{displayDate(edition.date)}</span>}
+              {edition.failures?.length ? <span>{edition.failures.length} miss</span> : null}
+            </div>
+          </aside>
 
-      <nav className={styles.pager} aria-label="Edition navigation">
-        {older ? (
-          <Link href={`/trend/${older}`} className={raised.btn}>
-            ← {displayDate(older)}
-          </Link>
-        ) : (
-          <span className={s.pending}>Oldest edition</span>
-        )}
-        {newer ? (
-          <Link href={newer === dates[0] ? "/trend" : `/trend/${newer}`} className={raised.btn}>
-            {displayDate(newer)} →
-          </Link>
-        ) : (
-          <span className={s.pending}>{latest ? "Latest edition" : ""}</span>
-        )}
-      </nav>
-
-      {dates.length > 1 ? (
-        <section className={s.section}>
-          <h2 className={s.sectionTitle}>Archive</h2>
-          <div className={styles.archiveList}>
-            {dates.map((date) => (
-              <div key={date} className={s.row}>
-                <span className={s.rowDate}>{displayDate(date)}</span>
-                <span className={s.rowBody}>
-                  <Link
-                    href={date === dates[0] ? "/trend" : `/trend/${date}`}
-                    className={raised.btn}
-                  >
-                    Morning edition
-                  </Link>
-                  {date === dates[0] ? <span className={s.rowSub}>Latest</span> : null}
-                </span>
-              </div>
+          <div className={styles.columns}>
+            {LANE_ORDER.map((lane) => (
+              <NewsColumn key={lane} lane={lane} items={byLane[lane]} />
             ))}
           </div>
-        </section>
-      ) : null}
+        </div>
+
+        <nav className={styles.pager} aria-label="Edition navigation">
+          {older ? (
+            <Link href={`/trend/${older}`} className={styles.pagerLink}>
+              ← {displayDate(older)}
+            </Link>
+          ) : (
+            <span className={s.pending}>Oldest</span>
+          )}
+          {newer ? (
+            <Link href={newer === dates[0] ? "/trend" : `/trend/${newer}`} className={styles.pagerLink}>
+              {displayDate(newer)} →
+            </Link>
+          ) : (
+            <span className={s.pending}>{latest ? "Latest" : ""}</span>
+          )}
+        </nav>
+
+        {dates.length > 1 ? (
+          <details className={styles.archive}>
+            <summary>Archive</summary>
+            <div className={styles.archiveList}>
+              {dates.map((date) => (
+                <Link
+                  key={date}
+                  href={date === dates[0] ? "/trend" : `/trend/${date}`}
+                  className={styles.archiveLink}
+                >
+                  {displayDate(date)}
+                  {date === dates[0] ? " · latest" : ""}
+                </Link>
+              ))}
+            </div>
+          </details>
+        ) : null}
+      </div>
     </>
   );
 }

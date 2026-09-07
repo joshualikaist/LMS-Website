@@ -1,5 +1,4 @@
 import Link from "next/link";
-import raised from "@/styles/raised.module.css";
 import styles from "./DigestFooter.module.css";
 
 export default function DigestFooter() {
@@ -9,10 +8,10 @@ export default function DigestFooter() {
         <div className={styles.copy}>
           <span>Trend</span>
           <span className={styles.dot}>·</span>
-          <span>Updated daily at 10:00 KST</span>
+          <span>Daily 10:00 KST</span>
         </div>
-        <Link href="/" className={raised.btn}>
-          Back to minseok.li
+        <Link href="/" className={styles.back}>
+          Portfolio
         </Link>
       </div>
     </footer>

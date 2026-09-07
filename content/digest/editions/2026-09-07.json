@@ -1,0 +1,350 @@
+{
+  "date": "2026-09-07",
+  "fetchedAt": "2026-09-07T02:45:54.345Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-05-seattle-times-and-newsday-are-the-latest-publications-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-06-travis-kalanicks-atoms-might-be-getting-into-the-robot",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-06-authors-push-back-as-publishers-and-agents-seek-share-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-05-openai-confirms-wiki-incident-says-its-working-on-a-fr",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:bcantrill-dtrace-org-2025-12-05-your-intellectual-fly-is-open",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 549,
+      "scoreLabel": "pts",
+      "author": "cyb0rg0",
+      "publishedAt": "2026-09-06T11:56:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cx2z37qj4wno-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "China to pump $54bn into state banks and insurers to boost economy",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "comment": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-07T02:26:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c0e3p1j7n3ro-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "comment": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and c…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-07T00:57:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cgjqg450w28o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "comment": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-06T23:34:18.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c23x0kd8eleo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The £70 refund letter that isn't a scam",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "comment": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-06T23:16:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-06-amazon-cargo-plane-crashes-miami-airport",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+      "summary": "Three people in critical condition and two hospitalized as operations at one of busiest US airports brought to a halt An Amazon cargo plane crashed at Miami international airport…",
+      "comment": "Three people in critical condition and two hospitalized as operations at one of busiest US airports brought t…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Maya Yang",
+      "publishedAt": "2026-09-06T21:49:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "url": "https://heydesigner.com/2026-09-04/",
+      "summary": "Try these 10 skills, DialKit: Tune interfaces in real time, Design system contracts, The four modes of thinking with AI.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-04T06:31:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ai-generated-images-utm-source-rss-amp-utm-medium-feed-",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "comment": "Watch — matches perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Banawa",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "perception"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-03",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Gestalt principles for visual UI design",
+      "url": "https://heydesigner.com/2026-09-03/",
+      "summary": "Looogos: Logo design inspiration, My view on design engineering, CSS is still awesome, eve: The framework for building agents.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-03T05:22:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "How we built Interfere’s new website",
+      "url": "https://heydesigner.com/2026-09-02/",
+      "summary": "Designing product simplicity for the agentic AI era, The point of a system is fewer decisions, Rethinking data visualisation, Comms: Show and tell, for your agents (beta), Judgmen…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-02T06:55:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "comment": "Watch — matches ppo.",
+      "score": 1194,
+      "scoreLabel": "stars",
+      "author": "Rion-Wu-tech",
+      "publishedAt": "2026-09-04T15:00:53Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "devto:dev-to-alvaromontoro-la-ligas-web-accessibility-table-how-do-clubs-actually-scor",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "La Liga's Web Accessibility Table: How Do Clubs Actually Score?",
+      "url": "https://dev.to/alvaromontoro/la-ligas-web-accessibility-table-how-do-clubs-actually-score-21ib",
+      "summary": "Web accessibility ensures that every supporter –including those with visual, auditory, motor, or cognitive disabilities) can use a website–. So how well do these teams' homepages…",
+      "comment": "Watch — matches ppo.",
+      "score": 1,
+      "scoreLabel": "rxn",
+      "author": "Alvaro Montoro",
+      "publishedAt": "2026-09-06T20:13:44Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-anthropics-commerce-agents",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "comment": "Watch — matches agent.",
+      "score": 2239,
+      "scoreLabel": "stars",
+      "author": "anthropics",
+      "publishedAt": "2026-09-01T12:30:12Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-human-agent-society-reef",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Human-Agent-Society/reef",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "summary": "Continual learning infra for self-improving agents",
+      "comment": "Watch — matches agent.",
+      "score": 576,
+      "scoreLabel": "stars",
+      "author": "Human-Agent-Society",
+      "publishedAt": "2026-08-31T01:39:18Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-fitchmultz-pi-posthorse",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "fitchmultz/pi-posthorse",
+      "url": "https://github.com/fitchmultz/pi-posthorse",
+      "summary": "Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork of the Pi coding agent, with rollover tools, durable notes…",
+      "comment": "Watch — matches agent.",
+      "score": 219,
+      "scoreLabel": "stars",
+      "author": "fitchmultz",
+      "publishedAt": "2026-08-31T15:06:23Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}

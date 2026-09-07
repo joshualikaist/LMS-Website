@@ -1,5 +1,5 @@
 .main {
-  padding-top: 48px;
+  padding-top: 0;
   padding-bottom: 24px;
 }
 
@@ -14,10 +14,4 @@
   font-size: 13px;
   letter-spacing: 0.02em;
   color: var(--ink);
-}
-
-@media (max-width: 560px) {
-  .main {
-    padding-top: 32px;
-  }
 }

@@ -1,40 +1,37 @@
 .main {
-  max-width: 1040px;
+  max-width: 980px;
   margin: 0 auto;
-  padding: 56px 24px 0 24px;
+  padding: 72px 24px 0 24px;
 }
 
 .layout {
   display: flex;
   align-items: flex-start;
-  gap: 64px;
+  gap: 80px;
 }
 
-/* Left column stays put; the right column scrolls past it. */
 .sidebar {
   position: sticky;
-  top: calc(var(--nav-height) + 24px);
-  width: 250px;
+  top: calc(var(--nav-height) + 28px);
+  width: 240px;
   flex: none;
-  max-height: calc(100vh - var(--nav-height) - var(--footer-height) - 36px);
-  overflow: auto;
 }
 
 .photo {
-  width: 200px;
+  width: 188px;
 }
 
 .name {
   font-family: var(--font-display);
-  font-size: 40px;
+  font-size: 36px;
   font-weight: 700;
-  letter-spacing: -0.025em;
+  letter-spacing: -0.03em;
   line-height: 1.1;
-  margin: 26px 0 0 0;
+  margin: 28px 0 0 0;
 }
 
 .role {
-  font-size: 15.5px;
+  font-size: 15px;
   line-height: 1.45;
   margin-top: 2px;
 }
@@ -44,7 +41,7 @@
 }
 
 .affil {
-  font-size: 14.5px;
+  font-size: 14px;
   color: var(--muted);
   margin-top: 10px;
 }
@@ -52,145 +49,117 @@
 .content {
   flex: 1;
   min-width: 0;
-  padding-bottom: 8px;
-}
-
-.cover {
-  margin-bottom: 30px;
-  border: 1px solid var(--hairline);
-  overflow: hidden;
-}
-
-.coverImage {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  height: auto;
-  object-fit: cover;
+  padding-top: 8px;
 }
 
 .bio {
-  font-size: 16.5px;
-  line-height: 1.75;
-  margin: 0;
-}
-
-.reach {
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.7;
-  color: var(--muted);
-  margin: 16px 0 0 0;
+  margin: 0;
+  max-width: 34rem;
 }
 
-.newsList {
-  list-style: none;
-  margin: 20px 0 0 0;
-  padding: 0;
-}
-
-.newsItem {
+.index {
   display: flex;
-  gap: 14px;
-  margin: 12px 0;
-  font-size: 15px;
-  line-height: 1.6;
+  flex-direction: column;
+  margin-top: 48px;
+  max-width: 22rem;
 }
 
-.newsDate {
-  font-family: var(--font-mono);
-  font-size: 12.5px;
-  color: var(--muted);
-  flex: none;
-  padding-top: 2px;
-}
-
-.interests {
-  margin-top: 20px;
-}
-
-.rows {
-  margin-top: 12px;
-}
-
-.studyCard {
-  margin-top: 28px;
-  border-top: 2px solid var(--ink);
-  padding-top: 18px;
-}
-
-.studyBody {
-  max-width: 560px;
-}
-
-.studyTitle {
-  font-family: var(--font-display);
-  font-size: 19px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  line-height: 1.35;
-  display: inline-block;
+.indexLink {
+  display: block;
+  padding: 16px 0;
+  border-top: 1px solid var(--hairline);
   color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  text-decoration: none;
 }
 
-.studyTitle:hover {
+.indexLink:last-child {
+  border-bottom: 1px solid var(--hairline);
+}
+
+.indexLink:hover {
   color: var(--accent);
+  text-decoration: none;
 }
 
-.studyLink {
-  display: inline-block;
-  margin-top: 14px;
-  font-size: 14px;
+.indexLabel {
+  display: block;
+  margin-bottom: 5px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
-/* Stack below the two-column breakpoint — sticky is dropped on narrow screens. */
 @media (max-width: 900px) {
   .main {
     max-width: 720px;
     padding-top: 40px;
   }
+
   .layout {
     flex-direction: column;
-    gap: 40px;
+    gap: 36px;
   }
+
   .sidebar {
     position: static;
     width: 100%;
     display: grid;
-    grid-template-columns: 150px minmax(0, 1fr);
-    column-gap: 28px;
+    grid-template-columns: 132px minmax(0, 1fr);
+    column-gap: 24px;
     align-items: center;
   }
+
   .photo {
-    width: 150px;
+    width: 132px;
     grid-row: span 5;
   }
+
   .name {
     margin-top: 0;
-    font-size: 36px;
+    font-size: 32px;
   }
+
   .role:first-of-type {
     margin-top: 8px;
   }
 
-  .cover {
-    margin-bottom: 26px;
+  .content {
+    padding-top: 0;
+  }
+
+  .index {
+    margin-top: 32px;
   }
 }
 
 @media (max-width: 560px) {
   .main {
-    padding-top: 32px;
+    padding-top: 28px;
   }
+
   .sidebar {
-    grid-template-columns: 110px minmax(0, 1fr);
-    column-gap: 20px;
+    grid-template-columns: 104px minmax(0, 1fr);
+    column-gap: 18px;
   }
+
   .photo {
-    width: 110px;
+    width: 104px;
   }
+
   .name {
-    font-size: 30px;
+    font-size: 28px;
   }
+
   .bio {
     font-size: 16px;
   }

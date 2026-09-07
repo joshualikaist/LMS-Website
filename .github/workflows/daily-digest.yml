@@ -2,8 +2,10 @@ name: Daily digest
 
 on:
   schedule:
-    # 10:00 Asia/Seoul (UTC+9)
+    # 10:00 Asia/Seoul (UTC+9). GitHub often delays this window.
     - cron: "0 1 * * *"
+    # Noon KST catch-up if the first run was skipped or late.
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -41,6 +43,12 @@ jobs:
 
       - name: Deploy production
         if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
         env:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
-        run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
+        run: |
+          if [ -z "$VERCEL_DEPLOY_HOOK" ]; then
+            echo "No deploy hook set; GitHub → Vercel integration should pick up the push."
+            exit 0
+          fi
+          curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"

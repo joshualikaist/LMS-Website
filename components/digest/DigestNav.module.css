@@ -3,8 +3,8 @@
   top: 0;
   z-index: 100;
   height: var(--nav-height);
-  border-bottom: 1px solid var(--hairline);
-  background: var(--paper-light);
+  background: #111210;
+  border-bottom: 1px solid #2a2a28;
 }
 
 .inner {
@@ -17,35 +17,51 @@
 
 .brand {
   font-family: var(--font-display);
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
-  letter-spacing: -0.01em;
-  color: var(--ink);
+  letter-spacing: -0.02em;
+  color: #f4f3ef;
 }
 
 .brand:hover {
-  color: var(--ink);
+  color: #fff;
   text-decoration: none;
 }
 
 .links {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 18px;
+  font-size: 13px;
 }
 
 .controls {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
+}
+
+.link,
+.active {
+  color: #c8c6bc;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.active {
+  color: #fff;
 }
 
 @media (max-width: 720px) {
   .links {
-    gap: 5px;
+    gap: 12px;
   }
 
   .controls {
-    gap: 6px;
+    gap: 10px;
   }
 }
