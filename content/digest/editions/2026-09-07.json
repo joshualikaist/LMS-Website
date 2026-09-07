@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "fetchedAt": "2026-09-07T05:19:08.447Z",
+  "fetchedAt": "2026-09-07T07:35:30.510Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -72,18 +72,18 @@
       ]
     },
     {
-      "id": "hn:bcantrill-dtrace-org-2025-12-05-your-intellectual-fly-is-open",
+      "id": "hn:github-com-zedeus-nitter-commit-1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
       "lane": "trend",
       "source": "Hacker News",
       "sourceId": "hn",
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 612,
+      "score": 676,
       "scoreLabel": "pts",
-      "author": "cyb0rg0",
-      "publishedAt": "2026-09-06T11:56:43.000Z",
+      "author": "zImPatrick",
+      "publishedAt": "2026-09-06T17:49:47.000Z",
       "interestHits": []
     },
     {
@@ -121,21 +121,6 @@
       ]
     },
     {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cx2z37qj4wno-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "comment": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges.",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-07T02:26:12.000Z",
-      "interestHits": []
-    },
-    {
       "id": "bbc-business:www-bbc-co-uk-news-articles-c0e3p1j7n3ro-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
@@ -147,7 +132,7 @@
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-07T00:57:38.000Z",
+      "publishedAt": "2026-09-07T06:59:57.000Z",
       "interestHits": []
     },
     {
@@ -162,8 +147,41 @@
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-06T23:34:18.000Z",
+      "publishedAt": "2026-09-07T06:25:03.000Z",
       "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cn9wyvxn95vo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Australians will be able to switch off social media algorithms under planned legislation",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, minister says.",
+      "comment": "Firms like Meta, Google and TikTok should face \"substantial\" penalties if they don't give the option, ministe…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-07T03:40:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-07",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Notes on visual design",
+      "url": "https://heydesigner.com/2026-09-07/",
+      "summary": "Teaching agents product design at Vercel, Anatomy of AI input, Branding Calendly, Delibra: Design systems library for humans and agents.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-07T06:08:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
     },
     {
       "id": "heydesigner:heydesigner-com-2026-09-04",
@@ -198,23 +216,6 @@
       "publishedAt": "2026-08-21T17:00:00.000Z",
       "interestHits": [
         "perception"
-      ]
-    },
-    {
-      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
-      "lane": "design",
-      "source": "CSS-Tricks",
-      "sourceId": "css-tricks",
-      "title": "CSS Navigation Matching, Early Days",
-      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
-      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
-      "comment": "Watch — matches navigation.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Geoff Graham",
-      "publishedAt": "2026-08-19T14:44:41.000Z",
-      "interestHits": [
-        "navigation"
       ]
     },
     {
@@ -296,7 +297,7 @@
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "comment": "Watch — matches ppo.",
-      "score": 1334,
+      "score": 1448,
       "scoreLabel": "stars",
       "author": "Rion-Wu-tech",
       "publishedAt": "2026-09-04T15:00:53Z",
@@ -339,5 +340,10 @@
       ]
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "sourceId": "css-tricks",
+      "error": "415 Unsupported Media Type for https://css-tricks.com/feed/"
+    }
+  ]
 }
