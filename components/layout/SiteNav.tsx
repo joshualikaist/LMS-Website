@@ -15,11 +15,37 @@ const LINKS = [
   { href: "/cv", label: "CV" },
 ];
 
+const HOME_LINKS = [
+  { href: "/notes", label: "Notes" },
+  { href: "/work/motar", label: "Research" },
+  { href: "/hobby", label: "Hobby" },
+  { href: "/cv", label: "CV" },
+];
+
 export default function SiteNav() {
   const pathname = usePathname();
+  const home = pathname === "/";
   const digestActive =
     !site.digestIsExternal &&
     (pathname === site.digest || pathname.startsWith(`${site.digest}/`) || pathname.startsWith("/digest"));
+
+  if (home) {
+    return (
+      <header className={`${styles.float} no-print`}>
+        <nav className={styles.pill} aria-label="Primary navigation">
+          <Link href="/" className={styles.mark} aria-label="Home">
+            ML
+          </Link>
+          {HOME_LINKS.map((l) => (
+            <Link key={l.href} href={l.href} className={styles.pillLink}>
+              {l.label}
+            </Link>
+          ))}
+          <DigestLink className={styles.pillCta}>Trend</DigestLink>
+        </nav>
+      </header>
+    );
+  }
 
   return (
     <header className={`${styles.bar} no-print`}>

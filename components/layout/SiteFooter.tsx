@@ -1,12 +1,16 @@
 "use client";
 
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { site } from "@/content/site";
 import raised from "@/styles/raised.module.css";
 import styles from "./SiteFooter.module.css";
 
 export default function SiteFooter() {
+  const pathname = usePathname();
   const [open, setOpen] = useState(false);
+
+  if (pathname === "/") return null;
 
   return (
     <footer className={`${styles.bar} no-print`}>

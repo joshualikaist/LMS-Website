@@ -1,52 +1,38 @@
-import Link from "next/link";
-import SidebarDock from "@/components/layout/SidebarDock";
 import DigestLink from "@/components/links/DigestLink";
-import ProfilePhoto from "@/components/media/ProfilePhoto";
-import { getLatestEdition } from "@/content/digest/load";
+import DroneFly from "@/components/home/DroneFly";
+import { site } from "@/content/site";
 import styles from "./page.module.css";
 
 export default function HomePage() {
-  const latest = getLatestEdition();
-  const editionLabel = latest?.date.replaceAll("-", ".") ?? "Trend";
-
   return (
-    <main className={styles.main}>
-      <div className={styles.layout}>
-        <aside className={styles.sidebar}>
-          <div className={styles.photo}>
-            <ProfilePhoto alt="Minseok Li" />
-          </div>
-          <h1 className={styles.name}>Minseok Li</h1>
-          <div className={styles.role}>Undergraduate Student</div>
-          <div className={styles.role}>Mechanical Engineering</div>
-          <div className={styles.affil}>KAIST · Daejeon, South Korea</div>
-          <SidebarDock />
-        </aside>
-
-        <div className={styles.content}>
-          <p className={styles.bio}>
-            Mechanical engineering at <b>KAIST</b>. I work with the Field AI &amp; Robotics Lab on
-            learning-based UAV navigation.
-          </p>
-
-          <nav className={styles.index} aria-label="Open a page">
-            <Link href="/work/motar" className={styles.indexLink}>
-              <span className={styles.indexLabel}>Research</span>
-              MOTAR
-            </Link>
-            <Link href="/work/mesc" className={styles.indexLink}>
-              <span className={styles.indexLabel}>Project</span>
-              MESC
-            </Link>
-            <Link href="/notes" className={styles.indexLink}>
-              <span className={styles.indexLabel}>Writing</span>
-              Notes
-            </Link>
-            <DigestLink className={styles.indexLink}>
-              <span className={styles.indexLabel}>Daily</span>
-              {latest ? `Trend  ${editionLabel}` : "Trend"}
-            </DigestLink>
-          </nav>
+    <main className={styles.stage} data-home>
+      <DroneFly />
+      <div className={styles.veil} />
+      <div className={styles.copy}>
+        <p className={styles.kicker}>KAIST · Daejeon</p>
+        <h1 className={styles.name}>Minseok Li</h1>
+        <p className={styles.line}>mechanical engineering, field robotics</p>
+        <nav className={styles.social} aria-label="Profiles">
+          <a href={site.github} target="_blank" rel="noreferrer">
+            GitHub
+          </a>
+          {site.instagram ? (
+            <a href={site.instagram} target="_blank" rel="noreferrer">
+              Instagram
+            </a>
+          ) : null}
+          {site.linkedin ? (
+            <a href={site.linkedin} target="_blank" rel="noreferrer">
+              LinkedIn
+            </a>
+          ) : null}
+          {site.email ? <a href={`mailto:${site.email}`}>Email</a> : null}
+        </nav>
+        <div className={styles.actions}>
+          <a href="/work/motar" className={styles.primary}>
+            MOTAR
+          </a>
+          <DigestLink className={styles.ghost}>Trend</DigestLink>
         </div>
       </div>
     </main>

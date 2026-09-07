@@ -27,9 +27,12 @@ function leadStory(edition: DigestEdition): DigestItem | null {
   return ranked[0] ?? null;
 }
 
-function sourceMark(source: string) {
-  const letters = source.replace(/[^A-Za-z0-9]/g, "");
-  return (letters.slice(0, 2) || "TR").toUpperCase();
+function articleLine(item: DigestItem) {
+  const summary = item.summary?.trim();
+  if (summary) return summary;
+  const comment = item.comment?.trim();
+  if (comment && !comment.startsWith("Watch —")) return comment;
+  return `From ${item.source}.`;
 }
 
 function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) {
@@ -48,12 +51,10 @@ function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) 
           {items.map((item) => (
             <li key={item.id} className={styles.newsItem}>
               <a href={item.url} target="_blank" rel="noreferrer" className={styles.newsLink}>
-                <span className={styles.newsCopy}>
-                  <span className={styles.headline}>{item.title}</span>
+                <span className={styles.headline}>{item.title}</span>
+                <span className={styles.dek}>
                   <span className={styles.newsSource}>{item.source}</span>
-                </span>
-                <span className={`${styles.thumb} ${styles[`thumb_${lane}`]}`} aria-hidden="true">
-                  {sourceMark(item.source)}
+                  {articleLine(item)}
                 </span>
               </a>
             </li>
@@ -94,7 +95,7 @@ export default function DigestView({
               <span>{lead.source}</span>
             </div>
             <h1 className={styles.bannerTitle}>{lead.title}</h1>
-            <p className={styles.bannerDeck}>{lead.comment || lead.summary || `From ${lead.source}.`}</p>
+            <p className={styles.bannerDeck}>{articleLine(lead)}</p>
             <span className={styles.bannerContinue}>Continue reading</span>
           </div>
         </a>
