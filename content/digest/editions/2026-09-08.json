@@ -1,0 +1,354 @@
+{
+  "date": "2026-09-08",
+  "fetchedAt": "2026-09-08T05:23:03.887Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-06-travis-kalanicks-atoms-might-be-getting-into-the-robot",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:danluu-com-agentic-testing",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 36,
+      "scoreLabel": "pts",
+      "author": "vinhnx",
+      "publishedAt": "2026-09-08T02:58:16.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-06-authors-push-back-as-publishers-and-agents-seek-share-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anthony Ha",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:lax-skyline-parcelscope-net",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 260,
+      "scoreLabel": "pts",
+      "author": "rustywasm",
+      "publishedAt": "2026-09-07T18:52:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:jellyfin-org-posts-jellyfin-release-12-0",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 217,
+      "scoreLabel": "pts",
+      "author": "0xC0ncord",
+      "publishedAt": "2026-09-08T01:56:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-03-nvidia-to-buy-hugging-face-in-129bn-d",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearl…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Robins-Early and agencies",
+      "publishedAt": "2026-09-03T16:59:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-02-teamsters-union-republican-endorsement",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
+      "summary": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024 The powerful Teamsters union is backing Republican candi…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-09-02T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cq5x30003zdo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'JLR job cuts a cause for uncertainty and worry'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Experts say they worry it could limit the company's ability to innovate in the future.",
+      "comment": "Experts say they worry it could limit the company's ability to innovate in the future.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T04:57:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c8jdev0422jo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "comment": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T04:39:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c4gj8xx5010o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "comment": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neigh…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T00:48:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-07",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Notes on visual design",
+      "url": "https://heydesigner.com/2026-09-07/",
+      "summary": "Teaching agents product design at Vercel, Anatomy of AI input, Branding Calendly, Delibra: Design systems library for humans and agents.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-07T06:08:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "url": "https://heydesigner.com/2026-09-04/",
+      "summary": "Try these 10 skills, DialKit: Tune interfaces in real time, Design system contracts, The four modes of thinking with AI.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-04T06:31:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ai-generated-images-utm-source-rss-amp-utm-medium-feed-",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "comment": "Watch — matches perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Banawa",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "perception"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-03",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Gestalt principles for visual UI design",
+      "url": "https://heydesigner.com/2026-09-03/",
+      "summary": "Looogos: Logo design inspiration, My view on design engineering, CSS is still awesome, eve: The framework for building agents.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-03T05:22:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "comment": "Watch — matches ppo.",
+      "score": 1866,
+      "scoreLabel": "stars",
+      "author": "Rion-Wu-tech",
+      "publishedAt": "2026-09-04T15:00:53Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-boardui-boardui",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "BoardUI/boardui",
+      "url": "https://github.com/BoardUI/boardui",
+      "summary": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
+      "comment": "Watch — matches design system, agent.",
+      "score": 381,
+      "scoreLabel": "stars",
+      "author": "BoardUI",
+      "publishedAt": "2026-09-01T23:26:56Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-anthropics-commerce-agents",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "anthropics/commerce-agents",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "comment": "Watch — matches agent.",
+      "score": 2434,
+      "scoreLabel": "stars",
+      "author": "anthropics",
+      "publishedAt": "2026-09-01T12:30:12Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-tigerless-labs-agent-memory",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "tigerless-labs/agent-memory",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 526,
+      "scoreLabel": "stars",
+      "author": "tigerless-labs",
+      "publishedAt": "2026-09-01T21:52:29Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-earlgreyhot1701d-future-aws-agent-engineer-i-didnt-write-the-code-does-it",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Future AWS Agent Engineer? I Didn't Write the Code. Does It Count?",
+      "url": "https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib",
+      "summary": "A few weeks ago I wrote about hitting ReAct in the coursework and having a record scratch moment,...",
+      "comment": "Watch — matches agent.",
+      "score": 3,
+      "scoreLabel": "rxn",
+      "author": "Earl Grey",
+      "publishedAt": "2026-09-07T23:03:59Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
