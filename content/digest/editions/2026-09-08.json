@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "fetchedAt": "2026-09-08T05:23:03.887Z",
+  "fetchedAt": "2026-09-08T07:28:24.108Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -29,10 +29,27 @@
       "url": "https://danluu.com/agentic-testing/",
       "summary": null,
       "comment": "Watch — matches agent.",
-      "score": 36,
+      "score": 58,
       "scoreLabel": "pts",
       "author": "vinhnx",
       "publishedAt": "2026-09-08T02:58:16.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:github-com-tauricresearch-tradingagents",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 21,
+      "scoreLabel": "pts",
+      "author": "fittingopposite",
+      "publishedAt": "2026-09-08T05:20:23.000Z",
       "interestHits": [
         "agent"
       ]
@@ -55,33 +72,18 @@
       ]
     },
     {
-      "id": "hn:lax-skyline-parcelscope-net",
+      "id": "hn:mcpherrin-ca-2026-09-07-rsa-html",
       "lane": "trend",
       "source": "Hacker News",
       "sourceId": "hn",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 260,
+      "score": 262,
       "scoreLabel": "pts",
-      "author": "rustywasm",
-      "publishedAt": "2026-09-07T18:52:06.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "hn:jellyfin-org-posts-jellyfin-release-12-0",
-      "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "summary": null,
-      "comment": "From Hacker News.",
-      "score": 217,
-      "scoreLabel": "pts",
-      "author": "0xC0ncord",
-      "publishedAt": "2026-09-08T01:56:35.000Z",
+      "author": "ahlCVA",
+      "publishedAt": "2026-09-08T01:16:59.000Z",
       "interestHits": []
     },
     {
@@ -119,6 +121,21 @@
       ]
     },
     {
+      "id": "npr-business:www-npr-org-2026-09-08-nx-s1-5960990-canada-escalating-trade-war-us",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "What to know about Canada's escalating trade war with the U.S.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+      "summary": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada.",
+      "comment": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S.…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "The Associated Press",
+      "publishedAt": "2026-09-08T06:04:43.000Z",
+      "interestHits": []
+    },
+    {
       "id": "bbc-business:www-bbc-co-uk-news-articles-cq5x30003zdo-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
@@ -146,21 +163,6 @@
       "scoreLabel": null,
       "author": null,
       "publishedAt": "2026-09-08T04:39:14.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-c4gj8xx5010o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
-      "comment": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neigh…",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-08T00:48:43.000Z",
       "interestHits": []
     },
     {
@@ -234,18 +236,18 @@
       ]
     },
     {
-      "id": "heydesigner:heydesigner-com-2026-09-03",
+      "id": "heydesigner:heydesigner-com-2026-09-08",
       "lane": "design",
       "source": "Hey Designer",
       "sourceId": "heydesigner",
-      "title": "Gestalt principles for visual UI design",
-      "url": "https://heydesigner.com/2026-09-03/",
-      "summary": "Looogos: Logo design inspiration, My view on design engineering, CSS is still awesome, eve: The framework for building agents.",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
       "comment": "Watch — matches agent.",
       "score": null,
       "scoreLabel": null,
       "author": "Tamas Sari",
-      "publishedAt": "2026-09-03T05:22:00.000Z",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
       "interestHits": [
         "agent"
       ]
@@ -259,7 +261,7 @@
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "comment": "Watch — matches ppo.",
-      "score": 1866,
+      "score": 1881,
       "scoreLabel": "stars",
       "author": "Rion-Wu-tech",
       "publishedAt": "2026-09-04T15:00:53Z",
@@ -276,7 +278,7 @@
       "url": "https://github.com/BoardUI/boardui",
       "summary": "React design system for agentic interfaces. Every free BoardUI component as source, with a working AI chat app on your own model key as the homepage.",
       "comment": "Watch — matches design system, agent.",
-      "score": 381,
+      "score": 383,
       "scoreLabel": "stars",
       "author": "BoardUI",
       "publishedAt": "2026-09-01T23:26:56Z",
@@ -294,7 +296,7 @@
       "url": "https://github.com/anthropics/commerce-agents",
       "summary": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
       "comment": "Watch — matches agent.",
-      "score": 2434,
+      "score": 2453,
       "scoreLabel": "stars",
       "author": "anthropics",
       "publishedAt": "2026-09-01T12:30:12Z",
@@ -311,7 +313,7 @@
       "url": "https://github.com/tigerless-labs/agent-memory",
       "summary": null,
       "comment": "Watch — matches agent.",
-      "score": 526,
+      "score": 558,
       "scoreLabel": "stars",
       "author": "tigerless-labs",
       "publishedAt": "2026-09-01T21:52:29Z",
@@ -328,7 +330,7 @@
       "url": "https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib",
       "summary": "A few weeks ago I wrote about hitting ReAct in the coursework and having a record scratch moment,...",
       "comment": "Watch — matches agent.",
-      "score": 3,
+      "score": 5,
       "scoreLabel": "rxn",
       "author": "Earl Grey",
       "publishedAt": "2026-09-07T23:03:59Z",
