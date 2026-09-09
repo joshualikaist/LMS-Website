@@ -1,0 +1,348 @@
+{
+  "date": "2026-09-09",
+  "fetchedAt": "2026-09-09T05:24:45.814Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:ai-meta-com-muse",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 409,
+      "scoreLabel": "pts",
+      "author": "yks",
+      "publishedAt": "2026-09-08T19:25:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-08-meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of w…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:cims-nyu-edu-tristanb-statement-pdf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1464,
+      "scoreLabel": "pts",
+      "author": "procedurecall",
+      "publishedAt": "2026-09-08T05:42:28.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:blog-google-innovation-and-ai-models-and-research-google-deepmind-alphagenome-at",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 524,
+      "scoreLabel": "pts",
+      "author": "utiiiD",
+      "publishedAt": "2026-09-08T14:55:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:nishantjosh-dev-blogs-how-to-build-a-fking-printer",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 226,
+      "scoreLabel": "pts",
+      "author": "cat-whisperer",
+      "publishedAt": "2026-09-08T21:22:11.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c87ve09pgqzo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The Japanese brewer plans to shift non-alcoholic beer brewing to the US from Canada as tariffs bite",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T17:41:42.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-sections-planet-money-2026-09-08-g-s1-142029-has-the-economy-gone-c-",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Has the economy gone C-shaped?",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+      "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Paddy Hirsch",
+      "publishedAt": "2026-09-08T10:30:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-03-nvidia-to-buy-hugging-face-in-129bn-d",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia to buy developer platform Hugging Face in $12.9bn deal",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "summary": "Semi-conductor giant bets that support for open AI models could offset potential slowdown in demand for chips Nvidia will buy the popular developer platform Hugging Face for nearl…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Robins-Early and agencies",
+      "publishedAt": "2026-09-03T16:59:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-08-brian-kelly-bracket22-ai-agents-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T21:59:13.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-clykjmjm6m0o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Cowboy builder tore my home apart and disappeared off the face of the earth with £14k",
+      "url": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
+      "comment": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-09T05:00:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-07",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Notes on visual design",
+      "url": "https://heydesigner.com/2026-09-07/",
+      "summary": "Teaching agents product design at Vercel, Anatomy of AI input, Branding Calendly, Delibra: Design systems library for humans and agents.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-07T06:08:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Designing Grok Bot for a world of persistent agents",
+      "url": "https://heydesigner.com/2026-09-04/",
+      "summary": "Try these 10 skills, DialKit: Tune interfaces in real time, Design system contracts, The four modes of thinking with AI.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-04T06:31:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ai-generated-images-utm-source-rss-amp-utm-medium-feed-",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "comment": "Watch — matches perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Banawa",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "perception"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-08",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-artificial-intelligence-glossary-utm-source-rss-amp-utm",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Artificial Intelligence: Glossary",
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-05593",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Adaptive Cost-Sensitive Machine Learning for Autonomous Robot Navigation Failure Prediction: When Not All Errors Are Equal",
+      "url": "https://arxiv.org/abs/2609.05593",
+      "summary": "arXiv:2609.05593v1 Announce Type: new Abstract: Autonomous robot navigation failures differ not only in categorical severity but also in the physical context in which they occur.…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rifa Ferzana",
+      "publishedAt": "2026-09-09T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "comment": "Watch — matches ppo.",
+      "score": 1952,
+      "scoreLabel": "stars",
+      "author": "Rion-Wu-tech",
+      "publishedAt": "2026-09-04T15:00:53Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-05569",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Information-Guided Safe Reinforcement Learning for Autonomous Gas Source Localization using sUAS",
+      "url": "https://arxiv.org/abs/2609.05569",
+      "summary": "arXiv:2609.05569v1 Announce Type: new Abstract: The autonomous localization of fugitive gas emissions using small Unmanned Aircraft Systems (sUAS) constitutes a fundamentally ill-…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sachin Giri, Thomas Zhao, Matthew Huynh, YangQuan Chen",
+      "publishedAt": "2026-09-09T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-05650",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Endogenous Exploration in Reinforcement Learning with Intrinsic Curiosity",
+      "url": "https://arxiv.org/abs/2609.05650",
+      "summary": "arXiv:2609.05650v1 Announce Type: new Abstract: We propose a reinforcement learning framework in which exploration is driven by intrinsic curiosity, designed for scenarios where e…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Armando Vieira",
+      "publishedAt": "2026-09-09T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-05459",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Compiling VGDL into Causal Models",
+      "url": "https://arxiv.org/abs/2609.05459",
+      "summary": "arXiv:2609.05459v1 Announce Type: new Abstract: Reinforcement learning and large language models often struggle to accurately capture the causal mechanics of game environments. St…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Mohit Jiwatode, Bodo Rosenhahn, Alexander Dockhorn",
+      "publishedAt": "2026-09-09T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "css-tricks",
+      "error": "415 Unsupported Media Type for https://css-tricks.com/feed/"
+    }
+  ]
+}
