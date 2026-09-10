@@ -1,5 +1,7 @@
 .stage {
-  position: relative;
+  display: grid;
+  grid-template-columns: minmax(280px, 42vw) minmax(0, 1fr);
+  grid-template-areas: "copy drone";
   min-height: 100dvh;
   overflow: hidden;
   color: #14202a;
@@ -7,14 +9,15 @@
 }
 
 .copy {
+  grid-area: copy;
   position: relative;
   z-index: 2;
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-height: 100dvh;
-  padding: 108px 8vw 72px;
-  max-width: 40rem;
+  padding: 108px 7vw 72px 8vw;
+  max-width: 36rem;
   pointer-events: none;
 }
 
@@ -116,11 +119,18 @@
   border-color: #14202a;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 860px) {
+  .stage {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "drone"
+      "copy";
+  }
+
   .copy {
-    padding: 96px 22px 56px;
-    justify-content: flex-end;
-    padding-bottom: 80px;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.82) 42%, #fff 100%);
+    min-height: auto;
+    padding: 28px 22px 72px;
+    justify-content: flex-start;
+    max-width: none;
   }
 }
