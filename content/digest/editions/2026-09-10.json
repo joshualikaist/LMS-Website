@@ -1,0 +1,339 @@
+{
+  "date": "2026-09-10",
+  "fetchedAt": "2026-09-10T05:22:53.148Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:www-apple-com-iphone-duo",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1057,
+      "scoreLabel": "pts",
+      "author": "thecosmicfrog",
+      "publishedAt": "2026-09-09T18:15:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:tailwindcss-com-blog-tailwind-is-joining-shopify",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 965,
+      "scoreLabel": "pts",
+      "author": "EdwinHoksberg",
+      "publishedAt": "2026-09-09T13:27:11.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:tautology-town-2026-06-01-card-networks-html",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 455,
+      "scoreLabel": "pts",
+      "author": "evakhoury",
+      "publishedAt": "2026-09-08T18:11:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-apple-com-newsroom-2026-09-apple-introduces-airpods-5-with-best-in-class-ope",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 420,
+      "scoreLabel": "pts",
+      "author": "awad",
+      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-nomanssky-com-cosmos-update",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "No Man's Sky Cosmos",
+      "url": "https://www.nomanssky.com/cosmos-update/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 338,
+      "scoreLabel": "pts",
+      "author": "Limb",
+      "publishedAt": "2026-09-09T15:47:42.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-sections-planet-money-2026-09-08-g-s1-142029-has-the-economy-gone-c-",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Has the economy gone C-shaped?",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+      "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Paddy Hirsch",
+      "publishedAt": "2026-09-08T10:30:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c74edv9887eo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-09T23:17:33.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-08-brian-kelly-bracket22-ai-agents-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+      "url": "https://www.cnbc.com/2026/09/08/brian-kelly-bracket22-ai-agents.html",
+      "summary": "It's a stark example of a growing reality on Wall Street as firms test the benefits and limits of AI in finance and on their employees.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-08T21:59:13.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c7v4lq969llo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "comment": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-10T00:06:33.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cn5dew594n6o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The one thing you need to do to succeed - according to top bosses",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "comment": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-09T23:02:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-07",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Notes on visual design",
+      "url": "https://heydesigner.com/2026-09-07/",
+      "summary": "Teaching agents product design at Vercel, Anatomy of AI input, Branding Calendly, Delibra: Design systems library for humans and agents.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-07T06:08:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ai-generated-images-utm-source-rss-amp-utm-medium-feed-",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+      "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "When users didn’t know whether an image was AI-generated, the images we tested did not create any perception penalty compared to stock photos.",
+      "comment": "Watch — matches perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Banawa",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "perception"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-08",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-artificial-intelligence-glossary-utm-source-rss-amp-utm",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Artificial Intelligence: Glossary",
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-09234",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning to Fly: Stable Vision-Guided UAV Servoing with Compact Target-Centric Cues and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.09234",
+      "summary": "arXiv:2609.09234v1 Announce Type: new Abstract: Vision-guided reinforcement learning for Unmanned Aerial Vehicles (UAVs) remains challenging due to unstable policy optimisation, a…",
+      "comment": "Watch — matches uav, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Saurbh Singh Jamwal, Nived Chebrolu",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "interestHits": [
+        "uav",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-09380",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "AccelMPC: High-Rate, Low-Power FPGA-Accelerated Model Predictive Control for Tiny Drones",
+      "url": "https://arxiv.org/abs/2609.09380",
+      "summary": "arXiv:2609.09380v1 Announce Type: new Abstract: Unlocking the potential of tiny aerial robots requires order of magnitude improvements in the performance of embedded edge control.…",
+      "comment": "Watch — matches drone, robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Andrea Grillo, Brian Plancher",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "interestHits": [
+        "drone",
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-09492",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Actuator Dynamics Curricula for Narrow-Viability Tasks in Legged Robot Learning",
+      "url": "https://arxiv.org/abs/2609.09492",
+      "summary": "arXiv:2609.09492v1 Announce Type: new Abstract: Reinforcement learning has produced capable controllers across a broad range of legged-robot tasks, but a subset of these tasks fai…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kousheek Chakraborty, Chandan K. Rajendra, Ayham Alharbat, Abeje Y. Mersha",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Rion-Wu-tech/wechat-intelligence-hub",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
+      "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "comment": "Watch — matches ppo.",
+      "score": 2033,
+      "scoreLabel": "stars",
+      "author": "Rion-Wu-tech",
+      "publishedAt": "2026-09-04T15:00:53Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-09374",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "summary": "arXiv:2609.09374v1 Announce Type: new Abstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while si…",
+      "comment": "Watch — matches navigation, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Samira Alkaee Taleghan, Younghyun Koo, Farnoush Banaei-Kashani",
+      "publishedAt": "2026-09-10T04:00:00.000Z",
+      "interestHits": [
+        "navigation",
+        "agent"
+      ]
+    }
+  ],
+  "failures": []
+}
