@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { DigestEdition, DigestItem, DigestLane } from "@/content/digest/types";
 import { ITEMS_PER_LANE, LANE_LABEL, LANE_ORDER } from "@/content/digest/types";
 import s from "@/styles/shared.module.css";
+import EditionCalendar from "./EditionCalendar";
 import styles from "./DigestView.module.css";
 
 const displayDate = (isoDate: string) => isoDate.replaceAll("-", ".");
@@ -104,11 +105,13 @@ export default function DigestView({
       <div className={`pageWide ${styles.shell}`}>
         <div className={styles.sectionHead}>
           <h2 className={styles.sectionTitle}>Your News</h2>
-          <span className={styles.sectionNote}>{fetchedClock(edition.fetchedAt)} KST</span>
+          <span className={styles.sectionNote}>
+            {displayDate(edition.date)} · {fetchedClock(edition.fetchedAt)} KST
+          </span>
         </div>
 
         <div className={styles.board}>
-          <aside className={styles.follow} aria-label="Lanes">
+          <aside className={styles.follow} aria-label="Lanes and editions">
             <div className={styles.followKicker}>Follow lanes</div>
             <p className={styles.followLead}>Four desks. Five links each.</p>
             <div className={styles.pills}>
@@ -119,9 +122,8 @@ export default function DigestView({
                 </a>
               ))}
             </div>
-            <div className={styles.followMeta}>
-              {latest ? <span>Latest</span> : <span>{displayDate(edition.date)}</span>}
-              {edition.failures?.length ? <span>{edition.failures.length} miss</span> : null}
+            <div className={styles.calSlot}>
+              <EditionCalendar key={edition.date} dates={dates} current={edition.date} />
             </div>
           </aside>
 
