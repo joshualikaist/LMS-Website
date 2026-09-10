@@ -62,7 +62,7 @@ export default function SiteNav() {
   }, [focusId, moveTo]);
 
   return (
-    <header className={`${styles.float} no-print`}>
+    <header className={`${styles.float} ${pathname === "/" ? styles.onHome : ""} no-print`}>
       <nav
         ref={navRef}
         className={styles.pill}

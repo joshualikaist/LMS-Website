@@ -7,7 +7,6 @@ export default function HomePage() {
   return (
     <main className={styles.stage} data-home>
       <DroneFly />
-      <div className={styles.veil} />
       <div className={styles.copy}>
         <p className={styles.kicker}>KAIST · Daejeon</p>
         <h1 className={styles.name}>Minseok Li</h1>

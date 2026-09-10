@@ -79,6 +79,33 @@
   color: #111;
 }
 
+.onHome .pill {
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(20, 32, 44, 0.12);
+  box-shadow: 0 8px 28px rgba(20, 32, 44, 0.08);
+}
+
+.onHome .item {
+  color: #3d4f5e;
+}
+
+.onHome .item:hover {
+  color: #14202a;
+}
+
+.onHome .on {
+  color: #111;
+}
+
+.onHome .on:hover {
+  color: #111;
+}
+
+.onHome .slider {
+  background: #fff;
+  box-shadow: 0 1px 6px rgba(20, 32, 44, 0.1);
+}
+
 .hit {
   color: inherit;
   text-decoration: none;

@@ -77,7 +77,7 @@ body {
 
 body:has([data-home]) {
   padding-bottom: 0;
-  background: #7ea0b8;
+  background: #ffffff;
 }
 
 body:has([data-sky]) {

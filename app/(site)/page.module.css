@@ -2,16 +2,8 @@
   position: relative;
   min-height: 100dvh;
   overflow: hidden;
-  color: #f7fbff;
-  background: #7ea0b8;
-}
-
-.veil {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  pointer-events: none;
-  background: linear-gradient(90deg, rgba(18, 42, 64, 0.22) 0%, rgba(18, 42, 64, 0.04) 46%, rgba(18, 42, 64, 0) 100%);
+  color: #14202a;
+  background: #fff;
 }
 
 .copy {
@@ -23,6 +15,12 @@
   min-height: 100dvh;
   padding: 108px 8vw 72px;
   max-width: 40rem;
+  pointer-events: none;
+}
+
+.copy a,
+.copy .actions {
+  pointer-events: auto;
 }
 
 .kicker {
@@ -31,7 +29,7 @@
   font-size: 11px;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: rgba(244, 247, 251, 0.62);
+  color: #6a7a88;
 }
 
 .name {
@@ -41,8 +39,7 @@
   font-weight: 700;
   letter-spacing: -0.045em;
   line-height: 0.95;
-  color: #fff;
-  text-shadow: 0 8px 40px rgba(4, 16, 28, 0.35);
+  color: #14202a;
 }
 
 .line {
@@ -53,7 +50,7 @@
   font-weight: 400;
   letter-spacing: -0.02em;
   line-height: 1.25;
-  color: rgba(255, 255, 255, 0.88);
+  color: #3d4f5e;
 }
 
 .social {
@@ -64,14 +61,14 @@
 }
 
 .social a {
-  color: rgba(244, 247, 251, 0.78);
+  color: #3d4f5e;
   font-size: 14px;
   letter-spacing: 0.04em;
   text-decoration: none;
 }
 
 .social a:hover {
-  color: #fff;
+  color: #14202a;
   text-decoration: none;
 }
 
@@ -104,19 +101,19 @@
 .primary:hover {
   color: #fff;
   text-decoration: none;
-  filter: brightness(1.15);
+  filter: brightness(1.12);
 }
 
 .ghost {
-  color: #fff;
-  border: 1px solid rgba(255, 255, 255, 0.45);
-  background: rgba(255, 255, 255, 0.08);
+  color: #14202a;
+  border: 1px solid rgba(20, 32, 42, 0.28);
+  background: transparent;
 }
 
 .ghost:hover {
-  color: #fff;
+  color: #14202a;
   text-decoration: none;
-  border-color: #fff;
+  border-color: #14202a;
 }
 
 @media (max-width: 720px) {
@@ -124,5 +121,6 @@
     padding: 96px 22px 56px;
     justify-content: flex-end;
     padding-bottom: 80px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.82) 42%, #fff 100%);
   }
 }
