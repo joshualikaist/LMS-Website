@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "fetchedAt": "2026-09-10T05:22:53.148Z",
+  "fetchedAt": "2026-09-10T07:32:37.806Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -12,7 +12,7 @@
       "url": "https://www.apple.com/iphone-duo/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 1057,
+      "score": 1150,
       "scoreLabel": "pts",
       "author": "thecosmicfrog",
       "publishedAt": "2026-09-09T18:15:43.000Z",
@@ -27,7 +27,7 @@
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 965,
+      "score": 1004,
       "scoreLabel": "pts",
       "author": "EdwinHoksberg",
       "publishedAt": "2026-09-09T13:27:11.000Z",
@@ -42,40 +42,40 @@
       "url": "https://tautology.town/2026/06/01/card-networks.html",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 455,
+      "score": 494,
       "scoreLabel": "pts",
       "author": "evakhoury",
       "publishedAt": "2026-09-08T18:11:05.000Z",
       "interestHits": []
     },
     {
-      "id": "hn:www-apple-com-newsroom-2026-09-apple-introduces-airpods-5-with-best-in-class-ope",
+      "id": "hn:spectrum-ieee-org-are-self-driving-cars-safe",
       "lane": "trend",
       "source": "Hacker News",
       "sourceId": "hn",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 420,
+      "score": 320,
       "scoreLabel": "pts",
-      "author": "awad",
-      "publishedAt": "2026-09-09T17:39:24.000Z",
+      "author": "bookofjoe",
+      "publishedAt": "2026-09-09T17:14:59.000Z",
       "interestHits": []
     },
     {
-      "id": "hn:www-nomanssky-com-cosmos-update",
+      "id": "hn:rivendell-dmitrybrant-com-relativity",
       "lane": "trend",
       "source": "Hacker News",
       "sourceId": "hn",
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 338,
+      "score": 246,
       "scoreLabel": "pts",
-      "author": "Limb",
-      "publishedAt": "2026-09-09T15:47:42.000Z",
+      "author": "dmitrybrant",
+      "publishedAt": "2026-09-10T01:58:00.000Z",
       "interestHits": []
     },
     {
@@ -130,33 +130,33 @@
       ]
     },
     {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-c7v4lq969llo-at-medium-rss-amp-at-campaign-rss",
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c3wjnv3z8nxo-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
       "sourceId": "bbc-business",
-      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
-      "comment": "The TUC says a bank surcharge should be reversed - and estimates it would raise £9bn over four years.",
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
+      "comment": "The government is expected to detail how local leaders will be able to impose levies on overnight stays.",
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-10T00:06:33.000Z",
+      "publishedAt": "2026-09-10T07:17:03.000Z",
       "interestHits": []
     },
     {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cn5dew594n6o-at-medium-rss-amp-at-campaign-rss",
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c89jdl0j5x4o-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
       "sourceId": "bbc-business",
-      "title": "The one thing you need to do to succeed - according to top bosses",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
-      "comment": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
+      "title": "Primark takes further step into online shopping with home deliveries",
+      "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
+      "comment": "The retailer launches the service four years after making its first foray into internet shopping.",
       "score": null,
       "scoreLabel": null,
       "author": null,
-      "publishedAt": "2026-09-09T23:02:20.000Z",
+      "publishedAt": "2026-09-10T07:15:28.000Z",
       "interestHits": []
     },
     {
@@ -212,6 +212,23 @@
       ]
     },
     {
+      "id": "heydesigner:heydesigner-com-2026-09-10",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design principles vs. the principles of design",
+      "url": "https://heydesigner.com/2026-09-10/",
+      "summary": "How much should you charge for web design (video), Building data-driven design systems, Building a cloud prototyping environment, Using maths to balance your heading styles",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-10T07:14:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
       "id": "heydesigner:heydesigner-com-2026-09-08",
       "lane": "design",
       "source": "Hey Designer",
@@ -224,23 +241,6 @@
       "scoreLabel": null,
       "author": "Tamas Sari",
       "publishedAt": "2026-09-08T06:57:00.000Z",
-      "interestHits": [
-        "agent"
-      ]
-    },
-    {
-      "id": "nngroup:www-nngroup-com-articles-artificial-intelligence-glossary-utm-source-rss-amp-utm",
-      "lane": "design",
-      "source": "Nielsen Norman Group",
-      "sourceId": "nngroup",
-      "title": "Artificial Intelligence: Glossary",
-      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
-      "summary": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
-      "comment": "Watch — matches agent.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Caleb Sponheim",
-      "publishedAt": "2026-08-21T17:00:00.000Z",
       "interestHits": [
         "agent"
       ]
@@ -308,7 +308,7 @@
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "comment": "Watch — matches ppo.",
-      "score": 2033,
+      "score": 2036,
       "scoreLabel": "stars",
       "author": "Rion-Wu-tech",
       "publishedAt": "2026-09-04T15:00:53Z",
