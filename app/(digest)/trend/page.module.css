@@ -3,6 +3,10 @@
   padding-bottom: 24px;
 }
 
+.empty {
+  padding-top: 88px;
+}
+
 .pending {
   margin-top: 28px;
   color: var(--muted);

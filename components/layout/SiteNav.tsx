@@ -34,6 +34,11 @@ function isActive(pathname: string, item: NavItem) {
 
 export default function SiteNav() {
   const pathname = usePathname();
+  const onPaper =
+    pathname === "/" ||
+    pathname === site.digest ||
+    pathname.startsWith(`${site.digest}/`) ||
+    pathname.startsWith("/digest");
   const navRef = useRef<HTMLElement>(null);
   const itemRefs = useRef<Record<string, HTMLElement | null>>({});
   const [focusId, setFocusId] = useState(() => ITEMS.find((item) => isActive(pathname, item))?.id ?? "home");
@@ -62,7 +67,7 @@ export default function SiteNav() {
   }, [focusId, moveTo]);
 
   return (
-    <header className={`${styles.float} ${pathname === "/" ? styles.onHome : ""} no-print`}>
+    <header className={`${styles.float} ${onPaper ? styles.onHome : ""} no-print`}>
       <nav
         ref={navRef}
         className={styles.pill}

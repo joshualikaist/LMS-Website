@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ThemeToggle from "@/components/theme/ThemeToggle";
 import styles from "./DigestFooter.module.css";
 
 export default function DigestFooter() {
@@ -10,9 +11,12 @@ export default function DigestFooter() {
           <span className={styles.dot}>·</span>
           <span>Daily 10:00 KST</span>
         </div>
-        <Link href="/" className={styles.back}>
-          Portfolio
-        </Link>
+        <div className={styles.right}>
+          <ThemeToggle />
+          <Link href="/" className={styles.back}>
+            Home
+          </Link>
+        </div>
       </div>
     </footer>
   );

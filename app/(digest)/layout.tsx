@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import DigestFooter from "@/components/digest/DigestFooter";
-import DigestNav from "@/components/digest/DigestNav";
+import SiteNav from "@/components/layout/SiteNav";
 
 export const metadata: Metadata = {
   title: {
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 export default function DigestLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
-      <DigestNav />
+      <SiteNav />
       {children}
       <DigestFooter />
     </>

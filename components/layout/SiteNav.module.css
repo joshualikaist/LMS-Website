@@ -119,8 +119,37 @@
 }
 
 @media (max-width: 560px) {
+  .float {
+    padding: 12px 8px 0;
+  }
+
+  .pill {
+    gap: 0;
+    padding: 4px;
+  }
+
   .item {
-    padding: 0 10px;
+    min-height: 30px;
+    padding: 0 8px;
     font-size: 12px;
+  }
+}
+
+@media (max-width: 400px) {
+  .float {
+    padding: 12px 6px 0;
+  }
+
+  .pill {
+    max-width: calc(100vw - 12px);
+  }
+
+  .item {
+    padding: 0 5px;
+    font-size: 11px;
+  }
+
+  .mark {
+    letter-spacing: 0.04em;
   }
 }

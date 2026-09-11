@@ -18,7 +18,7 @@ export default function TrendPage() {
       {edition ? (
         <DigestView edition={edition} dates={dates} latest />
       ) : (
-        <div className="pageWide">
+        <div className={`pageWide ${styles.empty}`}>
           <p className={s.kicker}>MORNING EDITION · 10:00 KST</p>
           <h1 className={s.h1}>Trend</h1>
           <p className={s.lead}>
