@@ -1,0 +1,32 @@
+---
+description: Experiment on lab first; ship to production only when asked
+alwaysApply: true
+---
+
+# Lab first, production only on request
+
+This site has two tracks:
+
+- **lab** → https://joshualisky-lab.vercel.app — experiments
+- **main** → https://joshualisky.vercel.app — production
+
+## Always
+
+1. Work on the `lab` branch.
+2. Commit and push to `origin/lab` so the lab URL updates.
+3. Stop there. Tell the user what changed and that it is on lab. Give the lab URL.
+4. Wait. Do not merge to `main`, push `main`, or retarget `joshualisky.vercel.app` unless the user explicitly asks to deploy / 배포 / 메인에 올려.
+
+## Deploy (only when asked)
+
+Then, and only then:
+
+1. Merge `lab` into `main` and push `origin/main`.
+2. Point `joshualisky.vercel.app` at the new production deployment. That hostname does not always follow new production deploys on its own — re-alias it after the deploy is READY.
+3. Point `joshualisky-lab.vercel.app` at the latest lab deployment if it also stuck.
+
+## Do not
+
+- Ship a homepage or nav experiment straight to `main` because it “looks done”.
+- Treat “메인에서 …” as git `main`. In this project that usually means the homepage. Git production is only when they say 배포.
+- Mix 밥도둑 into this site’s home. Keep it as a separate hobby link.

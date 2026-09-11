@@ -13,32 +13,28 @@ export default function HomePage() {
         <nav className={styles.social} aria-label="Profiles">
           <a href={site.github} target="_blank" rel="noreferrer" className={styles.socialItem}>
             <span>GitHub</span>
-            <span className={styles.mark} aria-hidden="true">
-              🐙
-            </span>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img className={styles.icon} src="/icons/github.svg" alt="" />
           </a>
           {site.instagram ? (
             <a href={site.instagram} target="_blank" rel="noreferrer" className={styles.socialItem}>
               <span>Instagram</span>
-              <span className={styles.mark} aria-hidden="true">
-                📸
-              </span>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className={styles.icon} src="/icons/instagram.svg" alt="" />
             </a>
           ) : null}
           {site.linkedin ? (
             <a href={site.linkedin} target="_blank" rel="noreferrer" className={styles.socialItem}>
               <span>LinkedIn</span>
-              <span className={styles.mark} aria-hidden="true">
-                💼
-              </span>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className={styles.icon} src="/icons/linkedin.svg" alt="" />
             </a>
           ) : null}
           {site.email ? (
             <a href={`mailto:${site.email}`} className={styles.socialItem}>
               <span>Email</span>
-              <span className={styles.mark} aria-hidden="true">
-                ✉️
-              </span>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className={styles.icon} src="/icons/gmail.svg" alt="" />
             </a>
           ) : null}
         </nav>
