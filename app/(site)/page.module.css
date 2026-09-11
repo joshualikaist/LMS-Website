@@ -1,24 +1,29 @@
 .stage {
-  display: grid;
-  grid-template-columns: minmax(280px, 42vw) minmax(0, 1fr);
-  grid-template-areas: "copy drone";
+  position: relative;
   min-height: 100dvh;
   overflow: hidden;
   color: #14202a;
-  background: #fff;
+  background: #c8ced4;
 }
 
 .copy {
-  grid-area: copy;
   position: relative;
   z-index: 2;
   display: flex;
   flex-direction: column;
   justify-content: center;
   min-height: 100dvh;
-  padding: 108px 7vw 72px 8vw;
-  max-width: 36rem;
+  padding: 108px 8vw 72px;
+  max-width: 38rem;
   pointer-events: none;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.7) 0%,
+    rgba(255, 255, 255, 0.42) 62%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  backdrop-filter: blur(22px) saturate(1.05);
+  -webkit-backdrop-filter: blur(22px) saturate(1.05);
 }
 
 .copy a,
@@ -32,7 +37,7 @@
   font-size: 11px;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #6a7a88;
+  color: #5b6b78;
 }
 
 .name {
@@ -110,7 +115,7 @@
 .ghost {
   color: #14202a;
   border: 1px solid rgba(20, 32, 42, 0.28);
-  background: transparent;
+  background: rgba(255, 255, 255, 0.35);
 }
 
 .ghost:hover {
@@ -120,17 +125,17 @@
 }
 
 @media (max-width: 860px) {
-  .stage {
-    grid-template-columns: 1fr;
-    grid-template-areas:
-      "drone"
-      "copy";
-  }
-
   .copy {
-    min-height: auto;
-    padding: 28px 22px 72px;
-    justify-content: flex-start;
+    justify-content: flex-end;
+    padding: 32px 22px 72px;
     max-width: none;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.55) 28%,
+      rgba(255, 255, 255, 0.86) 100%
+    );
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
   }
 }
