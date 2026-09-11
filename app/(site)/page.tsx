@@ -1,12 +1,12 @@
 import DigestLink from "@/components/links/DigestLink";
-import DroneFly from "@/components/home/DroneFly";
+import HeroVideo from "@/components/home/HeroVideo";
 import { site } from "@/content/site";
 import styles from "./page.module.css";
 
 export default function HomePage() {
   return (
     <main className={styles.stage} data-home>
-      <DroneFly />
+      <HeroVideo />
       <div className={styles.copy}>
         <p className={styles.kicker}>KAIST · Daejeon</p>
         <h1 className={styles.name}>Minseok Li</h1>

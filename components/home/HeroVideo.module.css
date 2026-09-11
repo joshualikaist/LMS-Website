@@ -1,0 +1,85 @@
+.pane {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 38%;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background: #d4d2d6;
+}
+
+.frame {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  object-position: 48% 32%;
+  transform: scale(1.08);
+  transform-origin: 48% 30%;
+}
+
+.clip {
+  z-index: 1;
+}
+
+.fade {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 16vw;
+  background: linear-gradient(
+    90deg,
+    #f7f6f2 0%,
+    rgba(247, 246, 242, 0.7) 46%,
+    rgba(247, 246, 242, 0) 100%
+  );
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .clip {
+    display: none;
+  }
+
+  .frame {
+    transform: none;
+  }
+}
+
+@media (max-width: 860px) {
+  .pane {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    height: 52vh;
+    flex: none;
+  }
+
+  .frame {
+    object-position: 50% 28%;
+    transform: scale(1.06);
+    transform-origin: 50% 28%;
+  }
+
+  .fade {
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: auto;
+    height: 34%;
+    background: linear-gradient(
+      180deg,
+      rgba(247, 246, 242, 0) 0%,
+      rgba(247, 246, 242, 0.55) 58%,
+      #f7f6f2 100%
+    );
+  }
+}
