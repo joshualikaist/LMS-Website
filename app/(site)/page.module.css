@@ -19,8 +19,7 @@
   pointer-events: none;
 }
 
-.copy a,
-.copy .actions {
+.copy a {
   pointer-events: auto;
 }
 
@@ -57,64 +56,29 @@
 .social {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px 18px;
+  gap: 10px 22px;
   margin-top: 28px;
 }
 
-.social a {
+.socialItem {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
   color: #3d4f5e;
   font-size: 14px;
   letter-spacing: 0.04em;
   text-decoration: none;
 }
 
-.social a:hover {
+.socialItem:hover {
   color: #14202a;
   text-decoration: none;
 }
 
-.actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 36px;
-}
-
-.primary,
-.ghost {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 42px;
-  padding: 0 18px;
-  border-radius: 999px;
-  font-size: 14px;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  text-decoration: none;
-}
-
-.primary {
-  color: #fff;
-  background: #111;
-}
-
-.primary:hover {
-  color: #fff;
-  text-decoration: none;
-  filter: brightness(1.12);
-}
-
-.ghost {
-  color: #14202a;
-  border: 1px solid rgba(20, 32, 42, 0.28);
-  background: rgba(255, 255, 255, 0.55);
-}
-
-.ghost:hover {
-  color: #14202a;
-  text-decoration: none;
-  border-color: #14202a;
+.mark {
+  font-size: 18px;
+  line-height: 1;
 }
 
 @media (max-width: 860px) {
