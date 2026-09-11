@@ -16,7 +16,7 @@ export default function TrendPage() {
   return (
     <main className={styles.main}>
       {edition ? (
-        <DigestView edition={edition} dates={dates} latest />
+        <DigestView edition={edition} dates={dates} />
       ) : (
         <div className={`pageWide ${styles.empty}`}>
           <p className={s.kicker}>MORNING EDITION · 10:00 KST</p>

@@ -291,51 +291,6 @@
   color: var(--muted);
 }
 
-.pager {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 16px;
-  margin-top: 36px;
-  padding-top: 14px;
-  border-top: 1px solid var(--hairline);
-}
-
-.pagerLink {
-  font-size: 13.5px;
-  color: var(--ink);
-}
-
-.pagerLink:hover {
-  color: var(--accent);
-}
-
-.archive {
-  margin-top: 28px;
-  font-size: 14px;
-}
-
-.archive summary {
-  cursor: pointer;
-  color: var(--muted);
-  font-family: var(--font-mono);
-  font-size: 12px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.archiveList {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px 16px;
-  margin-top: 12px;
-}
-
-.archiveLink {
-  font-size: 13.5px;
-  color: var(--ink);
-}
-
 @media (max-width: 1099px) {
   .bannerInner {
     padding: 84px 24px 40px;

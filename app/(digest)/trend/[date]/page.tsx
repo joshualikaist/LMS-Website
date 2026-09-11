@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import DigestView from "@/components/digest/DigestView";
-import { getEdition, getLatestEdition, listEditionDates } from "@/content/digest/load";
+import { getEdition, listEditionDates } from "@/content/digest/load";
 import styles from "../page.module.css";
 
 type Params = { date: string };
@@ -26,12 +26,10 @@ export default async function TrendDatePage({ params }: { params: Promise<Params
   if (!edition) notFound();
 
   const dates = listEditionDates();
-  const latest = getLatestEdition();
-  const isLatest = latest?.date === edition.date;
 
   return (
     <main className={styles.main}>
-      <DigestView edition={edition} dates={dates} latest={isLatest} />
+      <DigestView edition={edition} dates={dates} />
     </main>
   );
 }

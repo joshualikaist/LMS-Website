@@ -1,7 +1,5 @@
-import Link from "next/link";
 import type { DigestEdition, DigestItem, DigestLane } from "@/content/digest/types";
 import { ITEMS_PER_LANE, LANE_LABEL, LANE_ORDER } from "@/content/digest/types";
-import s from "@/styles/shared.module.css";
 import EditionCalendar from "./EditionCalendar";
 import styles from "./DigestView.module.css";
 
@@ -71,14 +69,10 @@ function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) 
 export default function DigestView({
   edition,
   dates,
-  latest,
 }: {
   edition: DigestEdition;
   dates: string[];
-  latest: boolean;
 }) {
-  const newer = dates[dates.indexOf(edition.date) - 1];
-  const older = dates[dates.indexOf(edition.date) + 1];
   const byLane = Object.fromEntries(
     LANE_ORDER.map((lane) => [lane, laneItems(edition, lane)]),
   ) as Record<DigestLane, DigestItem[]>;
@@ -133,41 +127,6 @@ export default function DigestView({
             ))}
           </div>
         </div>
-
-        <nav className={styles.pager} aria-label="Edition navigation">
-          {older ? (
-            <Link href={`/trend/${older}`} className={styles.pagerLink}>
-              ← {displayDate(older)}
-            </Link>
-          ) : (
-            <span className={s.pending}>Oldest</span>
-          )}
-          {newer ? (
-            <Link href={newer === dates[0] ? "/trend" : `/trend/${newer}`} className={styles.pagerLink}>
-              {displayDate(newer)} →
-            </Link>
-          ) : (
-            <span className={s.pending}>{latest ? "Latest" : ""}</span>
-          )}
-        </nav>
-
-        {dates.length > 1 ? (
-          <details className={styles.archive}>
-            <summary>Archive</summary>
-            <div className={styles.archiveList}>
-              {dates.map((date) => (
-                <Link
-                  key={date}
-                  href={date === dates[0] ? "/trend" : `/trend/${date}`}
-                  className={styles.archiveLink}
-                >
-                  {displayDate(date)}
-                  {date === dates[0] ? " · latest" : ""}
-                </Link>
-              ))}
-            </div>
-          </details>
-        ) : null}
       </div>
     </>
   );
