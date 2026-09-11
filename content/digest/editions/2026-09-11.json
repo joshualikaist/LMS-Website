@@ -1,25 +1,8 @@
 {
   "date": "2026-09-11",
-  "fetchedAt": "2026-09-11T05:21:05.535Z",
+  "fetchedAt": "2026-09-11T07:31:39.410Z",
   "timezone": "Asia/Seoul",
   "items": [
-    {
-      "id": "hn:developers-openai-com-api-docs-guides-agents-api-overview",
-      "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "summary": null,
-      "comment": "Watch — matches agent.",
-      "score": 197,
-      "scoreLabel": "pts",
-      "author": "aquir",
-      "publishedAt": "2026-09-10T19:43:22.000Z",
-      "interestHits": [
-        "agent"
-      ]
-    },
     {
       "id": "techcrunch:techcrunch-com-2026-09-10-metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
       "lane": "trend",
@@ -38,48 +21,63 @@
       ]
     },
     {
-      "id": "hn:shopify-engineering-back-to-native",
+      "id": "lobsters:rustfoundation-org-media-guest-post-rust-is-tier-1-language-at-microsoft",
       "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
       "summary": null,
-      "comment": "From Hacker News.",
-      "score": 919,
+      "comment": "From Lobsters.",
+      "score": 67,
       "scoreLabel": "pts",
-      "author": "fnthawar2",
-      "publishedAt": "2026-09-10T14:09:31.000Z",
+      "author": "mmastrac",
+      "publishedAt": "2026-09-10T08:40:19.081-05:00",
       "interestHits": []
     },
     {
-      "id": "hn:blog-jim-nielsen-com-2026-hands-off-my-cables",
+      "id": "lobsters:maurycyz-com-misc-domains",
       "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+      "url": "https://maurycyz.com/misc/domains/",
       "summary": null,
-      "comment": "From Hacker News.",
-      "score": 406,
+      "comment": "From Lobsters.",
+      "score": 62,
       "scoreLabel": "pts",
-      "author": "Brajeshwar",
-      "publishedAt": "2026-09-10T15:27:22.000Z",
+      "author": "maurycy",
+      "publishedAt": "2026-09-10T10:14:48.267-05:00",
       "interestHits": []
     },
     {
-      "id": "hn:cognition-com-blog-swe-2",
+      "id": "lobsters:abstractnonsense-xyz-microblog-2026-09-07-xteink-x4-pro-review",
       "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Xteink X4 Pro review",
+      "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
       "summary": null,
-      "comment": "From Hacker News.",
-      "score": 386,
+      "comment": "From Lobsters.",
+      "score": 36,
       "scoreLabel": "pts",
-      "author": "seelos",
-      "publishedAt": "2026-09-10T15:29:47.000Z",
+      "author": "abnercoimbre",
+      "publishedAt": "2026-09-10T10:05:43.061-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:devblogs-microsoft-com-oldnewthing-20260909-00-p-112683",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 32,
+      "scoreLabel": "pts",
+      "author": "hoistbypetard",
+      "publishedAt": "2026-09-10T10:48:37.543-05:00",
       "interestHits": []
     },
     {
@@ -117,6 +115,21 @@
       ]
     },
     {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cq5xjlvn71lo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "UK economy grew faster than expected in July",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
+      "comment": "The economy expanded by 0.4%, official figures show, whereas economists had predicted no growth.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T07:22:37.000Z",
+      "interestHits": []
+    },
+    {
       "id": "bbc-business:www-bbc-co-uk-news-articles-cjeg8ly0qd3o-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
@@ -144,21 +157,6 @@
       "scoreLabel": null,
       "author": null,
       "publishedAt": "2026-09-10T23:04:30.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cew9nkx7v9eo-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "Are interest rates on the way up again?",
-      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "comment": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-10T23:03:09.000Z",
       "interestHits": []
     },
     {
@@ -197,23 +195,6 @@
       ]
     },
     {
-      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
-      "lane": "design",
-      "source": "CSS-Tricks",
-      "sourceId": "css-tricks",
-      "title": "CSS Navigation Matching, Early Days",
-      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
-      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
-      "comment": "Watch — matches navigation.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Geoff Graham",
-      "publishedAt": "2026-08-19T14:44:41.000Z",
-      "interestHits": [
-        "navigation"
-      ]
-    },
-    {
       "id": "heydesigner:heydesigner-com-2026-09-10",
       "lane": "design",
       "source": "Hey Designer",
@@ -248,6 +229,23 @@
       ]
     },
     {
+      "id": "nngroup:www-nngroup-com-articles-artificial-intelligence-glossary-utm-source-rss-amp-utm",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Artificial Intelligence: Glossary",
+      "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Plain-language definitions of the AI terms that come up in product and design work, from tokens and context windows to agents, evals, and prompt injection.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-08-21T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
       "id": "github-python:github-com-rion-wu-tech-wechat-intelligence-hub",
       "lane": "tech",
       "source": "GitHub · Python",
@@ -256,7 +254,7 @@
       "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
       "summary": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "comment": "Watch — matches ppo.",
-      "score": 2065,
+      "score": 2073,
       "scoreLabel": "stars",
       "author": "Rion-Wu-tech",
       "publishedAt": "2026-09-04T15:00:53Z",
@@ -291,7 +289,7 @@
       "url": "https://github.com/AI-FanGe/Microduck-build-tutorial",
       "summary": "A practical hardware and software setup for a compact RL-powered biped robot.",
       "comment": "Watch — matches robot.",
-      "score": 674,
+      "score": 686,
       "scoreLabel": "stars",
       "author": "AI-FanGe",
       "publishedAt": "2026-09-04T17:18:43Z",
@@ -334,5 +332,14 @@
       ]
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "sourceId": "hn",
+      "error": "fetch failed"
+    },
+    {
+      "sourceId": "css-tricks",
+      "error": "fetch failed"
+    }
+  ]
 }
