@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-12",
+  "fetchedAt": "2026-09-12T05:11:36.209Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:dayzlegame-com-blog-google-ads-bot-farm",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": 403,
+      "scoreLabel": "pts",
+      "author": "nickabe",
+      "publishedAt": "2026-09-11T18:24:55.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Marina Temkin",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:www-rubyhack-ai",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 516,
+      "scoreLabel": "pts",
+      "author": "chao-",
+      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:mathandai-org",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 779,
+      "scoreLabel": "pts",
+      "author": "meredydd",
+      "publishedAt": "2026-09-11T17:45:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-grapheneos-messaging-releases-tag-13",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 231,
+      "scoreLabel": "pts",
+      "author": "microtonal",
+      "publishedAt": "2026-09-11T18:50:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cd94y7d7qyzo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Alstom to build new battery-electric train fleet",
+      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The government says the work will support thousands of jobs across the UK.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T14:43:33.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-11-g-s1-142935-iran-us-war-jobs-economy",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "url": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+      "summary": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
+      "comment": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Hadeel Al-Shalchi",
+      "publishedAt": "2026-09-11T19:39:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-10-openai-chatgpt-for-financial-services-targets-work-of-ju",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+      "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+      "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchbook tasks traditionally handled by junior bankers.",
+      "comment": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling and pitchboo…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T16:06:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-11-wealthy-investors-tax-aware-long-short-strategies-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+      "url": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+      "summary": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170 billion, according to Tax Alpha Insider.",
+      "comment": "Total assets invested in so-called tax-aware long-short strategies — or TALS — have surged to more than $170…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T15:54:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c5yejw9pjjyo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "comment": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T15:37:25.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-10",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design principles vs. the principles of design",
+      "url": "https://heydesigner.com/2026-09-10/",
+      "summary": "How much should you charge for web design (video), Building data-driven design systems, Building a cloud prototyping environment, Using maths to balance your heading styles",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-10T07:14:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-08",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons. Continue reading on UX Collective »",
+      "comment": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dora Czerna",
+      "publishedAt": "2026-09-11T21:04:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-test-earlier-with-ai-utm-source-rss-amp-utm-medium-feed",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Test Complex Interactions Earlier with AI Prototyping",
+      "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them with users earlier in the design process.",
+      "comment": "AI tools make it feasible to build fully interactive prototypes of complex interfaces so you can test them wi…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Megan Chan",
+      "publishedAt": "2026-09-11T17:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "devto:dev-to-devengers-dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fe",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Dev Opportunity Radar #16: $15K AI Agent Hackathon, AI Education Fellowship, and AWS Student Rewards",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-16-15k-ai-agent-hackathon-ai-education-fellowship-and-aws-student-rewards-4l2e",
+      "summary": "TL;DR Welcome back to Dev Opportunity Radar. This is a weekly series where I share opportunities,...",
+      "comment": "Watch — matches ppo, agent.",
+      "score": 61,
+      "scoreLabel": "rxn",
+      "author": "Hemapriya Kanagala",
+      "publishedAt": "2026-09-11T13:59:00Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-donvito-codex-astra-luna-orchestrator",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "donvito/codex-astra-luna-orchestrator",
+      "url": "https://github.com/donvito/codex-astra-luna-orchestrator",
+      "summary": "Use Astra as orchestrator and Luna for subagents in Codex",
+      "comment": "Watch — matches agent.",
+      "score": 990,
+      "scoreLabel": "stars",
+      "author": "donvito",
+      "publishedAt": "2026-09-05T16:03:06Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-iamzulx-crypto-rag",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "iamzulx/crypto-rag",
+      "url": "https://github.com/iamzulx/crypto-rag",
+      "summary": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent +…",
+      "comment": "Watch — matches agent.",
+      "score": 903,
+      "scoreLabel": "stars",
+      "author": "iamzulx",
+      "publishedAt": "2026-09-05T06:20:08Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-p0rt-ai-generated-tests-can-make-coding-agents-worse-heres-how-to-check-y",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "AI-Generated Tests Can Make Coding Agents Worse. Here's How to Check Yours",
+      "url": "https://dev.to/p0rt/ai-generated-tests-can-make-coding-agents-worse-heres-how-to-check-yours-3jc9",
+      "summary": "ExecCritic found that weak generated tests reduced repair success. A runnable Python example shows how to catch a test that approves the wrong fix.",
+      "comment": "Watch — matches agent.",
+      "score": 13,
+      "scoreLabel": "rxn",
+      "author": "Sergei Parfenov",
+      "publishedAt": "2026-09-11T11:57:46Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-deepu105-can-qwen-38-running-on-your-laptop-really-replace-claude-opus-fo",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Can Qwen 3.8 running on your laptop really replace Claude Opus for Agentic coding?",
+      "url": "https://dev.to/deepu105/can-qwen-38-running-on-your-laptop-really-replace-claude-opus-for-agentic-coding-51gk",
+      "summary": "Agentic coding on a Strix Halo laptop with Qwen3.8-27B and Flash-Next, the LlamaStash and Pi setup behind it, and the tuning",
+      "comment": "Watch — matches agent.",
+      "score": 6,
+      "scoreLabel": "rxn",
+      "author": "Deepu K Sasidharan",
+      "publishedAt": "2026-09-11T05:16:11Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    }
+  ]
+}
