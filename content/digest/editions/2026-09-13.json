@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-13",
+  "fetchedAt": "2026-09-13T05:26:14.625Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-12-automattic-confirms-mullenweg-has-returned-as-ceo-afte",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-11-mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Marina Temkin",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "lobsters:www-rubyhack-ai",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 109,
+      "scoreLabel": "pts",
+      "author": "xavdid",
+      "publishedAt": "2026-09-11T18:41:50.259-05:00",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "lobsters:elijahpotter-dev-articles-useful-things-agents-can-do-that-are-not-writing-code",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Useful Things Agents Can Do That Are Not Writing Code",
+      "url": "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 17,
+      "scoreLabel": "pts",
+      "author": "sumner",
+      "publishedAt": "2026-09-12T10:56:54.844-05:00",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-economist-com-interactive-briefing-2026-09-03-nvidia-is-the-central-bank-of-",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 435,
+      "scoreLabel": "pts",
+      "author": "tolugenius",
+      "publishedAt": "2026-09-12T15:08:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cd94y7d7qyzo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Alstom to build new battery-electric train fleet",
+      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The government says the work will support thousands of jobs across the UK.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-11T14:43:33.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-crm9xk9eg88o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
+      "comment": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an ex…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-12T20:37:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-12-gm-us-battery-development-ford-china-ties-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+      "comment": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply cha…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-12T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-12-us-canada-border-tariffs-trade-war",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Tensions simmer on US-Canada border for two towns relying on each other",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war",
+      "summary": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see sales fall amid trade war Like many Canadians, Tom Reid isn’t crossing…",
+      "comment": "Canadians ‘angry’ at Trump for suggesting Canada should become 51st state, says mayor, as US businesses see s…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Leingang in International Falls, Minnesota",
+      "publishedAt": "2026-09-12T10:00:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-12-nx-s1-5950588-openai-anthropic-ai-safety-researchers-hack",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+      "summary": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag.",
+      "comment": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to buil…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Huo Jingnan",
+      "publishedAt": "2026-09-12T09:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-10",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design principles vs. the principles of design",
+      "url": "https://heydesigner.com/2026-09-10/",
+      "summary": "How much should you charge for web design (video), Building data-driven design systems, Building a cloud prototyping environment, Using maths to balance your heading styles",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-10T07:14:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-08",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-why-people-hate-viral-ai-food-posters-db2b4329ae11-source-rss-138adf",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "The real reason everyone hates the viral AI food slop images",
+      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+      "summary": "We’ve always made food look better than it is. So why does it feel different when AI does it? Continue reading on UX Collective »",
+      "comment": "We’ve always made food look better than it is. So why does it feel different when AI does it? Continue readin…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Slava Polonski, PhD",
+      "publishedAt": "2026-09-12T21:40:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons. Continue reading on UX Collective »",
+      "comment": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dora Czerna",
+      "publishedAt": "2026-09-11T21:04:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "devto:dev-to-renanfranca-when-skill-evolution-means-removing-instructions-3484",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "When Skill Evolution Means Removing Instructions",
+      "url": "https://dev.to/renanfranca/when-skill-evolution-means-removing-instructions-3484",
+      "summary": "What ACES, WikiSkill, skill-eval, and my latest agent workflows taught me about evaluating skills, removing obsolete instructions, and moving knowledge into deterministic mechanis…",
+      "comment": "Watch — matches agent.",
+      "score": 7,
+      "scoreLabel": "rxn",
+      "author": "Renan Franca",
+      "publishedAt": "2026-09-12T16:47:18Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-jo-do-my-message-board-for-ai-agents-got-spammed-the-spam-wasnt-written-f",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "My message board for AI agents got spammed. The spam wasn't written for humans.",
+      "url": "https://dev.to/jo-do/my-message-board-for-ai-agents-got-spammed-the-spam-wasnt-written-for-humans-29b0",
+      "summary": "msgboard.dev is the board I built where agents, not people, do the posting. Four articles in, the...",
+      "comment": "Watch — matches agent.",
+      "score": 7,
+      "scoreLabel": "rxn",
+      "author": "Jo Do",
+      "publishedAt": "2026-09-12T13:51:05Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-funes",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-everettfish-holo-card-studio",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "EverettFish/holo-card-studio",
+      "url": "https://github.com/EverettFish/holo-card-studio",
+      "summary": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, styl…",
+      "comment": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive T…",
+      "score": 1475,
+      "scoreLabel": "stars",
+      "author": "EverettFish",
+      "publishedAt": "2026-09-07T00:41:18Z",
+      "interestHits": []
+    },
+    {
+      "id": "github-python:github-com-edge0-ai-edge0",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Edge0-AI/Edge0",
+      "url": "https://github.com/Edge0-AI/Edge0",
+      "summary": null,
+      "comment": "From GitHub · Python.",
+      "score": 1463,
+      "scoreLabel": "stars",
+      "author": "Edge0-AI",
+      "publishedAt": "2026-09-08T13:41:47Z",
+      "interestHits": []
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
