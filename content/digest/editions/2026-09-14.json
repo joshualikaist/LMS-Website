@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-14",
+  "fetchedAt": "2026-09-14T05:30:49.381Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-12-automattic-confirms-mullenweg-has-returned-as-ceo-afte",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-09-12T23:25:38.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-13-techcrunch-mobility-lyft-has-entered-the-robotaxi-chat",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-09-13T16:04:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:www-atomic14-com-2026-09-13-why-is-google-still-serving-dodgy-ads",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 711,
+      "scoreLabel": "pts",
+      "author": "iamflimflam1",
+      "publishedAt": "2026-09-13T17:37:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-vals-ai-blogs-fable-solves-cyphral-distich",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 683,
+      "scoreLabel": "pts",
+      "author": "u1hcw9nx",
+      "publishedAt": "2026-09-13T21:06:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-lesswrong-com-posts-munjkf7iwmswjlah2-astra-and-fable-still-hack-on-simple-v",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 409,
+      "scoreLabel": "pts",
+      "author": "Levitating",
+      "publishedAt": "2026-09-13T14:28:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwyzvgj70y4o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Committee calls for bill to address AI threat to human rights",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+      "comment": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-14T03:23:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cx2zg554w9ko-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Amazon pauses work with cargo firm after fatal crash",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "comment": "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-14T02:40:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-12-gm-us-battery-development-ford-china-ties-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
+      "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
+      "summary": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
+      "comment": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply cha…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-14T01:05:56.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-czezwd6xw0zo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How to protect your laptop, phone and bike from thieves at uni",
+      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "comment": "What should new students consider to keep your belongings safe and covered by insurance?",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-13T23:39:32.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c4gqjv476qeo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+      "comment": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-13T23:05:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-10",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design principles vs. the principles of design",
+      "url": "https://heydesigner.com/2026-09-10/",
+      "summary": "How much should you charge for web design (video), Building data-driven design systems, Building a cloud prototyping environment, Using maths to balance your heading styles",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-10T07:14:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-08",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Limit the number of details",
+      "url": "https://heydesigner.com/2026-09-08/",
+      "summary": "Figma agent vs. one button, Designing the original Mac icons, AI operating principles, kugiri (区切り)",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-08T06:57:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-why-people-hate-viral-ai-food-posters-db2b4329ae11-source-rss-138adf",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "The real reason everyone hates the viral AI food slop images",
+      "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+      "summary": "We’ve always made food look better than it is. So why does it feel different when AI does it? Continue reading on UX Collective »",
+      "comment": "We’ve always made food look better than it is. So why does it feel different when AI does it? Continue readin…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Slava Polonski, PhD",
+      "publishedAt": "2026-09-12T21:40:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "You’re not behind. The feed is built to make you feel that way.",
+      "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+      "summary": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons. Continue reading on UX Collective »",
+      "comment": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dora Czerna",
+      "publishedAt": "2026-09-11T21:04:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-12116",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "When Successful Knowledge Graph Edits Displace Correct Answers: Rank-Level Locality beyond Parameter Support",
+      "url": "https://arxiv.org/abs/2609.12116",
+      "summary": "arXiv:2609.12116v1 Announce Type: new Abstract: Editing a knowledge graph embedding (KGE) model to promote a desired answer can displace correct answers from the returned list. Lo…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yi-Cheng Lai, Jerry Wang, Hsin-Ling Hsu, Li-Chu Chi, Ya-Wen Teng, Hen-Hsen Huang",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-11956",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Performance, Efficiency and Collapse -- Advantages and Challenges in Offline Post-training of Code LLMs",
+      "url": "https://arxiv.org/abs/2609.11956",
+      "summary": "arXiv:2609.11956v1 Announce Type: new Abstract: Post-training with reinforcement learning (RL) is a critical phase in the development of code-generating large language models (LLM…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Abhinav Anand, Sanjana Reddy Pachika, Shweta Verma, Mira Mezini",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-12036",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2609.12036",
+      "summary": "arXiv:2609.12036v1 Announce Type: new Abstract: In this technical report, we propose Pelican-Sim 1.0, a general world model simulator for embodied intelligence that predicts futur…",
+      "comment": "Watch — matches embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Shilong Zou, Shilin Zhang, Yingji Zhang, Yuhang Huang, Yi Zhang, Zeyuan Ding, Han Dong, Junwei Liao, Yong Dai, Jian Tang, Xiaozhu Ju",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "interestHits": [
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-12159",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "A Physics-Based Closed-Loop Robotic Bioprinting Framework Towards Volumetric Muscle Loss Treatment",
+      "url": "https://arxiv.org/abs/2609.12159",
+      "summary": "arXiv:2609.12159v1 Announce Type: new Abstract: Robotic bioprinting and Direct Ink Writing (DIW) are being explored towards the treatment of Volumetric Muscle Loss (VML). While pr…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Omid Rezayof, Jerin T. Andrews, Ehsan Zobeidi, Ali Ghasemkhani, Meenakshi Kamaraj, Maryam Tilton, Johnson V. John, Farshid Alambeigi",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-11959",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Space as an Interventional Invariant: Cross-Modal Predictive Geometry for Stratified Cities and Em-Spaced Intelligence",
+      "url": "https://arxiv.org/abs/2609.11959",
+      "summary": "arXiv:2609.11959v1 Announce Type: new Abstract: Space is a foundational concept across mathematics, physics, spatial cognition, urban science, and embodied intelligence, yet these…",
+      "comment": "Watch — matches embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tao Yang, Xuhui Lin, Kunyao Li, Haijiang Li",
+      "publishedAt": "2026-09-14T04:00:00.000Z",
+      "interestHits": [
+        "embodied"
+      ]
+    }
+  ],
+  "failures": []
+}
