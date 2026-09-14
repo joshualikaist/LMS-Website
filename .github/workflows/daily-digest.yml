@@ -44,18 +44,6 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Sync digest onto lab
-        if: steps.commit.outputs.changed == 'true'
-        run: |
-          git fetch origin
-          if ! git rev-parse --verify origin/lab >/dev/null 2>&1; then
-            echo "No lab branch yet."
-            exit 0
-          fi
-          git checkout -B lab origin/lab
-          git merge --no-edit origin/main
-          git push origin lab
-
       - name: Deploy production
         if: steps.commit.outputs.changed == 'true'
         continue-on-error: true
@@ -67,3 +55,54 @@ jobs:
             exit 0
           fi
           curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
+
+      - name: Point joshualisky.vercel.app at production
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        run: |
+          if [ -z "$VERCEL_TOKEN" ]; then
+            echo "Set repo secret VERCEL_TOKEN so joshualisky.vercel.app follows each digest."
+            exit 0
+          fi
+          python3 - <<'PY'
+          import json, os, time, urllib.request
+
+          token = os.environ["VERCEL_TOKEN"]
+          team = "team_RQPpqkxaimR4vreszcEEcTOT"
+          project = "prj_0d8PBne2gIq3AHSiGQy6MERo26g2"
+
+          def load(url, data=None):
+              req = urllib.request.Request(
+                  url,
+                  data=None if data is None else json.dumps(data).encode(),
+                  headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+                  method="GET" if data is None else "POST",
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.load(res)
+
+          dep = None
+          for _ in range(20):
+              listing = load(
+                  f"https://api.vercel.com/v6/deployments?projectId={project}&teamId={team}&target=production&limit=8"
+              )
+              for item in listing.get("deployments", []):
+                  message = (item.get("meta") or {}).get("githubCommitMessage", "")
+                  if item.get("readyState") == "READY" and message.startswith("digest:"):
+                      dep = item
+                      break
+              if dep:
+                  break
+              time.sleep(15)
+
+          if not dep:
+              raise SystemExit("No READY digest deployment yet")
+
+          load(
+              f"https://api.vercel.com/v2/deployments/{dep['uid']}/aliases?teamId={team}",
+              {"alias": "joshualisky.vercel.app"},
+          )
+          print("pointed joshualisky.vercel.app at", dep.get("url"))
+          PY

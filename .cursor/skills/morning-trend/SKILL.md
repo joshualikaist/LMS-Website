@@ -43,4 +43,6 @@ Do not hand-write comments into old JSON unless the user asks. Change `interests
 
 ## Deploy
 
-The Vercel project `lms-website` is connected to `joshualikaist/LMS-Website` on branch `main`. After a content change, commit and push. Production updates from that push — do not run a separate `vercel deploy` unless the Git deploy failed.
+Digest snapshots go straight to `main` / production. Do not merge them through `lab`.
+
+The GitHub Action commits the edition to `main`. `joshualisky.vercel.app` often stays on an old deploy, so re-alias that hostname to the latest production deployment after it is READY. Do not run a separate `vercel deploy` unless the Git deploy failed.

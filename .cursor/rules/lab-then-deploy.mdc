@@ -17,12 +17,20 @@ This site has two tracks:
 3. Stop there. Tell the user what changed and that it is on lab. Give the lab URL.
 4. Wait. Do not merge to `main`, push `main`, or retarget `joshualisky.vercel.app` unless the user explicitly asks to deploy / 배포 / 메인에 올려.
 
+## Daily Trend (not a lab experiment)
+
+The 10:00 KST digest is production content. GitHub Actions (`.github/workflows/daily-digest.yml`) writes `content/digest/editions/` on `main` and stops there. Do not route that snapshot through `lab` first, and do not wait for a deploy ask.
+
+`joshualisky.vercel.app` often stays on an old deployment. After a digest deploy is READY, point that hostname at the new production deployment.
+
+If today’s Trend is missing on production: check `origin/main` for that date’s JSON, then re-alias. Do not rebuild the fetcher.
+
 ## Deploy (only when asked)
 
-Then, and only then:
+Then, and only then — for homepage / nav / layout experiments:
 
 1. Merge `lab` into `main` and push `origin/main`.
-2. Point `joshualisky.vercel.app` at the new production deployment. That hostname does not always follow new production deploys on its own — re-alias it after the deploy is READY.
+2. Point `joshualisky.vercel.app` at the new production deployment.
 3. Point `joshualisky-lab.vercel.app` at the latest lab deployment if it also stuck.
 
 ## Do not
