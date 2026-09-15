@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "fetchedAt": "2026-09-15T05:30:03.023Z",
+  "fetchedAt": "2026-09-15T08:03:56.910Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -29,7 +29,7 @@
       "url": "https://andonlabs.com/blog/why-we-built-pion",
       "summary": null,
       "comment": "Watch — matches agent.",
-      "score": 345,
+      "score": 386,
       "scoreLabel": "pts",
       "author": "lukaspetersson",
       "publishedAt": "2026-09-14T17:16:06.000Z",
@@ -46,7 +46,7 @@
       "url": "https://xcancel.com/#",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 545,
+      "score": 593,
       "scoreLabel": "pts",
       "author": "gaganyaan",
       "publishedAt": "2026-09-14T09:51:50.000Z",
@@ -61,7 +61,7 @@
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 492,
+      "score": 566,
       "scoreLabel": "pts",
       "author": "throw0101d",
       "publishedAt": "2026-09-14T17:50:29.000Z",
@@ -76,7 +76,7 @@
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 417,
+      "score": 438,
       "scoreLabel": "pts",
       "author": "gregnavis",
       "publishedAt": "2026-09-14T12:40:57.000Z",
@@ -117,6 +117,21 @@
       ]
     },
     {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c2l8v7l0djqo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "State pension likely to rise by £488 a year in April",
+      "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.",
+      "comment": "The triple lock has come under scrutiny as the number of pensioners rises making the policy more expensive.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-15T07:59:52.000Z",
+      "interestHits": []
+    },
+    {
       "id": "bbc-business:www-bbc-co-uk-news-articles-c6n9w87ejqn2o-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
@@ -147,38 +162,6 @@
       "interestHits": []
     },
     {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cqgk5e2j0gg8o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
-      "comment": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking ove…",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-15T00:32:21.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
-      "lane": "design",
-      "source": "CSS-Tricks",
-      "sourceId": "css-tricks",
-      "title": "CSS Navigation Matching, Early Days",
-      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
-      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
-      "comment": "Watch — matches navigation.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Geoff Graham",
-      "publishedAt": "2026-08-19T14:44:41.000Z",
-      "interestHits": [
-        "navigation"
-      ]
-    },
-    {
       "id": "heydesigner:heydesigner-com-2026-09-10",
       "lane": "design",
       "source": "Hey Designer",
@@ -193,6 +176,23 @@
       "publishedAt": "2026-09-10T07:14:00.000Z",
       "interestHits": [
         "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Built by designers: No explanation needed",
+      "url": "https://heydesigner.com/2026-09-15/",
+      "summary": "The invisible side of design engineering, The new DESK, Planning with agents, Getting the words right.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-15T07:02:00.000Z",
+      "interestHits": [
+        "agent"
       ]
     },
     {
@@ -330,5 +330,10 @@
       ]
     }
   ],
-  "failures": []
+  "failures": [
+    {
+      "sourceId": "css-tricks",
+      "error": "415 Unsupported Media Type for https://css-tricks.com/feed/"
+    }
+  ]
 }
