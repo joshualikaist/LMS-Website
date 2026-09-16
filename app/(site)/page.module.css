@@ -20,7 +20,8 @@
 }
 
 .copy a,
-.copy .socialItem {
+.copy .socialItem,
+.copy .email {
   pointer-events: auto;
 }
 
@@ -83,13 +84,23 @@
   height: 22px;
 }
 
+.email {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  margin-top: 22px;
+  color: #3d4f5e;
+  font-size: 14px;
+  letter-spacing: 0.04em;
+}
+
 .address {
   font-family: var(--font-mono);
-  font-size: 11px;
+  font-size: 12px;
   letter-spacing: 0.01em;
   line-height: 1.35;
   color: #5b6b78;
-  text-align: center;
 }
 
 @media (max-width: 860px) {
