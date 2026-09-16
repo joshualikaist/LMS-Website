@@ -30,12 +30,13 @@ export default function HomePage() {
               <img className={styles.icon} src="/icons/linkedin.svg" alt="" />
             </a>
           ) : null}
-          {site.email ? (
-            <a href={`mailto:${site.email}`} className={styles.socialItem}>
+          {site.emailKaist ? (
+            <span className={styles.socialItem}>
               <span>Email</span>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img className={styles.icon} src="/icons/gmail.svg" alt="" />
-            </a>
+              <span className={styles.address}>{site.emailKaist}</span>
+            </span>
           ) : null}
         </nav>
       </div>

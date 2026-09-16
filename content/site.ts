@@ -9,6 +9,7 @@ export const site = {
   description:
     "Personal research archive and engineering portfolio — robotics, autonomous systems, and learning-based UAV navigation at KAIST.",
   email: "joshualiuniv@gmail.com",
+  emailKaist: "joshualisky@kaist.ac.kr",
   github: "https://github.com/joshualikaist",
   githubHandle: "joshualikaist",
   motarRepo: "https://github.com/joshualikaist/MOTAR",
