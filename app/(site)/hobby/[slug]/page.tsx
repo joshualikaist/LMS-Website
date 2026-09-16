@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { BrowserPlaceholder } from "@/components/media/Placeholders";
+import InstagramCircle from "@/components/hobby/InstagramCircle";
 import { getHobby, hobbies } from "@/content/hobby";
 import s from "@/styles/shared.module.css";
 import raised from "@/styles/raised.module.css";
@@ -31,19 +31,41 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
   return (
     <main className={`page ${styles.main}`}>
       <div className={s.kicker}>{item.kicker}</div>
-      <h1 className={`${s.h1} ${styles.title}`}>{item.name}</h1>
-      <p className={s.lead}>{item.tagline}</p>
-      <div className={`${s.metaRow} ${styles.meta}`}>
-        <span className={s.mono12m}>{item.year}</span>
-        <span className={s.mono12m}>{item.kind.toUpperCase()}</span>
-        <span className={s.mono12m}>@{item.handle}</span>
+      <div className={styles.profile}>
+        <InstagramCircle
+          src={`${item.photoDir}/avatar.jpg`}
+          label={item.name}
+          href={item.instagram}
+          size={128}
+        />
+        <div>
+          <h1 className={`${s.h1} ${styles.title}`}>{item.name}</h1>
+          <p className={s.lead}>{item.tagline}</p>
+          <div className={`${s.metaRow} ${styles.meta}`}>
+            <span className={s.mono12m}>{item.year}</span>
+            <span className={s.mono12m}>{item.kind.toUpperCase()}</span>
+            <span className={s.mono12m}>@{item.instagramHandle}</span>
+          </div>
+        </div>
       </div>
-      <a href={item.url} target="_blank" rel="noreferrer" className={`${raised.btn} ${styles.open}`}>
-        {item.urlLabel} →
+      <a href={item.instagram} target="_blank" rel="noreferrer" className={`${raised.btn} ${styles.open}`}>
+        Follow on Instagram →
       </a>
-      <div className={s.media}>
-        <BrowserPlaceholder title={item.name} label={`LIVE — ${item.handle}`} />
-      </div>
+
+      {item.awards?.length ? (
+        <section className={s.section}>
+          <h2 className={s.sectionTitle}>수상경력</h2>
+          <ol className={styles.timeline}>
+            {item.awards.map((award) => (
+              <li key={`${award.when}-${award.title}`} className={styles.award}>
+                <p className={styles.when}>{award.when}</p>
+                <p className={styles.awardTitle}>{award.title}</p>
+                <p className={styles.place}>{award.place}</p>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ) : null}
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>About</h2>

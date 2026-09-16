@@ -12,6 +12,8 @@ export type HobbyProject = {
   instagramHandle: string;
   year: string;
   kind: string;
+  photoDir: string;
+  awards?: { when: string; title: string; place: string }[];
 };
 
 export const hobbies: HobbyProject[] = [
@@ -20,19 +22,32 @@ export const hobbies: HobbyProject[] = [
     name: "Shelton LMS",
     handle: "shelton_lms",
     kicker: "HOBBY / SHELTON LMS",
-    tagline: "A personal channel under joshualisky.",
+    tagline: "Tennis log under joshualisky.",
     summary:
-      "Lifestyle and personal posts connected to Instagram @joshualisky — open the Shelton LMS profile from here.",
+      "A tennis channel next to the academic portfolio — match days, training, and court notes on Instagram @shelton_lms.",
     about: [
-      "Shelton LMS sits next to the academic portfolio as a personal brand, not a research project.",
-      "The live destination is the Instagram profile. If a standalone site ships later, this page can point there instead.",
+      "Shelton LMS is a tennis page, not a research project: singles and doubles around KAIST, with the public log on Instagram.",
+      "If a standalone site ships later, this page can point there instead of the Instagram profile.",
     ],
     url: "https://www.instagram.com/shelton_lms/",
     urlLabel: "Open Instagram",
     instagram: "https://www.instagram.com/shelton_lms/",
     instagramHandle: "shelton_lms",
     year: "2026",
-    kind: "Personal brand",
+    kind: "Tennis",
+    photoDir: "/hobby/shelton-lms",
+    awards: [
+      {
+        when: "2026",
+        title: "양구 신인부 단체전 준우승",
+        place: "KAIST STROKE",
+      },
+      {
+        when: "2025",
+        title: "춘천 은배부 단체전 준우승",
+        place: "KAIST STROKE",
+      },
+    ],
   },
   {
     slug: "babdoduk",
@@ -52,6 +67,7 @@ export const hobbies: HobbyProject[] = [
     instagramHandle: "babdodukms",
     year: "2026",
     kind: "Food diary",
+    photoDir: "/hobby/babdoduk",
   },
 ];
 
