@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "fetchedAt": "2026-09-16T03:07:38.236Z",
+  "fetchedAt": "2026-09-16T05:22:54.481Z",
   "timezone": "Asia/Seoul",
   "items": [
     {
@@ -46,7 +46,7 @@
       "url": "https://github.com/arnegiacomo/fugleramme",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 1359,
+      "score": 1451,
       "scoreLabel": "pts",
       "author": "arnemunthekaas",
       "publishedAt": "2026-09-15T12:31:10.000Z",
@@ -61,7 +61,7 @@
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 864,
+      "score": 1025,
       "scoreLabel": "pts",
       "author": "albelfio",
       "publishedAt": "2026-09-15T19:25:03.000Z",
@@ -76,28 +76,11 @@
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 415,
+      "score": 467,
       "scoreLabel": "pts",
       "author": "ChrisArchitect",
       "publishedAt": "2026-09-15T17:52:18.000Z",
       "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-c6e30e98v7j1o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
-      "comment": "Watch — matches ppo.",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-15T23:50:55.000Z",
-      "interestHits": [
-        "ppo"
-      ]
     },
     {
       "id": "cnbc-business:www-cnbc-com-2026-09-15-nike-phil-knight-donation-oregon-medical-center-html",
@@ -132,6 +115,21 @@
       "interestHits": [
         "agent"
       ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-videos-cwz0zpyzrlr1o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How rising bond yields impact American consumers",
+      "url": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+      "comment": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loan…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-16T03:58:32.000Z",
+      "interestHits": []
     },
     {
       "id": "bbc-business:www-bbc-co-uk-news-articles-cqx2zpj4y525o-at-medium-rss-amp-at-campaign-rss",
@@ -181,23 +179,6 @@
       ]
     },
     {
-      "id": "heydesigner:heydesigner-com-2026-09-10",
-      "lane": "design",
-      "source": "Hey Designer",
-      "sourceId": "heydesigner",
-      "title": "Design principles vs. the principles of design",
-      "url": "https://heydesigner.com/2026-09-10/",
-      "summary": "How much should you charge for web design (video), Building data-driven design systems, Building a cloud prototyping environment, Using maths to balance your heading styles",
-      "comment": "Watch — matches design system.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Tamas Sari",
-      "publishedAt": "2026-09-10T07:14:00.000Z",
-      "interestHits": [
-        "design system"
-      ]
-    },
-    {
       "id": "heydesigner:heydesigner-com-2026-09-15",
       "lane": "design",
       "source": "Hey Designer",
@@ -213,6 +194,21 @@
       "interestHits": [
         "agent"
       ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-16",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Designing with AI",
+      "url": "https://heydesigner.com/2026-09-16/",
+      "summary": "The most important product decision is what you don’t build, Better icon and label alignment, Design work survey 2026, Reading JSON without reading code.",
+      "comment": "The most important product decision is what you don’t build, Better icon and label alignment, Design work sur…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-16T04:16:00.000Z",
+      "interestHits": []
     },
     {
       "id": "heydesigner:heydesigner-com-newsletter-limit-the-number-of-details",
@@ -245,58 +241,39 @@
       "interestHits": []
     },
     {
-      "id": "arxiv-cs-ro:arxiv-org-abs-2609-13236",
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-16041",
       "lane": "tech",
       "source": "arXiv · cs.RO",
       "sourceId": "arxiv-cs-ro",
-      "title": "Self-Evolving AI for Humanoids: Mechanisms, Safety, and Evaluation of Post-Deployment Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.13236",
-      "summary": "arXiv:2609.13236v1 Announce Type: new Abstract: Humanoid robots are becoming an important part of embodied artificial intelligence, driven by advances in reinforcement learning fo…",
-      "comment": "Watch — matches robot, reinforcement, embodied.",
+      "title": "MR-GLi: Mixed Reality-Based Gripper-Linked Overlays for Underwater Robot Arm Teleoperation via Bilateral Control",
+      "url": "https://arxiv.org/abs/2609.16041",
+      "summary": "arXiv:2609.16041v1 Announce Type: new Abstract: Visual torque feedback supports underwater bilateral teleoperation, but the benefit of mixed reality (MR) over conventional monitor…",
+      "comment": "Watch — matches robot, ppo.",
       "score": null,
       "scoreLabel": null,
-      "author": "Loc X. Nguyen, Avi Deb Raha, Huy Q. Le, Eui-Nam Huh, Dusit Niyato, Choong Seon Hong",
-      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "author": "Masashi Sasago, Masato Kobayashi, Yuki Uranishi",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
       "interestHits": [
         "robot",
-        "reinforcement",
-        "embodied"
+        "ppo"
       ]
     },
     {
-      "id": "arxiv-cs-ro:arxiv-org-abs-2609-13234",
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-16056",
       "lane": "tech",
-      "source": "arXiv · cs.RO",
-      "sourceId": "arxiv-cs-ro",
-      "title": "Harnessing human expertise for high-precision robotic assembly in industrialized construction: A sample-efficient installer-in-the-loop interactive reinforcement learning framework",
-      "url": "https://arxiv.org/abs/2609.13234",
-      "summary": "arXiv:2609.13234v1 Announce Type: new Abstract: Industrialized construction imposes stringent precision requirements on robotic assembly of modular components such as prefabricate…",
-      "comment": "Watch — matches robot, reinforcement.",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents",
+      "url": "https://arxiv.org/abs/2609.16056",
+      "summary": "arXiv:2609.16056v1 Announce Type: new Abstract: Humans carry behaviour knowledge of how to act in familiar situations into every new task rather than relearning it from scratch. T…",
+      "comment": "Watch — matches embodied, agent.",
       "score": null,
       "scoreLabel": null,
-      "author": "Zekai Jin, Huiguang Wang, Xiaoning Sun, Yi Shao",
-      "publishedAt": "2026-09-15T04:00:00.000Z",
+      "author": "Norbert Oswald, Fabian Deuser, Thomas Br\\\"aunl",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
       "interestHits": [
-        "robot",
-        "reinforcement"
-      ]
-    },
-    {
-      "id": "arxiv-cs-ro:arxiv-org-abs-2609-13231",
-      "lane": "tech",
-      "source": "arXiv · cs.RO",
-      "sourceId": "arxiv-cs-ro",
-      "title": "ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2609.13231",
-      "summary": "arXiv:2609.13231v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models demonstrate strong generalization in robotic manipulation and navigation, but existing fine-tun…",
-      "comment": "Watch — matches robot, navigation.",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Manan Tayal, Akshay Nambi",
-      "publishedAt": "2026-09-15T04:00:00.000Z",
-      "interestHits": [
-        "robot",
-        "navigation"
+        "embodied",
+        "agent"
       ]
     },
     {
@@ -325,12 +302,29 @@
       "url": "https://github.com/letorig/video-generator-client",
       "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "comment": "Watch — matches ppo.",
-      "score": 441,
+      "score": 509,
       "scoreLabel": "stars",
       "author": "letorig",
       "publishedAt": "2026-09-14T17:46:01Z",
       "interestHits": [
         "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-16074",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "World-Action Models for Robot Learning and Control: A Survey",
+      "url": "https://arxiv.org/abs/2609.16074",
+      "summary": "arXiv:2609.16074v1 Announce Type: new Abstract: Robots operating in open environments act under partial observability, physical constraints, and dynamic task contexts. Beyond mapp…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zuxing Lu, Hongjia Zhai, Guanzhi Wang, Huajian Zeng, Jiaqi Yang, Jingyu Liu, Lei Cheng, Yuantai Zhang, Yuheng Qiu, Zezhou Cheng, Ivan Laptev, Danfei Xu, Benjamin Riviere, Giuseppe Loianno, Eric Xing, Xingxing Zuo",
+      "publishedAt": "2026-09-16T04:00:00.000Z",
+      "interestHits": [
+        "robot"
       ]
     }
   ],
