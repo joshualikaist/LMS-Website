@@ -13,7 +13,7 @@ export type HobbyProject = {
   year: string;
   kind: string;
   photoDir: string;
-  photoCount: number;
+  awards?: { when: string; title: string; place: string }[];
 };
 
 export const hobbies: HobbyProject[] = [
@@ -22,21 +22,32 @@ export const hobbies: HobbyProject[] = [
     name: "Shelton LMS",
     handle: "shelton_lms",
     kicker: "HOBBY / SHELTON LMS",
-    tagline: "A personal channel under joshualisky.",
+    tagline: "Tennis log under joshualisky.",
     summary:
-      "Lifestyle and personal posts connected to Instagram @joshualisky — open the Shelton LMS profile from here.",
+      "A tennis channel next to the academic portfolio — match days, training, and court notes on Instagram @shelton_lms.",
     about: [
-      "Shelton LMS sits next to the academic portfolio as a personal brand, not a research project.",
-      "The live destination is the Instagram profile. If a standalone site ships later, this page can point there instead.",
+      "Shelton LMS is a tennis page, not a research project: singles and doubles around KAIST, with the public log on Instagram.",
+      "If a standalone site ships later, this page can point there instead of the Instagram profile.",
     ],
     url: "https://www.instagram.com/shelton_lms/",
     urlLabel: "Open Instagram",
     instagram: "https://www.instagram.com/shelton_lms/",
     instagramHandle: "shelton_lms",
     year: "2026",
-    kind: "Personal brand",
+    kind: "Tennis",
     photoDir: "/hobby/shelton-lms",
-    photoCount: 9,
+    awards: [
+      {
+        when: "2026.03",
+        title: "3월 테니스 정산",
+        place: "움직임 16,269 Cal · 운동 29시간 · 11일",
+      },
+      {
+        when: "2024 — Present",
+        title: "테니스",
+        place: "KAIST · 단식 / 복식",
+      },
+    ],
   },
   {
     slug: "babdoduk",
@@ -57,7 +68,6 @@ export const hobbies: HobbyProject[] = [
     year: "2026",
     kind: "Food diary",
     photoDir: "/hobby/babdoduk",
-    photoCount: 9,
   },
 ];
 

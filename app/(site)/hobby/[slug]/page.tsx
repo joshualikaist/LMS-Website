@@ -28,8 +28,6 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
   const item = getHobby(slug);
   if (!item) notFound();
 
-  const posts = Array.from({ length: item.photoCount }, (_, i) => `${item.photoDir}/${String(i + 1).padStart(2, "0")}.jpg`);
-
   return (
     <main className={`page ${styles.main}`}>
       <div className={s.kicker}>{item.kicker}</div>
@@ -53,17 +51,21 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
       <a href={item.instagram} target="_blank" rel="noreferrer" className={`${raised.btn} ${styles.open}`}>
         Follow on Instagram →
       </a>
-      <div className={styles.stories} aria-label="Recent Instagram photos">
-        {posts.map((src, i) => (
-          <InstagramCircle
-            key={src}
-            src={src}
-            label={`${item.name} ${i + 1}`}
-            href={item.instagram}
-            size={76}
-          />
-        ))}
-      </div>
+
+      {item.awards?.length ? (
+        <section className={s.section}>
+          <h2 className={s.sectionTitle}>수상경력</h2>
+          <ol className={styles.timeline}>
+            {item.awards.map((award) => (
+              <li key={`${award.when}-${award.title}`} className={styles.award}>
+                <p className={styles.when}>{award.when}</p>
+                <p className={styles.awardTitle}>{award.title}</p>
+                <p className={styles.place}>{award.place}</p>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ) : null}
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>About</h2>
