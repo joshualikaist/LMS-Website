@@ -34,9 +34,11 @@ export default function HomePage() {
         {site.emailKaist ? (
           <div className={styles.email}>
             <span>Email</span>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img className={styles.icon} src="/icons/gmail.svg" alt="" />
-            <span className={styles.address}>{site.emailKaist}</span>
+            <div className={styles.emailRow}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img className={styles.icon} src="/icons/gmail.svg" alt="" />
+              <span className={styles.address}>{site.emailKaist}</span>
+            </div>
           </div>
         ) : null}
       </div>
