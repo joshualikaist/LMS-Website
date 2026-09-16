@@ -19,8 +19,27 @@
   margin-top: 22px;
 }
 
-.open {
-  margin-top: 22px;
+.nameRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ig,
+.igLg {
+  display: inline-flex;
+  flex: none;
+  line-height: 0;
+}
+
+.ig img {
+  width: 22px;
+  height: 22px;
+}
+
+.igLg img {
+  width: 28px;
+  height: 28px;
 }
 
 .copy {

@@ -30,25 +30,25 @@ export default function HobbyPage() {
               />
             </div>
             <div className={s.entryBody}>
-              <Link href={`/hobby/${item.slug}`} className={`${raised.btn} ${raised.title}`}>
-                {item.name}
-              </Link>
+              <div className={styles.nameRow}>
+                <a
+                  href={item.instagram}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={styles.ig}
+                  aria-label={`Instagram @${item.instagramHandle}`}
+                >
+                  <img src="/icons/instagram.svg" alt="" />
+                </a>
+                <Link href={`/hobby/${item.slug}`} className={`${raised.btn} ${raised.title}`}>
+                  {item.name}
+                </Link>
+              </div>
               <p className={s.entryDesc}>{item.summary}</p>
               <div className={s.entryMeta}>
                 <span>
                   {item.kind} · {item.year}
                 </span>
-              </div>
-              <div className={s.entryLinks}>
-                <Link href={`/hobby/${item.slug}`} className={raised.btn}>
-                  Page
-                </Link>
-                <a href={item.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
-                  Instagram @{item.instagramHandle} →
-                </a>
-                <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
-                  {item.urlLabel} →
-                </a>
               </div>
             </div>
           </div>
