@@ -18,7 +18,7 @@ type TimelineItem = {
 
 const education: TimelineItem[] = [
   {
-    when: "2024 — 2028",
+    when: "2024 — Present",
     title: "B.S. in Mechanical Engineering",
     place: "KAIST",
   },

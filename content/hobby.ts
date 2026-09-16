@@ -38,14 +38,14 @@ export const hobbies: HobbyProject[] = [
     photoDir: "/hobby/shelton-lms",
     awards: [
       {
-        when: "2026.03",
-        title: "3월 테니스 정산",
-        place: "움직임 16,269 Cal · 운동 29시간 · 11일",
+        when: "2026",
+        title: "양구 신인부 단체전 준우승",
+        place: "KAIST STROKE",
       },
       {
-        when: "2024 — Present",
-        title: "테니스",
-        place: "KAIST · 단식 / 복식",
+        when: "2025",
+        title: "춘천 은배부 단체전 준우승",
+        place: "KAIST STROKE",
       },
     ],
   },
