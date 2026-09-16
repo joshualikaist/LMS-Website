@@ -44,7 +44,7 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
               href={item.instagram}
               target="_blank"
               rel="noreferrer"
-              className={styles.igLg}
+              className={`${raised.btn} ${styles.igLg}`}
               aria-label={`Instagram @${item.instagramHandle}`}
             >
               <img src="/icons/instagram.svg" alt="" />
@@ -87,11 +87,9 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Links</h2>
         <div className={s.entryLinks}>
-          {item.url !== item.instagram ? (
-            <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
-              {item.urlLabel} →
-            </a>
-          ) : null}
+          <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
+            {item.urlLabel} →
+          </a>
           <Link href="/hobby" className={raised.btn}>
             All hobby
           </Link>

@@ -35,12 +35,12 @@ export default function HobbyPage() {
                   href={item.instagram}
                   target="_blank"
                   rel="noreferrer"
-                  className={styles.ig}
+                  className={`${raised.btn} ${styles.ig}`}
                   aria-label={`Instagram @${item.instagramHandle}`}
                 >
                   <img src="/icons/instagram.svg" alt="" />
                 </a>
-                <Link href={`/hobby/${item.slug}`} className={`${raised.btn} ${raised.title}`}>
+                <Link href={`/hobby/${item.slug}`} className={styles.name}>
                   {item.name}
                 </Link>
               </div>
@@ -49,6 +49,11 @@ export default function HobbyPage() {
                 <span>
                   {item.kind} · {item.year}
                 </span>
+              </div>
+              <div className={s.entryLinks}>
+                <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
+                  {item.urlLabel} →
+                </a>
               </div>
             </div>
           </div>
