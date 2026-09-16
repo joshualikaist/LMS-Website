@@ -1,8 +1,25 @@
 {
   "date": "2026-09-16",
-  "fetchedAt": "2026-09-16T05:22:54.481Z",
+  "fetchedAt": "2026-09-16T07:57:06.071Z",
   "timezone": "Asia/Seoul",
   "items": [
+    {
+      "id": "hn:github-com-rapiddweller-datamimic",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 28,
+      "scoreLabel": "pts",
+      "author": "ake2l",
+      "publishedAt": "2026-09-16T04:58:36.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
     {
       "id": "techcrunch:techcrunch-com-2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-wha",
       "lane": "trend",
@@ -46,7 +63,7 @@
       "url": "https://github.com/arnegiacomo/fugleramme",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 1451,
+      "score": 1577,
       "scoreLabel": "pts",
       "author": "arnemunthekaas",
       "publishedAt": "2026-09-15T12:31:10.000Z",
@@ -61,25 +78,10 @@
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "summary": null,
       "comment": "From Hacker News.",
-      "score": 1025,
+      "score": 1260,
       "scoreLabel": "pts",
       "author": "albelfio",
       "publishedAt": "2026-09-15T19:25:03.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "hn:blog-archive-org-2026-09-15-an-update-on-wayback-machine-access",
-      "lane": "trend",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "title": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": null,
-      "comment": "From Hacker News.",
-      "score": 467,
-      "scoreLabel": "pts",
-      "author": "ChrisArchitect",
-      "publishedAt": "2026-09-15T17:52:18.000Z",
       "interestHits": []
     },
     {
@@ -117,6 +119,36 @@
       ]
     },
     {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cjy5z9l0395ro-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Complaints to watchdog about water firms soar",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+      "comment": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-16T06:59:41.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqx2zpj4y525o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "comment": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the t…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-16T06:57:32.000Z",
+      "interestHits": []
+    },
+    {
       "id": "bbc-business:www-bbc-co-uk-news-videos-cwz0zpyzrlr1o-at-medium-rss-amp-at-campaign-rss",
       "lane": "economy",
       "source": "BBC Business",
@@ -129,36 +161,6 @@
       "scoreLabel": null,
       "author": null,
       "publishedAt": "2026-09-16T03:58:32.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "bbc-business:www-bbc-co-uk-news-articles-cqx2zpj4y525o-at-medium-rss-amp-at-campaign-rss",
-      "lane": "economy",
-      "source": "BBC Business",
-      "sourceId": "bbc-business",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "comment": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the t…",
-      "score": null,
-      "scoreLabel": null,
-      "author": null,
-      "publishedAt": "2026-09-16T00:59:20.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "npr-business:www-npr-org-2026-09-15-g-s1-143414-turkey-gold-economy",
-      "lane": "economy",
-      "source": "NPR Business",
-      "sourceId": "npr-business",
-      "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
-      "url": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-      "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
-      "comment": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the governm…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Hadeel Al-Shalchi",
-      "publishedAt": "2026-09-16T00:55:41.000Z",
       "interestHits": []
     },
     {
@@ -196,6 +198,21 @@
       ]
     },
     {
+      "id": "uxcollective:uxdesign-cc-dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73-source-rss",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Don’t let AI build a Winchester Mystery House",
+      "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Patrick Neeman",
+      "publishedAt": "2026-09-16T07:27:23.000Z",
+      "interestHits": []
+    },
+    {
       "id": "heydesigner:heydesigner-com-2026-09-16",
       "lane": "design",
       "source": "Hey Designer",
@@ -223,21 +240,6 @@
       "scoreLabel": null,
       "author": "Tamas Sari",
       "publishedAt": "2026-09-15T20:04:00.000Z",
-      "interestHits": []
-    },
-    {
-      "id": "uxcollective:uxdesign-cc-ai-culture-ux-design-36c7d410cd1f-source-rss-138adf9c44c-4",
-      "lane": "design",
-      "source": "UX Collective",
-      "sourceId": "uxcollective",
-      "title": "The hidden culture layer in AI",
-      "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
-      "summary": "Why AI gravitates toward certain cultural defaults — and what that means for the future of UX. Continue reading on UX Collective »",
-      "comment": "Why AI gravitates toward certain cultural defaults — and what that means for the future of UX. Continue readi…",
-      "score": null,
-      "scoreLabel": null,
-      "author": "Slava Polonski, PhD",
-      "publishedAt": "2026-09-15T11:13:46.000Z",
       "interestHits": []
     },
     {
@@ -302,7 +304,7 @@
       "url": "https://github.com/letorig/video-generator-client",
       "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
       "comment": "Watch — matches ppo.",
-      "score": 509,
+      "score": 514,
       "scoreLabel": "stars",
       "author": "letorig",
       "publishedAt": "2026-09-14T17:46:01Z",
