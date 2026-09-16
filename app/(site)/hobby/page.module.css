@@ -6,6 +6,26 @@
   margin-top: 36px;
 }
 
+.thumb {
+  width: 120px;
+  flex: none;
+  padding-top: 4px;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-top: 22px;
+}
+
+.stories {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 28px;
+}
+
 .open {
   margin-top: 22px;
 }
@@ -17,7 +37,7 @@
 }
 
 .title {
-  margin-top: 16px;
+  margin-top: 0;
 }
 
 .meta {
@@ -27,5 +47,11 @@
 @media (max-width: 560px) {
   .main {
     padding-top: 32px;
+  }
+
+  .profile {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
   }
 }

@@ -12,6 +12,8 @@ export type HobbyProject = {
   instagramHandle: string;
   year: string;
   kind: string;
+  photoDir: string;
+  photoCount: number;
 };
 
 export const hobbies: HobbyProject[] = [
@@ -33,6 +35,8 @@ export const hobbies: HobbyProject[] = [
     instagramHandle: "shelton_lms",
     year: "2026",
     kind: "Personal brand",
+    photoDir: "/hobby/shelton-lms",
+    photoCount: 9,
   },
   {
     slug: "babdoduk",
@@ -52,6 +56,8 @@ export const hobbies: HobbyProject[] = [
     instagramHandle: "babdodukms",
     year: "2026",
     kind: "Food diary",
+    photoDir: "/hobby/babdoduk",
+    photoCount: 9,
   },
 ];
 

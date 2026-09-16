@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { BrowserPlaceholder } from "@/components/media/Placeholders";
+import InstagramCircle from "@/components/hobby/InstagramCircle";
 import { hobbies } from "@/content/hobby";
 import s from "@/styles/shared.module.css";
 import raised from "@/styles/raised.module.css";
@@ -21,8 +21,13 @@ export default function HobbyPage() {
       <div className={styles.list}>
         {hobbies.map((item) => (
           <div key={item.slug} className={s.entry}>
-            <div className={s.entryThumb}>
-              <BrowserPlaceholder title={item.name} label={`HOBBY — ${item.handle}`} compact />
+            <div className={styles.thumb}>
+              <InstagramCircle
+                src={`${item.photoDir}/avatar.jpg`}
+                label={item.name}
+                href={item.instagram}
+                size={108}
+              />
             </div>
             <div className={s.entryBody}>
               <Link href={`/hobby/${item.slug}`} className={`${raised.btn} ${raised.title}`}>
@@ -38,6 +43,9 @@ export default function HobbyPage() {
                 <Link href={`/hobby/${item.slug}`} className={raised.btn}>
                   Page
                 </Link>
+                <a href={item.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
+                  Instagram @{item.instagramHandle} →
+                </a>
                 <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
                   {item.urlLabel} →
                 </a>
