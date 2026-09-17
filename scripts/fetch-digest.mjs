@@ -2,7 +2,7 @@
  * Morning digest snapshot.
  * Writes content/digest/editions/YYYY-MM-DD.json (Asia/Seoul date).
  */
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile, access } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -310,9 +310,19 @@ function trimByLane(items, keywords) {
 }
 
 async function main() {
+  const date = seoulDate();
+  await mkdir(EDITIONS_DIR, { recursive: true });
+  const outPath = path.join(EDITIONS_DIR, `${date}.json`);
+  try {
+    await access(outPath);
+    console.log(`[digest] ${date} already exists — skip`);
+    return;
+  } catch {
+    // First snapshot for this Seoul date.
+  }
+
   const { sources } = JSON.parse(await readFile(SOURCES_PATH, "utf8"));
   const { keywords } = JSON.parse(await readFile(INTERESTS_PATH, "utf8"));
-  const date = seoulDate();
   const fetchedAt = new Date().toISOString();
   const failures = [];
   const collected = [];
@@ -339,8 +349,6 @@ async function main() {
     failures,
   };
 
-  await mkdir(EDITIONS_DIR, { recursive: true });
-  const outPath = path.join(EDITIONS_DIR, `${date}.json`);
   await writeFile(outPath, `${JSON.stringify(edition, null, 2)}\n`, "utf8");
 
   console.log(

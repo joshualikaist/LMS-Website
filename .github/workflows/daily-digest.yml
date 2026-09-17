@@ -2,10 +2,13 @@ name: Daily digest
 
 on:
   schedule:
-    # 10:00 Asia/Seoul (UTC+9). GitHub often delays this window.
+    # 10:00 Asia/Seoul (UTC+9). This repo's scheduled jobs often start ~4h late,
+    # so extra slots catch a skipped or delayed 10:00 run without rewriting
+    # an edition that already exists.
     - cron: "0 1 * * *"
-    # Noon KST catch-up if the first run was skipped or late.
+    - cron: "0 2 * * *"
     - cron: "0 3 * * *"
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 permissions:
@@ -43,6 +46,22 @@ jobs:
             git push origin main
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Mirror edition onto lab
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main lab
+          git checkout -B lab origin/lab
+          git checkout origin/main -- content/digest/editions
+          git add content/digest/editions
+          if git diff --staged --quiet; then
+            echo "lab already has editions"
+          else
+            git commit -m "digest: morning snapshot $(date -u +%Y-%m-%d)"
+            git push origin lab
+          fi
+          git checkout main
 
       - name: Deploy production
         if: steps.commit.outputs.changed == 'true'
@@ -83,14 +102,15 @@ jobs:
               with urllib.request.urlopen(req) as res:
                   return json.load(res)
 
+          sha = os.popen("git rev-parse HEAD").read().strip()
           dep = None
           for _ in range(20):
               listing = load(
                   f"https://api.vercel.com/v6/deployments?projectId={project}&teamId={team}&target=production&limit=8"
               )
               for item in listing.get("deployments", []):
-                  message = (item.get("meta") or {}).get("githubCommitMessage", "")
-                  if item.get("readyState") == "READY" and message.startswith("digest:"):
+                  commit = (item.get("meta") or {}).get("githubCommitSha", "")
+                  if item.get("readyState") == "READY" and commit == sha:
                       dep = item
                       break
               if dep:
