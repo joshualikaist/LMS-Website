@@ -50,16 +50,6 @@
   flex: 1;
 }
 
-.home {
-  font-size: 16px;
-  line-height: 1;
-  text-decoration: none;
-}
-
-.home:hover {
-  text-decoration: none;
-}
-
 .link {
   font-size: 13px;
   color: rgba(20, 32, 44, 0.82);

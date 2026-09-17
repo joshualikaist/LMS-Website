@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { usePathname } from "next/navigation";
 import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
@@ -34,9 +33,6 @@ export default function SiteFooter() {
         </button>
         <div className={styles.copyright}>© 2026 Minseok Li</div>
         <div className={styles.right}>
-          <Link href="/" className={styles.home} aria-label="Home">
-            🏠
-          </Link>
           {site.linkedin ? (
             <a href={site.linkedin} target="_blank" rel="noreferrer" className={styles.link}>
               LinkedIn
