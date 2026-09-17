@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Hobby",
-  description: "Tennis and food — Shelton LMS and 밥도둑.",
+  description: "My hobbies — Shelton LMS and 밥도둑.",
 };
 
 export default function HobbyPage() {
@@ -16,7 +16,7 @@ export default function HobbyPage() {
     <main className={`page ${styles.main}`}>
       <h1 className={s.h1}>Hobby</h1>
       <p className={s.lead}>
-        Tennis and food. Open a page for the live log.
+        My hobbies. Click instagram or pages if you are curious.
       </p>
       <div className={styles.list}>
         {hobbies.map((item) => (
@@ -51,10 +51,26 @@ export default function HobbyPage() {
                 </span>
               </div>
               <div className={s.entryLinks}>
-                <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
-                  {item.urlLabel} →
-                </a>
+                {item.url.startsWith("http") ? (
+                  <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
+                    {item.urlLabel} →
+                  </a>
+                ) : (
+                  <Link href={item.url} className={raised.btn}>
+                    {item.urlLabel} →
+                  </Link>
+                )}
               </div>
+              {item.instagramNote ? (
+                <a
+                  href={item.instagram}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={styles.igNote}
+                >
+                  {item.instagramNote}
+                </a>
+              ) : null}
             </div>
           </div>
         ))}

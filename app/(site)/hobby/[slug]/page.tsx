@@ -87,9 +87,15 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Links</h2>
         <div className={s.entryLinks}>
-          <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
-            {item.urlLabel} →
-          </a>
+          {item.url.startsWith("http") ? (
+            <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
+              {item.urlLabel} →
+            </a>
+          ) : (
+            <a href={item.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
+              Open Instagram →
+            </a>
+          )}
           <Link href="/hobby" className={raised.btn}>
             All hobby
           </Link>

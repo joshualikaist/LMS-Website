@@ -13,6 +13,7 @@ export type HobbyProject = {
   year: string;
   kind: string;
   photoDir: string;
+  instagramNote?: string;
   awards?: { when: string; title: string; place: string }[];
 };
 
@@ -23,19 +24,19 @@ export const hobbies: HobbyProject[] = [
     handle: "shelton_lms",
     kicker: "HOBBY / SHELTON LMS",
     tagline: "Tennis — singles, doubles, and match days.",
-    summary:
-      "Match days, training, and court notes. Open Instagram @shelton_lms for the live log.",
+    summary: "Match days, training, and court notes.",
     about: [
       "Shelton LMS is my tennis page: singles and doubles around KAIST, with match days and training on Instagram.",
       "Awards are listed here. Day-to-day court notes live on Instagram @shelton_lms.",
     ],
-    url: "https://www.instagram.com/shelton_lms/",
-    urlLabel: "Open Instagram",
+    url: "/hobby/shelton-lms",
+    urlLabel: "Open site",
     instagram: "https://www.instagram.com/shelton_lms/",
     instagramHandle: "shelton_lms",
     year: "2026",
     kind: "Tennis",
     photoDir: "/hobby/shelton-lms",
+    instagramNote: "Open Instagram for live log",
     awards: [
       {
         when: "2026",
@@ -56,7 +57,7 @@ export const hobbies: HobbyProject[] = [
     kicker: "HOBBY / BABDODUK",
     tagline: "A food diary — restaurants, spending, and campus 꽁밥.",
     summary:
-      "Restaurant maps, a monthly food ledger, event pages, and KAIST 꽁밥 notes. Open the site, or Instagram @babdodukms for daily posts.",
+      "Restaurant maps, a monthly food ledger, event pages, and KAIST 꽁밥 notes.",
     about: [
       "밥도둑 is my food diary: restaurant maps, a monthly spending log, event pages, and a KAIST campus map for leftover-rice (꽁밥) notices.",
       "The site holds the maps and the ledger. Instagram @babdodukms holds the daily photos and recipes.",
