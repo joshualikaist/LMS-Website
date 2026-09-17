@@ -49,9 +49,9 @@ export function GET() {
 
 ## Hobby
 
-- [Hobby](${baseUrl}/hobby): Personal channels under joshualisky.
-- [Shelton LMS](${baseUrl}/hobby/shelton-lms): Personal Instagram brand @shelton_lms.
-- [밥도둑](${baseUrl}/hobby/babdoduk): Food diary site at https://babdoduk.vercel.app.
+- [Hobby](${baseUrl}/hobby): Tennis and food pages — Shelton LMS and 밥도둑.
+- [Shelton LMS](${baseUrl}/hobby/shelton-lms): Tennis log on Instagram @shelton_lms.
+- [밥도둑](${baseUrl}/hobby/babdoduk): Food diary at https://babdoduk.vercel.app.
 
 ## Notes
 

@@ -39,7 +39,18 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
           size={128}
         />
         <div>
-          <h1 className={`${s.h1} ${styles.title}`}>{item.name}</h1>
+          <div className={styles.nameRow}>
+            <a
+              href={item.instagram}
+              target="_blank"
+              rel="noreferrer"
+              className={`${raised.btn} ${styles.igLg}`}
+              aria-label={`Instagram @${item.instagramHandle}`}
+            >
+              <img src="/icons/instagram.svg" alt="" />
+            </a>
+            <h1 className={`${s.h1} ${styles.title}`}>{item.name}</h1>
+          </div>
           <p className={s.lead}>{item.tagline}</p>
           <div className={`${s.metaRow} ${styles.meta}`}>
             <span className={s.mono12m}>{item.year}</span>
@@ -48,9 +59,6 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
           </div>
         </div>
       </div>
-      <a href={item.instagram} target="_blank" rel="noreferrer" className={`${raised.btn} ${styles.open}`}>
-        Follow on Instagram →
-      </a>
 
       {item.awards?.length ? (
         <section className={s.section}>
@@ -81,9 +89,6 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
         <div className={s.entryLinks}>
           <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
             {item.urlLabel} →
-          </a>
-          <a href={item.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
-            Instagram @{item.instagramHandle} →
           </a>
           <Link href="/hobby" className={raised.btn}>
             All hobby

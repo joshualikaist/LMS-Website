@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Hobby",
-  description: "Personal side projects connected to joshualisky — Shelton LMS and 밥도둑.",
+  description: "Tennis and food — Shelton LMS and 밥도둑.",
 };
 
 export default function HobbyPage() {
@@ -16,7 +16,7 @@ export default function HobbyPage() {
     <main className={`page ${styles.main}`}>
       <h1 className={s.h1}>Hobby</h1>
       <p className={s.lead}>
-        Channels tied to Instagram @joshualisky. Each page below opens the live site.
+        Tennis and food. Open a page for the live log.
       </p>
       <div className={styles.list}>
         {hobbies.map((item) => (
@@ -30,9 +30,20 @@ export default function HobbyPage() {
               />
             </div>
             <div className={s.entryBody}>
-              <Link href={`/hobby/${item.slug}`} className={`${raised.btn} ${raised.title}`}>
-                {item.name}
-              </Link>
+              <div className={styles.nameRow}>
+                <a
+                  href={item.instagram}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={`${raised.btn} ${styles.ig}`}
+                  aria-label={`Instagram @${item.instagramHandle}`}
+                >
+                  <img src="/icons/instagram.svg" alt="" />
+                </a>
+                <Link href={`/hobby/${item.slug}`} className={styles.name}>
+                  {item.name}
+                </Link>
+              </div>
               <p className={s.entryDesc}>{item.summary}</p>
               <div className={s.entryMeta}>
                 <span>
@@ -40,12 +51,6 @@ export default function HobbyPage() {
                 </span>
               </div>
               <div className={s.entryLinks}>
-                <Link href={`/hobby/${item.slug}`} className={raised.btn}>
-                  Page
-                </Link>
-                <a href={item.instagram} target="_blank" rel="noreferrer" className={raised.btn}>
-                  Instagram @{item.instagramHandle} →
-                </a>
                 <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
                   {item.urlLabel} →
                 </a>

@@ -19,8 +19,46 @@
   margin-top: 22px;
 }
 
-.open {
-  margin-top: 22px;
+.nameRow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.name:hover {
+  color: var(--ink);
+}
+
+.ig,
+.igLg {
+  width: 32px;
+  padding: 0;
+  flex: none;
+}
+
+.ig img,
+.igLg img {
+  width: 18px;
+  height: 18px;
+}
+
+.igLg {
+  width: 36px;
+  height: 36px;
+}
+
+.igLg img {
+  width: 20px;
+  height: 20px;
 }
 
 .copy {

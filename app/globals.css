@@ -115,8 +115,13 @@ video {
 }
 
 ::selection {
-  background: var(--ink);
-  color: var(--bg);
+  background: var(--accent);
+  color: #ffffff;
+}
+
+body:has([data-sky]) ::selection {
+  background: color-mix(in srgb, #1557ff 36%, transparent);
+  color: #14202a;
 }
 
 .page {
