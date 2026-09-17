@@ -13,7 +13,7 @@ export type HobbyProject = {
   year: string;
   kind: string;
   photoDir: string;
-  awards?: { when: string; title: string; place: string }[];
+  awards?: { when: string; title: string; titleEn?: string; place: string }[];
 };
 
 export const hobbies: HobbyProject[] = [
@@ -39,11 +39,13 @@ export const hobbies: HobbyProject[] = [
       {
         when: "2026",
         title: "양구 신인부 단체전 준우승",
+        titleEn: "Yanggu Rookie Division Team Runner-up",
         place: "KAIST STROKE",
       },
       {
         when: "2025",
         title: "춘천 은배부 단체전 준우승",
+        titleEn: "Chuncheon Silver Cup Team Runner-up",
         place: "KAIST STROKE",
       },
     ],

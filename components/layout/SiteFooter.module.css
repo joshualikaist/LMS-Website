@@ -18,6 +18,23 @@
   min-height: var(--footer-height);
 }
 
+.navBtn {
+  flex: none;
+  width: 36px;
+  height: 32px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: rgba(20, 32, 44, 0.82);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.navBtn:hover {
+  color: #111;
+}
+
 .copyright {
   font-size: 13px;
   color: rgba(20, 32, 44, 0.7);
@@ -30,6 +47,17 @@
   justify-content: flex-end;
   gap: 16px;
   flex-wrap: wrap;
+  flex: 1;
+}
+
+.home {
+  font-size: 16px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.home:hover {
+  text-decoration: none;
 }
 
 .link {
@@ -49,7 +77,6 @@
   }
 
   .right {
-    width: 100%;
     justify-content: center;
     gap: 14px;
   }
