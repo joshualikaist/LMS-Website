@@ -2,16 +2,28 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
 import styles from "./SiteFooter.module.css";
 
+function isTrend(pathname: string) {
+  return (
+    pathname === site.digest ||
+    pathname.startsWith(`${site.digest}/`) ||
+    pathname.startsWith("/digest")
+  );
+}
+
 export default function SiteFooter() {
   const pathname = usePathname();
-  if (pathname === "/") return null;
+  const trend = isTrend(pathname);
+  const home = pathname === "/";
 
   return (
-    <footer className={`${styles.bar} no-print`}>
-      <div className={`page ${styles.inner}`}>
+    <footer
+      className={`${styles.bar} ${trend ? styles.onDigest : ""} ${home ? styles.onHome : ""} no-print`}
+    >
+      <div className={`${trend ? "pageWide" : "page"} ${styles.inner}`}>
         <button
           type="button"
           className={styles.navBtn}
@@ -38,6 +50,7 @@ export default function SiteFooter() {
           <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
             GitHub
           </a>
+          {trend ? <ThemeToggle /> : null}
         </div>
         <button
           type="button"

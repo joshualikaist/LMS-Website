@@ -71,6 +71,27 @@
   text-decoration: none;
 }
 
+.onHome {
+  background: rgba(255, 255, 255, 0.62);
+  border-top-color: rgba(20, 32, 44, 0.12);
+}
+
+.onDigest {
+  background: #111210;
+  border-top-color: #2a2a28;
+}
+
+.onDigest .navBtn,
+.onDigest .copyright,
+.onDigest .link {
+  color: #d8d6ce;
+}
+
+.onDigest .navBtn:hover,
+.onDigest .link:hover {
+  color: #fff;
+}
+
 @media (max-width: 720px) {
   .copyright {
     display: none;
