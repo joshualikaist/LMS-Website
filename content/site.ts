@@ -17,7 +17,7 @@ export const site = {
   instagram: "https://www.instagram.com/joshualisky",
   googleScholar: null as string | null,
   orcid: null as string | null,
-  cvPdf: null as string | null, // e.g. "/cv/minseok-li-cv.pdf" after adding the file under public/cv/
+  cvPdf: "/cv/minseok-li-cv.pdf",
   digest: digestUrl,
   digestIsExternal: digestUrl.startsWith("http"),
 };

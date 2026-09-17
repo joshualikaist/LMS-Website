@@ -10,19 +10,32 @@
   flex-wrap: wrap;
 }
 
-.pdf {
-  font-size: 14px;
+.download {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
 }
 
-.contactLine {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  align-items: center;
-  row-gap: 8px;
+.download:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.pdfMark {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.location {
   font-size: 14.5px;
   color: var(--muted);
-  margin-top: 20px;
+  margin: 20px 0 0 0;
 }
 
 .rows {
