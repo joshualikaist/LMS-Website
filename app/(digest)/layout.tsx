@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import DigestFooter from "@/components/digest/DigestFooter";
+import SiteFooter from "@/components/layout/SiteFooter";
 import SiteNav from "@/components/layout/SiteNav";
 
 export const metadata: Metadata = {
@@ -16,7 +16,7 @@ export default function DigestLayout({ children }: { children: React.ReactNode }
     <>
       <SiteNav />
       {children}
-      <DigestFooter />
+      <SiteFooter />
     </>
   );
 }

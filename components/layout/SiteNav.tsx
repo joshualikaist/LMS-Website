@@ -11,12 +11,11 @@ type NavItem = {
   id: string;
   href: string;
   label: string;
-  mark?: boolean;
   digest?: boolean;
 };
 
 const ITEMS: NavItem[] = [
-  { id: "home", href: "/", label: "ML", mark: true },
+  { id: "home", href: "/", label: "Home" },
   { id: "research", href: "/work/motar", label: "Research" },
   { id: "hobby", href: "/hobby", label: "Hobby" },
   { id: "cv", href: "/cv", label: "CV" },
@@ -81,7 +80,7 @@ export default function SiteNav() {
         />
         {ITEMS.map((item) => {
           const on = focusId === item.id;
-          const className = `${styles.item} ${item.mark ? styles.mark : ""} ${on ? styles.on : ""}`;
+          const className = `${styles.item} ${item.id === "home" ? styles.home : ""} ${on ? styles.on : ""}`;
           const setRef = (node: HTMLElement | null) => {
             itemRefs.current[item.id] = node;
           };
@@ -107,9 +106,14 @@ export default function SiteNav() {
               href={item.href}
               ref={setRef}
               className={className}
+              aria-label={item.id === "home" ? "Home" : undefined}
               onMouseEnter={() => moveTo(item.id)}
             >
-              {item.label}
+              {item.id === "home" ? (
+                <span aria-hidden="true">🏠</span>
+              ) : (
+                item.label
+              )}
             </Link>
           );
         })}

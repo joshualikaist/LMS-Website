@@ -85,20 +85,21 @@
 }
 
 .email {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  align-self: flex-start;
   gap: 8px;
   margin-top: 22px;
   color: #3d4f5e;
   font-size: 14px;
   letter-spacing: 0.04em;
+  text-decoration: none;
 }
 
-.emailRow {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+.email:hover {
+  color: #14202a;
+  text-decoration: none;
 }
 
 .address {

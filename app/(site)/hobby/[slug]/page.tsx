@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import InstagramCircle from "@/components/hobby/InstagramCircle";
 import { getHobby, hobbies } from "@/content/hobby";
@@ -62,12 +61,15 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
 
       {item.awards?.length ? (
         <section className={s.section}>
-          <h2 className={s.sectionTitle}>수상경력</h2>
+          <h2 className={s.sectionTitle}>수상경력 / Awards</h2>
           <ol className={styles.timeline}>
             {item.awards.map((award) => (
               <li key={`${award.when}-${award.title}`} className={styles.award}>
                 <p className={styles.when}>{award.when}</p>
-                <p className={styles.awardTitle}>{award.title}</p>
+                <p className={styles.awardTitle}>
+                  {award.title}
+                  {award.titleEn ? ` / ${award.titleEn}` : ""}
+                </p>
                 <p className={styles.place}>{award.place}</p>
               </li>
             ))}
@@ -82,18 +84,6 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
             {paragraph}
           </p>
         ))}
-      </section>
-
-      <section className={s.section}>
-        <h2 className={s.sectionTitle}>Links</h2>
-        <div className={s.entryLinks}>
-          <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
-            {item.urlLabel} →
-          </a>
-          <Link href="/hobby" className={raised.btn}>
-            All hobby
-          </Link>
-        </div>
       </section>
     </main>
   );

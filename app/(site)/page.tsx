@@ -32,14 +32,12 @@ export default function HomePage() {
           ) : null}
         </nav>
         {site.emailKaist ? (
-          <div className={styles.email}>
+          <a href={`mailto:${site.emailKaist}`} className={styles.email}>
             <span>Email</span>
-            <div className={styles.emailRow}>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img className={styles.icon} src="/icons/gmail.svg" alt="" />
-              <span className={styles.address}>{site.emailKaist}</span>
-            </div>
-          </div>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img className={styles.icon} src="/icons/gmail.svg" alt="" />
+            <span className={styles.address}>{site.emailKaist}</span>
+          </a>
         ) : null}
       </div>
     </main>

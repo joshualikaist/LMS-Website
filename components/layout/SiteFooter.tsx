@@ -1,23 +1,38 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
 import styles from "./SiteFooter.module.css";
 
+function isTrend(pathname: string) {
+  return (
+    pathname === site.digest ||
+    pathname.startsWith(`${site.digest}/`) ||
+    pathname.startsWith("/digest")
+  );
+}
+
 export default function SiteFooter() {
   const pathname = usePathname();
-  if (pathname === "/") return null;
+  const trend = isTrend(pathname);
+  const home = pathname === "/";
 
   return (
-    <footer className={`${styles.bar} no-print`}>
-      <div className={`page ${styles.inner}`}>
+    <footer
+      className={`${styles.bar} ${trend ? styles.onDigest : ""} ${home ? styles.onHome : ""} no-print`}
+    >
+      <div className={`${trend ? "pageWide" : "page"} ${styles.inner}`}>
+        <button
+          type="button"
+          className={styles.navBtn}
+          aria-label="Back"
+          onClick={() => window.history.back()}
+        >
+          ←
+        </button>
         <div className={styles.copyright}>© 2026 Minseok Li</div>
         <div className={styles.right}>
-          {site.email ? (
-            <a href={`mailto:${site.email}`} className={styles.link}>
-              Email
-            </a>
-          ) : null}
           {site.linkedin ? (
             <a href={site.linkedin} target="_blank" rel="noreferrer" className={styles.link}>
               LinkedIn
@@ -29,9 +44,18 @@ export default function SiteFooter() {
             </a>
           ) : null}
           <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
-            GitHub ↗
+            GitHub
           </a>
+          {trend ? <ThemeToggle /> : null}
         </div>
+        <button
+          type="button"
+          className={styles.navBtn}
+          aria-label="Forward"
+          onClick={() => window.history.forward()}
+        >
+          →
+        </button>
       </div>
     </footer>
   );
