@@ -11,11 +11,38 @@
 }
 
 .inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  column-gap: 16px;
+  min-height: var(--footer-height);
+  width: 100%;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+
+.left,
+.right {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   gap: 12px;
-  min-height: var(--footer-height);
+  min-width: 0;
+}
+
+.left {
+  justify-self: start;
+}
+
+.right {
+  justify-self: end;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  white-space: nowrap;
 }
 
 .navBtn {
@@ -38,16 +65,7 @@
 .copyright {
   font-size: 13px;
   color: rgba(20, 32, 44, 0.7);
-  flex: none;
-}
-
-.right {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 16px;
-  flex-wrap: wrap;
-  flex: 1;
+  white-space: nowrap;
 }
 
 .link {
@@ -87,8 +105,7 @@
     display: none;
   }
 
-  .right {
-    justify-content: center;
+  .links {
     gap: 14px;
   }
 }
