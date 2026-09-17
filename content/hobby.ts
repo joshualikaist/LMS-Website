@@ -22,12 +22,12 @@ export const hobbies: HobbyProject[] = [
     name: "Shelton LMS",
     handle: "shelton_lms",
     kicker: "HOBBY / SHELTON LMS",
-    tagline: "Tennis log under joshualisky.",
+    tagline: "Tennis — singles, doubles, and match days.",
     summary:
-      "A tennis channel next to the academic portfolio — match days, training, and court notes on Instagram @shelton_lms.",
+      "Match days, training, and court notes. Open Instagram @shelton_lms for the live log.",
     about: [
-      "Shelton LMS is a tennis page, not a research project: singles and doubles around KAIST, with the public log on Instagram.",
-      "If a standalone site ships later, this page can point there instead of the Instagram profile.",
+      "Shelton LMS is my tennis page: singles and doubles around KAIST, with match days and training on Instagram.",
+      "Awards are listed here. Day-to-day court notes live on Instagram @shelton_lms.",
     ],
     url: "https://www.instagram.com/shelton_lms/",
     urlLabel: "Open Instagram",
@@ -54,12 +54,12 @@ export const hobbies: HobbyProject[] = [
     name: "밥도둑",
     handle: "babdoduk",
     kicker: "HOBBY / BABDODUK",
-    tagline: "Eat-first diary from a KAIST mechanical engineering student.",
+    tagline: "A food diary — restaurants, spending, and campus 꽁밥.",
     summary:
-      "A static site for restaurant maps, a food ledger, events, and campus 꽁밥 notes — plus Instagram @babdodukms.",
+      "Restaurant maps, a monthly food ledger, event pages, and KAIST 꽁밥 notes. Open the site, or Instagram @babdodukms for daily posts.",
     about: [
-      "Babdoduk is a Korean food diary: home carousel, monthly spending log, event pages, and a KAIST campus map for leftover-rice (꽁밥) notices.",
-      "The public site is on Vercel. Instagram carries the daily photos and recipes.",
+      "밥도둑 is my food diary: restaurant maps, a monthly spending log, event pages, and a KAIST campus map for leftover-rice (꽁밥) notices.",
+      "The site holds the maps and the ledger. Instagram @babdodukms holds the daily photos and recipes.",
     ],
     url: "https://babdoduk.vercel.app",
     urlLabel: "Open site",

@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Hobby",
-  description: "Personal side projects connected to joshualisky — Shelton LMS and 밥도둑.",
+  description: "Tennis and food — Shelton LMS and 밥도둑.",
 };
 
 export default function HobbyPage() {
@@ -16,7 +16,7 @@ export default function HobbyPage() {
     <main className={`page ${styles.main}`}>
       <h1 className={s.h1}>Hobby</h1>
       <p className={s.lead}>
-        Channels tied to Instagram @joshualisky. Each page below opens the live site.
+        Tennis and food. Open a page for the live log.
       </p>
       <div className={styles.list}>
         {hobbies.map((item) => (
