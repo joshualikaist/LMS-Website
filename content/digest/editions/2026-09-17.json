@@ -1,0 +1,339 @@
+{
+  "date": "2026-09-17",
+  "fetchedAt": "2026-09-17T05:32:08.436Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-16-snap-tries-to-make-the-case-again-for-its-2200-smart-g",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-09-17T00:58:49.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-16-us-automakers-could-soon-be-forced-to-include-am-radio",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "summary": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-09-16T22:37:08.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-16-iceland-based-treble-raises-18-million-for-its-voice-s",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-09-17T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-16-your-startups-next-teammate-might-be-an-ai-agent-gusto",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing spee…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-09-17T03:30:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:developer-nvidia-com-blog-introducing-cuda-rust-two-tracks-for-writing-gpu-kerne",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 491,
+      "scoreLabel": "pts",
+      "author": "nonmaskable",
+      "publishedAt": "2026-09-16T11:15:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cw4gmlyvj422o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T00:40:17.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-15-nike-phil-knight-donation-oregon-medical-center-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+      "url": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
+      "summary": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women’s hospital as well as advance cardiovascular care across Oregon.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-15T15:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmpq0wj5g899o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+      "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misalignment\".",
+      "comment": "The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or \"misa…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T03:09:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cr3wjz3edd10o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "comment": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-16T23:41:57.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cgqd9zkkvlyo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+      "comment": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-16T23:18:47.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Built by designers: No explanation needed",
+      "url": "https://heydesigner.com/2026-09-15/",
+      "summary": "The invisible side of design engineering, The new DESK, Planning with agents, Getting the words right.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-15T07:02:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-lost-dog-or-lost-designer-d5de922e54d9-source-rss-138adf9c44c-4",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Lost dog—or lost designer?",
+      "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Buckley",
+      "publishedAt": "2026-09-17T04:31:32.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-what-shakespeare-got-wrong-about-ai-73e9f58bfbc8-source-rss-138adf9c",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "What Shakespeare got wrong about AI",
+      "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dan Maccarone",
+      "publishedAt": "2026-09-16T15:21:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-17758",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "CALOS: Control-Affine Lyapunov On-manifold Safety Layer for Safe Deep Reinforcement Learning for Quadrotors",
+      "url": "https://arxiv.org/abs/2609.17758",
+      "summary": "arXiv:2609.17758v1 Announce Type: new Abstract: Deep Reinforcement Learning has demonstrated remarkable capability in quadrotor control, yet learned policies offer no guarantee of…",
+      "comment": "Watch — matches quadrot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Fabrizio Cesareo, Sebastiano Mengozzi, Nicola Mimmo, Andrea Acquaviva",
+      "publishedAt": "2026-09-17T04:00:00.000Z",
+      "interestHits": [
+        "quadrot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-17628",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "LEAP: Learning Emergent Active Perception for Quadruped Navigation",
+      "url": "https://arxiv.org/abs/2609.17628",
+      "summary": "arXiv:2609.17628v1 Announce Type: new Abstract: Active perception allows autonomous agents to select their viewpoints rather than passively process the viewpoints given to them, e…",
+      "comment": "Watch — matches navigation, perception, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "\\\"U. Bora G\\\"okbakan (WILLOW), St\\'ephane Caron (ISIR), Philippe Sou\\`eres (LAAS-GEPETTO)",
+      "publishedAt": "2026-09-17T04:00:00.000Z",
+      "interestHits": [
+        "navigation",
+        "perception",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-kruzovic7-ai-data-extractor",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "comment": "Watch — matches ppo.",
+      "score": 827,
+      "scoreLabel": "stars",
+      "author": "kruzovic7",
+      "publishedAt": "2026-09-11T18:12:58Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-letorig-video-generator-client",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "comment": "Watch — matches ppo.",
+      "score": 521,
+      "scoreLabel": "stars",
+      "author": "letorig",
+      "publishedAt": "2026-09-14T17:46:01Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "devto:dev-to-googleai-how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberr",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "How we built a desktop companion robot with Gemma 4 and Raspberry Pi",
+      "url": "https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke",
+      "summary": "The behind-the-scenes story of how we built DinoDesk AI—a privacy-first, LEGO dino companion robot powered by a hybrid Local Gemma 4 and Cloud Gemini architecture.",
+      "comment": "Watch — matches robot.",
+      "score": 21,
+      "scoreLabel": "rxn",
+      "author": "bebechien",
+      "publishedAt": "2026-09-16T10:15:52Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
