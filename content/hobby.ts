@@ -13,7 +13,6 @@ export type HobbyProject = {
   year: string;
   kind: string;
   photoDir: string;
-  instagramNote?: string;
   awards?: { when: string; title: string; place: string }[];
 };
 
@@ -36,7 +35,6 @@ export const hobbies: HobbyProject[] = [
     year: "2026",
     kind: "Tennis",
     photoDir: "/hobby/shelton-lms",
-    instagramNote: "Open Instagram for live log",
     awards: [
       {
         when: "2026",

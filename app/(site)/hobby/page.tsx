@@ -61,16 +61,6 @@ export default function HobbyPage() {
                   </Link>
                 )}
               </div>
-              {item.instagramNote ? (
-                <a
-                  href={item.instagram}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={styles.igNote}
-                >
-                  {item.instagramNote}
-                </a>
-              ) : null}
             </div>
           </div>
         ))}
