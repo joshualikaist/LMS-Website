@@ -13,7 +13,7 @@
 .bannerInner {
   max-width: 1320px;
   margin: 0 auto;
-  padding: 96px 24px 52px;
+  padding: 36px 24px 52px;
 }
 
 .bannerMeta {
@@ -293,7 +293,7 @@
 
 @media (max-width: 1099px) {
   .bannerInner {
-    padding: 84px 24px 40px;
+    padding: 28px 24px 40px;
   }
 
   .bannerTitle {
@@ -335,7 +335,7 @@
 
 @media (max-width: 639px) {
   .bannerInner {
-    padding: 76px 18px 32px;
+    padding: 24px 18px 32px;
   }
 
   .column {

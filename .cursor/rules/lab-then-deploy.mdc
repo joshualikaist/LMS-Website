@@ -19,7 +19,7 @@ This site has two tracks:
 
 ## Daily Trend (not a lab experiment)
 
-The 10:00 KST digest is production content. GitHub Actions (`.github/workflows/daily-digest.yml`) writes `content/digest/editions/` on `main` and stops there. Do not route that snapshot through `lab` first, and do not wait for a deploy ask.
+The 10:00 KST digest is content, not a homepage experiment. GitHub Actions (`.github/workflows/daily-digest.yml`) writes `content/digest/editions/` on `main` and mirrors those JSON files onto `lab` so both URLs stay current. Do not wait for a deploy ask. Do not merge other `main` commits into `lab` just to move a snapshot.
 
 `joshualisky.vercel.app` often stays on an old deployment. After a digest deploy is READY, point that hostname at the new production deployment.
 
