@@ -1,0 +1,334 @@
+{
+  "date": "2026-09-18",
+  "fetchedAt": "2026-09-18T05:19:32.541Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-17-amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-abo",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-09-17T23:08:24.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-17-the-fix-for-rogue-ai-agents-could-be-more-ai",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Aditya Mehta",
+      "publishedAt": "2026-09-17T20:34:47.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:global-fujitsu-en-global-pr-news-2026-09-14-02",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 550,
+      "scoreLabel": "pts",
+      "author": "my123",
+      "publishedAt": "2026-09-15T17:28:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-asciimoo-hister",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 532,
+      "scoreLabel": "pts",
+      "author": "bookofjoe",
+      "publishedAt": "2026-09-17T16:25:37.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:openai-com-index-astra-for-law",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 405,
+      "scoreLabel": "pts",
+      "author": "vertigoruntime",
+      "publishedAt": "2026-09-17T20:17:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-17-nascar-steve-odonnell-media-international-expansion-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
+      "url": "https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
+      "summary": "CEO Steve O’Donnell said NASCAR's media strategy and the upcoming film \"Days of Thunder 2\" will help raise brand awareness and broaden its fan base.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T10:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c79g0j3d4q9o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The virtual worlds where robots are trained",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T23:00:47.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqn74jeek06no-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "comment": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-18T02:56:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm4gj5z9xvnqo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Early Bowie music available to stream for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Previously unheard material from the start of the artist's career has been released for the first time.",
+      "comment": "Previously unheard material from the start of the artist's career has been released for the first time.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T23:01:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cvj64w204y58o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+      "comment": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowe…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T23:00:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Built by designers: No explanation needed",
+      "url": "https://heydesigner.com/2026-09-15/",
+      "summary": "The invisible side of design engineering, The new DESK, Planning with agents, Getting the words right.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-15T07:02:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-please-dont-stretch-your-app-for-foldables-a62f1f8230ac-source-rss-1",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Please don’t stretch your app for foldables",
+      "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Allie Paschal",
+      "publishedAt": "2026-09-17T21:34:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998-source",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Rethinking writing in the world of design and AI",
+      "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Darren Yeo",
+      "publishedAt": "2026-09-17T21:33:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-19204",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception",
+      "url": "https://arxiv.org/abs/2609.19204",
+      "summary": "arXiv:2609.19204v1 Announce Type: new Abstract: Robotic systems operating in dynamic environments require visual perception that evolves continuously with the incoming sensory str…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoffroy Keime, Nicolas Cuperlier, Benoit R. Cottereau",
+      "publishedAt": "2026-09-18T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-19272",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning Safe Humanoid Navigation from Reduced Order Models",
+      "url": "https://arxiv.org/abs/2609.19272",
+      "summary": "arXiv:2609.19272v1 Announce Type: new Abstract: Research in humanoid robotics has achieved rapid progress in locomotion, and recent results have pushed the boundary on autonomous…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "William D. Compton, Zachary Olkin, Ryan Bena, Aaron D. Ames",
+      "publishedAt": "2026-09-18T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "github-python:github-com-kruzovic7-ai-data-extractor",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "kruzovic7/ai-data-extractor",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "summary": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+      "comment": "Watch — matches ppo.",
+      "score": 836,
+      "scoreLabel": "stars",
+      "author": "kruzovic7",
+      "publishedAt": "2026-09-11T18:12:58Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-letorig-video-generator-client",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "comment": "Watch — matches ppo.",
+      "score": 533,
+      "scoreLabel": "stars",
+      "author": "letorig",
+      "publishedAt": "2026-09-14T17:46:01Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-19279",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Radio-Frequency Convolutional Neural Networks",
+      "url": "https://arxiv.org/abs/2609.19279",
+      "summary": "arXiv:2609.19279v1 Announce Type: new Abstract: Running artificial intelligence (AI) models directly on edge devices such as smartphones, wearables, and drones offers low latency,…",
+      "comment": "Watch — matches drone.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zhihui Gao, Shi-Yuan Ma, Yiran Chen, Dirk Englund, Tingjun Chen",
+      "publishedAt": "2026-09-18T04:00:00.000Z",
+      "interestHits": [
+        "drone"
+      ]
+    }
+  ],
+  "failures": []
+}
