@@ -45,9 +45,11 @@ jobs:
             git commit -m "digest: morning snapshot $(date -u +%Y-%m-%d)"
             git push origin main
             echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Mirror edition onto lab
+        id: lab
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -57,9 +59,12 @@ jobs:
           git add content/digest/editions
           if git diff --staged --quiet; then
             echo "lab already has editions"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "digest: morning snapshot $(date -u +%Y-%m-%d)"
             git push origin lab
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
           git checkout main
 
@@ -75,54 +80,23 @@ jobs:
           fi
           curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
 
-      - name: Point joshualisky.vercel.app at production
-        if: steps.commit.outputs.changed == 'true'
+      - name: Point live Trend URLs
+        if: steps.commit.outputs.changed == 'true' || steps.lab.outputs.changed == 'true'
         continue-on-error: true
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          MAIN_SHA: ${{ steps.commit.outputs.sha }}
+          LAB_SHA: ${{ steps.lab.outputs.sha }}
+          MAIN_CHANGED: ${{ steps.commit.outputs.changed }}
+          LAB_CHANGED: ${{ steps.lab.outputs.changed }}
         run: |
           if [ -z "$VERCEL_TOKEN" ]; then
-            echo "Set repo secret VERCEL_TOKEN so joshualisky.vercel.app follows each digest."
+            echo "Set repo secret VERCEL_TOKEN so live Trend URLs follow each digest."
             exit 0
           fi
-          python3 - <<'PY'
-          import json, os, time, urllib.request
-
-          token = os.environ["VERCEL_TOKEN"]
-          team = "team_RQPpqkxaimR4vreszcEEcTOT"
-          project = "prj_0d8PBne2gIq3AHSiGQy6MERo26g2"
-
-          def load(url, data=None):
-              req = urllib.request.Request(
-                  url,
-                  data=None if data is None else json.dumps(data).encode(),
-                  headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-                  method="GET" if data is None else "POST",
-              )
-              with urllib.request.urlopen(req) as res:
-                  return json.load(res)
-
-          sha = os.popen("git rev-parse HEAD").read().strip()
-          dep = None
-          for _ in range(20):
-              listing = load(
-                  f"https://api.vercel.com/v6/deployments?projectId={project}&teamId={team}&target=production&limit=8"
-              )
-              for item in listing.get("deployments", []):
-                  commit = (item.get("meta") or {}).get("githubCommitSha", "")
-                  if item.get("readyState") == "READY" and commit == sha:
-                      dep = item
-                      break
-              if dep:
-                  break
-              time.sleep(15)
-
-          if not dep:
-              raise SystemExit("No READY digest deployment yet")
-
-          load(
-              f"https://api.vercel.com/v2/deployments/{dep['uid']}/aliases?teamId={team}",
-              {"alias": "joshualisky.vercel.app"},
-          )
-          print("pointed joshualisky.vercel.app at", dep.get("url"))
-          PY
+          if [ "$MAIN_CHANGED" = "true" ] && [ -n "$MAIN_SHA" ]; then
+            python3 scripts/point-vercel-alias.py joshualisky.vercel.app "$MAIN_SHA" --production
+          fi
+          if [ "$LAB_CHANGED" = "true" ] && [ -n "$LAB_SHA" ]; then
+            python3 scripts/point-vercel-alias.py joshualisky-lab.vercel.app "$LAB_SHA"
+          fi
