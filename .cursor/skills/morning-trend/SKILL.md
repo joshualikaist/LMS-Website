@@ -43,6 +43,8 @@ Do not hand-write comments into old JSON unless the user asks. Change `interests
 
 ## Deploy
 
-Digest snapshots go straight to `main` / production. Do not merge them through `lab`.
+Digest snapshots always ship. Do not wait for 배포.
 
-The GitHub Action commits the edition to `main`. `joshualisky.vercel.app` often stays on an old deploy, so re-alias that hostname to the latest production deployment after it is READY. Do not run a separate `vercel deploy` unless the Git deploy failed.
+The GitHub Action writes the edition on `main`, copies the JSON onto `lab`, pushes both, then points `joshualisky.vercel.app` and `joshualisky-lab.vercel.app` at those deploys. Do not merge other homepage / nav commits just to move a snapshot. Do not run a separate `vercel deploy` unless the Git deploy failed.
+
+If today’s board is missing on a live URL: confirm the date’s JSON is on that branch, then re-alias.
