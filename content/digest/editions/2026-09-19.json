@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-19",
+  "fetchedAt": "2026-09-19T05:12:30.582Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:grapheneos-social-grapheneos-117282080803799576",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 694,
+      "scoreLabel": "pts",
+      "author": "theanonymousone",
+      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:try-cloudflare-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 640,
+      "scoreLabel": "pts",
+      "author": "jcbhmr",
+      "publishedAt": "2026-09-18T14:18:41.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:sockpuppet-org-blog-2026-09-17-how-to-write-with-an-llm",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 446,
+      "scoreLabel": "pts",
+      "author": "joeriddles",
+      "publishedAt": "2026-09-17T21:48:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:blog-cloudflare-com-saving-100-tb-of-ram-with-math",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 289,
+      "scoreLabel": "pts",
+      "author": "f311a",
+      "publishedAt": "2026-09-18T18:51:46.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:lobste-rs-s-lcjf7c",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "What is still exciting in tech?",
+      "url": "https://lobste.rs/s/lcjf7c",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 130,
+      "scoreLabel": "pts",
+      "author": "ploum",
+      "publishedAt": "2026-09-18T03:14:52.256-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c79g0j3d4q9o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The virtual worlds where robots are trained",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-17T23:00:47.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-sep-18-trump-bans-cnn-msnow-politico-white-hous",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Trump bans CNN, MS Now and Politico from White House",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+      "summary": "President has overseen an unprecedented restriction of access for major news media since start of second term US politics live – latest updates In his latest attack on the US cons…",
+      "comment": "President has overseen an unprecedented restriction of access for major news media since start of second term…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucy Campbell and Robert Mackey",
+      "publishedAt": "2026-09-18T23:04:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-18-nx-s1-5896338-how-a-pizza-app-changed-our-relationship-wi",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "How a pizza app changed our relationship with waiting",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5896338/how-a-pizza-app-changed-our-relationship-with-waiting",
+      "summary": "Status trackers are ubiquitous on online apps and ordering. We have the story the seminal Domino's Pizza Tracker that led to many copies, and we check on why many of the trackers…",
+      "comment": "Status trackers are ubiquitous on online apps and ordering. We have the story the seminal Domino's Pizza Trac…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Fountain",
+      "publishedAt": "2026-09-18T23:04:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-18-g-s1-144112-trump-ban-cnn-msnow-politico-white-house-medi",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "url": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
+      "summary": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming.",
+      "comment": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "The Associated Press",
+      "publishedAt": "2026-09-18T20:15:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-18-kylian-mbappe-signs-with-on-after-nike-parts-ways-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Nike parts ways with Kylian Mbappé; soccer superstar signs with On",
+      "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+      "summary": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player.",
+      "comment": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-18T19:30:55.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Built by designers: No explanation needed",
+      "url": "https://heydesigner.com/2026-09-15/",
+      "summary": "The invisible side of design engineering, The new DESK, Planning with agents, Getting the words right.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-15T07:02:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79-",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Whatever happened to “Download on the App Store” buttons?",
+      "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Adir SL",
+      "publishedAt": "2026-09-18T21:20:51.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "github-python:github-com-letorig-video-generator-client",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "letorig/video-generator-client",
+      "url": "https://github.com/letorig/video-generator-client",
+      "summary": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
+      "comment": "Watch — matches ppo.",
+      "score": 535,
+      "scoreLabel": "stars",
+      "author": "letorig",
+      "publishedAt": "2026-09-14T17:46:01Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-mcncarl-jianying-headless",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "mcncarl/jianying-headless",
+      "url": "https://github.com/mcncarl/jianying-headless",
+      "summary": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+      "comment": "Watch — matches agent.",
+      "score": 1159,
+      "scoreLabel": "stars",
+      "author": "mcncarl",
+      "publishedAt": "2026-09-15T11:51:15Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-qiuner-qcode",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "Qiuner/QCode",
+      "url": "https://github.com/Qiuner/QCode",
+      "summary": "An explorable island world to learn AI coding and build real projects with AI agents. Powered by DeepSeek Harness.",
+      "comment": "Watch — matches agent.",
+      "score": 197,
+      "scoreLabel": "stars",
+      "author": "Qiuner",
+      "publishedAt": "2026-09-14T10:50:30Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-xbill-its-got-what-content-craves-sanity-built-for-the-people-of-idiocrac",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "It's Got What Content Craves: Sanity, Built for the People of Idiocracy",
+      "url": "https://dev.to/xbill/its-got-what-content-craves-sanity-built-for-the-people-of-idiocracy-4k84",
+      "summary": "An agent proposes watering the crops, a human Cabinet approves in a picture-button Studio, and Sanity Workflows waters and harvests. Plus a stopwatch on three ways to edit the sam…",
+      "comment": "Watch — matches agent.",
+      "score": 0,
+      "scoreLabel": "rxn",
+      "author": "xbill",
+      "publishedAt": "2026-09-18T21:36:10Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-ibm-research-altk-evolve-consistency",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-15T16:00:44.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
