@@ -1,0 +1,331 @@
+{
+  "date": "2026-09-22",
+  "fetchedAt": "2026-09-22T05:30:49.887Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-09-21T19:19:21.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-21-metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the do…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Russell Brandom",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:mimo-xiaomi-com-mimo-v2-6",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 709,
+      "scoreLabel": "pts",
+      "author": "volf_",
+      "publishedAt": "2026-09-21T20:12:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:alicegg-tech-2026-09-21-attention",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 668,
+      "scoreLabel": "pts",
+      "author": "zer0tonin",
+      "publishedAt": "2026-09-21T14:26:56.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:bcantrill-dtrace-org-2026-09-20-what-sun-got-wrong",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 548,
+      "scoreLabel": "pts",
+      "author": "chmaynard",
+      "publishedAt": "2026-09-21T14:03:18.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ckvgyzzgvv4wo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Flights at major US airports delayed after cable cut by construction workers",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+      "comment": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T01:36:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-21-newark-philadelphia-nyc-flight-disruptions-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
+      "url": "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
+      "summary": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
+      "comment": "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia Internat…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-21T23:03:04.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cje8y3w2zdpo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+      "url": "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "comment": "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-21T23:01:26.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqzjz2gx18ggo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Vet prescription fees capped under rule changes",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "comment": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeri…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-21T23:01:18.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm4gjr1qepr8o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "comment": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of i…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-21T21:34:32.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-21",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "You can hand it the rules, not the eye",
+      "url": "https://heydesigner.com/2026-09-21/",
+      "summary": "For the designless, UX context design, Design systems are a collection of decisions, Periodic table of HTML elements.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-21T06:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-nobody-starts-as-an-accessibility-expert-6a16e8a99960-source-rss-138",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Nobody starts as an accessibility expert",
+      "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Hope Turner",
+      "publishedAt": "2026-09-22T04:33:52.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-22274",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "CHOREO: Every Humanoid Skill as a Trajectory",
+      "url": "https://arxiv.org/abs/2609.22274",
+      "summary": "arXiv:2609.22274v1 Announce Type: new Abstract: Recent advances in humanoid robotics have produced diverse skills through reinforcement learning, motion imitation, and generative…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ziyi Sun, Jingwen Chen, Yuxi Wang, Xiuze Xia, Long Cheng, Zhaoxiang Zhang, Yujun Dong",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-22317",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "EditWM: Event-Decomposed World Modeling with Incremental Correction for End-to-End Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.22317",
+      "summary": "arXiv:2609.22317v1 Announce Type: new Abstract: World models support autonomous driving by predicting the scene evolution associated with candidate trajectories. Driving dynamics…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Junjie Yang, Qingwei Zeng, Youyou Li, Zicheng Ding, Ziyi Shi, Shuqi Shen, Hongliang Lu, Hai Yang",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-21061",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is c…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dan Zimmerman, Frank E. Bobe III, Amelia L. McCormack, Matthew Cook, Gregory D. Vetaw",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-22285",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI",
+      "url": "https://arxiv.org/abs/2609.22285",
+      "summary": "arXiv:2609.22285v1 Announce Type: new Abstract: Adapting language models to new domains via continual pre-training raises a basic evaluation problem: if the training corpus overla…",
+      "comment": "Watch — matches embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sai Krishna Reddy Sathi, Anuj Tiwari",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "interestHits": [
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-22289",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "OJOx: Specification-Conditioned Demonstrations for Embodied AI in Construction",
+      "url": "https://arxiv.org/abs/2609.22289",
+      "summary": "arXiv:2609.22289v1 Announce Type: new Abstract: Large-scale egocentric and whole-body human demonstrations are becoming a primary source of data for embodied intelligence. They re…",
+      "comment": "Watch — matches embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Mohamed Dawod",
+      "publishedAt": "2026-09-22T04:00:00.000Z",
+      "interestHits": [
+        "embodied"
+      ]
+    }
+  ],
+  "failures": []
+}
