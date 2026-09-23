@@ -1,0 +1,336 @@
+{
+  "date": "2026-09-23",
+  "fetchedAt": "2026-09-23T05:17:55.720Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-22-hacking-group-shinyhunters-claims-it-breached-the-fbi-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+      "url": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "summary": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-09-22T18:40:30.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-anthropic-com-claude-opus-5-5",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1367,
+      "scoreLabel": "pts",
+      "author": "km144",
+      "publishedAt": "2026-09-22T16:29:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:openai-com-index-introducing-gpt-6-sol-and-luna",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1356,
+      "scoreLabel": "pts",
+      "author": "OfficialTurkey",
+      "publishedAt": "2026-09-22T18:00:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-cryptocellar-org-bgac-the-mvueh-break-html",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 610,
+      "scoreLabel": "pts",
+      "author": "sohkamyung",
+      "publishedAt": "2026-09-22T13:52:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-404media-co-we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employee",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 508,
+      "scoreLabel": "pts",
+      "author": "spenvo",
+      "publishedAt": "2026-09-22T17:46:02.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c8dx5p7gd4e9o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T23:20:31.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-22-mcdonalds-mcd-hosts-investor-day-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+      "url": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+      "summary": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T11:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-22-nx-s1-5976755-jim-acosta-white-house-media-ban",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "A journalist once barred from the White House says this media ban is different",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976755/jim-acosta-white-house-media-ban",
+      "summary": "Jim Acosta has already been through a White House press-pass fight. Now, three news organizations are barred, and he says the press is showing solidarity that should have come soo…",
+      "comment": "Watch — matches lidar.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Steve Inskeep",
+      "publishedAt": "2026-09-22T10:47:59.000Z",
+      "interestHits": [
+        "lidar"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqy4z9pv4w0po-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
+      "url": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+      "comment": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-23T03:20:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6vgyq598k9po-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "comment": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T23:11:33.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-21",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "You can hand it the rules, not the eye",
+      "url": "https://heydesigner.com/2026-09-21/",
+      "summary": "For the designless, UX context design, Design systems are a collection of decisions, Periodic table of HTML elements.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-21T06:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Why the best resume may be the wrong resume for a design team",
+      "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+      "summary": "What design leadership gets wrong about experience, expertise, and innovation on a team. Continue reading on UX Collective »",
+      "comment": "What design leadership gets wrong about experience, expertise, and innovation on a team. Continue reading on…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Himanshu Bharadwaj",
+      "publishedAt": "2026-09-23T04:06:17.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-25031",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.25031",
+      "summary": "arXiv:2609.25031v1 Announce Type: new Abstract: In the field of Human-Robot Interaction (HRI), achieving flexibility in human-accompanying within real-world environments holds gre…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Cong-Thanh Vu, Yen-Chen Liu",
+      "publishedAt": "2026-09-23T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-25274",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning to Plan in Human-Robot Collaboration: Multimodal Reinforcement Learning for Adaptive Interaction",
+      "url": "https://arxiv.org/abs/2609.25274",
+      "summary": "arXiv:2609.25274v1 Announce Type: new Abstract: Robot assistants for older adults and people with disabilities need to perform collaborative tasks with users effectively. The core…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Afagh Mehri Shervedani, Siyu Li, Natawut Monaikul, Bahareh Abbasi, Barbara Di Eugenio, Milo\\v{s} \\v{Z}efran",
+      "publishedAt": "2026-09-23T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-25131",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Entropy Can Flow, or It Can Guide. Be Entropy. LEDFlow: Introducing Entropy-guided Generation Order into Uniform Discrete Flow",
+      "url": "https://arxiv.org/abs/2609.25131",
+      "summary": "arXiv:2609.25131v1 Announce Type: new Abstract: Uniform discrete flow permits repeated updates at every generation position. While continued revision supports correction of wrong…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tung Sum Thomas Kwok, Yidong Ouyang, Yingjia Wan, Ying Nian Wu, Zhijiang Guo, Oscar Leong",
+      "publishedAt": "2026-09-23T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-25010",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "url": "https://arxiv.org/abs/2609.25010",
+      "summary": "arXiv:2609.25010v1 Announce Type: new Abstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of…",
+      "comment": "Watch — matches sim-to-real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Alexandre Cristov\\~ao Maiorano",
+      "publishedAt": "2026-09-23T04:00:00.000Z",
+      "interestHits": [
+        "sim-to-real"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    }
+  ],
+  "failures": []
+}
