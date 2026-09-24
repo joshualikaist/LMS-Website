@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-24",
+  "fetchedAt": "2026-09-24T05:32:51.804Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:www-qualcomm-com-news-onq-2026-09-snapdragon-summit-agentic-ai-pcs-linux",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": 276,
+      "scoreLabel": "pts",
+      "author": "aaronday",
+      "publishedAt": "2026-09-23T22:38:16.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:blog-arxiv-org-2026-09-23-arxiv-receives-multiyear-investment",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": 111,
+      "scoreLabel": "pts",
+      "author": "JohnHammersley",
+      "publishedAt": "2026-09-23T22:45:49.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-23-vogue-sent-robots-down-the-runway-at-vogue-world-and-p",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dominic-Madori Davis",
+      "publishedAt": "2026-09-23T23:33:22.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:www-kenklippenstein-com-p-feds-think-ai-critics-are-foreign",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 180,
+      "scoreLabel": "pts",
+      "author": "nmeagent",
+      "publishedAt": "2026-09-24T00:41:31.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:fly-io-blog-vscode-ssh-wtf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 175,
+      "scoreLabel": "pts",
+      "author": "Rapzid",
+      "publishedAt": "2026-09-23T21:01:48.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-22-mcdonalds-mcd-hosts-investor-day-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+      "url": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+      "summary": "The presentation comes as McDonald's U.S. business disappointed in its most recent quarter.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T11:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-22-nx-s1-5976755-jim-acosta-white-house-media-ban",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "A journalist once barred from the White House says this media ban is different",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5976755/jim-acosta-white-house-media-ban",
+      "summary": "Jim Acosta has already been through a White House press-pass fight. Now, three news organizations are barred, and he says the press is showing solidarity that should have come soo…",
+      "comment": "Watch — matches lidar.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Steve Inskeep",
+      "publishedAt": "2026-09-22T10:47:59.000Z",
+      "interestHits": [
+        "lidar"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6vgy0333dppo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-24T03:22:54.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwp80l0my1x2o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+      "comment": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash ov…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-24T00:50:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmx2zxv6936zo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "comment": "Texas is now the country's biggest producer of solar-farmed electricity.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-23T23:12:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-21",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "You can hand it the rules, not the eye",
+      "url": "https://heydesigner.com/2026-09-21/",
+      "summary": "For the designless, UX context design, Design systems are a collection of decisions, Periodic table of HTML elements.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-21T06:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-23",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Navigating change as a designer (video)",
+      "url": "https://heydesigner.com/2026-09-23/",
+      "summary": "Metaphors, Loading, made beautiful, 12 CSS features you can use today with no build step.",
+      "comment": "Metaphors, Loading, made beautiful, 12 CSS features you can use today with no build step.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-23T17:10:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-25031",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Towards Adaptive Interaction Strategies for Human Companion Robot via Deep Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.25031",
+      "summary": "arXiv:2609.25031v1 Announce Type: new Abstract: In the field of Human-Robot Interaction (HRI), achieving flexibility in human-accompanying within real-world environments holds gre…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Cong-Thanh Vu, Yen-Chen Liu",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-25274",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning to Plan in Human-Robot Collaboration: Multimodal Reinforcement Learning for Adaptive Interaction",
+      "url": "https://arxiv.org/abs/2609.25274",
+      "summary": "arXiv:2609.25274v1 Announce Type: new Abstract: Robot assistants for older adults and people with disabilities need to perform collaborative tasks with users effectively. The core…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Afagh Mehri Shervedani, Siyu Li, Natawut Monaikul, Bahareh Abbasi, Barbara Di Eugenio, Milo\\v{s} \\v{Z}efran",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-25010",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "url": "https://arxiv.org/abs/2609.25010",
+      "summary": "arXiv:2609.25010v1 Announce Type: new Abstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of…",
+      "comment": "Watch — matches sim-to-real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Alexandre Cristov\\~ao Maiorano",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "interestHits": [
+        "sim-to-real"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-25264",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Cosserat Modeling of Trimmed Helicoid Soft Arms with a Separated-Section Constitutive Law",
+      "url": "https://arxiv.org/abs/2609.25264",
+      "summary": "arXiv:2609.25264v1 Announce Type: new Abstract: Cosserat rod models for soft robots usually construct sectional stiffness by summing material properties over a common cross-sectio…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zhihang Qin, Linxin Hou, Zeyu Zhong, Yuchen Sun, Wenci Xin, Yueheng Zhang, Ji Qi, Jie Wang, Muhammad Sunny Nazeer, Yu Jun Tan, Federico Renda, Cecilia Laschi",
+      "publishedAt": "2026-09-24T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
