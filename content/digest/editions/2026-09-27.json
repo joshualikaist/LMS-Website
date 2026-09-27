@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-27",
+  "fetchedAt": "2026-09-27T05:54:29.386Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:swarmcha-se-posts-openai-unctad",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 41,
+      "scoreLabel": "pts",
+      "author": "intunderflow",
+      "publishedAt": "2026-09-27T01:08:07.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "lobsters:arxiv-org-abs-2608-23642",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "AI Agents Push Humans Out of the Loop",
+      "url": "https://arxiv.org/abs/2608.23642",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 15,
+      "scoreLabel": "pts",
+      "author": "typesanitizer",
+      "publishedAt": "2026-09-26T14:21:56.883-05:00",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:github-com-infinityloop1308-pipepipe",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 369,
+      "scoreLabel": "pts",
+      "author": "Qision",
+      "publishedAt": "2026-09-25T10:55:40.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-reladraw-reladraw",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 248,
+      "scoreLabel": "pts",
+      "author": "jpwalsh234",
+      "publishedAt": "2026-09-26T17:10:40.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-astralcodexten-com-p-does-georgism-work-five-years-later",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 234,
+      "scoreLabel": "pts",
+      "author": "silveraxe93",
+      "publishedAt": "2026-09-25T13:48:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c9q92x359xdo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "comment": "Watch — matches drone.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-24T23:03:53.000Z",
+      "interestHits": [
+        "drone"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-25-paramount-hollywood-promises-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+      "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+      "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+      "comment": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-26T19:23:56.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-25-flights-storm-new-york-boston-east-coast-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "summary": "Flight disruptions were rising in Boston for Saturday.",
+      "comment": "Flight disruptions were rising in Boston for Saturday.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-26T12:19:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-ng-interactive-2026-sep-26-maine-voters-canada-trump",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
+      "summary": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms? It was an ideal summer to cut…",
+      "comment": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Gaya Gupta in Bangor, Maine",
+      "publishedAt": "2026-09-26T11:00:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cv62k9p1rz4do-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "comment": "Employees and recruiters weigh into the online debate around interview etiquette.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-26T10:05:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-25",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Aesthetics & Beauty",
+      "url": "https://heydesigner.com/2026-09-25/",
+      "summary": "Design system conventions in Figma, Has your product outgrown its floor plan?, The product strategy isn’t the roadmap, Detect when elements overlap with CSS.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-25T07:40:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-24",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Delegative UX: Designing the agent experience",
+      "url": "https://heydesigner.com/2026-09-24/",
+      "summary": "The 3 roles of context for AI agents, AI is a boring technology, Blurry before beautiful: Image previews for the web.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-24T13:25:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-nvidia-how-to-use-nvidia-warp-and-mjwarp",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-23T18:41:40.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-zai-org-zcode",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "zai-org/ZCode",
+      "url": "https://github.com/zai-org/ZCode",
+      "summary": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "comment": "Watch — matches agent.",
+      "score": 6848,
+      "scoreLabel": "stars",
+      "author": "zai-org",
+      "publishedAt": "2026-09-20T12:01:16Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-mikehasa-golive-skill",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "mikehasa/golive-skill",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "summary": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: dete…",
+      "comment": "Watch — matches agent.",
+      "score": 983,
+      "scoreLabel": "stars",
+      "author": "mikehasa",
+      "publishedAt": "2026-09-23T13:37:26Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-wuyoscar-jev-skill",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "wuyoscar/jev-skill",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "summary": "An awesome collection of Jev use cases, workflows, and agent skills.",
+      "comment": "Watch — matches agent.",
+      "score": 503,
+      "scoreLabel": "stars",
+      "author": "wuyoscar",
+      "publishedAt": "2026-09-20T02:35:26Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
