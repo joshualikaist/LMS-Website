@@ -1,0 +1,331 @@
+{
+  "date": "2026-09-28",
+  "fetchedAt": "2026-09-28T05:59:24.159Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:sancho-bearblog-dev-google-weird",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1028,
+      "scoreLabel": "pts",
+      "author": "sancho-panza",
+      "publishedAt": "2026-09-27T20:12:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:fireworks-ai-blog-ember-1",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 412,
+      "scoreLabel": "pts",
+      "author": "gmays",
+      "publishedAt": "2026-09-27T17:31:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:colo-to-nvidia-stock-narrative-html",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 383,
+      "scoreLabel": "pts",
+      "author": "Eric_Gullichsen",
+      "publishedAt": "2026-09-28T02:05:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:unsung-aresluna-org-they-had-no-concept-of-a-duty-of-care-to-their-users",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "“They had no concept of a duty of care to their users.”",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 128,
+      "scoreLabel": "pts",
+      "author": "raymii",
+      "publishedAt": "2026-09-27T09:44:53.153-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "hn:shnatsel-github-io-state-of-simd-rust-2026",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The state of SIMD in Rust in 2026",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 120,
+      "scoreLabel": "pts",
+      "author": "verdagon",
+      "publishedAt": "2026-09-25T13:46:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-27-nx-s1-5980407-everyone-is-racing-to-create-an-ai-device-m",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Everyone is racing to create an AI device. Meta thinks it has one",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5980407/everyone-is-racing-to-create-an-ai-device-meta-thinks-it-has-one",
+      "summary": "Tech companies are betting that people will connect with AI using something other than smartphones. Meta is going all-in on glasses, after launching its new AI agent Muse.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "John Ruwitch",
+      "publishedAt": "2026-09-27T12:17:42.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c60qxk7d2539o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Avanti West Coast services to be nationalised from March",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "comment": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passe…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-28T03:05:50.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqvgy09kep21o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "You need £17,000 for a first home - here's how to do it",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+      "comment": "Here are four ways you can put money aside to save enough for a deposit on your first home.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-27T23:20:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cjdx53edkglgo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+      "comment": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual c…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-27T23:01:47.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-25-flights-storm-new-york-boston-east-coast-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Nor'easter delays hundreds of flights, airlines waive change fees",
+      "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+      "summary": "Flight disruptions were rising in Boston over the weekend.",
+      "comment": "Flight disruptions were rising in Boston over the weekend.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-27T18:43:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-25",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Aesthetics & Beauty",
+      "url": "https://heydesigner.com/2026-09-25/",
+      "summary": "Design system conventions in Figma, Has your product outgrown its floor plan?, The product strategy isn’t the roadmap, Detect when elements overlap with CSS.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-25T07:40:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-24",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Delegative UX: Designing the agent experience",
+      "url": "https://heydesigner.com/2026-09-24/",
+      "summary": "The 3 roles of context for AI agents, AI is a boring technology, Blurry before beautiful: Image previews for the web.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-24T13:25:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-30459",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "VkVIO: Cross-platform GPU Acceleration for Visual-Inertial Odometry with Vulkan",
+      "url": "https://arxiv.org/abs/2609.30459",
+      "summary": "arXiv:2609.30459v1 Announce Type: new Abstract: Perception in robotics and XR fundamentally relies on good state estimation. Visual-inertial odometry (VIO) and Simultaneous Locali…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ole Hoffmann, Mateo de Mayo, Daniel Cremers",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-30358",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TinyCVIO: A Constellation-Aided Visual-Inertial Odometry System for Nanodrones",
+      "url": "https://arxiv.org/abs/2609.30358",
+      "summary": "arXiv:2609.30358v1 Announce Type: new Abstract: Nanodrones require accurate, real-time state estimation under severe sensing and computational constraints. We present TinyCVIO, a…",
+      "comment": "Watch — matches drone.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Derin Ozturk, Kaan Akan, Irwin Wang, Christopher Batten",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "interestHits": [
+        "drone"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-30273",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Offline Policy Evaluation as a decision support tool for designing Adaptive Experiments",
+      "url": "https://arxiv.org/abs/2609.30273",
+      "summary": "arXiv:2609.30273v1 Announce Type: new Abstract: We investigate how historical data from fixed randomized experiments (A/B tests) can be used to inform the deployment of adaptive e…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jo\\~ao Victor Ferreira Alves, Eduardo Rocha Laurentino, Gustavo de Oliveira Kanno, Thiago Costa Rizuti da Rocha",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2609-30270",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+      "url": "https://arxiv.org/abs/2609.30270",
+      "summary": "arXiv:2609.30270v1 Announce Type: new Abstract: On-device inference with small language models keeps user data local, works offline, and incurs no per-query cost, so the on-device…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Simran Koul",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    }
+  ],
+  "failures": []
+}
