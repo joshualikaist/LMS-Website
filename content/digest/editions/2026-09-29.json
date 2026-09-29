@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-29",
+  "fetchedAt": "2026-09-29T06:17:46.362Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-28-shopify-opens-checkout-to-browser-based-ai-agents",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+      "comment": "Watch — matches ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-09-28T19:33:57.000Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-anthropic-com-claude-sonnet-5-5",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 706,
+      "scoreLabel": "pts",
+      "author": "D2OQZG8l5BI1S06",
+      "publishedAt": "2026-09-28T17:58:11.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:mubi-com-en-notebook-posts-pirating-the-pirates",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 507,
+      "scoreLabel": "pts",
+      "author": "piotrgrabowski",
+      "publishedAt": "2026-09-28T15:54:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-firelex-jeff",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 433,
+      "scoreLabel": "pts",
+      "author": "firelex",
+      "publishedAt": "2026-09-28T20:23:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:stateofutopia-com-experiments-microllmlab",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 201,
+      "scoreLabel": "pts",
+      "author": "logicallee",
+      "publishedAt": "2026-09-28T18:58:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-09-26-boeing-737-max-navigation-software-glitch-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+      "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-26T21:55:01.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-28-nvidia-ai-agent-security-platform-sto",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+      "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker s…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Guardian staff and agencies",
+      "publishedAt": "2026-09-28T19:24:07.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-27-nx-s1-5980407-everyone-is-racing-to-create-an-ai-device-m",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Everyone is racing to create an AI device. Meta thinks it has one",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5980407/everyone-is-racing-to-create-an-ai-device-meta-thinks-it-has-one",
+      "summary": "Tech companies are betting that people will connect with AI using something other than smartphones. Meta is going all-in on glasses, after launching its new AI agent Muse.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "John Ruwitch",
+      "publishedAt": "2026-09-27T12:17:42.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm5y5nynl75ko-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "comment": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-29T04:30:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm1j43y146d2o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+      "comment": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no w…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-29T04:10:33.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-25",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Aesthetics & Beauty",
+      "url": "https://heydesigner.com/2026-09-25/",
+      "summary": "Design system conventions in Figma, Has your product outgrown its floor plan?, The product strategy isn’t the roadmap, Detect when elements overlap with CSS.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-25T07:40:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-24",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Delegative UX: Designing the agent experience",
+      "url": "https://heydesigner.com/2026-09-24/",
+      "summary": "The 3 roles of context for AI agents, AI is a boring technology, Blurry before beautiful: Image previews for the web.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-24T13:25:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-31770",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Robot Manipulation with GPT-6-Astra: Body Knowledge, Experience Reuse, Emergent Skills, and Sim2Real Transfer",
+      "url": "https://arxiv.org/abs/2609.31770",
+      "summary": "arXiv:2609.31770v1 Announce Type: new Abstract: General-purpose multimodal agents can write robot-control programs, but repeated exploration and model-mediated action selection ca…",
+      "comment": "Watch — matches robot, sim2real, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sida He, Lingxi Xie, Yunning Cao, Pengfei Chen, Kaiwen Duan, Jiannan Ge, Xinyue Huo, Jiacheng Shao, Qi Tian",
+      "publishedAt": "2026-09-29T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "sim2real",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2609-31763",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "SMARtCARE: Privacy-Preserving Agentic AI Systems for Bounded-Autonomy Clinical Decision Support",
+      "url": "https://arxiv.org/abs/2609.31763",
+      "summary": "arXiv:2609.31763v1 Announce Type: new Abstract: Long-context clinical AI systems can miss relevant patient history when prior admissions fall outside the active reasoning context.…",
+      "comment": "Watch — matches ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Srini Ramaswamy, Deveeshree Nayak",
+      "publishedAt": "2026-09-29T04:00:00.000Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-31760",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery",
+      "url": "https://arxiv.org/abs/2609.31760",
+      "summary": "arXiv:2609.31760v1 Announce Type: new Abstract: Can a robot improve itself the way coding agents now improve software? We built an agentic system to find out. It watches a robot f…",
+      "comment": "Watch — matches robot, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jiaming Wang (National University of Singapore)",
+      "publishedAt": "2026-09-29T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-rgem227-knoweldge-base",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "rgem227/knoweldge-base",
+      "url": "https://github.com/rgem227/knoweldge-base",
+      "summary": "Personal or team knowledge base, supports MCP API calls.",
+      "comment": "Watch — matches ppo.",
+      "score": 498,
+      "scoreLabel": "stars",
+      "author": "rgem227",
+      "publishedAt": "2026-09-22T04:28:59Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    }
+  ],
+  "failures": []
+}
