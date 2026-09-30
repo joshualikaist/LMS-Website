@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-30",
+  "fetchedAt": "2026-09-30T06:03:14.033Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-29-apple-pay-set-to-launch-in-india-with-axis-bank-today-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jagmeet Singh",
+      "publishedAt": "2026-09-30T04:08:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:openai-com-index-introducing-dots",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 534,
+      "scoreLabel": "pts",
+      "author": "alvis",
+      "publishedAt": "2026-09-29T17:07:57.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-opena",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Julie Bort",
+      "publishedAt": "2026-09-29T22:20:59.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:america-gov",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 486,
+      "scoreLabel": "pts",
+      "author": "plesiv",
+      "publishedAt": "2026-09-29T14:04:57.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-ninjahawk-livenerf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 440,
+      "scoreLabel": "pts",
+      "author": "bryan0",
+      "publishedAt": "2026-09-29T22:36:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-sep-28-nvidia-ai-agent-security-platform-sto",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+      "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker s…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Guardian staff and agencies",
+      "publishedAt": "2026-09-28T19:24:07.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-09-27-nx-s1-5980407-everyone-is-racing-to-create-an-ai-device-m",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Everyone is racing to create an AI device. Meta thinks it has one",
+      "url": "https://www.npr.org/2026/09/27/nx-s1-5980407/everyone-is-racing-to-create-an-ai-device-meta-thinks-it-has-one",
+      "summary": "Tech companies are betting that people will connect with AI using something other than smartphones. Meta is going all-in on glasses, after launching its new AI agent Muse.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "John Ruwitch",
+      "publishedAt": "2026-09-27T12:17:42.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwz0zvj4m1myo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Household energy bills forecast to see biggest rise in four years",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+      "comment": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-30T05:27:23.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cme30dz5vkzko-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "comment": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-30T04:01:52.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmrergq3j7lgo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "comment": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-29T23:15:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-default-is-not-a-design-decision",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The default is not a design decision",
+      "url": "https://heydesigner.com/newsletter/the-default-is-not-a-design-decision/",
+      "summary": "For the designless, How is AI changing design?, UX context design, Delegative UX: Designing the agent experience , Design system conventions, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-29T16:55:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-25",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Aesthetics & Beauty",
+      "url": "https://heydesigner.com/2026-09-25/",
+      "summary": "Design system conventions in Figma, Has your product outgrown its floor plan?, The product strategy isn’t the roadmap, Detect when elements overlap with CSS.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-25T07:40:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-09-24",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Delegative UX: Designing the agent experience",
+      "url": "https://heydesigner.com/2026-09-24/",
+      "summary": "The 3 roles of context for AI agents, AI is a boring technology, Blurry before beautiful: Image previews for the web.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-24T13:25:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-36091",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "MagNav: A Dual-Core Magnetic Track Guidance Framework for Lighting-Invariant Navigation in Two-Wheeled Robots",
+      "url": "https://arxiv.org/abs/2609.36091",
+      "summary": "arXiv:2609.36091v1 Announce Type: new Abstract: Two-Wheeled Inverted Pendulum (TWIP) robots are useful for studying how to control systems that are naturally unstable and have few…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Arpita Kumari, Anupam Chatterjee, Richa Srivastava",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-36171",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "SkillWeaver: Agentic Exploration over Neural Interaction Skills for Scalable Robot Data Generation",
+      "url": "https://arxiv.org/abs/2609.36171",
+      "summary": "arXiv:2609.36171v1 Announce Type: new Abstract: Large-scale demonstrations have driven unprecedented progress in robot learning, yet collecting robot data through teleoperation is…",
+      "comment": "Watch — matches robot, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "He Zhu, Lusen Zhao, Kwan Man Cheng, Su Li, Katerina Fragkiadaki",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-omlx",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-36012",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "url": "https://arxiv.org/abs/2609.36012",
+      "summary": "arXiv:2609.36012v1 Announce Type: new Abstract: General-purpose robots must infer what a new task requires and translate that understanding into appropriate physical action. In-co…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Haojian Huang, Zexi Li, Junhao Guo, Yehang Zhang, Wenxuan Peng, Bohan Zhou, Weilin Ruan, Leyi Wu, Chenxu Wang, Jianchong Su, Binghui Xie, Wosong Chen, Yingjie Xu, Tianhao Zhou, Suzeyu Chen, Pukun Zhao, Jiaqi He, Xinyi Li, Runze Li, Peiran Dong, Shaoxiang Dang, Jing Huang, Yingbing Chen, Yifan Chang, Tianyi Zhang, Shiyuan Deng, Haozhi Wang, Yangkai Wei, Wenqian Li, Han Yang, Kaiwen Zhou, Huaping Liu, James Cheng, Rui Shao, Donglin Wang, Yaochu Jin, Jianye Hao, Ying-Cong Chen, Yinchuan Li",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2609-36107",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Scouting the Dynamics Gap: Test-Time Policy Adaptation via Action-Outcome Feedback",
+      "url": "https://arxiv.org/abs/2609.36107",
+      "summary": "arXiv:2609.36107v1 Announce Type: new Abstract: While pretrained robotic policies exhibit impressive capabilities in controlled environments, unobserved physical properties and dy…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yishu Li, Liyuan Geng, Xinyi Mao, Amber Li, David Held",
+      "publishedAt": "2026-09-30T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
