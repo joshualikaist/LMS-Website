@@ -1,0 +1,356 @@
+{
+  "date": "2026-10-03",
+  "fetchedAt": "2026-10-03T05:50:32.507Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-02-disrupt-2026-layoff-expo-plus-passes-available-for-75-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-10-02T19:15:51.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "lobsters:distantprovince-substack-com-p-the-four-horsemen-of-agentic-coding",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 33,
+      "scoreLabel": "pts",
+      "author": "guillego",
+      "publishedAt": "2026-10-02T11:48:36.431-05:00",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-02-apple-says-its-tightening-macos-full-disk-access-contr",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-10-02T18:11:27.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-eff-org-deeplinks-2026-10-court-agrees-eff-utahs-vpn-law-demands-technical-i",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 579,
+      "scoreLabel": "pts",
+      "author": "hn_acker",
+      "publishedAt": "2026-10-01T22:23:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-nytimes-com-athletic-7648198-2026-10-01-mike-tomlin-minecraft-nfl-coach",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 392,
+      "scoreLabel": "pts",
+      "author": "CoryOndrejka",
+      "publishedAt": "2026-10-01T18:20:18.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-01-nike-nke-q1-2027-earnings-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+      "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-01T21:34:44.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-sep-30-us-food-industry-maga-social-media-infl",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
+      "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+      "summary": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Leingang and Riley Messer",
+      "publishedAt": "2026-09-30T10:00:24.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-02-ai-redefining-wall-street-jobs-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-02T18:49:03.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck87zg8jnwngo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "comment": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T04:38:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-02-faa-says-boeing-737-max-10-software-glitch-not-a-flight-",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+      "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+      "comment": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain lan…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-02T19:19:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-designs-consensus-was-ai-s-first-casualty-8143c1bada80-source-rss-13",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Design’s consensus was AI’s first casualty",
+      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+      "summary": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on. Continue reading on UX Collective »",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anamol Rajbhandari",
+      "publishedAt": "2026-10-01T22:51:02.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Jev for designers",
+      "url": "https://heydesigner.com/2026-10-02/",
+      "summary": "Design systems for AI agents, Beyond productivity: Designing space for creativity, Multiple-column layout, rows, rules, and floats.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-02T17:11:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-default-is-not-a-design-decision",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The default is not a design decision",
+      "url": "https://heydesigner.com/newsletter/the-default-is-not-a-design-decision/",
+      "summary": "For the designless, How is AI changing design?, UX context design, Delegative UX: Designing the agent experience , Design system conventions, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-29T16:55:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "devto:dev-to-devengers-dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-a",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-19-hacktoberfest-20k-ai-agent-hackathon-and-pear-prime-2027-291n",
+      "summary": "TL;DR Welcome back to Dev Opportunity Radar. This is a weekly series where I share opportunities,...",
+      "comment": "Watch — matches ppo, agent.",
+      "score": 66,
+      "scoreLabel": "rxn",
+      "author": "Hemapriya Kanagala",
+      "publishedAt": "2026-10-02T15:16:19Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-feder-cr-dots",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "comment": "Watch — matches agent.",
+      "score": 2545,
+      "scoreLabel": "stars",
+      "author": "feder-cr",
+      "publishedAt": "2026-09-29T23:06:00Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-dzhng-jevgrep",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "dzhng/jevgrep",
+      "url": "https://github.com/dzhng/jevgrep",
+      "summary": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "comment": "Watch — matches agent.",
+      "score": 2075,
+      "scoreLabel": "stars",
+      "author": "dzhng",
+      "publishedAt": "2026-09-26T04:06:56Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-feitangyuan-onetake",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "feitangyuan/onetake",
+      "url": "https://github.com/feitangyuan/onetake",
+      "summary": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent…",
+      "comment": "Watch — matches agent.",
+      "score": 1362,
+      "scoreLabel": "stars",
+      "author": "feitangyuan",
+      "publishedAt": "2026-09-26T05:35:17Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-nanaism-yomiyasu",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "comment": "Watch — matches agent.",
+      "score": 1218,
+      "scoreLabel": "stars",
+      "author": "nanaism",
+      "publishedAt": "2026-09-30T11:49:32Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
