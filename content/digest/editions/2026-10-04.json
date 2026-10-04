@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-04",
+  "fetchedAt": "2026-10-04T06:27:16.366Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:liao-gg-blog-agents-dont-need-memory",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 126,
+      "scoreLabel": "pts",
+      "author": "kmeh",
+      "publishedAt": "2026-10-03T17:03:37.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-03-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-10-03T14:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:simonwillison-net-2026-oct-3-default-hard-budget-caps",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 351,
+      "scoreLabel": "pts",
+      "author": "elffjs",
+      "publishedAt": "2026-10-04T00:20:16.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:news-ycombinator-com-item-id-49949438",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Tell HN: Bob Cringely has died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 330,
+      "scoreLabel": "pts",
+      "author": "paveworld",
+      "publishedAt": "2026-10-04T00:50:52.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:notoriousbfg-com-hole-punch",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 271,
+      "scoreLabel": "pts",
+      "author": "trwhite",
+      "publishedAt": "2026-10-03T18:06:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-03-david-ellison-ynon-kreiz-skydance-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+      "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T11:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-sep-30-us-food-industry-maga-social-media-infl",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
+      "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+      "summary": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Leingang and Riley Messer",
+      "publishedAt": "2026-09-30T10:00:24.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-02-ai-redefining-wall-street-jobs-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+      "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+      "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" — the ability to coordinate teams of specialized agents.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-02T18:49:03.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-03-private-capital-hollywood-film-financing-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Private capital is reshaping Hollywood moviemaking",
+      "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
+      "summary": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and changing the types of movies that are being made.",
+      "comment": "As Hollywood's financing structures diversify, private capital is increasingly funding the big screen and cha…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-03-vehicle-repair-costs-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+      "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+      "summary": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
+      "comment": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-designs-consensus-was-ai-s-first-casualty-8143c1bada80-source-rss-13",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Design’s consensus was AI’s first casualty",
+      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+      "summary": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on. Continue reading on UX Collective »",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anamol Rajbhandari",
+      "publishedAt": "2026-10-01T22:51:02.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Jev for designers",
+      "url": "https://heydesigner.com/2026-10-02/",
+      "summary": "Design systems for AI agents, Beyond productivity: Designing space for creativity, Multiple-column layout, rows, rules, and floats.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-02T17:11:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-default-is-not-a-design-decision",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The default is not a design decision",
+      "url": "https://heydesigner.com/newsletter/the-default-is-not-a-design-decision/",
+      "summary": "For the designless, How is AI changing design?, UX context design, Delegative UX: Designing the agent experience , Design system conventions, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-29T16:55:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "github-python:github-com-feder-cr-dots",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "feder-cr/dots",
+      "url": "https://github.com/feder-cr/dots",
+      "summary": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+      "comment": "Watch — matches agent.",
+      "score": 2580,
+      "scoreLabel": "stars",
+      "author": "feder-cr",
+      "publishedAt": "2026-09-29T23:06:00Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-nanaism-yomiyasu",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "nanaism/yomiyasu",
+      "url": "https://github.com/nanaism/yomiyasu",
+      "summary": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+      "comment": "Watch — matches agent.",
+      "score": 1342,
+      "scoreLabel": "stars",
+      "author": "nanaism",
+      "publishedAt": "2026-09-30T11:49:32Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-composio-community-open-dot",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "composio-community/open-dot",
+      "url": "https://github.com/composio-community/open-dot",
+      "summary": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+      "comment": "Watch — matches agent.",
+      "score": 531,
+      "scoreLabel": "stars",
+      "author": "composio-community",
+      "publishedAt": "2026-09-29T16:34:16Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-gde-nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-ap",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to Advance Juniors)",
+      "url": "https://dev.to/gde/nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-apology-death-spiral-and-how-5gm4",
+      "summary": "What I learned mentoring juniors for four decades seems to apply to today's agentic coding: why barking code fixes triggers sycophantic panic, and how Socratic questions yield 95%…",
+      "comment": "Watch — matches agent.",
+      "score": 3,
+      "scoreLabel": "rxn",
+      "author": "Randal L. Schwartz",
+      "publishedAt": "2026-10-03T18:27:12Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-microsoft-thinkingbox",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T22:56:48.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
