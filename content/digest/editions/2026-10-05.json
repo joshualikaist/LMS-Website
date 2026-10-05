@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-05",
+  "fetchedAt": "2026-10-05T06:20:14.796Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-04-techcrunch-mobility-reining-in-robotaxis",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-10-04T16:05:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:github-com-niko1221-strata",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 718,
+      "scoreLabel": "pts",
+      "author": "snehesht",
+      "publishedAt": "2026-10-04T12:51:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-motorsport-com-f1-news-horrible-totally-unacceptable-powerless-f1-drivers-fr",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 169,
+      "scoreLabel": "pts",
+      "author": "llm_nerd",
+      "publishedAt": "2026-10-05T01:54:08.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:wieslawsoltes-github-io-vb6",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 158,
+      "scoreLabel": "pts",
+      "author": "wiso",
+      "publishedAt": "2026-10-04T18:49:17.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:blog-zarfhome-com-2026-10-infidel-goes-wild",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Infidel goes wild",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 115,
+      "scoreLabel": "pts",
+      "author": "tobr",
+      "publishedAt": "2026-10-03T12:19:40.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-03-david-ellison-ynon-kreiz-skydance-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
+      "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "summary": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-03T11:00:01.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-sep-30-us-food-industry-maga-social-media-infl",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "A ‘freaked out’ US food industry is hitting back at Maha – with social media influencers",
+      "url": "https://www.theguardian.com/business/2026/sep/30/us-food-industry-maga-social-media-influencers",
+      "summary": "Cross-partisan support in Washington on issues like pesticides and food additives pose a threat to the industry’s bottom line Some of the biggest food and agriculture corporations…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rachel Leingang and Riley Messer",
+      "publishedAt": "2026-09-30T10:00:24.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqj6jenp26zyo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "comment": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-05T06:15:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c5pve834grpno-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "comment": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-05T01:42:11.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cje3r35p0qeno-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The job interview question you don't have to answer",
+      "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+      "comment": "Experts explain what you should do if you are asked for your current salary during a job interview.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-04T23:22:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-designs-consensus-was-ai-s-first-casualty-8143c1bada80-source-rss-13",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Design’s consensus was AI’s first casualty",
+      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+      "summary": "The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on. Continue reading on UX Collective »",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anamol Rajbhandari",
+      "publishedAt": "2026-10-01T22:51:02.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Jev for designers",
+      "url": "https://heydesigner.com/2026-10-02/",
+      "summary": "Design systems for AI agents, Beyond productivity: Designing space for creativity, Multiple-column layout, rows, rules, and floats.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-02T17:11:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-default-is-not-a-design-decision",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The default is not a design decision",
+      "url": "https://heydesigner.com/newsletter/the-default-is-not-a-design-decision/",
+      "summary": "For the designless, How is AI changing design?, UX context design, Delegative UX: Designing the agent experience , Design system conventions, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-09-29T16:55:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-02274",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation",
+      "url": "https://arxiv.org/abs/2610.02274",
+      "summary": "arXiv:2610.02274v1 Announce Type: new Abstract: Generating useful robot-training data requires more than visually plausiblescenes: objects must support interaction, placements mus…",
+      "comment": "Watch — matches robot, ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "PhysicalRSI Team, Danjiao Ma, Enhui Ma, Haohan Liu, Heng Jia, Hui Shan, Jianhua Xu, Jiahuan Zhang, Jiangdi Xu, Kaiwen Guo, Kaicheng Yu, Linwei Zhang, Liyang Jin, Maochun Luo, Pengyao Niu, Shiwen Li, Shuangyu Feng, Tong Zhang, Tianheng Wang, Xin Wang, Xiangru Huang, Yongqiang Huang, Zhaozhi Wang, Zijian Ma",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-02360",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "SocialVLA: A Social Perception Gateway for Human-Reaction-Based Failure Detection and Recovery in VLA Manipulation",
+      "url": "https://arxiv.org/abs/2610.02360",
+      "summary": "arXiv:2610.02360v1 Announce Type: new Abstract: Vision-language-action (VLA) policies enable diverse robotic manipulation but can fail during execution without recognizing their o…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sofya Konstantinova, Miguel Altamirano Cabrera, Artem Lykov, Dzmitry Tsetserukou",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-02338",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "SoTa: Soft Tactile Skins for Dexterous Manipulation",
+      "url": "https://arxiv.org/abs/2610.02338",
+      "summary": "arXiv:2610.02338v1 Announce Type: new Abstract: A growing body of work suggests that tactile sensing gives robot policies contact information that complements vision in dexterous…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jingyun Yang, Baiyu Shi, Timothy Yu, Haitian Liu, Alberta Longhini, Weichen Wang, Rika Antonova, Zhenan Bao, Jeannette Bohg",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-02339",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "NEEDLEWORK: Offline Rewriting of Robot Data with Verified Local Stitches",
+      "url": "https://arxiv.org/abs/2610.02339",
+      "summary": "arXiv:2610.02339v1 Announce Type: new Abstract: Robot demonstrations may contain useful behavior even when individual episodes are inefficient or unsuccessful. Trajectory stitchin…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Juntao Ren, Yifan Hou, Shuran Song",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-02341",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Filter-Aware Fine-Tuning for Safe Humanoid Whole-Body Tracking",
+      "url": "https://arxiv.org/abs/2610.02341",
+      "summary": "arXiv:2610.02341v1 Announce Type: new Abstract: Safe whole-body motion is essential for deploying humanoid robots in unstructured environments. Modern humanoid control commonly se…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Pranit Mohnot, Christian Helten, Daniele Gammelli, Marco Pavone",
+      "publishedAt": "2026-10-05T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
