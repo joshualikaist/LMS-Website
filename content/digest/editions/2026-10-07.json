@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-07",
+  "fetchedAt": "2026-10-07T06:37:30.654Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-06-the-next-hurdle-for-ai-agents-getting-websites-to-let-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in th…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-10-06T19:56:50.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:mistral-ai-news-mistral-large-4",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1708,
+      "scoreLabel": "pts",
+      "author": "Philpax",
+      "publishedAt": "2026-10-06T13:15:49.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:openai-com-index-sharing-ai-progress-in-mathematics",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 743,
+      "scoreLabel": "pts",
+      "author": "OfficialTurkey",
+      "publishedAt": "2026-10-06T22:17:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:developers-openai-com-api-docs-guides-decisions",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 234,
+      "scoreLabel": "pts",
+      "author": "chiefstorm",
+      "publishedAt": "2026-10-06T20:57:25.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:penguin-mail-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 146,
+      "scoreLabel": "pts",
+      "author": "kavourias",
+      "publishedAt": "2026-10-06T21:59:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6je50ydld31o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+      "comment": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-07T02:58:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cxly57v78yv7o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+      "comment": "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains poppi…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-06T23:01:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cj3vqxldglepo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "comment": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-06T23:01:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6zxjrekg29zo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Jackdaw are not approved.",
+      "comment": "The boss of the Norwegian state company says further investment in the UK could be at risk if Rosebank and Ja…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-06T23:01:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-oct-06-sp-500-nasdaq-stocks-ai-chipmakers",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "S&P 500 and Nasdaq surge to record highs after AI chipmaker rally",
+      "url": "https://www.theguardian.com/business/2026/oct/06/sp-500-nasdaq-stocks-ai-chipmakers",
+      "summary": "S&amp;P tops 7,800 for first time in history as investors optimistic despite signs of instability in US economy The S&amp;P 500 and Nasdaq closed at a record high after a rally ar…",
+      "comment": "S&P tops 7,800 for first time in history as investors optimistic despite signs of instability in US economy T…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Aratani",
+      "publishedAt": "2026-10-06T20:28:42.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Jev for designers",
+      "url": "https://heydesigner.com/2026-10-02/",
+      "summary": "Design systems for AI agents, Beyond productivity: Designing space for creativity, Multiple-column layout, rows, rules, and floats.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-02T17:11:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-dont-forget-to-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Don't forget to design",
+      "url": "https://heydesigner.com/newsletter/dont-forget-to-design/",
+      "summary": "Jev for designers, Field notes, On interfaces that let you change your mind, What does AI-readiness mean in design systems?, EmDash 1.0m and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-06T19:11:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+      "summary": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store. Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dora Czerna",
+      "publishedAt": "2026-10-05T22:00:31.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-06862",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Generalizable Robustness Testing of DNN-Based Robotic Navigation Systems via XAI-Guided Search",
+      "url": "https://arxiv.org/abs/2610.06862",
+      "summary": "arXiv:2610.06862v1 Announce Type: new Abstract: **Context:** Deep Neural Networks (DNNs) increasingly control Cyber-Physical Systems (CPSs), yet small input perturbations can caus…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Khizra Sohail, Miren Illarramendi, Aitor Arrieta",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-06918",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Learning from Unreliable Trajectories: Adversarially-Robust Federated Q-Learning",
+      "url": "https://arxiv.org/abs/2610.06918",
+      "summary": "arXiv:2610.06918v1 Announce Type: new Abstract: We study federated reinforcement learning in which multiple agents interact with a common Markov decision process and communicate t…",
+      "comment": "Watch — matches reinforcement, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sreejeet Maity, Aritra Mitra",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-06861",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "When Does External Guidance Help LLM Reasoning? A Bias-Variance Theory of Guidance-Augmented GRPO",
+      "url": "https://arxiv.org/abs/2610.06861",
+      "summary": "arXiv:2610.06861v1 Announce Type: new Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the dominant paradigm for eliciting multi-step reasoning in large…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sofia Torres, Gabriel Almeida, Carter Adams, Camila Rocha",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-06883",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Learning When to Refine: Long-Horizon Reinforcement Learning for Budgeted Neural-Operator PDE Solvers",
+      "url": "https://arxiv.org/abs/2610.06883",
+      "summary": "arXiv:2610.06883v1 Announce Type: new Abstract: Neural operators provide fast surrogates for time-dependent PDEs, but autoregressive deployment creates a refinement-allocation pro…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ange Tong",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-06926",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "SWAP: Stepwise Action Policy Routing for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2610.06926",
+      "summary": "arXiv:2610.06926v1 Announce Type: new Abstract: Robot manipulation systems using Vision-Language-Action (VLA) model backbones typically use just one VLA for task execution. Howeve…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Mousumi Das, Aditeya Prajapati, Abrar Anwar, Jesse Thomason",
+      "publishedAt": "2026-10-07T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
