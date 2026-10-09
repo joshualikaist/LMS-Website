@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-09",
+  "fetchedAt": "2026-10-09T06:50:06.448Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-08-google-brings-agentic-ai-to-gemini-starting-with-busin",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-10-08T18:18:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:cactuscompute-com-blog-whistle",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 701,
+      "scoreLabel": "pts",
+      "author": "gmays",
+      "publishedAt": "2026-10-08T16:59:39.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-dexerto-com-entertainment-man-discovers-his-parents-coffee-machine-used-1tb-",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 602,
+      "scoreLabel": "pts",
+      "author": "ck2",
+      "publishedAt": "2026-10-07T16:56:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-dgt-is-blog-2026-10-07-deepseek-freek-out",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 595,
+      "scoreLabel": "pts",
+      "author": "jonotime",
+      "publishedAt": "2026-10-08T00:14:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:antonfrolov-substack-com-p-i-hired-an-illustrator-to-draw-my",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 542,
+      "scoreLabel": "pts",
+      "author": "soheilpro",
+      "publishedAt": "2026-10-07T01:41:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmx2q7rlxxw8o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'You cannot build this car anywhere else in the world'",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
+      "comment": "Car maker Longbow, which hopes to build thousands of cars, says the region has the talent and know-how.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-09T05:11:49.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cv2d6x749lwro-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "comment": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-09T04:55:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck9dzpw4ll8po-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "comment": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-09T04:06:23.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c9e8ld448km8o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "comment": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-09T03:36:41.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-08-nx-s1-5995576-openai-russia-iran-influence-operations-cha",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+      "comment": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence c…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Huo Jingnan",
+      "publishedAt": "2026-10-09T00:25:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-dont-forget-to-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Don't forget to design",
+      "url": "https://heydesigner.com/newsletter/dont-forget-to-design/",
+      "summary": "Jev for designers, Field notes, On interfaces that let you change your mind, What does AI-readiness mean in design systems?, EmDash 1.0m and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-06T19:11:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-big-ball-of-mud-ai-utm-source-rss-amp-utm-medium-feed-a",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-3-agent-context-roles-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The 3 Roles of Context for AI Agents",
+      "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-agent power users curate 3 kinds of context: global (across tasks), local (task-specific), and ambient (raw streams like email).",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-10748",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TAPNAV: Humanoid Navigation through Tactile Active Perception",
+      "url": "https://arxiv.org/abs/2610.10748",
+      "summary": "arXiv:2610.10748v1 Announce Type: new Abstract: Navigation in vision-denied environments is challenging for humanoid robots because proprioceptive odometry drifts and localization…",
+      "comment": "Watch — matches robot, navigation, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Huaze Liu, Zhenyu Wu, Jaehwi Jang, Junjie Sheng, Andrew Collins, Aaron Xie, Zhaoyuan Gu, Kaijie Zhu, Ding Jiang, Kevin Cai, Ye Zhao",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-10787",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime",
+      "url": "https://arxiv.org/abs/2610.10787",
+      "summary": "arXiv:2610.10787v1 Announce Type: new Abstract: Language models trained with long-horizon agentic reinforcement learning can generalize knowledge through reasoning, express precis…",
+      "comment": "Watch — matches reinforcement, navigation, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Gengze Zhou, Yicong Hong, Jiazhao Zhang, Xunyi Zhao, Jian Zhou, Zixing Lei, Zun Wang, Chongyang Zhao, Xionghui Chen, Stephen Gould, Anton van den Hengel, Qi Wu",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "navigation",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-10601",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection",
+      "url": "https://arxiv.org/abs/2610.10601",
+      "summary": "arXiv:2610.10601v1 Announce Type: new Abstract: Reinforcement Learning (RL) has enabled legged robots to perform a range of skills in single-task settings. However, applications s…",
+      "comment": "Watch — matches robot, reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lemon Foxmere, Anthony Furman, Yizheng Du, Oliver Chang, Leilani Gilpin, Steve McGuire",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2610-10611",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "url": "https://arxiv.org/abs/2610.10611",
+      "summary": "arXiv:2610.10611v1 Announce Type: new Abstract: Agentic AI systems can improve by searching longer, receiving additional support, or modifying how they propose and verify outputs.…",
+      "comment": "Watch — matches ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Chien-Ping Lu",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-10637",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception",
+      "url": "https://arxiv.org/abs/2610.10637",
+      "summary": "arXiv:2610.10637v1 Announce Type: new Abstract: Hair stroking is common in daily grooming and personal care, and is also widely used in hair-product evaluation, motivating robots…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ruiyi Hu, Yongqiang Zhao, Daniel Bak, Yupeng Wang, Xuyang Zhang, Shan Luo",
+      "publishedAt": "2026-10-09T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    }
+  ],
+  "failures": []
+}
