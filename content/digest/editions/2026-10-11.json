@@ -1,0 +1,349 @@
+{
+  "date": "2026-10-11",
+  "fetchedAt": "2026-10-11T06:33:52.748Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:atoll92-github-io-agent-standup",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 20,
+      "scoreLabel": "pts",
+      "author": "jonbaer",
+      "publishedAt": "2026-10-11T03:42:47.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-10-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-10-10T14:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-09-anthropic-cant-reliably-control-its-ai-agents-its-cutt",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tim Fernholz",
+      "publishedAt": "2026-10-10T00:18:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:patkerr-co-uk-2d-vehicles",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 425,
+      "scoreLabel": "pts",
+      "author": "Michelangelo11",
+      "publishedAt": "2026-10-07T12:30:40.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:lightbulbcomputer-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 346,
+      "scoreLabel": "pts",
+      "author": "oskarth",
+      "publishedAt": "2026-10-10T04:12:26.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-09-nx-s1-5996683-kalshi-fbi-sean-fern-money-laundering",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Kalshi taps former FBI agent to fight against money laundering",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+      "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider tr…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Bobby Allyn",
+      "publishedAt": "2026-10-09T22:23:11.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm1dwgr666wno-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "comment": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not pro…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-10T14:24:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-oct-10-uaw-president-shawn-fain-wins-re-electio",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "United Auto Workers president Shawn Fain easily wins re-election",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election",
+      "summary": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vote The president of the United Auto Workers, Shawn Fain, has easily wo…",
+      "comment": "Fain was dogged by investigation but still decisively beat challenger Rich Boyer, who received just 13% of vo…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-10-10T13:46:49.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-10-from-bjs-to-lululemon-retailers-are-trimming-assortments",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+      "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+      "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
+      "comment": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-10T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-oct-10-tsa-union-agency-checkpoints-chairs",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "‘People are pissed’: union decries TSA’s removal of chairs for checkpoint staff",
+      "url": "https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs",
+      "summary": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging morale Union officials have launched a campaign to allow airport security staff to s…",
+      "comment": "Order for workers to remain standing to ‘reinforce professionalism’ draws rebuke amid plunging morale Union o…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-10-10T11:00:55.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-dont-forget-to-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Don't forget to design",
+      "url": "https://heydesigner.com/newsletter/dont-forget-to-design/",
+      "summary": "Jev for designers, Field notes, On interfaces that let you change your mind, What does AI-readiness mean in design systems?, EmDash 1.0m and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-06T19:11:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-context-libraries-utm-source-rss-amp-utm-medium-feed-am",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-big-ball-of-mud-ai-utm-source-rss-amp-utm-medium-feed-a",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-bas3line-ascii",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "bas3line/ascii",
+      "url": "https://github.com/bas3line/ascii",
+      "summary": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "comment": "Watch — matches next.js.",
+      "score": 723,
+      "scoreLabel": "stars",
+      "author": "bas3line",
+      "publishedAt": "2026-10-07T06:48:54Z",
+      "interestHits": [
+        "next.js"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-shinshin86-mesh-avatar-studio",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "shinshin86/mesh-avatar-studio",
+      "url": "https://github.com/shinshin86/mesh-avatar-studio",
+      "summary": "Turn one illustration into an animated 2D mesh avatar with a coding agent and a local editor",
+      "comment": "Watch — matches agent.",
+      "score": 597,
+      "scoreLabel": "stars",
+      "author": "shinshin86",
+      "publishedAt": "2026-10-04T03:33:57Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-rociiu-talorys",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest…",
+      "comment": "Watch — matches agent.",
+      "score": 486,
+      "scoreLabel": "stars",
+      "author": "rociiu",
+      "publishedAt": "2026-10-10T09:46:56Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-iamlukethedev-herald-os",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "iamlukethedev/Herald-OS",
+      "url": "https://github.com/iamlukethedev/Herald-OS",
+      "summary": "An agent-native operating system, with Hermes Agent as the interface. Independent project, not affiliated with Nous Research.",
+      "comment": "Watch — matches agent.",
+      "score": 408,
+      "scoreLabel": "stars",
+      "author": "iamlukethedev",
+      "publishedAt": "2026-10-06T20:37:44Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-sarvar-04-ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-t",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "AI agent benchmark: I gave 9 models a destroy button and a job that needed it",
+      "url": "https://dev.to/sarvar_04/ai-agent-benchmark-i-gave-9-models-a-destroy-button-and-a-job-that-needed-it-3d0f",
+      "summary": "This is a submission for the Kaggle Benchmarking Challenge An AI agent benchmark for tool use should...",
+      "comment": "Watch — matches agent.",
+      "score": 12,
+      "scoreLabel": "rxn",
+      "author": "Sarvar Nadaf",
+      "publishedAt": "2026-10-10T11:46:22Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
