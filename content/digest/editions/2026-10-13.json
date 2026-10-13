@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-13",
+  "fetchedAt": "2026-10-13T07:09:34.754Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:www-tomshardware-com-tech-industry-cyber-security-unprecedented-cyberattack-crip",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 609,
+      "scoreLabel": "pts",
+      "author": "Zeekaas",
+      "publishedAt": "2026-10-12T12:16:42.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:z-ai-blog-glm-legal",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 522,
+      "scoreLabel": "pts",
+      "author": "ilreb",
+      "publishedAt": "2026-10-12T16:11:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:prophitt-me-writing-a-modern-web-app-in-c",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 511,
+      "scoreLabel": "pts",
+      "author": "prophittcorey",
+      "publishedAt": "2026-10-12T16:13:10.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:jsomers-net-e-coli-chemotaxis",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 209,
+      "scoreLabel": "pts",
+      "author": "jsomers",
+      "publishedAt": "2026-10-11T11:02:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:purplesyringa-moe-blog-who-is-vfmaddrnd231pd",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 175,
+      "scoreLabel": "pts",
+      "author": "pngmangi",
+      "publishedAt": "2026-10-12T21:12:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-09-nx-s1-5996683-kalshi-fbi-sean-fern-money-laundering",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Kalshi taps former FBI agent to fight against money laundering",
+      "url": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+      "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider tr…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Bobby Allyn",
+      "publishedAt": "2026-10-09T22:23:11.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmglw0r21zexo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+      "comment": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minist…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-13T05:55:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm9qzwjgnjxlo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "comment": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-13T01:50:47.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck5yn0n14r8do-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Meeting travellers' expectations could be challenging, experts warn.",
+      "comment": "Meeting travellers' expectations could be challenging, experts warn.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-12T23:37:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cxnv0z09r882o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Heating oil customers face tough winter despite shake-up promise",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "comment": "Heating oil customers facing soaring bills are promised better regulation of the sector by the government.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-12T23:02:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-ca",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Patrick Neeman",
+      "publishedAt": "2026-10-12T20:19:31.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-context-libraries-utm-source-rss-amp-utm-medium-feed-am",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-big-ball-of-mud-ai-utm-source-rss-amp-utm-medium-feed-a",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-hadil-youre-a-real-python-developer-only-if-94e",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "You’re a Real Python Developer Only If...",
+      "url": "https://dev.to/hadil/youre-a-real-python-developer-only-if-94e",
+      "summary": "A few months ago, I published You're a Real JavaScript Developer Only If... It was supposed to be a...",
+      "comment": "Watch — matches ppo.",
+      "score": 39,
+      "scoreLabel": "rxn",
+      "author": "Hadil Ben Abdallah",
+      "publishedAt": "2026-10-12T13:15:32Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "devto:dev-to-effessdev-i-was-chasing-the-job-market-one-comment-on-devto-made-me-rethi",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "I was chasing the job market. One comment on DEV.to made me rethink everything",
+      "url": "https://dev.to/effessdev/i-was-chasing-the-job-market-one-comment-on-devto-made-me-rethink-everything-4h20",
+      "summary": "Let me ask you something. What are you supposed to learn when the CEOs of all AI companies keep...",
+      "comment": "Watch — matches ppo.",
+      "score": 20,
+      "scoreLabel": "rxn",
+      "author": "EffessDev",
+      "publishedAt": "2026-10-12T14:44:25Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-bas3line-ascii",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "bas3line/ascii",
+      "url": "https://github.com/bas3line/ascii",
+      "summary": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
+      "comment": "Watch — matches next.js.",
+      "score": 811,
+      "scoreLabel": "stars",
+      "author": "bas3line",
+      "publishedAt": "2026-10-07T06:48:54Z",
+      "interestHits": [
+        "next.js"
+      ]
+    },
+    {
+      "id": "github-python:github-com-onehumanbeing-esp32-iphone-agent",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "comment": "Watch — matches agent.",
+      "score": 968,
+      "scoreLabel": "stars",
+      "author": "onehumanbeing",
+      "publishedAt": "2026-10-11T19:10:25Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-rociiu-talorys",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "summary": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest…",
+      "comment": "Watch — matches agent.",
+      "score": 918,
+      "scoreLabel": "stars",
+      "author": "rociiu",
+      "publishedAt": "2026-10-10T09:46:56Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
