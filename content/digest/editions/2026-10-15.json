@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-15",
+  "fetchedAt": "2026-10-15T05:20:45.447Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-14-cedardb-wants-one-database-to-handle-both-transactions",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance wit…",
+      "comment": "Watch — matches ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anna Heim",
+      "publishedAt": "2026-10-14T22:00:00.000Z",
+      "interestHits": [
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-liquid-ai-blog-lfm2-5-24b-a2b",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 130,
+      "scoreLabel": "pts",
+      "author": "gmays",
+      "publishedAt": "2026-10-14T23:59:37.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-14-figma-announces-new-features-to-define-how-agents-work",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ivan Mehta",
+      "publishedAt": "2026-10-15T04:30:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:jjmaxwell4-com-writing-things-to-know-when-you-get-cancer",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1042,
+      "scoreLabel": "pts",
+      "author": "jjmaxwell4",
+      "publishedAt": "2026-10-14T19:26:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:mapwriting-substack-com-p-dentists",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 549,
+      "scoreLabel": "pts",
+      "author": "doitLP",
+      "publishedAt": "2026-10-12T02:21:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqzjx448vxkgo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "comment": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-15T04:19:17.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c0rezqpnekro-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "comment": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-14T23:02:57.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c5djvyde0y1jo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "comment": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-14T23:01:28.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-14-morgan-stanley-ms-q3-2026-earnings-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+      "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "summary": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "comment": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-14T20:22:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-14-bank-of-america-bac-q3-2026-earnings-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "comment": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the i…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-14T20:20:46.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-ca",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+      "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Patrick Neeman",
+      "publishedAt": "2026-10-12T20:19:31.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-context-libraries-utm-source-rss-amp-utm-medium-feed-am",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-big-ball-of-mud-ai-utm-source-rss-amp-utm-medium-feed-a",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+      "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI makes building nearly free, so users grow agentic systems piecemeal into fragile messes they no longer understand.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-19044",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "RingNav: Task-Shaped Circular Memory for Visual Heading",
+      "url": "https://arxiv.org/abs/2610.19044",
+      "summary": "arXiv:2610.19044v1 Announce Type: new Abstract: Tiny robots have limited computation and memory, yet visual navigation systems often maintain more state than a task requires. We a…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Naitri Rajyaguru, Aryan Tajne, Stephen Jardim, Cornelia Fermuller, Yiannis Aloimonos",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-19082",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Receding-Horizon Next-Best-View Planning for Highly Occluded Target Perception",
+      "url": "https://arxiv.org/abs/2610.19082",
+      "summary": "arXiv:2610.19082v1 Announce Type: new Abstract: Robotic systems that must acquire information about a specific target often face severe occlusion from sur- rounding structures or…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ayse Gul Yildiz, Rekha Raja",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-19097",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments",
+      "url": "https://arxiv.org/abs/2610.19097",
+      "summary": "arXiv:2610.19097v1 Announce Type: new Abstract: As the Arctic transitions toward a seasonally ice-free state, capturing the complex morphology of submerged sea ice is crucial for…",
+      "comment": "Watch — matches robot, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kl\\'ara Orb\\'an, Ashwin Nedungadi, Ana-\\c{S}tefania Kog\\u{a}lniceanu, Bianca-Marcela Sava, Bastian Cieply, Raul-Alexandru Simon, Kuderna-Iulian Ben\\c{t}a, Stefan L\\\"udtke",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2610-14186",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Visualizing the World Model in an Agent's Value Function",
+      "url": "https://arxiv.org/abs/2610.14186",
+      "summary": "arXiv:2610.14186v1 Announce Type: new Abstract: Could model-free reinforcement learning algorithms actually be learning a model of the environment? In this work, we apply counterf…",
+      "comment": "Watch — matches reinforcement, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Shawheen Naderi, Fatemeh Akherati, Yubei Chen",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-18950",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "$\\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2610.18950",
+      "summary": "arXiv:2610.18950v1 Announce Type: new Abstract: Humanoid loco-manipulation requires coordinated whole-body interaction with the physical world, yet collecting robot demonstrations…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "humanoid Team",
+      "publishedAt": "2026-10-15T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
