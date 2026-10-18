@@ -11,7 +11,7 @@ function Box({ label, sub, dark = false }: { label: string; sub?: string; dark?:
 
 export default function SystemDiagram() {
   return (
-    <div className={styles.scroller}>
+    <div className={styles.scroller} role="region" aria-label="MOTAR system diagram (scrolls sideways on small screens)" tabIndex={0}>
       <div className={styles.diagram}>
         <div className={styles.grid3}>
           <div className={styles.colChain}>

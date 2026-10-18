@@ -18,6 +18,21 @@
   background: conic-gradient(from 210deg, #f9ce34, #ee2a7b, #6228d7, #f9ce34);
 }
 
+.s92 {
+  width: 92px;
+  height: 92px;
+}
+
+.s108 {
+  width: 108px;
+  height: 108px;
+}
+
+.s128 {
+  width: 128px;
+  height: 128px;
+}
+
 .photo {
   display: block;
   width: 100%;

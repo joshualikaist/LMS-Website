@@ -89,7 +89,7 @@ export default function EditionCalendar({
           <span key={day}>{day}</span>
         ))}
       </div>
-      <div className={styles.grid} role="grid" aria-label="Morning editions">
+      <div className={styles.grid} role="group" aria-label="Morning editions">
         {cells.map((day, index) => {
           if (!day) {
             return <span key={`blank-${index}`} className={styles.blank} />;
@@ -110,7 +110,7 @@ export default function EditionCalendar({
               href={id === latest ? "/trend" : `/trend/${id}`}
               className={on ? styles.on : styles.day}
               aria-current={on ? "date" : undefined}
-              aria-label={`Trend ${id}`}
+              aria-label={`${day}, Trend ${id}`}
             >
               {day}
             </Link>

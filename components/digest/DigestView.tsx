@@ -49,7 +49,7 @@ function NewsColumn({ lane, items }: { lane: DigestLane; items: DigestItem[] }) 
         <ol className={styles.newsList}>
           {items.map((item) => (
             <li key={item.id} className={styles.newsItem}>
-              <a href={item.url} target="_blank" rel="noreferrer" className={styles.newsLink}>
+              <a href={item.url} target="_blank" rel="noopener noreferrer" className={styles.newsLink}>
                 <span className={styles.headline}>{item.title}</span>
                 <span className={styles.dek}>
                   <span className={styles.newsSource}>{item.source}</span>
@@ -81,7 +81,7 @@ export default function DigestView({
   return (
     <>
       {lead ? (
-        <a href={lead.url} target="_blank" rel="noreferrer" className={styles.banner}>
+        <a href={lead.url} target="_blank" rel="noopener noreferrer" className={styles.banner}>
           <div className={styles.bannerInner}>
             <div className={styles.bannerMeta}>
               <span className={styles.bannerChip}>{LANE_LABEL[lead.lane]}</span>

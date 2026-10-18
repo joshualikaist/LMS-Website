@@ -5,11 +5,13 @@
 import { mkdir, readFile, writeFile, access } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { safeHttpsUrl } from "../content/digest/safe-url.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const SOURCES_PATH = path.join(ROOT, "content/digest/sources.json");
-const INTERESTS_PATH = path.join(ROOT, "content/digest/interests.json");
-const EDITIONS_DIR = path.join(ROOT, "content/digest/editions");
+// The DIGEST_* variables exist for tests (tests/digest-refresh.test.mjs); unset, nothing changes.
+const SOURCES_PATH = process.env.DIGEST_SOURCES_PATH || path.join(ROOT, "content/digest/sources.json");
+const INTERESTS_PATH = process.env.DIGEST_INTERESTS_PATH || path.join(ROOT, "content/digest/interests.json");
+const EDITIONS_DIR = process.env.DIGEST_EDITIONS_DIR || path.join(ROOT, "content/digest/editions");
 const UA = "MinseokLiDigest/1.0 (+https://github.com/joshualikaist)";
 const TIMEOUT_MS = 12_000;
 const ITEMS_PER_LANE = 5;
@@ -69,8 +71,13 @@ async function http(url, headers = {}) {
 
 function item({ source, sourceId, lane, title, url, summary = null, score = null, scoreLabel = null, author = null, publishedAt = null }) {
   const cleanTitle = stripTags(decodeEntities(title || "")).trim();
-  const cleanUrl = (url || "").trim();
-  if (!cleanTitle || !cleanUrl) return null;
+  if (!cleanTitle || !url) return null;
+  // Only plain https links may enter an edition (see content/digest/safe-url.mjs).
+  const cleanUrl = safeHttpsUrl(url);
+  if (!cleanUrl) {
+    console.warn(`[digest] dropped ${sourceId} item with unsafe url: ${String(url).slice(0, 80)}`);
+    return null;
+  }
   return {
     id: `${sourceId}:${slug(cleanUrl)}`,
     lane,

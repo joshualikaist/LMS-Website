@@ -1,0 +1,17 @@
+.main {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 28px;
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 64px;
+  }
+}

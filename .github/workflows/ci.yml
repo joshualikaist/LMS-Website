@@ -1,0 +1,100 @@
+name: CI
+
+# Runs on pull requests, on pushes to the lab branch, weekly (so new advisories are noticed even when
+# nobody is opening PRs), and on demand.
+#
+# This is separate from daily-digest.yml on purpose:
+#   - it only has read access (permissions: contents: read) and never pushes, deploys, or aliases anything;
+#   - the digest bot pushes to main with GITHUB_TOKEN, and GitHub does not start workflows for pushes made
+#     with GITHUB_TOKEN, so the daily Trend snapshot never queues a CI run or waits on these checks;
+#   - the E2E suite reads the newest edition from disk at run time, so a fresh edition never breaks a test.
+#
+# The job ids / names below ("audit", "lint-and-unit", "e2e") are what a branch protection rule should
+# mark as required status checks.
+
+on:
+  pull_request:
+  push:
+    branches: [lab]
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+env:
+  NEXT_TELEMETRY_DISABLED: "1"
+
+jobs:
+  audit:
+    name: audit
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci --ignore-scripts
+      # Fails on high or critical advisories in production dependencies.
+      - name: npm audit (production dependencies, high and above)
+        run: npm audit --omit=dev --audit-level=high
+      # Informational: shows everything, including dev tooling, without failing the job.
+      - name: npm audit (full report)
+        run: npm audit || true
+
+  lint-and-unit:
+    name: lint-and-unit
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run typecheck
+      # Link policy, loader defences, existing editions, and the daily refresh against a fake feed server.
+      - run: npm run test:unit
+
+  e2e:
+    name: e2e
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+      - run: npm ci
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - run: npm run build
+      - name: Playwright E2E
+        run: npm run test:e2e
+      - name: Upload report and traces
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 7
+      - name: How to read a failure
+        if: failure()
+        run: |
+          {
+            echo "### E2E failed"
+            echo "Download the **playwright-report** artifact. Open \`playwright-report/index.html\` for each failing test's steps,"
+            echo "screenshot, and trace (\`npx playwright show-trace <trace.zip>\`)."
+          } >> "$GITHUB_STEP_SUMMARY"

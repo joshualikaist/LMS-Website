@@ -6,6 +6,10 @@ import styles from "../page.module.css";
 
 type Params = { date: string };
 
+// Only the dates/slugs generated at build time exist. Anything else is a plain 404 and, importantly,
+// never makes the server try to render and cache a page for an arbitrary URL.
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return listEditionDates().map((date) => ({ date }));
 }

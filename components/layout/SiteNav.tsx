@@ -80,7 +80,7 @@ export default function SiteNav() {
       >
         <span
           className={`${styles.slider} ${pill.ready ? styles.sliderOn : ""}`}
-          style={{ transform: `translateX(${pill.x}px)`, width: pill.w }}
+          style={pill.ready ? { transform: `translateX(${pill.x}px)`, width: pill.w } : undefined}
           aria-hidden="true"
         />
         {ITEMS.map((item) => (
