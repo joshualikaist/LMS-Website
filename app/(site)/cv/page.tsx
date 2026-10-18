@@ -67,12 +67,14 @@ export default function CvPage() {
     <main className={`page ${styles.main}`}>
       <div className={styles.head}>
         <h1 className={s.h1}>Minseok Li</h1>
-        <a href={site.cvPdf} target="_blank" rel="noreferrer" className={styles.download}>
-          <span className={styles.pdfMark} aria-hidden="true">
-            📄
-          </span>
-          <span>CV Download</span>
-        </a>
+        {site.cvPdf ? (
+          <a href={site.cvPdf} target="_blank" rel="noreferrer" className={styles.download}>
+            <span className={styles.pdfMark} aria-hidden="true">
+              📄
+            </span>
+            <span>CV Download</span>
+          </a>
+        ) : null}
       </div>
       <p className={s.lead}>
         Mechanical Engineering undergraduate at KAIST — robotics, autonomous systems, and

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { site } from "@/content/site";
+import s from "@/styles/shared.module.css";
 import styles from "./page.module.css";
 
 export const metadata: Metadata = {
@@ -25,8 +26,8 @@ export const metadata: Metadata = {
 export default function MotarPage() {
   return (
     <main className={`page ${styles.main}`}>
-      <p className={styles.kicker}>Research</p>
-      <h1 className={styles.title}>MOTAR</h1>
+      <p className={s.kicker}>Research / MOTAR</p>
+      <h1 className={s.h1}>MOTAR</h1>
       <p className={styles.dek}>
         Teaching a drone to intercept a moving target — with nothing but its own sensors.
       </p>

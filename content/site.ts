@@ -1,9 +1,12 @@
+// Production address; NEXT_PUBLIC_SITE_URL overrides it once a custom domain is set.
+const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "https://joshualisky.vercel.app").replace(/\/$/, "");
 const digestUrl = (process.env.NEXT_PUBLIC_DIGEST_URL ?? "/trend").replace(/\/$/, "");
 
 // Single place for identity, links, and values that must be filled in by hand.
 // null means "not configured yet" — pages render an explicit placeholder instead.
 export const site = {
   name: "MINSEOK LI",
+  url: siteUrl,
   tagline: "ENGINEERING FIELD NOTES",
   location: "KAIST — DAEJEON, KR",
   description:
@@ -17,7 +20,7 @@ export const site = {
   instagram: "https://www.instagram.com/joshualisky",
   googleScholar: null as string | null,
   orcid: null as string | null,
-  cvPdf: "/cv/minseok-li-cv.pdf",
+  cvPdf: null as string | null,
   digest: digestUrl,
   digestIsExternal: digestUrl.startsWith("http"),
 };

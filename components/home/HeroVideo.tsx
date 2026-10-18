@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import styles from "./HeroVideo.module.css";
 
 const SRC = "/videos/drone-flight.mp4";
+const SRC_SMALL = "/videos/drone-flight-720.mp4";
 const POSTER = "/videos/drone-flight.jpg";
 
 export default function HeroVideo() {
@@ -41,6 +42,7 @@ export default function HeroVideo() {
         poster={POSTER}
         tabIndex={-1}
       >
+        <source src={SRC_SMALL} type="video/mp4" media="(max-width: 900px)" />
         <source src={SRC} type="video/mp4" />
       </video>
       <div className={styles.fade} />

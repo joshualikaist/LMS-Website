@@ -2,19 +2,8 @@ import { site } from "@/content/site";
 
 export const dynamic = "force-static";
 
-function getBaseUrl() {
-  const value =
-    process.env.NEXT_PUBLIC_SITE_URL ??
-    (process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : process.env.VERCEL_URL
-        ? `https://${process.env.VERCEL_URL}`
-        : "http://localhost:3000");
-  return value.replace(/\/$/, "");
-}
-
 export function GET() {
-  const baseUrl = getBaseUrl();
+  const baseUrl = site.url;
   const digestUrl = site.digestIsExternal ? site.digest : `${baseUrl}${site.digest}`;
   const contact = [
     `- GitHub: ${site.github}`,
@@ -52,13 +41,6 @@ export function GET() {
 - [Hobby](${baseUrl}/hobby): Tennis and food pages — Shelton LMS and 밥도둑.
 - [Shelton LMS](${baseUrl}/hobby/shelton-lms): Tennis log on Instagram @shelton_lms.
 - [밥도둑](${baseUrl}/hobby/babdoduk): Food diary at https://babdoduk.vercel.app.
-
-## Notes
-
-- [Engineering and research notes](${baseUrl}/notes)
-- [Failure modes in sensor-only UAV navigation](${baseUrl}/notes/sensor-only-failure-modes)
-- [Understanding PPO through UAV navigation](${baseUrl}/notes/ppo-through-uav-navigation)
-- [Isaac Gym, Isaac Sim, and what actually changes](${baseUrl}/notes/isaac-gym-and-isaac-sim)
 
 ## Study
 

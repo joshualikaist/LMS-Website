@@ -45,6 +45,6 @@ Do not hand-write comments into old JSON unless the user asks. Change `interests
 
 Digest snapshots always ship. Do not wait for 배포.
 
-The GitHub Action writes the edition on `main`, copies the JSON onto `lab`, pushes both, then points `joshualisky.vercel.app` and `joshualisky-lab.vercel.app` at those deploys. Do not merge other homepage / nav commits just to move a snapshot. Do not run a separate `vercel deploy` unless the Git deploy failed.
+The GitHub Action writes the edition on `main`, pushes it, then points `joshualisky.vercel.app` at that deploy. It does not copy editions onto `lab` (lab is a noindex preview). Do not merge other homepage / nav commits just to move a snapshot. Do not run a separate `vercel deploy` unless the Git deploy failed.
 
-If today’s board is missing on a live URL: confirm the date’s JSON is on that branch, then re-alias.
+If today’s board is missing on production: confirm the date’s JSON is on `main`, then re-alias.

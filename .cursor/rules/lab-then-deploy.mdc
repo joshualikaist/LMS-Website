@@ -21,12 +21,9 @@ This site has two tracks:
 
 The 10:00 KST digest is content, not a homepage experiment. Do not wait for 배포.
 
-GitHub Actions writes `content/digest/editions/` on `main`, copies those JSON files onto `lab`, pushes both branches, then points:
+GitHub Actions writes `content/digest/editions/` on `main`, pushes it, then points https://joshualisky.vercel.app at the new production deploy. Editions are not mirrored onto `lab`; lab is a noindex preview and picks up editions the next time `main` is merged into it.
 
-- https://joshualisky.vercel.app at the new production deploy
-- https://joshualisky-lab.vercel.app at the new lab deploy
-
-If today’s Trend is missing on either URL: confirm that date’s JSON is on the branch, then re-alias. Do not rebuild the fetcher. Do not merge other homepage / nav commits between `lab` and `main` just to move a snapshot.
+If today’s Trend is missing on production: confirm that date’s JSON is on `main`, then re-alias. Do not rebuild the fetcher. Do not merge other homepage / nav commits just to move a snapshot.
 
 ## Deploy (only when asked)
 
@@ -34,7 +31,7 @@ Then, and only then — for homepage / nav / layout experiments:
 
 1. Merge `lab` into `main` and push `origin/main`.
 2. Point `joshualisky.vercel.app` at the new production deployment.
-3. Point `joshualisky-lab.vercel.app` at the latest lab deployment if it also stuck.
+3. Merge `main` back into `lab` so the preview has the latest Trend editions.
 
 ## Do not
 

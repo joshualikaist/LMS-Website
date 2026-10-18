@@ -4,60 +4,61 @@
   right: 0;
   bottom: 0;
   z-index: 90;
-  background: rgba(255, 255, 255, 0.28);
-  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  background: color-mix(in srgb, var(--bg) 94%, transparent);
+  border-top: 1px solid var(--hairline);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
 }
 
 .inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  column-gap: 16px;
+  min-height: var(--footer-height);
+  width: 100%;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+
+.left,
+.right {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   gap: 12px;
-  min-height: var(--footer-height);
+  min-width: 0;
 }
 
-.navBtn {
-  flex: none;
-  width: 36px;
-  height: 32px;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  color: rgba(20, 32, 44, 0.82);
-  font-size: 18px;
-  line-height: 1;
-  cursor: pointer;
+.left {
+  justify-self: start;
 }
 
-.navBtn:hover {
-  color: #111;
+.right {
+  justify-self: end;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  white-space: nowrap;
 }
 
 .copyright {
   font-size: 13px;
-  color: rgba(20, 32, 44, 0.7);
-  flex: none;
-}
-
-.right {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 16px;
-  flex-wrap: wrap;
-  flex: 1;
+  color: var(--muted);
+  white-space: nowrap;
 }
 
 .link {
   font-size: 13px;
-  color: rgba(20, 32, 44, 0.82);
+  color: var(--ink);
   text-decoration: none;
 }
 
 .link:hover {
-  color: #111;
+  color: var(--accent);
   text-decoration: none;
 }
 
@@ -66,18 +67,21 @@
   border-top-color: rgba(20, 32, 44, 0.12);
 }
 
+.onHome .copyright,
+.onHome .onHome .link {
+  color: rgba(20, 32, 44, 0.82);
+}
+
 .onDigest {
   background: #111210;
   border-top-color: #2a2a28;
 }
 
-.onDigest .navBtn,
 .onDigest .copyright,
 .onDigest .link {
   color: #d8d6ce;
 }
 
-.onDigest .navBtn:hover,
 .onDigest .link:hover {
   color: #fff;
 }
@@ -87,8 +91,7 @@
     display: none;
   }
 
-  .right {
-    justify-content: center;
+  .links {
     gap: 14px;
   }
 }

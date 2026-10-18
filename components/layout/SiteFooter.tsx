@@ -1,7 +1,6 @@
 "use client";
 
 import { usePathname } from "next/navigation";
-import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
 import styles from "./SiteFooter.module.css";
 
@@ -22,17 +21,11 @@ export default function SiteFooter() {
     <footer
       className={`${styles.bar} ${trend ? styles.onDigest : ""} ${home ? styles.onHome : ""} no-print`}
     >
-      <div className={`${trend ? "pageWide" : "page"} ${styles.inner}`}>
-        <button
-          type="button"
-          className={styles.navBtn}
-          aria-label="Back"
-          onClick={() => window.history.back()}
-        >
-          ←
-        </button>
-        <div className={styles.copyright}>© 2026 Minseok Li</div>
-        <div className={styles.right}>
+      <div className={styles.inner}>
+        <div className={styles.left}>
+          <div className={styles.copyright}>© 2026 Minseok Li</div>
+        </div>
+        <div className={styles.links}>
           {site.linkedin ? (
             <a href={site.linkedin} target="_blank" rel="noreferrer" className={styles.link}>
               LinkedIn
@@ -46,16 +39,8 @@ export default function SiteFooter() {
           <a href={site.github} target="_blank" rel="noreferrer" className={styles.link}>
             GitHub
           </a>
-          {trend ? <ThemeToggle /> : null}
         </div>
-        <button
-          type="button"
-          className={styles.navBtn}
-          aria-label="Forward"
-          onClick={() => window.history.forward()}
-        >
-          →
-        </button>
+        <div className={styles.right} />
       </div>
     </footer>
   );

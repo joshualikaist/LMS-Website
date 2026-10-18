@@ -1,31 +1,18 @@
 import type { Metadata, Viewport } from "next";
-import { IBM_Plex_Mono, Inter, Inter_Tight, Newsreader } from "next/font/google";
+import { IBM_Plex_Mono, Inter } from "next/font/google";
 import { site } from "@/content/site";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
-const interTight = Inter_Tight({ subsets: ["latin"], variable: "--font-tight", display: "swap" });
 const plexMono = IBM_Plex_Mono({
   weight: ["400", "500", "600"],
   subsets: ["latin"],
   variable: "--font-plex",
   display: "swap",
 });
-const newsreader = Newsreader({
-  subsets: ["latin"],
-  style: ["normal", "italic"],
-  variable: "--font-newsreader",
-  display: "swap",
-});
 
-const siteUrl = new URL(
-  process.env.NEXT_PUBLIC_SITE_URL ??
-    (process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : process.env.VERCEL_URL
-        ? `https://${process.env.VERCEL_URL}`
-        : "http://localhost:3000"),
-);
+const siteUrl = new URL(site.url);
+const isProduction = process.env.VERCEL_ENV === "production";
 
 const title = "MINSEOK LI — Engineering Field Notes";
 
@@ -47,19 +34,17 @@ export const metadata: Metadata = {
     "UAV navigation",
     "robot learning",
   ],
-  alternates: { canonical: "/" },
   openGraph: {
     type: "profile",
     locale: "en_US",
-    url: "/",
     siteName: site.name,
     title,
     description: site.description,
     images: [
       {
-        url: "/og.png",
-        width: 1536,
-        height: 1024,
+        url: "/og.jpg",
+        width: 1200,
+        height: 630,
         alt: "Minseok Li — Engineering Field Notes",
       },
     ],
@@ -68,30 +53,19 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description: site.description,
-    images: ["/og.png"],
+    images: ["/og.jpg"],
   },
-  robots: { index: true, follow: true },
+  // Lab and preview deployments stay out of search results.
+  robots: isProduction ? { index: true, follow: true } : { index: false, follow: false },
 };
 
 export const viewport: Viewport = {
   colorScheme: "light dark",
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: light)", color: "#f7f6f2" },
     { media: "(prefers-color-scheme: dark)", color: "#111210" },
   ],
 };
-
-const themeScript = `
-  (() => {
-    try {
-      const saved = localStorage.getItem("theme");
-      const theme = saved === "light" || saved === "dark"
-        ? saved
-        : matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-      document.documentElement.dataset.theme = theme;
-    } catch (_) {}
-  })();
-`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const sameAs = [site.github, site.linkedin, site.instagram, site.googleScholar, site.orcid].filter(Boolean);
@@ -113,11 +87,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang="en"
-      suppressHydrationWarning
-      className={`${inter.variable} ${interTight.variable} ${plexMono.variable} ${newsreader.variable}`}
+      className={`${inter.variable} ${plexMono.variable}`}
     >
       <head>
-        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema).replace(/</g, "\\u003c") }}

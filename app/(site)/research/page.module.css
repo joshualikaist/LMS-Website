@@ -1,0 +1,39 @@
+.main {
+  padding-top: 48px;
+}
+
+.list {
+  margin-top: 36px;
+  border-top: 1px solid var(--hairline);
+}
+
+.item {
+  padding: 28px 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.name:hover {
+  color: var(--accent);
+}
+
+@media (max-width: 560px) {
+  .main {
+    padding-top: 32px;
+  }
+}

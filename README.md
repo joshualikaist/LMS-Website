@@ -11,11 +11,13 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`. Set `NEXT_PUBLIC_SITE_URL` from `.env.example` on a custom domain.
+Open `http://localhost:3000`. The production URL lives in `content/site.ts`; set `NEXT_PUBLIC_SITE_URL` only when moving to a custom domain.
+
+Only production (`VERCEL_ENV=production`) is indexable. The `lab` branch is a preview: `noindex`, `robots.txt` disallows everything, and Trend editions are not mirrored onto it.
 
 ## Trend
 
-Linked from the homepage **Study** block and the nav.
+Linked from the footer on every page.
 
 ```bash
 npm run digest
@@ -31,16 +33,12 @@ GitHub Action `.github/workflows/daily-digest.yml` runs daily at **10:00 KST**. 
 
 Optional later: `NEXT_PUBLIC_DIGEST_URL=https://digest.example.com`
 
-## Notes
-
-Published field notes under `/notes`. Bodies live in `content/notes.ts`.
-
 ## Still by hand
 
 These need files or account URLs before they can go live:
 
-- Profile photo (upload on the homepage in local/dev, or add under `public/`)
-- CV PDF → `public/cv/` then set `cvPdf` in `content/site.ts`
+- CV PDF → `public/cv/` then set `cvPdf` in `content/site.ts` (the download button stays hidden until then)
+- MESC screenshot, live URL, and stack → constants at the top of `app/(site)/work/mesc/page.tsx`
 - Google Scholar and ORCID URLs in `content/site.ts`
 
 ## Cursor skills

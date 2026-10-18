@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useCallback, useLayoutEffect, useRef, useState } from "react";
-import DigestLink from "@/components/links/DigestLink";
 import { site } from "@/content/site";
 import styles from "./SiteNav.module.css";
 
@@ -11,48 +10,52 @@ type NavItem = {
   id: string;
   href: string;
   label: string;
-  digest?: boolean;
 };
 
 const ITEMS: NavItem[] = [
   { id: "home", href: "/", label: "Home" },
-  { id: "research", href: "/work/motar", label: "Research" },
-  { id: "hobby", href: "/hobby", label: "Hobby" },
+  { id: "research", href: "/research", label: "Research" },
   { id: "cv", href: "/cv", label: "CV" },
-  { id: "trend", href: site.digest, label: "Trend", digest: true },
+  { id: "hobby", href: "/hobby", label: "Hobby" },
+  { id: "trend", href: site.digest, label: "Trend" },
 ];
 
 function isActive(pathname: string, item: NavItem) {
   if (item.id === "home") return pathname === "/";
   if (item.id === "research") return pathname.startsWith("/work") || pathname.startsWith("/research");
   if (item.id === "trend") {
-    return pathname === site.digest || pathname.startsWith(`${site.digest}/`) || pathname.startsWith("/digest");
+    return (
+      pathname === site.digest ||
+      pathname.startsWith(`${site.digest}/`) ||
+      pathname.startsWith("/digest")
+    );
   }
   return pathname === item.href || pathname.startsWith(`${item.href}/`);
 }
 
 export default function SiteNav() {
   const pathname = usePathname();
-  const onPaper =
-    pathname === "/" ||
+  const onTrend =
     pathname === site.digest ||
     pathname.startsWith(`${site.digest}/`) ||
     pathname.startsWith("/digest");
   const navRef = useRef<HTMLElement>(null);
   const itemRefs = useRef<Record<string, HTMLElement | null>>({});
-  const [focusId, setFocusId] = useState(() => ITEMS.find((item) => isActive(pathname, item))?.id ?? "home");
+  const activeId = ITEMS.find((item) => isActive(pathname, item))?.id ?? null;
+  const [focusId, setFocusId] = useState(activeId);
   const [pill, setPill] = useState({ x: 0, w: 0, ready: false });
 
-  const activeId = ITEMS.find((item) => isActive(pathname, item))?.id ?? "home";
-
-  const moveTo = useCallback((id: string) => {
+  const moveTo = useCallback((id: string | null) => {
     const nav = navRef.current;
-    const el = itemRefs.current[id];
-    if (!nav || !el) return;
+    const el = id ? itemRefs.current[id] : null;
+    setFocusId(id);
+    if (!nav || !el) {
+      setPill((p) => ({ ...p, ready: false }));
+      return;
+    }
     const navBox = nav.getBoundingClientRect();
     const box = el.getBoundingClientRect();
     setPill({ x: box.left - navBox.left, w: box.width, ready: true });
-    setFocusId(id);
   }, []);
 
   useLayoutEffect(() => {
@@ -66,7 +69,9 @@ export default function SiteNav() {
   }, [focusId, moveTo]);
 
   return (
-    <header className={`${styles.float} ${onPaper ? styles.onHome : ""} ${pathname === "/" ? styles.overHero : ""} no-print`}>
+    <header
+      className={`${styles.float} ${pathname === "/" || onTrend ? styles.onHome : ""} ${pathname === "/" ? styles.overHero : ""} no-print`}
+    >
       <nav
         ref={navRef}
         className={styles.pill}
@@ -78,45 +83,21 @@ export default function SiteNav() {
           style={{ transform: `translateX(${pill.x}px)`, width: pill.w }}
           aria-hidden="true"
         />
-        {ITEMS.map((item) => {
-          const on = focusId === item.id;
-          const className = `${styles.item} ${item.id === "home" ? styles.home : ""} ${on ? styles.on : ""}`;
-          const setRef = (node: HTMLElement | null) => {
-            itemRefs.current[item.id] = node;
-          };
-
-          if (item.digest) {
-            return (
-              <span
-                key={item.id}
-                ref={setRef}
-                className={className}
-                onMouseEnter={() => moveTo(item.id)}
-              >
-                <DigestLink className={styles.hit} title={item.label}>
-                  {item.label}
-                </DigestLink>
-              </span>
-            );
-          }
-
-          return (
-            <Link
-              key={item.id}
-              href={item.href}
-              ref={setRef}
-              className={className}
-              aria-label={item.id === "home" ? "Home" : undefined}
-              onMouseEnter={() => moveTo(item.id)}
-            >
-              {item.id === "home" ? (
-                <span aria-hidden="true">🏠</span>
-              ) : (
-                item.label
-              )}
-            </Link>
-          );
-        })}
+        {ITEMS.map((item) => (
+          <Link
+            key={item.id}
+            href={item.href}
+            ref={(node: HTMLElement | null) => {
+              itemRefs.current[item.id] = node;
+            }}
+            className={`${styles.item} ${item.id === "home" ? styles.home : ""} ${focusId === item.id ? styles.on : ""}`}
+            aria-label={item.id === "home" ? "Home" : undefined}
+            aria-current={activeId === item.id ? "page" : undefined}
+            onMouseEnter={() => moveTo(item.id)}
+          >
+            {item.id === "home" ? <span aria-hidden="true">🏠</span> : item.label}
+          </Link>
+        ))}
       </nav>
     </header>
   );
