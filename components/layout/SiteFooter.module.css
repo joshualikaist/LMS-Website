@@ -57,17 +57,7 @@
   text-decoration: none;
 }
 
-.minor {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--muted);
-  text-decoration: none;
-}
-
-.link:hover,
-.minor:hover {
+.link:hover {
   color: var(--accent);
   text-decoration: none;
 }
@@ -78,11 +68,7 @@
 }
 
 .onHome .copyright,
-.onHome .minor {
-  color: rgba(20, 32, 44, 0.7);
-}
-
-.onHome .link {
+.onHome .onHome .link {
   color: rgba(20, 32, 44, 0.82);
 }
 

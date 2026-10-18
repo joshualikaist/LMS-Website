@@ -1,6 +1,5 @@
 "use client";
 
-import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { site } from "@/content/site";
 import styles from "./SiteFooter.module.css";
@@ -41,17 +40,7 @@ export default function SiteFooter() {
             GitHub
           </a>
         </div>
-        <div className={styles.right}>
-          {trend ? null : site.digestIsExternal ? (
-            <a href={site.digest} className={styles.minor}>
-              Trend ↗
-            </a>
-          ) : (
-            <Link href={site.digest} className={styles.minor}>
-              Trend
-            </Link>
-          )}
-        </div>
+        <div className={styles.right} />
       </div>
     </footer>
   );

@@ -1,14 +1,15 @@
 :root {
   color-scheme: light;
-  --bg: #ffffff;
+  --bg: #f7f6f2;
+  --lift: #ffffff;
   --ink: #1a1a1a;
   --muted: #6e6e68;
   --accent: #1557ff;
   --accent-hover: #0f3fbd;
   --signal: #ff6a2a;
-  --hairline: #e6e4de;
-  --panel: #f2f1ec;
-  --panel-deep: #e9e7e0;
+  --hairline: #e1dfd7;
+  --panel: #efeee8;
+  --panel-deep: #e6e4dd;
   --paper-light: #faf9f6;
   --grid: #dddbd2;
   --obstacle: #cbc9c0;
@@ -24,6 +25,7 @@
   :root {
     color-scheme: dark;
     --bg: #111210;
+    --lift: #24251f;
     --ink: #f4f3ef;
     --muted: #a6a69f;
     --accent: #7da2ff;

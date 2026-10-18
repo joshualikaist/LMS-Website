@@ -31,7 +31,7 @@
   left: 0;
   height: calc(100% - 10px);
   border-radius: 999px;
-  background: var(--bg);
+  background: var(--lift);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   pointer-events: none;
   opacity: 0;

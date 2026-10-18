@@ -18,11 +18,19 @@ const ITEMS: NavItem[] = [
   { id: "notes", href: "/notes", label: "Notes" },
   { id: "cv", href: "/cv", label: "CV" },
   { id: "hobby", href: "/hobby", label: "Hobby" },
+  { id: "trend", href: site.digest, label: "Trend" },
 ];
 
 function isActive(pathname: string, item: NavItem) {
   if (item.id === "home") return pathname === "/";
   if (item.id === "research") return pathname.startsWith("/work") || pathname.startsWith("/research");
+  if (item.id === "trend") {
+    return (
+      pathname === site.digest ||
+      pathname.startsWith(`${site.digest}/`) ||
+      pathname.startsWith("/digest")
+    );
+  }
   return pathname === item.href || pathname.startsWith(`${item.href}/`);
 }
 
