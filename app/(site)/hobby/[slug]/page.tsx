@@ -84,7 +84,70 @@ export default async function HobbyProjectPage({ params }: { params: Promise<Par
             {paragraph}
           </p>
         ))}
+        {item.url.startsWith("http") || item.repo ? (
+          <div className={`${s.entryLinks} ${styles.aboutLinks}`}>
+            {item.url.startsWith("http") ? (
+              <a href={item.url} target="_blank" rel="noreferrer" className={raised.btn}>
+                {item.urlLabel} →
+              </a>
+            ) : null}
+            {item.repo ? (
+              <a href={item.repo} target="_blank" rel="noreferrer" className={raised.btn}>
+                GitHub →
+              </a>
+            ) : null}
+          </div>
+        ) : null}
       </section>
+
+      {item.screens?.length ? (
+        <section className={s.section}>
+          <h2 className={s.sectionTitle}>화면 / Screens</h2>
+          <div className={styles.screens}>
+            {item.screens.map((screen) => (
+              <figure key={screen.title} className={styles.screen}>
+                <img
+                  src={screen.image}
+                  alt={`${item.name} — ${screen.title} 화면`}
+                  width={1280}
+                  height={800}
+                  loading="lazy"
+                />
+                <figcaption>
+                  <b>{screen.title}</b>
+                  <span>{screen.caption}</span>
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        </section>
+      ) : null}
+
+      {item.howItWorks ? (
+        <section className={s.section}>
+          <h2 className={s.sectionTitle}>작동 방식 / How it works</h2>
+          <div className={styles.how}>
+            <div className={styles.howBody}>
+              <ol className={styles.flow}>
+                {item.howItWorks.steps.map((step) => (
+                  <li key={step}>{step}</li>
+                ))}
+              </ol>
+              <p className={styles.copy}>{item.howItWorks.text}</p>
+            </div>
+            {item.howItWorks.image ? (
+              <img
+                className={styles.phone}
+                src={item.howItWorks.image}
+                alt={item.howItWorks.imageAlt ?? ""}
+                width={240}
+                height={480}
+                loading="lazy"
+              />
+            ) : null}
+          </div>
+        </section>
+      ) : null}
     </main>
   );
 }

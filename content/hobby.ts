@@ -14,6 +14,9 @@ export type HobbyProject = {
   kind: string;
   photoDir: string;
   awards?: { when: string; title: string; titleEn?: string; place: string }[];
+  repo?: string;
+  screens?: { title: string; caption: string; image: string }[];
+  howItWorks?: { text: string; steps: string[]; image?: string; imageAlt?: string };
 };
 
 export const hobbies: HobbyProject[] = [
@@ -64,6 +67,46 @@ export const hobbies: HobbyProject[] = [
     ],
     url: "https://babdoduk.vercel.app",
     urlLabel: "Open site",
+    repo: "https://github.com/joshualikaist/Babdoduk",
+    screens: [
+      {
+        title: "홈",
+        caption: "오늘의 꽁밥 달력과 학식 한 줄로 시작해요.",
+        image: "/hobby/babdoduk/screen-home.jpg",
+      },
+      {
+        title: "오늘의 꽁밥",
+        caption: "지금 참여할 수 있는 무료 음식 일정과 이번 주 학식. 🎁 경품 행사는 따로 모아 봐요.",
+        image: "/hobby/babdoduk/screen-ggongbab.jpg",
+      },
+      {
+        title: "밥도둑 매거진",
+        caption: "음식 이야기와 '오늘 뭐 먹지?' 메뉴 고르기.",
+        image: "/hobby/babdoduk/screen-magazine.jpg",
+      },
+      {
+        title: "소식·이벤트",
+        caption: "먹방 월드컵을 시작 화면 그대로 카드에 보여 주고, 지난 활동은 기록으로 남아요.",
+        image: "/hobby/babdoduk/screen-event.jpg",
+      },
+      {
+        title: "먹방 월드컵",
+        caption:
+          "\"오늘의 32강, 뭐가 나올까?\" 카테고리를 고르고 시작하면 700개가 넘는 메뉴 중 32개가 맞붙어요. 8강부터는 검은 화면 \"진출!\", 결승은 두 카드가 부딪혀요.",
+        image: "/hobby/babdoduk/screen-worldcup.jpg",
+      },
+      {
+        title: "역사",
+        caption: "밥도둑이 걸어온 길.",
+        image: "/hobby/babdoduk/screen-history.jpg",
+      },
+    ],
+    howItWorks: {
+      text: "빌드 단계가 없는 정적 사이트예요. 브라우저는 같은 사이트의 JSON만 읽어요.",
+      steps: ["학식·공지·메일", "GitHub Actions (수집·검증)", "정적 JSON", "페이지", "Vercel"],
+      image: "/hobby/babdoduk/screen-home-phone.jpg",
+      imageAlt: "휴대폰에서 본 밥도둑 홈",
+    },
     instagram: "https://www.instagram.com/babdodukms/",
     instagramHandle: "babdodukms",
     year: "2026",
