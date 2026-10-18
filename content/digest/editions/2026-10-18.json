@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-18",
+  "fetchedAt": "2026-10-18T05:13:10.875Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-16-india-becomes-the-latest-country-to-report-rogue-ai-ag",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Aditya Mehta",
+      "publishedAt": "2026-10-16T17:52:24.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:huggingface-co-deepseek-ai-deepseek-v4-1-flash-1017",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 774,
+      "scoreLabel": "pts",
+      "author": "theykk",
+      "publishedAt": "2026-10-17T08:21:25.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-nature-com-articles-d41586-026-03266-x",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 387,
+      "scoreLabel": "pts",
+      "author": "alkyon",
+      "publishedAt": "2026-10-16T23:38:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:pele-run",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 330,
+      "scoreLabel": "pts",
+      "author": "dchest",
+      "publishedAt": "2026-10-17T15:55:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:furifont-antfu-me",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 310,
+      "scoreLabel": "pts",
+      "author": "plaguna",
+      "publishedAt": "2026-10-15T08:48:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c9j3dvezpdz0o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-15T17:19:49.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-environment-2026-oct-17-us-corporate-lobbyists-europe-defore",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+      "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+      "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and w…",
+      "comment": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulatio…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jonathan Watts",
+      "publishedAt": "2026-10-17T11:00:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-17-nx-s1-5976921-grocery-store-wedding-cakes",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Weddings are expensive. How about a grocery store cake?",
+      "url": "https://www.npr.org/2026/10/17/nx-s1-5976921/grocery-store-wedding-cakes",
+      "summary": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning site Zola.",
+      "comment": "About a third of couples are willing to save money on cake and dessert, according to the wedding-planning sit…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Stephan Bisaha",
+      "publishedAt": "2026-10-17T09:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-16-netflix-peter-rice-chief-content-officer-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+      "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "comment": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-16T19:40:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-videos-ckly4mj1g3n9o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+      "comment": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-16T12:32:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-16",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Interfere design system",
+      "url": "https://heydesigner.com/2026-10-16/",
+      "summary": "Pure UI in the agentic era, Toolcraft, Someone behind the software.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-16T07:26:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design systems directory",
+      "url": "https://heydesigner.com/2026-10-15/",
+      "summary": "Agentic systems are the future of brands, The best way to use icons in Web UIs, Fit height to background pattern size with calc-size().",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-15T09:25:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-context-libraries-utm-source-rss-amp-utm-medium-feed-am",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+      "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Claude power users rarely edit their context files and often can’t find them. Your AI agent is only as powerful as its context library.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-himanshu-748-embodiweave-my-agent-read-its-own-failure-and-repeated-it-so",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "EmbodiWeave: my agent read its own failure and repeated it, so I made the graph enforce it (FalkorDB + MCP)",
+      "url": "https://dev.to/himanshu_748/embodiweave-my-agent-read-its-own-failure-and-repeated-it-so-i-made-the-graph-enforce-it-4cd9",
+      "summary": "An MCP agent picks where a robot policy retrains from using a FalkorDB graph of checkpoints and outcomes, and the same graph blocks regressions from shipping.",
+      "comment": "Watch — matches robot, agent.",
+      "score": 10,
+      "scoreLabel": "rxn",
+      "author": "Himanshu Kumar",
+      "publishedAt": "2026-10-17T13:22:36Z",
+      "interestHits": [
+        "robot",
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-infoinlet1-how-i-built-a-saas-in-a-weekend-with-claude-nextjs-the-honest-",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "How I built a SaaS in a weekend with Claude + Next.js — the honest breakdown",
+      "url": "https://dev.to/infoinlet1/how-i-built-a-saas-in-a-weekend-with-claude-nextjs-the-honest-breakdown-2le6",
+      "summary": "I built the first working version of my SaaS in a weekend with Claude and Next.js. That sentence is...",
+      "comment": "Watch — matches next.js.",
+      "score": 17,
+      "scoreLabel": "rxn",
+      "author": "Info Inlet",
+      "publishedAt": "2026-10-17T07:32:53Z",
+      "interestHits": [
+        "next.js"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-deeplethe-solid-glass",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+      "comment": "Watch — matches design system.",
+      "score": 1826,
+      "scoreLabel": "stars",
+      "author": "deeplethe",
+      "publishedAt": "2026-10-12T09:19:02Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "github-python:github-com-jwuthri-cloud-tracely-ai",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "jwuthri-cloud/Tracely-ai",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "summary": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hos…",
+      "comment": "Watch — matches agent.",
+      "score": 945,
+      "scoreLabel": "stars",
+      "author": "jwuthri-cloud",
+      "publishedAt": "2026-10-11T15:38:03Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-outcrawlai-scout",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "comment": "Watch — matches agent.",
+      "score": 942,
+      "scoreLabel": "stars",
+      "author": "outcrawlai",
+      "publishedAt": "2026-10-13T09:18:55Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
