@@ -33,10 +33,6 @@ GitHub Action `.github/workflows/daily-digest.yml` runs daily at **10:00 KST**. 
 
 Optional later: `NEXT_PUBLIC_DIGEST_URL=https://digest.example.com`
 
-## Notes
-
-Published field notes under `/notes`. Bodies live in `content/notes.ts`.
-
 ## Still by hand
 
 These need files or account URLs before they can go live:

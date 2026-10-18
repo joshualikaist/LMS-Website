@@ -66,18 +66,16 @@
 }
 
 .home {
-  font-weight: 700;
-  letter-spacing: -0.01em;
-  color: var(--ink);
+  min-width: 32px;
+  padding: 0 10px;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
 }
 
 .on {
   color: var(--ink);
   font-weight: 600;
-}
-
-.home.on {
-  font-weight: 700;
 }
 
 .on:hover {
@@ -96,8 +94,7 @@
   color: #3d4f5e;
 }
 
-.onHome .item:hover,
-.onHome .home {
+.onHome .item:hover {
   color: #14202a;
 }
 
@@ -153,6 +150,8 @@
   }
 
   .home {
-    font-size: 12px;
+    min-width: 28px;
+    padding: 0 6px;
+    font-size: 13px;
   }
 }

@@ -42,13 +42,6 @@ export function GET() {
 - [Shelton LMS](${baseUrl}/hobby/shelton-lms): Tennis log on Instagram @shelton_lms.
 - [밥도둑](${baseUrl}/hobby/babdoduk): Food diary at https://babdoduk.vercel.app.
 
-## Notes
-
-- [Engineering and research notes](${baseUrl}/notes)
-- [Failure modes in sensor-only UAV navigation](${baseUrl}/notes/sensor-only-failure-modes)
-- [Understanding PPO through UAV navigation](${baseUrl}/notes/ppo-through-uav-navigation)
-- [Isaac Gym, Isaac Sim, and what actually changes](${baseUrl}/notes/isaac-gym-and-isaac-sim)
-
 ## Study
 
 - [Trend](${digestUrl}): Daily trend, economy, design, and tech — five links per lane, updated at 10:00 KST.
