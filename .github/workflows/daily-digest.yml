@@ -48,26 +48,6 @@ jobs:
             echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Mirror edition onto lab
-        id: lab
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main lab
-          git checkout -B lab origin/lab
-          git checkout origin/main -- content/digest/editions
-          git add content/digest/editions
-          if git diff --staged --quiet; then
-            echo "lab already has editions"
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "digest: morning snapshot $(date -u +%Y-%m-%d)"
-            git push origin lab
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
-          fi
-          git checkout main
-
       - name: Deploy production
         if: steps.commit.outputs.changed == 'true'
         continue-on-error: true
@@ -80,23 +60,15 @@ jobs:
           fi
           curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
 
-      - name: Point live Trend URLs
-        if: steps.commit.outputs.changed == 'true' || steps.lab.outputs.changed == 'true'
+      - name: Point live Trend URL
+        if: steps.commit.outputs.changed == 'true'
         continue-on-error: true
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           MAIN_SHA: ${{ steps.commit.outputs.sha }}
-          LAB_SHA: ${{ steps.lab.outputs.sha }}
-          MAIN_CHANGED: ${{ steps.commit.outputs.changed }}
-          LAB_CHANGED: ${{ steps.lab.outputs.changed }}
         run: |
           if [ -z "$VERCEL_TOKEN" ]; then
-            echo "Set repo secret VERCEL_TOKEN so live Trend URLs follow each digest."
+            echo "Set repo secret VERCEL_TOKEN so the live Trend URL follows each digest."
             exit 0
           fi
-          if [ "$MAIN_CHANGED" = "true" ] && [ -n "$MAIN_SHA" ]; then
-            python3 scripts/point-vercel-alias.py joshualisky.vercel.app "$MAIN_SHA" --production
-          fi
-          if [ "$LAB_CHANGED" = "true" ] && [ -n "$LAB_SHA" ]; then
-            python3 scripts/point-vercel-alias.py joshualisky-lab.vercel.app "$LAB_SHA"
-          fi
+          python3 scripts/point-vercel-alias.py joshualisky.vercel.app "$MAIN_SHA" --production

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notes } from "@/content/notes";
+import { notes, readingMinutes } from "@/content/notes";
 import s from "@/styles/shared.module.css";
 import raised from "@/styles/raised.module.css";
 import styles from "./page.module.css";
@@ -31,7 +31,7 @@ export default function NotesPage() {
                 <b>{note.title}</b>
               )}
               <span className={s.rowSub}>
-                {note.kind} · {note.minutes} MIN
+                {note.kind} · {readingMinutes(note)} MIN
               </span>
             </span>
             {note.status === "published" ? (

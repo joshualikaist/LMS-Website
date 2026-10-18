@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getNote, publishedNotes } from "@/content/notes";
+import { getNote, publishedNotes, readingMinutes } from "@/content/notes";
 import s from "@/styles/shared.module.css";
 import raised from "@/styles/raised.module.css";
 import styles from "../page.module.css";
@@ -35,7 +35,7 @@ export default async function NotePage({ params }: { params: Promise<Params> }) 
       <p className={s.kicker}>{note.kind}</p>
       <h1 className={s.h1}>{note.title}</h1>
       <p className={s.lead}>
-        {note.date} · {note.minutes} min
+        {note.date} · {readingMinutes(note)} min
       </p>
       <div className={noteStyles.article}>
         {note.body.map((paragraph) => (

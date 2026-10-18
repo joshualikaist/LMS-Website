@@ -14,31 +14,14 @@
   --obstacle: #cbc9c0;
 
   --font-sans: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
-  --font-display: var(--font-tight), var(--font-inter), "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-inter), "Helvetica Neue", Arial, sans-serif;
   --font-mono: var(--font-plex), ui-monospace, Consolas, monospace;
-  --font-serif: var(--font-newsreader), Georgia, "Times New Roman", serif;
   --nav-height: 64px;
   --footer-height: 58px;
 }
 
-:root[data-theme="dark"] {
-  color-scheme: dark;
-  --bg: #111210;
-  --ink: #f4f3ef;
-  --muted: #a6a69f;
-  --accent: #7da2ff;
-  --accent-hover: #abc0ff;
-  --signal: #ff8a52;
-  --hairline: #34352f;
-  --panel: #1d1e1a;
-  --panel-deep: #282923;
-  --paper-light: #171814;
-  --grid: #34352f;
-  --obstacle: #5b5c55;
-}
-
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
+  :root {
     color-scheme: dark;
     --bg: #111210;
     --ink: #f4f3ef;
@@ -84,19 +67,6 @@ body:has([data-home]) {
   background: #f7f6f2;
 }
 
-body:has([data-sky]) {
-  background-color: #93b0c2;
-  background-image: linear-gradient(180deg, #7a98b0 0%, #9bb4c3 48%, #cdd8d9 100%);
-  color: #14202a;
-  --bg: transparent;
-  --ink: #14202a;
-  --muted: #3d4f5e;
-  --hairline: rgba(20, 32, 44, 0.16);
-  --panel: rgba(255, 255, 255, 0.4);
-  --panel-deep: rgba(255, 255, 255, 0.55);
-  --paper-light: rgba(255, 255, 255, 0.35);
-}
-
 button,
 input {
   font: inherit;
@@ -121,11 +91,6 @@ video {
 ::selection {
   background: var(--accent);
   color: #ffffff;
-}
-
-body:has([data-sky]) ::selection {
-  background: color-mix(in srgb, #1557ff 36%, transparent);
-  color: #14202a;
 }
 
 .page {

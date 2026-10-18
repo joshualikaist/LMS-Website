@@ -2,7 +2,6 @@ export type Note = {
   date: string;
   title: string;
   kind: "RESEARCH NOTE" | "LEARNING NOTE" | "ENGINEERING NOTE";
-  minutes: number;
   status: "draft" | "published";
   slug?: string;
   body?: string[];
@@ -13,7 +12,6 @@ export const notes: Note[] = [
     date: "2026.09",
     title: "Failure modes in sensor-only UAV navigation",
     kind: "RESEARCH NOTE",
-    minutes: 7,
     status: "published",
     slug: "sensor-only-failure-modes",
     body: [
@@ -28,7 +26,6 @@ export const notes: Note[] = [
     date: "2026.08",
     title: "Understanding PPO through UAV navigation",
     kind: "LEARNING NOTE",
-    minutes: 11,
     status: "published",
     slug: "ppo-through-uav-navigation",
     body: [
@@ -42,7 +39,6 @@ export const notes: Note[] = [
     date: "2026.08",
     title: "Isaac Gym, Isaac Sim, and what actually changes",
     kind: "ENGINEERING NOTE",
-    minutes: 9,
     status: "published",
     slug: "isaac-gym-and-isaac-sim",
     body: [
@@ -53,6 +49,12 @@ export const notes: Note[] = [
     ],
   },
 ];
+
+// ~220 words per minute, never less than one.
+export function readingMinutes(note: Note) {
+  const words = (note.body ?? []).join(" ").split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 220));
+}
 
 export function getNote(slug: string) {
   return notes.find((note) => note.slug === slug && note.status === "published") ?? null;

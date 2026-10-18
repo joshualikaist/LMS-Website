@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Hobby",
-  description: "My hobbies — Shelton LMS and 밥도둑.",
+  description: "Off the lab bench — tennis (Shelton LMS) and a food diary (밥도둑).",
 };
 
 export default function HobbyPage() {
@@ -16,7 +16,8 @@ export default function HobbyPage() {
     <main className={`page ${styles.main}`}>
       <h1 className={s.h1}>Hobby</h1>
       <p className={s.lead}>
-        My hobbies. Click instagram or pages if you are curious.
+        Off the lab bench: tennis with KAIST STROKE, and a food diary I keep a little too
+        seriously.
       </p>
       <div className={styles.list}>
         {hobbies.map((item) => (

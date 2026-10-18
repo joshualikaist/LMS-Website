@@ -1,31 +1,10 @@
 .main {
-  padding-top: 36px;
+  padding-top: 48px;
   padding-bottom: 48px;
-  max-width: 38rem;
-}
-
-.kicker {
-  margin: 0;
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.title {
-  margin: 14px 0 0 0;
-  font-family: var(--font-display);
-  font-size: clamp(40px, 7vw, 64px);
-  font-weight: 700;
-  letter-spacing: -0.04em;
-  line-height: 0.95;
 }
 
 .dek {
   margin: 18px 0 0 0;
-  font-family: var(--font-serif), Georgia, serif;
-  font-style: italic;
   font-size: clamp(20px, 2.6vw, 26px);
   font-weight: 400;
   letter-spacing: -0.02em;
@@ -88,6 +67,6 @@
 
 @media (max-width: 560px) {
   .main {
-    padding-top: 20px;
+    padding-top: 32px;
   }
 }

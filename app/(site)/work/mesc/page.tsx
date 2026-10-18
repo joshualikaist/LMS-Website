@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { BrowserPlaceholder } from "@/components/media/Placeholders";
 import s from "@/styles/shared.module.css";
 import styles from "./page.module.css";
 
@@ -29,15 +28,19 @@ const PRODUCT = [
   "Study resources",
 ];
 
-// Fill in the real stack per area — placeholders render until then.
-const ENGINEERING = [
-  { area: "FRONTEND", value: "[FRAMEWORK]" },
-  { area: "BACKEND", value: "[RUNTIME / API]" },
-  { area: "DATABASE", value: "[DATABASE]" },
-  { area: "DEPLOYMENT", value: "[HOSTING]" },
+// Fill these in when they exist — anything left null stays off the page.
+const SCREENSHOT: string | null = null;
+const SITE_URL: string | null = null;
+const ENGINEERING: { area: string; value: string | null }[] = [
+  { area: "FRONTEND", value: null },
+  { area: "BACKEND", value: null },
+  { area: "DATABASE", value: null },
+  { area: "DEPLOYMENT", value: null },
 ];
 
 export default function MescPage() {
+  const stack = ENGINEERING.filter((e) => e.value);
+
   return (
     <main className={`page ${styles.main}`}>
       <div className={s.kicker}>WORK / MESC</div>
@@ -47,9 +50,12 @@ export default function MescPage() {
         <span className={s.mono12m}>2026</span>
         <span className={s.mono12m}>FULL-STACK WEB DEVELOPMENT</span>
       </div>
-      <div className={s.media}>
-        <BrowserPlaceholder title="MESC — STUDENT COUNCIL WEBSITE" label="PLACEHOLDER — MESC WEBSITE SCREENSHOT" />
-      </div>
+      {SCREENSHOT ? (
+        <div className={s.media}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={SCREENSHOT} alt="MESC student council website" />
+        </div>
+      ) : null}
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Problem</h2>
@@ -69,20 +75,26 @@ export default function MescPage() {
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Engineering</h2>
         <p className={s.q}>Designed, built, and shipped end to end.</p>
-        <div className={styles.engGrid}>
-          {ENGINEERING.map((e) => (
-            <div key={e.area} className={s.factCard}>
-              <div className={s.factLabel}>{e.area}</div>
-              <div className={`${s.mono12m} ${styles.engValue}`}>{e.value}</div>
-            </div>
-          ))}
-        </div>
+        {stack.length > 0 ? (
+          <div className={styles.engGrid}>
+            {stack.map((e) => (
+              <div key={e.area} className={s.factCard}>
+                <div className={s.factLabel}>{e.area}</div>
+                <div className={`${s.mono12m} ${styles.engValue}`}>{e.value}</div>
+              </div>
+            ))}
+          </div>
+        ) : null}
       </section>
 
       <section className={s.section}>
         <h2 className={s.sectionTitle}>Result</h2>
         <p className={s.q}>A single digital hub for KAIST Mechanical Engineering students.</p>
-        <p className={s.mono12m}>SITE — [ADD URL WHEN PUBLIC]</p>
+        {SITE_URL ? (
+          <p className={s.mono12m}>
+            SITE — <a href={SITE_URL} target="_blank" rel="noreferrer">{SITE_URL.replace(/^https?:\/\//, "")}</a>
+          </p>
+        ) : null}
       </section>
     </main>
   );

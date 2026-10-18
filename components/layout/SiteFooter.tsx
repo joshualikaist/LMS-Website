@@ -1,7 +1,7 @@
 "use client";
 
+import Link from "next/link";
 import { usePathname } from "next/navigation";
-import ThemeToggle from "@/components/theme/ThemeToggle";
 import { site } from "@/content/site";
 import styles from "./SiteFooter.module.css";
 
@@ -24,14 +24,6 @@ export default function SiteFooter() {
     >
       <div className={styles.inner}>
         <div className={styles.left}>
-          <button
-            type="button"
-            className={styles.navBtn}
-            aria-label="Back"
-            onClick={() => window.history.back()}
-          >
-            ←
-          </button>
           <div className={styles.copyright}>© 2026 Minseok Li</div>
         </div>
         <div className={styles.links}>
@@ -50,15 +42,15 @@ export default function SiteFooter() {
           </a>
         </div>
         <div className={styles.right}>
-          {trend ? <ThemeToggle /> : null}
-          <button
-            type="button"
-            className={styles.navBtn}
-            aria-label="Forward"
-            onClick={() => window.history.forward()}
-          >
-            →
-          </button>
+          {trend ? null : site.digestIsExternal ? (
+            <a href={site.digest} className={styles.minor}>
+              Trend ↗
+            </a>
+          ) : (
+            <Link href={site.digest} className={styles.minor}>
+              Trend
+            </Link>
+          )}
         </div>
       </div>
     </footer>
