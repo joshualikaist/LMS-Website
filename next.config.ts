@@ -27,7 +27,7 @@ const NONE = { script: [], style: [], img: [], font: [], connect: [], frame: [] 
  * per-request nonce would force every page to render dynamically. 'unsafe-eval' is not used anywhere.
  * The strict policy drops the exception and is published as Report-Only outside production.
  */
-function contentSecurityPolicy({ strictScripts }: { strictScripts: boolean }) {
+function contentSecurityPolicy({ strictScripts, reportOnly }: { strictScripts: boolean; reportOnly: boolean }) {
   const extra = isPreview ? VERCEL_TOOLBAR : NONE;
   const directives: Record<string, string[]> = {
     "default-src": ["'self'"],
@@ -47,16 +47,17 @@ function contentSecurityPolicy({ strictScripts }: { strictScripts: boolean }) {
   };
   return [
     ...Object.entries(directives).map(([name, values]) => `${name} ${values.join(" ")}`),
-    // Deployed sites are https-only (HSTS preload). Skipped locally so http://127.0.0.1 keeps working.
-    ...(process.env.VERCEL_ENV ? ["upgrade-insecure-requests"] : []),
+    // Deployed sites are https-only (HSTS preload). Skipped locally so http://127.0.0.1 keeps working, and
+    // skipped in Report-Only mode, where browsers ignore it and log a console error on every page.
+    ...(process.env.VERCEL_ENV && !reportOnly ? ["upgrade-insecure-requests"] : []),
   ].join("; ");
 }
 
 const securityHeaders = [
-  { key: "Content-Security-Policy", value: contentSecurityPolicy({ strictScripts: false }) },
+  { key: "Content-Security-Policy", value: contentSecurityPolicy({ strictScripts: false, reportOnly: false }) },
   ...(isProduction
     ? []
-    : [{ key: "Content-Security-Policy-Report-Only", value: contentSecurityPolicy({ strictScripts: true }) }]),
+    : [{ key: "Content-Security-Policy-Report-Only", value: contentSecurityPolicy({ strictScripts: true, reportOnly: true }) }]),
   { key: "X-Content-Type-Options", value: "nosniff" },
   // Legacy twin of frame-ancestors for browsers that ignore CSP.
   { key: "X-Frame-Options", value: "DENY" },

@@ -54,6 +54,16 @@ test.describe("response headers", () => {
     expect(csp["script-src"]).not.toContain("data:");
   });
 
+  test("the Report-Only policy has no directive that browsers ignore in that mode", async ({ request }) => {
+    // Regression: `upgrade-insecure-requests` in a Report-Only policy makes every page log a console error.
+    const headers = (await request.get("/")).headers();
+    test.skip(!headers["content-security-policy-report-only"], "production publishes no Report-Only policy");
+    const names = Object.keys(parse(headers["content-security-policy-report-only"]));
+    for (const ignored of ["upgrade-insecure-requests", "sandbox", "block-all-mixed-content"]) {
+      expect(names, ignored).not.toContain(ignored);
+    }
+  });
+
   test("inline styles are not allowed in production-like policies", async ({ request, baseURL }) => {
     const csp = parse((await request.get("/")).headers()["content-security-policy"]);
     // Previews add the Vercel toolbar, which needs inline styles; production and local builds do not.

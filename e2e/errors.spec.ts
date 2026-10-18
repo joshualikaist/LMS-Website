@@ -53,8 +53,13 @@ test("source maps are not published", async ({ page, request }) => {
 test("unusual query strings and paths are handled without errors", async ({ page }) => {
   const issues = collectIssues(page, { allow: [/HTTP 404/, /status of 404/] });
   for (const url of ["/?a=1&a=2&b[]=3", "/research?x=%00", "/cv#%3Cb%3E", "/trend?date=../../etc/passwd", "/hobby//", "/%E0%A4%A"]) {
-    const response = await page.goto(url);
-    expect([200, 308, 400, 404], url).toContain(response?.status());
+    try {
+      const response = await page.goto(url);
+      expect([200, 308, 400, 404], url).toContain(response?.status());
+    } catch (error) {
+      // A hosting edge may refuse a malformed request before it reaches the app; that is a safe outcome.
+      if (!/ERR_HTTP2_PROTOCOL_ERROR|ERR_INVALID_URL|ERR_CONNECTION_RESET/.test(String(error))) throw error;
+    }
   }
   expect(issues.filter((i) => i.startsWith("uncaught")), issues.join("\n")).toEqual([]);
 });
