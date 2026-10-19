@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T05:24:53.299Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "lobsters:fireborn-mataroa-blog-blog-outside-the-scope-of-our-support",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Outside the Scope of Our Support",
+      "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": 27,
+      "scoreLabel": "pts",
+      "author": "7tehdt3cnw6kir6o",
+      "publishedAt": "2026-10-18T13:52:01.341-05:00",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:arxiv-org-abs-2610-18861",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 299,
+      "scoreLabel": "pts",
+      "author": "allinonai",
+      "publishedAt": "2026-10-18T20:48:14.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:karrisaarinen-com-posts-someone-behind-the-software",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 375,
+      "scoreLabel": "pts",
+      "author": "tosh",
+      "publishedAt": "2026-10-18T16:32:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-vikolliver-reprapmicron-wiki",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 357,
+      "scoreLabel": "pts",
+      "author": "RobotToaster",
+      "publishedAt": "2026-10-18T13:48:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:lobste-rs-s-ggpwfi",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "It's enough - vibecoding tag crossed from useless to harmful",
+      "url": "https://lobste.rs/s/ggpwfi",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 267,
+      "scoreLabel": "pts",
+      "author": "viraptor",
+      "publishedAt": "2026-10-18T05:35:11.525-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm5yn098xz8lo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "comment": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-19T05:17:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm2kez327gdko-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "comment": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-19T04:30:59.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm89z008x7xdo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "People playing loud music on buses could face £100 fine",
+      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage…",
+      "comment": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-19T00:22:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwdd8z6gyy96o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "comment": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-18T23:28:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c60rl1xvjv89o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "comment": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-18T23:24:59.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-16",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Interfere design system",
+      "url": "https://heydesigner.com/2026-10-16/",
+      "summary": "Pure UI in the agentic era, Toolcraft, Someone behind the software.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-16T07:26:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design systems directory",
+      "url": "https://heydesigner.com/2026-10-15/",
+      "summary": "Agentic systems are the future of brands, The best way to use icons in Web UIs, Fit height to background pattern size with calc-size().",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-15T09:25:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d6",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "How to build a brand foundation with AI without losing your craft",
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+      "summary": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship. Continue reading on UX Collective »",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zeeshan Khalid",
+      "publishedAt": "2026-10-18T19:06:49.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-22471",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+      "url": "https://arxiv.org/abs/2610.22471",
+      "summary": "arXiv:2610.22471v1 Announce Type: new Abstract: GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of…",
+      "comment": "Watch — matches robot, navigation, embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "SenseNova, Joint Research Team, :, Zhongang Cai, Ziang Cao, Tailai Chen, Han Chong Chua, Linjun Dai, Hanming Deng, Hokin Deng, Haiwen Diao, Chenjing Ding, Weichen Fan, Xiao Fu, Zerui Gong, Chenyang Gu, Zexin He, Zhi Hou, Bo Li, Qinyue Li, Quanzhou Li, Xiaowan Li, Zhichao Liao, Dahua Lin, Zilong Lin, Bo Liu, Chunxiao Liu, Pengfei Liu, Tianqi Liu, Ziwei Liu, Chen Change Loy, Lewei Lu, Jiapeng Luo, Yuexiao Ma, Liang Pan, Xingang Pan, Oscar Qian, Ziyi Shang, Yuyao Shao, Dawei Su, Dacheng Tao, Qingyi Tao, Quan Wang, Ruisi Wang, Xiaogang Wang, Ziyi Wang, Beichen Wen, Donghao Wu, Jiaxu Wu, Silei Wu, Xiaoming Wu, Zhonghua Wu, Hongcan Xiao, Weiye Xu, Atsushi Yamashita, Lei Yang, Zhe Yang, Baiqiao Yin, Wanqi Yin, Hanfei Zhao, Tianbo Zhong, Long Zhuo, Jing Zuo",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation",
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-22496",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Scaling Online Exploration for Robot Agents",
+      "url": "https://arxiv.org/abs/2610.22496",
+      "summary": "arXiv:2610.22496v1 Announce Type: new Abstract: Robot learning has advanced by scaling demonstration datasets and model capacity; however, deploying a new robot embodiment or task…",
+      "comment": "Watch — matches robot, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Runhan Huang, Xiangcheng Zhang, Haoyu Chen, Yitong Li, Yen-Jen Wang, Bohan Lyu, Haotian Ye, Chuye Hong, Yixuan Wang, Chloe Su, Haoyu Xiong, Yangzhen Wu, Enze Xie, Travis Manderson, Stefano Ermon, Pieter Abbeel, Antonio Torralba, Dawn Song, Weirui Ye, Yilun Du",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-22563",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Micro-Localization: High-Precision Mobile Robot Localization Using Microscopic Ground Texture",
+      "url": "https://arxiv.org/abs/2610.22563",
+      "summary": "arXiv:2610.22563v1 Announce Type: new Abstract: We demonstrate high-precision global localization using natural ground texture viewed through microscope optics, achieving localiza…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Aaron Wilhelm, Marina de Albuquerque Marcon, Emith Uyanwatte, Nils Napp",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-22576",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations",
+      "url": "https://arxiv.org/abs/2610.22576",
+      "summary": "arXiv:2610.22576v1 Announce Type: new Abstract: Flow-based policies such as $\\pi_0$ are trained on a fixed set of embodiments, and transferring them to new ones is an open problem…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Devin Han, Hershraj Niranjani",
+      "publishedAt": "2026-10-19T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-deeplethe-solid-glass",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "summary": "A design system for AI applications. Material, physical, tactile, technical.",
+      "comment": "Watch — matches design system.",
+      "score": 2160,
+      "scoreLabel": "stars",
+      "author": "deeplethe",
+      "publishedAt": "2026-10-12T09:19:02Z",
+      "interestHits": [
+        "design system"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
