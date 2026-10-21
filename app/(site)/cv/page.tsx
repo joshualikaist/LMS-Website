@@ -103,10 +103,11 @@ export default function CvPage() {
             </span>
           </div>
           <div className={s.row}>
-            <span className={s.rowDate}>2026</span>
+            <span className={s.rowDate}>2025.09 — 2026.01</span>
             <span className={s.rowBody}>
-              <b>MESC Website</b> — A single digital hub for KAIST Mechanical Engineering students
-              <span className={s.rowSub}>Full-stack web development</span>
+              <b>BOLT</b> — Modifying the open-source biped robot BOLT and building its control system for
+              walking stabilization and real-time torque control (ROS 2)
+              <span className={s.rowSub}>Dynamic Robot Control & Design Lab (DRCD) · KAIST · Undergraduate research intern</span>
             </span>
           </div>
         </div>
