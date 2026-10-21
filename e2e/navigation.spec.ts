@@ -30,7 +30,7 @@ test("clicking through the navigation reaches every section and back home", asyn
 });
 
 test("Research stays highlighted on its detail pages", async ({ page }) => {
-  for (const url of ["/work/motar", "/research/motar", "/work/mesc"]) {
+  for (const url of ["/work/motar", "/research/motar"]) {
     await page.goto(url);
     await expect(page.getByRole("navigation", { name: "Primary navigation" }).getByRole("link", { name: "Research", exact: true })).toHaveAttribute("aria-current", "page");
   }
@@ -80,6 +80,8 @@ test("retired and legacy addresses still land somewhere useful", async ({ page, 
   await expect(page).toHaveURL(/\/trend$/);
   await page.goto("/notes");
   await expect(page).toHaveURL(/\/$/);
+  await page.goto("/work/mesc");
+  await expect(page).toHaveURL(/\/research$/);
 
   const icon = await request.get("/favicon.ico");
   expect(icon.ok()).toBe(true);

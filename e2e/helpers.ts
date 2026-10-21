@@ -10,7 +10,6 @@ export const PAGES: SitePage[] = [
   { path: "/research", name: "research", h1: /^Research$/ },
   { path: "/work/motar", name: "motar story", h1: /^MOTAR$/ },
   { path: "/research/motar", name: "motar technical", h1: /Technical Notes/ },
-  { path: "/work/mesc", name: "mesc", h1: /^MESC$/ },
   { path: "/cv", name: "cv", h1: /^Minseok Li$/ },
   { path: "/hobby", name: "hobby", h1: /^Hobby$/ },
   { path: "/hobby/shelton-lms", name: "shelton", h1: /Shelton LMS/ },

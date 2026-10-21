@@ -32,10 +32,6 @@ export function GET() {
 - [MOTAR case study](${baseUrl}/work/motar): Sensor-only UAV interception of moving targets in cluttered environments.
 - [MOTAR technical notes](${baseUrl}/research/motar): System architecture, observation design, control contract, and current research status.
 
-## Projects
-
-- [MESC](${baseUrl}/work/mesc): Student Council website for KAIST Mechanical Engineering.
-
 ## Hobby
 
 - [Hobby](${baseUrl}/hobby): Tennis and food pages — Shelton LMS and 밥도둑.

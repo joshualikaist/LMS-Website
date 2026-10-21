@@ -6,7 +6,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Research",
-  description: "Research and projects — sensor-only UAV interception (MOTAR) and the KAIST ME student council website (MESC).",
+  description: "Research — MOTAR, sensor-only UAV interception of moving targets at KAIST.",
 };
 
 type Project = {
@@ -30,16 +30,8 @@ const PROJECTS: Project[] = [
     links: [
       { label: "Case study", href: "/work/motar" },
       { label: "Technical notes", href: "/research/motar" },
+      { label: "Status", href: "https://joshualikaist.github.io/MOTAR/status/", external: true },
     ],
-  },
-  {
-    name: "MESC Website",
-    href: "/work/mesc",
-    summary:
-      "A single digital hub for KAIST Mechanical Engineering students — announcements, calendar, council fees, and study resources in one place.",
-    meta: "2026 · Full-stack web development",
-    ongoing: false,
-    links: [{ label: "Project page", href: "/work/mesc" }],
   },
 ];
 
@@ -48,7 +40,7 @@ export default function ResearchPage() {
     <main className={`page ${styles.main}`}>
       <h1 className={s.h1}>Research</h1>
       <p className={s.lead}>
-        Robotics and autonomous systems at KAIST, plus the software I build along the way.
+        Robotics and autonomous systems research at KAIST.
       </p>
       <div className={styles.list}>
         {PROJECTS.map((p) => (
@@ -67,11 +59,17 @@ export default function ResearchPage() {
             <p className={s.entryDesc}>{p.summary}</p>
             <div className={s.entryMeta}>{p.meta}</div>
             <div className={s.entryLinks}>
-              {p.links.map((l) => (
-                <Link key={l.href} href={l.href} className={raised.btn}>
-                  {l.label} →
-                </Link>
-              ))}
+              {p.links.map((l) =>
+                l.external ? (
+                  <a key={l.href} href={l.href} target="_blank" rel="noopener noreferrer" className={raised.btn}>
+                    {l.label} ↗
+                  </a>
+                ) : (
+                  <Link key={l.href} href={l.href} className={raised.btn}>
+                    {l.label} →
+                  </Link>
+                ),
+              )}
             </div>
           </article>
         ))}

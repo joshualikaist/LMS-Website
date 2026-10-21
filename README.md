@@ -74,7 +74,6 @@ the daily Trend workflow.
 These need files or account URLs before they can go live:
 
 - CV PDF → `public/cv/` then set `cvPdf` in `content/site.ts` (the download button stays hidden until then)
-- MESC screenshot, live URL, and stack → constants at the top of `app/(site)/work/mesc/page.tsx`
 - Google Scholar and ORCID URLs in `content/site.ts`
 
 ## Cursor skills

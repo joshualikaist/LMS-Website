@@ -81,6 +81,7 @@ const nextConfig: NextConfig = {
     return [
       { source: "/favicon.ico", destination: "/icon.svg", permanent: true },
       { source: "/notes", destination: "/", permanent: false },
+      { source: "/work/mesc", destination: "/research", permanent: false },
       { source: "/notes/:slug", destination: "/", permanent: false },
       { source: "/digest", destination: "/trend", permanent: true },
       { source: "/digest/:date", destination: "/trend/:date", permanent: true },
