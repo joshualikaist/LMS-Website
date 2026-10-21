@@ -31,13 +31,13 @@ test.describe("Research", () => {
     await expect(main.getByText("ONGOING")).toBeVisible();
 
     // The live status page opens in a new tab, safely.
-    const status = main.getByRole("link", { name: /Status/ });
+    const status = main.getByRole("link", { name: /Website/ });
     await expect(status).toHaveAttribute("href", "https://joshualikaist.github.io/MOTAR/status/");
     await expect(status).toHaveAttribute("target", "_blank");
     await expect(status).toHaveAttribute("rel", /noopener/);
 
     const hrefs = await main.locator("a[href^='/']").evaluateAll((nodes) => [...new Set(nodes.map((n) => n.getAttribute("href")!))]);
-    expect(hrefs.length).toBeGreaterThanOrEqual(2);
+    expect(hrefs.length).toBeGreaterThanOrEqual(1);
     for (const href of hrefs) {
       const response = await request.get(href);
       expect(response.status(), href).toBe(200);

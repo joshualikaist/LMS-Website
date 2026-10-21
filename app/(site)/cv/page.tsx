@@ -99,7 +99,7 @@ export default function CvPage() {
             <span className={s.rowDate}>2026 — Ongoing</span>
             <span className={s.rowBody}>
               <b>MOTAR</b> — Sensor-only UAV interception of moving targets
-              <span className={s.rowSub}>FAIR Lab · KAIST</span>
+              <span className={s.rowSub}>Field AI & Robotics Lab (FAIR Lab) · KAIST · Undergraduate research intern</span>
             </span>
           </div>
           <div className={s.row}>

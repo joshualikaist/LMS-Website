@@ -25,12 +25,10 @@ const PROJECTS: Project[] = [
     href: "/work/motar",
     summary:
       "Teaching a drone to intercept a moving target in clutter with nothing but its own camera and LiDAR — a learned policy trained in simulation, kept flyable by a flight controller.",
-    meta: "2026 · FAIR Lab, KAIST",
+    meta: "2026 · Field AI & Robotics Lab (FAIR Lab), KAIST · Undergraduate research intern",
     ongoing: true,
     links: [
-      { label: "Case study", href: "/work/motar" },
-      { label: "Technical notes", href: "/research/motar" },
-      { label: "Status", href: "https://joshualikaist.github.io/MOTAR/status/", external: true },
+      { label: "Website", href: "https://joshualikaist.github.io/MOTAR/status/", external: true },
     ],
   },
 ];
