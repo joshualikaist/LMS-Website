@@ -10,8 +10,8 @@ export default function HomePage() {
         <p className={styles.kicker}>KAIST · Daejeon</p>
         <h1 className={styles.name}>Minseok Li</h1>
         <p className={styles.line}>
-          <span>mechanical engineering,</span>
-          <span className={styles.lineSub}>field robotics</span>
+          <span>Mechanical Engineering,</span>
+          <span className={styles.lineSub}>Field Robotics</span>
         </p>
         <nav className={styles.social} aria-label="Profiles">
           <a href={site.github} target="_blank" rel="noreferrer" className={styles.socialItem}>

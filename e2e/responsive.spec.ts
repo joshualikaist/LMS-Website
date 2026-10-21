@@ -38,6 +38,6 @@ test("the home hero keeps the name and tagline readable on a phone", async ({ pa
   const box = (await name.boundingBox())!;
   expect(box.x).toBeGreaterThanOrEqual(0);
   expect(box.x + box.width).toBeLessThanOrEqual(390);
-  await expect(page.getByText("mechanical engineering,")).toBeVisible();
-  await expect(page.getByText("field robotics")).toBeVisible();
+  await expect(page.getByText("Mechanical Engineering,")).toBeVisible();
+  await expect(page.getByText("Field Robotics")).toBeVisible();
 });
