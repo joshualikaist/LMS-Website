@@ -73,9 +73,26 @@ const securityHeaders = [
   // max-age=63072000; includeSubDomains; preload, and that stays as it is.
 ];
 
+// Resume downloads: the hosting platform would otherwise send its own `inline; filename=<file on disk>`,
+// which beats the link's download="" name. Names with non-ASCII characters use the RFC 5987 form.
+const resumeDownloads = [
+  { source: "/cv/Minseok_Li_Resume_EN.pdf", ascii: "Minseok_Li_Resume.pdf", full: "Minseok_Li_Resume.pdf" },
+  { source: "/cv/Minseok_Li_Resume_KO.pdf", ascii: "Minseok_Li_Resume_KO.pdf", full: "이민석_이력서.pdf" },
+].map(({ source, ascii, full }) => ({
+  source,
+  headers: [
+    {
+      key: "Content-Disposition",
+      // `filename` is the ASCII fallback for old clients; `filename*` carries the real name.
+      value: `attachment; filename="${ascii}"; filename*=UTF-8''${encodeURIComponent(full)}`,
+    },
+  ],
+}));
+
+
 const nextConfig: NextConfig = {
   async headers() {
-    return [{ source: "/:path*", headers: securityHeaders }];
+    return [{ source: "/:path*", headers: securityHeaders }, ...resumeDownloads];
   },
   async redirects() {
     return [

@@ -28,11 +28,18 @@ test.describe("CV", () => {
     }
   });
 
-  test("clicking a resume icon downloads the file", async ({ page }) => {
-    await page.goto("/cv");
-    const [download] = await Promise.all([page.waitForEvent("download"), page.getByRole("link", { name: "Download English resume (PDF)" }).click()]);
-    expect(download.suggestedFilename()).toBe("Minseok_Li_Resume.pdf");
-  });
+  // The hosting platform sends its own Content-Disposition for static files; the site overrides it so the
+  // saved name is the intended one on every host (this failed on a real deployment while passing locally).
+  for (const { name, filename } of [
+    { name: "Download English resume (PDF)", filename: "Minseok_Li_Resume.pdf" },
+    { name: "한국어 이력서 다운로드 (PDF)", filename: "이민석_이력서.pdf" },
+  ]) {
+    test(`clicking "${name}" saves ${filename}`, async ({ page }) => {
+      await page.goto("/cv");
+      const [download] = await Promise.all([page.waitForEvent("download"), page.getByRole("link", { name }).click()]);
+      expect(download.suggestedFilename()).toBe(filename);
+    });
+  }
 });
 
 test.describe("Research", () => {
