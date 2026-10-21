@@ -16,7 +16,7 @@ export const site = {
   github: "https://github.com/joshualikaist",
   githubHandle: "joshualikaist",
   motarRepo: "https://github.com/joshualikaist/MOTAR",
-  linkedin: "https://www.linkedin.com/in/minseok-li-533b85420",
+  linkedin: "https://www.linkedin.com/in/minseokli",
   instagram: "https://www.instagram.com/joshualisky",
   googleScholar: null as string | null,
   orcid: null as string | null,
