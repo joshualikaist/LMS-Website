@@ -1,0 +1,337 @@
+{
+  "date": "2026-10-21",
+  "fetchedAt": "2026-10-21T05:24:55.302Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:emudhra-we-have-a-problem-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "eMudhra intermediate CA compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 779,
+      "scoreLabel": "pts",
+      "author": "galadran",
+      "publishedAt": "2026-10-20T13:58:33.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:permit-petercai-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 671,
+      "scoreLabel": "pts",
+      "author": "pcai",
+      "publishedAt": "2026-10-20T18:29:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:mistral-ai-news-voxtral-3",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 574,
+      "scoreLabel": "pts",
+      "author": "ilreb",
+      "publishedAt": "2026-10-20T16:02:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:lobste-rs-s-h0eate",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Updates to site guidelines and AI/LLM tags",
+      "url": "https://lobste.rs/s/h0eate",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 363,
+      "scoreLabel": "pts",
+      "author": "355E3B",
+      "publishedAt": "2026-10-18T20:28:53.196-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-joshwcomeau-com-css-interop-2027",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 147,
+      "scoreLabel": "pts",
+      "author": "soheilpro",
+      "publishedAt": "2026-10-21T01:47:28.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-19-jpmorgan-security-defense-investments-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-19T12:34:01.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cvze4wx3elj1o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "UK government expected to approve Jackdaw gas field",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "comment": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-21T04:41:04.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cr93z1e87e0do-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+      "comment": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the bi…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-21T04:13:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmlyl09xjke4o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "comment": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-20T23:24:47.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c370pzdkw77jo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The tech helping crack decades-old cold cases",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "comment": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-20T23:13:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-taste-is-not-a-design-methodology",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Taste is not a design methodology",
+      "url": "https://heydesigner.com/newsletter/taste-is-not-a-design-methodology/",
+      "summary": "Craft: A collection of design engineering concepts, Design systems directory, Inside Anthropic’s design team, Pure UI in the agentic era, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-20T15:09:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-20",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "No more icons in every menu by default",
+      "url": "https://heydesigner.com/2026-10-20/",
+      "summary": "The language we never agreed on, A design system is what it does, Paper Mono, Agentic verification.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-20T07:21:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-16",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Interfere design system",
+      "url": "https://heydesigner.com/2026-10-16/",
+      "summary": "Pure UI in the agentic era, Toolcraft, Someone behind the software.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-16T07:26:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-15",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design systems directory",
+      "url": "https://heydesigner.com/2026-10-15/",
+      "summary": "Agentic systems are the future of brands, The best way to use icons in Web UIs, Fit height to background pattern size with calc-size().",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-15T09:25:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-27039",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2610.27039",
+      "summary": "arXiv:2610.27039v1 Announce Type: new Abstract: Foundation models offer a promising basis for robotic agents, but long-horizon tasks require them to sustain coherent reasoning and…",
+      "comment": "Watch — matches robot, embodied, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Feng Chen, Pei Zhou, Lixuan He, Yunchao Yao, Li Sun, Shenghua Gao, Mingyu Ding, Kaifeng Zhang, Kaichen Zhou, Yi Ma",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "embodied",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-23857",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Web Agent Agentic Reinforcement Learning Decision Model Under Multi-Cost and Failure Risk",
+      "url": "https://arxiv.org/abs/2610.23857",
+      "summary": "arXiv:2610.23857v1 Announce Type: new Abstract: Intelligent agent interactions in real-world web environments are commonly constrained by request budgets, time delays, anti-crawli…",
+      "comment": "Watch — matches reinforcement, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Qianli Ma, Limengxi Yue, Shuyang Xu, Yanpei Shi, Hongrui Liu",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-23928",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.23928",
+      "summary": "arXiv:2610.23928v1 Announce Type: new Abstract: Native NVFP4 promises to accelerate reinforcement learning (RL) for large language models (LLMs), but achieving stable learning acr…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zhen Li, Mingfa Feng, Yiming Zhang, Yang Yu, Changhai Zhou, Pengxiang Li, Dongkuan Wu, Congkai Xie, Hongxia Yang",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2610-26899",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yifei Xiao, Huasheng Lin, T. Y. Yang",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2610-26904",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+      "url": "https://arxiv.org/abs/2610.26904",
+      "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-qualit…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Koki Takeshita, Kenji Uebayashi, Hikaru Tomonari, Masaya Tsunokake, Koichiro Yawata, Tatsuya Sasaki, Yusuke Ohtsubo, Kota Dohi, Yasuhiro Sogawa",
+      "publishedAt": "2026-10-21T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    }
+  ],
+  "failures": []
+}
