@@ -1,15 +1,14 @@
 import type { Metadata, Viewport } from "next";
-import { IBM_Plex_Mono, Instrument_Serif, Inter } from "next/font/google";
+import { Fraunces, IBM_Plex_Mono, Inter } from "next/font/google";
 import { site } from "@/content/site";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 // Only the home tagline uses this; self-hosted by next/font, so the CSP stays same-origin.
-const instrumentSerif = Instrument_Serif({
-  weight: "400",
-  style: "italic",
+const fraunces = Fraunces({
+  weight: "300",
   subsets: ["latin"],
-  variable: "--font-instrument",
+  variable: "--font-fraunces",
   display: "swap",
 });
 const plexMono = IBM_Plex_Mono({
@@ -95,7 +94,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html
       lang="en"
-      className={`${inter.variable} ${plexMono.variable} ${instrumentSerif.variable}`}
+      className={`${inter.variable} ${plexMono.variable} ${fraunces.variable}`}
     >
       <head>
         <script
