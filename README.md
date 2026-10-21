@@ -73,7 +73,7 @@ the daily Trend workflow.
 
 These need files or account URLs before they can go live:
 
-- CV PDF → `public/cv/` then set `cvPdf` in `content/site.ts` (the download button stays hidden until then)
+- Resumes: PDFs in `public/cv/`, listed in `site.resumes` (`content/site.ts`). The Word originals stay out of the repo (`/*.docx` is ignored); web copies have the phone number removed and clean author metadata.
 - Google Scholar and ORCID URLs in `content/site.ts`
 
 ## Cursor skills

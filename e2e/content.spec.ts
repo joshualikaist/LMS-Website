@@ -11,13 +11,27 @@ test.describe("CV", () => {
     await expect(page.locator("main")).toContainText("Field AI & Robotics Lab");
 
     // Regression: the download button once pointed at an empty 412-byte PDF.
-    const download = page.getByRole("link", { name: /CV Download/ });
-    if (await download.count()) {
-      const response = await request.get((await download.getAttribute("href"))!);
-      expect(response.ok()).toBe(true);
-      expect(response.headers()["content-type"]).toContain("pdf");
-      expect((await response.body()).length).toBeGreaterThan(5_000);
+    for (const { label, name, filename } of [
+      { label: "English", name: "Download English resume (PDF)", filename: "Minseok_Li_Resume.pdf" },
+      { label: "한국어", name: "한국어 이력서 다운로드 (PDF)", filename: "이민석_이력서.pdf" },
+    ]) {
+      const link = page.getByRole("link", { name });
+      await expect(link, label).toBeVisible();
+      await expect(link).toContainText(label);
+      await expect(link).toHaveAttribute("download", filename);
+      const response = await request.get((await link.getAttribute("href"))!);
+      expect(response.status(), label).toBe(200);
+      expect(response.headers()["content-type"], label).toContain("pdf");
+      const body = await response.body();
+      expect(body.subarray(0, 5).toString("latin1"), label).toBe("%PDF-");
+      expect(body.length, label).toBeGreaterThan(20_000);
     }
+  });
+
+  test("clicking a resume icon downloads the file", async ({ page }) => {
+    await page.goto("/cv");
+    const [download] = await Promise.all([page.waitForEvent("download"), page.getByRole("link", { name: "Download English resume (PDF)" }).click()]);
+    expect(download.suggestedFilename()).toBe("Minseok_Li_Resume.pdf");
   });
 });
 

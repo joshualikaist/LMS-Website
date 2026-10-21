@@ -20,7 +20,25 @@ export const site = {
   instagram: "https://www.instagram.com/joshualisky",
   googleScholar: null as string | null,
   orcid: null as string | null,
-  cvPdf: null as string | null,
+  // Downloadable resumes, shown as icons on the CV page. Phone number removed from these copies.
+  resumes: [
+    {
+      lang: "en",
+      label: "English",
+      aria: "Download English resume (PDF)",
+      href: "/cv/Minseok_Li_Resume_EN.pdf",
+      filename: "Minseok_Li_Resume.pdf",
+      icon: "/icons/resume-en.svg",
+    },
+    {
+      lang: "ko",
+      label: "한국어",
+      aria: "한국어 이력서 다운로드 (PDF)",
+      href: "/cv/Minseok_Li_Resume_KO.pdf",
+      filename: "이민석_이력서.pdf",
+      icon: "/icons/resume-ko.svg",
+    },
+  ],
   digest: digestUrl,
   digestIsExternal: digestUrl.startsWith("http"),
 };

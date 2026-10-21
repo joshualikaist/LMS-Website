@@ -10,6 +10,12 @@
   flex-wrap: wrap;
 }
 
+.downloads {
+  display: flex;
+  align-items: flex-start;
+  gap: 22px;
+}
+
 .download {
   display: inline-flex;
   flex-direction: column;
@@ -27,9 +33,13 @@
   text-decoration: none;
 }
 
-.pdfMark {
-  font-size: 28px;
-  line-height: 1;
+.download img {
+  display: block;
+  transition: transform 0.12s ease;
+}
+
+.download:hover img {
+  transform: translateY(-2px);
 }
 
 .location {

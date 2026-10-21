@@ -67,13 +67,23 @@ export default function CvPage() {
     <main className={`page ${styles.main}`}>
       <div className={styles.head}>
         <h1 className={s.h1}>Minseok Li</h1>
-        {site.cvPdf ? (
-          <a href={site.cvPdf} target="_blank" rel="noreferrer" className={styles.download}>
-            <span className={styles.pdfMark} aria-hidden="true">
-              📄
-            </span>
-            <span>CV Download</span>
-          </a>
+        {site.resumes.length > 0 ? (
+          <div className={styles.downloads}>
+            {site.resumes.map((resume) => (
+              <a
+                key={resume.lang}
+                href={resume.href}
+                download={resume.filename}
+                lang={resume.lang}
+                aria-label={resume.aria}
+                className={styles.download}
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={resume.icon} alt="" width={38} height={38} />
+                <span>{resume.label}</span>
+              </a>
+            ))}
+          </div>
         ) : null}
       </div>
       <p className={s.lead}>

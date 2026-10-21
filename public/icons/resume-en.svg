@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-hidden="true">
+  <path fill="#1557ff" d="M9 3h15.5L33 11.5V35a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Z"/>
+  <path fill="#ffffff" fill-opacity=".38" d="M24.5 3 33 11.5h-6.5a2 2 0 0 1-2-2V3Z"/>
+  <text x="20" y="29" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#ffffff">EN</text>
+  <rect x="12" y="15" width="12" height="1.8" rx=".9" fill="#ffffff" fill-opacity=".75"/>
+  <rect x="12" y="19" width="16" height="1.8" rx=".9" fill="#ffffff" fill-opacity=".45"/>
+</svg>

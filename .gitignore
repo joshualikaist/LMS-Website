@@ -33,3 +33,6 @@ next-env.d.ts
 # tests
 /playwright-report/
 /test-results/
+
+# Word originals of the resume contain a phone number; only the cleaned PDFs in public/cv/ are published
+/*.docx

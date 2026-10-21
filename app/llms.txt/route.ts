@@ -25,7 +25,7 @@ export function GET() {
 - Affiliation: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
 - Role: Undergraduate Student Researcher, Field AI & Robotics Lab
 - Research interests: learning-based UAV navigation, autonomous systems, robot learning, embodied AI
-- CV: ${baseUrl}/cv
+- CV: ${baseUrl}/cv (resume PDFs: ${baseUrl}/cv/Minseok_Li_Resume_EN.pdf in English, ${baseUrl}/cv/Minseok_Li_Resume_KO.pdf in Korean)
 
 ## Research
 
