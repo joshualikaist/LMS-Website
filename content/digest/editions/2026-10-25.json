@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-25",
+  "fetchedAt": "2026-10-25T05:24:14.289Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:aardappel-github-io-goose",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 310,
+      "scoreLabel": "pts",
+      "author": "bobbydigitales",
+      "publishedAt": "2026-10-24T19:06:55.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:danluu-com-ambitious",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 286,
+      "scoreLabel": "pts",
+      "author": "ltratt",
+      "publishedAt": "2026-10-24T21:47:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-apricitas-io-p-ai-and-the-fall-of-the-creative-class",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 265,
+      "scoreLabel": "pts",
+      "author": "gnabgib",
+      "publishedAt": "2026-10-24T23:11:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-speedcrunch-org",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 107,
+      "scoreLabel": "pts",
+      "author": "LordNibbler",
+      "publishedAt": "2026-10-24T19:19:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "lobsters:blog-luitjes-it-posts-i-want-my-wednesday-back",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "I want my Wednesday back",
+      "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+      "summary": null,
+      "comment": "From Lobsters.",
+      "score": 102,
+      "scoreLabel": "pts",
+      "author": "lucasluitjes",
+      "publishedAt": "2026-10-24T05:09:28.059-05:00",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqm24j9y9zn7o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+      "comment": "The move will take funding for the 10-year programme to more than £40bn.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-25T02:57:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqy8ljkle97ro-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "comment": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-24T23:15:18.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-24-nx-s1-6011193-trade-tariffs-cause-whiplash-at-port-milwau",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+      "comment": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sacha Pfeiffer",
+      "publishedAt": "2026-10-24T21:20:55.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-23-airfare-airline-capacity-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+      "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+      "summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+      "comment": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-24T15:53:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-24-spirit-airlines-planes-scrapped-engine-shortage-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Why popular airplanes are getting scrapped years early",
+      "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+      "comment": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are i…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-24T15:18:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-taste-is-not-a-design-methodology",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Taste is not a design methodology",
+      "url": "https://heydesigner.com/newsletter/taste-is-not-a-design-methodology/",
+      "summary": "Craft: A collection of design engineering concepts, Design systems directory, Inside Anthropic’s design team, Pure UI in the agentic era, and more.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-20T15:09:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-20",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "No more icons in every menu by default",
+      "url": "https://heydesigner.com/2026-10-20/",
+      "summary": "The language we never agreed on, A design system is what it does, Paper Mono, Agentic verification.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-20T07:21:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-navigation-matching-early-days",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "CSS Navigation Matching, Early Days",
+      "url": "https://css-tricks.com/css-navigation-matching-early-days/",
+      "summary": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than man…",
+      "comment": "Watch — matches navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Geoff Graham",
+      "publishedAt": "2026-08-19T14:44:41.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-23",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "How to scale intent, quality, and artistry with AI (video)",
+      "url": "https://heydesigner.com/2026-10-23/",
+      "summary": "Intent Design System, hairline: Line drawings that answer the pointer, How I work, Native masonry layouts with CSS grid lanes.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-23T08:04:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-vercel-labs-fx0",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "vercel-labs/fx0",
+      "url": "https://github.com/vercel-labs/fx0",
+      "summary": "A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file.",
+      "comment": "Watch — matches agent.",
+      "score": 398,
+      "scoreLabel": "stars",
+      "author": "vercel-labs",
+      "publishedAt": "2026-10-19T17:27:02Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-finereli-whatsapp-mcp",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "finereli/whatsapp-mcp",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "summary": "A read-only MCP server that lets your AI agent search and read your own WhatsApp messages. Use it free at whatsapp.finereli.com, or run your own copy on Cloudf…",
+      "comment": "Watch — matches agent.",
+      "score": 363,
+      "scoreLabel": "stars",
+      "author": "finereli",
+      "publishedAt": "2026-10-18T21:01:54Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-microsoft-thinkingbox-training",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-22T22:24:34.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-xiaoyang111222-cn-math-taxonomy",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "summary": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "comment": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+      "score": 3365,
+      "scoreLabel": "stars",
+      "author": "xiaoyang111222",
+      "publishedAt": "2026-10-18T09:04:43Z",
+      "interestHits": []
+    },
+    {
+      "id": "github-python:github-com-ikow-php2shell-poc",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "comment": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_pr…",
+      "score": 1763,
+      "scoreLabel": "stars",
+      "author": "ikow",
+      "publishedAt": "2026-10-21T07:55:16Z",
+      "interestHits": []
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
