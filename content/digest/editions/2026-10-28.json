@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-28",
+  "fetchedAt": "2026-10-28T06:23:19.513Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-27-the-data-center-boom-has-an-upside-innovation-for-the-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-10-27T22:55:41.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-27-guidewire-buys-hyperexponential-for-1-7b-in-cash",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dominic-Madori Davis",
+      "publishedAt": "2026-10-27T22:26:03.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-27-bank-of-america-kindly-asks-that-you-dont-share-your-b",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Zack Whittaker",
+      "publishedAt": "2026-10-27T21:44:34.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:ghostty-org-docs-install-release-notes-1-4-0",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 900,
+      "scoreLabel": "pts",
+      "author": "deaux",
+      "publishedAt": "2026-10-27T16:51:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:deepmind-google-blog-genie-4-a-new-generation-of-world-simulation",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 822,
+      "scoreLabel": "pts",
+      "author": "acossta",
+      "publishedAt": "2026-10-27T16:06:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck1exgejq3xvo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "comment": "Watch — matches drone.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-28T00:01:10.000Z",
+      "interestHits": [
+        "drone"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cr20wzwyzl1qo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "China's families are now supporting more old people than kids",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-27T23:16:08.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwj342k62exyo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+      "comment": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-28T03:43:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmx235r9wr3yo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "comment": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-28T00:03:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6x29g1nlr51o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "comment": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-27T20:54:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-27",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design as a garden",
+      "url": "https://heydesigner.com/2026-10-27/",
+      "summary": "Fast is a design decision, The software factory forgot about design, The state of typography in design systems, Software for one.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-27T08:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Christine Vallaure",
+      "publishedAt": "2026-10-26T21:33:16.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-23",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "How to scale intent, quality, and artistry with AI (video)",
+      "url": "https://heydesigner.com/2026-10-23/",
+      "summary": "Intent Design System, hairline: Line drawings that answer the pointer, How I work, Native masonry layouts with CSS grid lanes.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-23T08:04:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-36143",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Program-Level Adversarial Co-Adaptive Self-Play for Robotic Security",
+      "url": "https://arxiv.org/abs/2610.36143",
+      "summary": "arXiv:2610.36143v1 Announce Type: new Abstract: Coding agents can adapt robotic software by revising executable programs, but successful responses to an evolving opponent may not…",
+      "comment": "Watch — matches robot, ppo, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Leo Benaharon, Chi Zhang, Wei Zheng, Weifan Zhang, Yifan Wei",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "ppo",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-36011",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling",
+      "url": "https://arxiv.org/abs/2610.36011",
+      "summary": "arXiv:2610.36011v1 Announce Type: new Abstract: World-action models (WAMs) offer a promising framework for embodied intelligence, yet mainstream approaches remain centered on vide…",
+      "comment": "Watch — matches robot, embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Era AI Lab Team, Jianhao Lai, Zhihao Zhan, Zhiquan Liao, Qichang Li, Shubin Chen, Zhiyuan Liu, Hongsen Lei, Jianman Lin, Xiaoxin Lin, Ke Gong, Baiyue Gu, Shiming Chen, Junlin He, Longqi Yang, Junrong Xiao, Haolin Luo, Xiaojuan Su, Jianfeng Li, Yu Luo, Xu Sun, Likui Zhang, Jusheng Zhang, Qinhan Lyu, Tianshui Chen, Liang Lin, Guangrun Wang",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2610-35954",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
+      "url": "https://arxiv.org/abs/2610.35954",
+      "summary": "arXiv:2610.35954v1 Announce Type: new Abstract: Autonomous vertical landing of reusable launch vehicles is a critical yet formidable challenge in aerospace engineering, primarily…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Atin Chowdhury, Piyush Joshi",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-36068",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
+      "url": "https://arxiv.org/abs/2610.36068",
+      "summary": "arXiv:2610.36068v1 Announce Type: new Abstract: Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jiayi Luo, Yang Zhang, Liliang Chen, Nan Wang, Chen Gao, Boxiang Qiu, Zhuoxuan Li, Baorui Peng, Chuankang Li, Yuxiang Yan, Si Liu, Qingyun Sun, Shuicheng Yan, Maoqing Yao, Jianxin Li, Guanghui Ren",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2610-36270",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning Multi-Phase Robot Loco-Manipulation via Phase-Conditioned Policy Optimization",
+      "url": "https://arxiv.org/abs/2610.36270",
+      "summary": "arXiv:2610.36270v1 Announce Type: new Abstract: Complex whole-body loco-manipulation requires executing diverse maneuvers, such as crouching, grasping, and locomotion, within a si…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Simone Manni, Annika Wollschl\\\"ager, Dario Bellicoso, Abel Gawel, Marco Hutter, Simon Le Cleac'h, Jan Br\\\"udigam",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
