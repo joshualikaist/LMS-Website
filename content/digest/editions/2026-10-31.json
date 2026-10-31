@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-31",
+  "fetchedAt": "2026-10-31T06:22:47.282Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "lobsters:devblogs-microsoft-com-oldnewthing-20261029-00-p-112808",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": 14,
+      "scoreLabel": "pts",
+      "author": "ubernostrum",
+      "publishedAt": "2026-10-30T20:01:21.760-05:00",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-30-last-minute-halloween-costumes-for-tech-nerds",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Amanda Silberling",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:status-northflank-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 408,
+      "scoreLabel": "pts",
+      "author": "js4ever",
+      "publishedAt": "2026-10-30T15:10:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-wired-com-story-the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 398,
+      "scoreLabel": "pts",
+      "author": "domhudson",
+      "publishedAt": "2026-10-30T12:50:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:virtuallyfun-com-2026-10-29-my-favourite-powermac-is-a-nintendo-wii",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 277,
+      "scoreLabel": "pts",
+      "author": "DHowett",
+      "publishedAt": "2026-10-30T17:25:15.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-29-restaurant-brands-international-qsr-q3-2026-earnings-htm",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success",
+      "url": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+      "summary": "Burger King's U.S. restaurants outperformed, while Popeyes disappointed.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-29T14:51:29.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-30-nx-s1-6023175-hackers-steal-over-6-billion-from-crypto-ex",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
+      "summary": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange. It's the biggest cyber heist ever — and many suspect North Korea may…",
+      "comment": "More than $6 billion worth of cryptocurrencies were stolen from Binance, the world's biggest crypto exchange.…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rafael Nam",
+      "publishedAt": "2026-10-30T21:44:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwe8lp7zy07zo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "comment": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-30T21:13:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cvwy72e0n72yo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "comment": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two month…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-30T20:34:46.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-30-cheap-cars-selling-fast-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+      "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "summary": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+      "comment": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-30T18:45:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-29",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Building beautiful websites with Claude (video)",
+      "url": "https://heydesigner.com/2026-10-29/",
+      "summary": "Designing a skill, Building an AI-ready design system library, How I design with AI, part 2, HTML-in-Canvas in Chrome 157.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-29T13:04:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-27",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design as a garden",
+      "url": "https://heydesigner.com/2026-10-27/",
+      "summary": "Fast is a design decision, The software factory forgot about design, The state of typography in design systems, Software for one.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-27T08:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ux-agentic-software-factories-utm-source-rss-amp-utm-me",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The Role of UX in Agentic Software Factories",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-t3dotgg-tstack",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "summary": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "comment": "Watch — matches agent.",
+      "score": 2480,
+      "scoreLabel": "stars",
+      "author": "t3dotgg",
+      "publishedAt": "2026-10-24T05:00:20Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-andyhuo520-digital-human-koubo",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude…",
+      "comment": "Watch — matches agent.",
+      "score": 1563,
+      "scoreLabel": "stars",
+      "author": "andyhuo520",
+      "publishedAt": "2026-10-26T04:34:09Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-qybaihe-bla",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "qybaihe/bla",
+      "url": "https://github.com/qybaihe/bla",
+      "summary": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineeri…",
+      "comment": "Watch — matches agent.",
+      "score": 1500,
+      "scoreLabel": "stars",
+      "author": "qybaihe",
+      "publishedAt": "2026-10-25T05:25:45Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-denissergeevitch-ex-ussr-kinship-research",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Re…",
+      "comment": "Watch — matches agent.",
+      "score": 1350,
+      "scoreLabel": "stars",
+      "author": "DenisSergeevitch",
+      "publishedAt": "2026-10-25T10:05:56Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2610-37786",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "WebAnything: From the Wild Web to Scalable Agent Environments",
+      "url": "https://arxiv.org/abs/2610.37786",
+      "summary": "arXiv:2610.37786v1 Announce Type: new Abstract: Web agents require diverse, executable, and resettable website environments for reproducible training and evaluation. Human-assiste…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Yan",
+      "publishedAt": "2026-10-31T04:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    }
+  ]
+}
