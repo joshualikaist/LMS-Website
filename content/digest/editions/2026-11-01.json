@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-01",
+  "fetchedAt": "2026-11-01T06:55:35.508Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "lobsters:devblogs-microsoft-com-oldnewthing-20261029-00-p-112808",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "The support case of a customer who said that all they could see was a black screen",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+      "summary": null,
+      "comment": "Watch — matches ppo.",
+      "score": 64,
+      "scoreLabel": "pts",
+      "author": "ubernostrum",
+      "publishedAt": "2026-10-30T20:01:21.760-05:00",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-10-31-4-days-left-how-techcrunch-founder-summit-helps-you-ma",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "TechCrunch Events",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:karpathy-bearblog-dev-hacker-tube",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1077,
+      "scoreLabel": "pts",
+      "author": "karpathy",
+      "publishedAt": "2026-10-31T19:56:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:atlasum-net-blog-cve-2026-98432-linux-ipv4-tcp-uaf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 456,
+      "scoreLabel": "pts",
+      "author": "oger",
+      "publishedAt": "2026-10-31T19:16:30.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-smithsonianmag-com-science-nature-italian-farmer-found-unknown-seeds-attic-w",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 314,
+      "scoreLabel": "pts",
+      "author": "ecares",
+      "publishedAt": "2026-10-31T22:41:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-31-nx-s1-6022285-mixed-economic-forecast-weighs-heavy-ahead-",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Mixed economic forecast weighs heavy ahead of midterms",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+      "summary": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the…",
+      "comment": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at l…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Scott Horsley",
+      "publishedAt": "2026-10-31T21:14:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-31-nx-s1-6024426-binance-crypto-heist-cyber-criminals-north-",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+      "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
+      "comment": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rafael Nam",
+      "publishedAt": "2026-10-31T18:11:02.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-10-31-automakers-3d-printing-ford-rivian-gm-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+      "url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+      "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+      "comment": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-10-31T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-ng-interactive-2026-oct-31-elon-musk-midterms-spendi",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+      "summary": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history Elon Musk has poured so much money into US polit…",
+      "comment": "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Nick Robins-Early, Andrew Witherspoon, Will Craft, Alvaro Dominguez, and Daniel Wolfe",
+      "publishedAt": "2026-10-31T10:00:40.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-10-31-nx-s1-5992790-data-centers-west-virginia-skiing-dark-skie",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+      "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark…",
+      "comment": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahe…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Scott Neuman",
+      "publishedAt": "2026-10-31T09:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-29",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Building beautiful websites with Claude (video)",
+      "url": "https://heydesigner.com/2026-10-29/",
+      "summary": "Designing a skill, Building an AI-ready design system library, How I design with AI, part 2, HTML-in-Canvas in Chrome 157.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-29T13:04:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-27",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design as a garden",
+      "url": "https://heydesigner.com/2026-10-27/",
+      "summary": "Fast is a design decision, The software factory forgot about design, The state of typography in design systems, Software for one.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-27T08:31:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-ux-agentic-software-factories-utm-source-rss-amp-utm-me",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "The Role of UX in Agentic Software Factories",
+      "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "AI-native software development lifecycles reduce UX to AI context. UX must discover user needs, shape what’s built, and evaluate it before and after launch.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tanner Kohler",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-deepseek-ai-dsh-superagent-prototype",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "summary": "Towards a More Autonomous Agent System",
+      "comment": "Watch — matches agent.",
+      "score": 4019,
+      "scoreLabel": "stars",
+      "author": "deepseek-ai",
+      "publishedAt": "2026-10-31T09:32:46Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-andyhuo520-digital-human-koubo",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude…",
+      "comment": "Watch — matches agent.",
+      "score": 1600,
+      "scoreLabel": "stars",
+      "author": "andyhuo520",
+      "publishedAt": "2026-10-26T04:34:09Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-denissergeevitch-ex-ussr-kinship-research",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "summary": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Re…",
+      "comment": "Watch — matches agent.",
+      "score": 1411,
+      "scoreLabel": "stars",
+      "author": "DenisSergeevitch",
+      "publishedAt": "2026-10-25T10:05:56Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-konlu-story-studio",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "konlu/story-studio",
+      "url": "https://github.com/konlu/story-studio",
+      "summary": "从选题到剪映草稿的一站式 AI 短视频内容创作 Agent Skill",
+      "comment": "Watch — matches agent.",
+      "score": 575,
+      "scoreLabel": "stars",
+      "author": "konlu",
+      "publishedAt": "2026-10-26T09:20:06Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-anhao-ai-pose-gallery-zh",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "comment": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+      "score": 4862,
+      "scoreLabel": "stars",
+      "author": "anhao",
+      "publishedAt": "2026-10-27T12:24:37Z",
+      "interestHits": []
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
