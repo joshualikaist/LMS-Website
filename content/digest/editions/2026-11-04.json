@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-04",
+  "fetchedAt": "2026-11-04T07:01:27.805Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:neufangled-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": 514,
+      "scoreLabel": "pts",
+      "author": "nharada",
+      "publishedAt": "2026-11-03T16:47:29.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:blog-nns-ee-2026-11-02-renault-hack",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "summary": null,
+      "comment": "Watch — matches navigation.",
+      "score": 734,
+      "scoreLabel": "pts",
+      "author": "xx_ns",
+      "publishedAt": "2026-11-02T16:29:19.000Z",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "lobsters:lobste-rs-s-r3gton",
+      "lane": "trend",
+      "source": "Lobsters",
+      "sourceId": "lobsters",
+      "title": "Your terminal manipulation/navigation setups",
+      "url": "https://lobste.rs/s/r3gton",
+      "summary": null,
+      "comment": "Watch — matches navigation.",
+      "score": 13,
+      "scoreLabel": "pts",
+      "author": "nocoffei",
+      "publishedAt": "2026-11-03T12:54:55.545-06:00",
+      "interestHits": [
+        "navigation"
+      ]
+    },
+    {
+      "id": "hn:arstechnica-com-gadgets-2026-10-fujifilm-to-boost-tape-production-5x-as-ai-fuels",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 440,
+      "scoreLabel": "pts",
+      "author": "bookofjoe",
+      "publishedAt": "2026-11-02T14:02:42.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:hackertv-org",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 275,
+      "scoreLabel": "pts",
+      "author": "dsalzman",
+      "publishedAt": "2026-11-03T01:18:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqrky5nxxn4po-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-03T11:56:31.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-04-mcdonalds-is-about-to-report-earnings-heres-what-to-expe",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "McDonald's is about to report earnings. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "summary": "McDonald's stock has fallen about 11% over the last year.",
+      "comment": "McDonald's stock has fallen about 11% over the last year.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-04T05:01:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqvg0y44ym7vo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "comment": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-04T01:36:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cw77pg7neydmo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "comment": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-04T00:09:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c820vz6wyp65o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "comment": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-04T00:04:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-09-stop-treating-css-container-queries-traditional-med",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+      "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+      "summary": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for ea…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design is more than creation",
+      "url": "https://heydesigner.com/2026-11-02/",
+      "summary": "The role of UX in agentic software factories, What does design system AI readiness mean, anyway?, Stageshow.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-02T08:21:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-i-dont-use-figma-anymore-and-it-cost-me-my-job",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "I don't use Figma anymore, and it cost me my job",
+      "url": "https://heydesigner.com/newsletter/i-dont-use-figma-anymore-and-it-cost-me-my-job/",
+      "summary": "Struggle together, Building beautiful websites with Claude, Design as a garden, Building an AI-ready design system library, and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-03T19:52:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-10-29",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Building beautiful websites with Claude (video)",
+      "url": "https://heydesigner.com/2026-10-29/",
+      "summary": "Designing a skill, Building an AI-ready design system library, How I design with AI, part 2, HTML-in-Canvas in Chrome 157.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-10-29T13:04:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-03932",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "CoReMatch: Recurrent Continuous Coordinate Refinement for Real-Time Robotic Feature Matching",
+      "url": "https://arxiv.org/abs/2611.03932",
+      "summary": "arXiv:2611.03932v1 Announce Type: new Abstract: Feature matching underpins many robotic perception tasks, including visual localization, mapping, SLAM, and autonomous navigation.…",
+      "comment": "Watch — matches robot, navigation, perception.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Robert J. Wang, Charles Ling, Boyu Wang",
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation",
+        "perception"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-03850",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation",
+      "url": "https://arxiv.org/abs/2611.03850",
+      "summary": "arXiv:2611.03850v1 Announce Type: new Abstract: Simulation benchmarks are the standard way to compare robot policies, but each benchmark brings its own evaluator, observation layo…",
+      "comment": "Watch — matches robot, embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Deng-Ke Wu, Yifan Jin, Yida Yang, Lei Qian, Zhaoye Zhou, Hongru Zhang, Kai Ye, Shuyuan Hu, Yiran Mao, Zewei Ye, Bo Zhao",
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-03779",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place",
+      "url": "https://arxiv.org/abs/2611.03779",
+      "summary": "arXiv:2611.03779v1 Announce Type: new Abstract: Training robot policies for multi-task pick and place requires demonstrations on many objects, which handheld Universal Manipulatio…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kobi Kelemen, Tomasz Niedzia{\\l}kowski, Marcin Paszczak, Victoriano Montesinos",
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-03815",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data",
+      "url": "https://arxiv.org/abs/2611.03815",
+      "summary": "arXiv:2611.03815v1 Announce Type: new Abstract: AIRoA-0 (A-0) is a bimanual manipulation system learned from 16,151 hours of handheld demonstrations, with no robot data collected…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yueh-Hua Wu, Kei Ota, Hanlong Li, Hayata Yuasa, Jason Wang, Kengo Ikeuchi, Kensuke Chiyoma, Makoto Sugiura, Masafumi Takahashi, Masatoshi Tateno, Naoaki Kanazawa, Nicola Scianca, Petr Khrapchenkov, Satoshi Otsubo, Takehiko Ohkawa, Takuya Okubo, Tatsuya Matsushima, Yuki Noguchi, Yuma Shin, Zixuan Zhong",
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-03825",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts",
+      "url": "https://arxiv.org/abs/2611.03825",
+      "summary": "arXiv:2611.03825v1 Announce Type: new Abstract: In robotics, shape control, or shape servoing, refers to the automatic manipulation of a deformable object toward a desired shape.…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ignacio Cuiral-Zueco, Alessio Caporali, Miguel Aranda, Gianluca Palli, Gonzalo L\\'opez-Nicol\\'as, Youcef Mezouar",
+      "publishedAt": "2026-11-04T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
