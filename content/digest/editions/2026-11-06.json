@@ -1,0 +1,345 @@
+{
+  "date": "2026-11-06",
+  "fetchedAt": "2026-11-06T07:27:06.025Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-05-metas-warns-that-election-backlash-against-data-center",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-05T19:12:39.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-05-serve-robotics-launches-new-business-to-become-the-aws",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data too…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-11-05T21:15:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-05-palo-alto-networks-in-talks-to-buy-ai-agent-security-s",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Marina Temkin",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-05-airbnb-says-its-launching-an-ai-travel-agent-in-the-fi",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-05T22:40:55.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-05-meta-says-us-users-can-now-video-chat-with-their-muse-",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-05T19:48:28.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-05-former-trump-voters-economy",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Rural voters were feeling left behind before the midterms, poll shows",
+      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&amp;A: Ask your questions about Democrats’ win in the midterms Polli…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Aratani",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-05-expedia-ai-agents-booking-habits-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+      "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+      "summary": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-05T17:03:35.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmn04705rd8jo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "comment": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-06T06:00:59.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-05-nx-s1-6031987-stock-markets-ai-midterm-elections",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and d…",
+      "comment": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Co…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rafael Nam",
+      "publishedAt": "2026-11-06T00:16:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cwe9lmp1pyyxo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "comment": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-06T00:06:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-02",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Design is more than creation",
+      "url": "https://heydesigner.com/2026-11-02/",
+      "summary": "The role of UX in agentic software factories, What does design system AI readiness mean, anyway?, Stageshow.",
+      "comment": "Watch — matches design system, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-02T08:21:00.000Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "What AI has changed in Design Systems, and what is still up to us",
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anna Lefour",
+      "publishedAt": "2026-11-04T22:12:09.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "AI prototyping inside your design system",
+      "url": "https://heydesigner.com/2026-11-04/",
+      "summary": "I let AI build. I don’t let AI decide, There’s no better name for design systems, State of a system.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-04T13:46:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-i-dont-use-figma-anymore-and-it-cost-me-my-job",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "I don't use Figma anymore, and it cost me my job",
+      "url": "https://heydesigner.com/newsletter/i-dont-use-figma-anymore-and-it-cost-me-my-job/",
+      "summary": "Struggle together, Building beautiful websites with Claude, Design as a garden, Building an AI-ready design system library, and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-03T19:52:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-07091",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Curvature by Design: A Support Structure for Continuum Robots",
+      "url": "https://arxiv.org/abs/2611.07091",
+      "summary": "arXiv:2611.07091v1 Announce Type: new Abstract: Constant- and piecewise-constant-curvature models are widely used to simplify the kinematics of continuum robots, although the assu…",
+      "comment": "Watch — matches robot, ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Justus Sagem\\\"uller, Harald Minde Hansen, Kristin Y. Pettersen",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-06956",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Octopus: One Brain, Many Branches for Latent-KV Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.06956",
+      "summary": "arXiv:2611.06956v1 Announce Type: new Abstract: Multi-agent LLM systems explore in parallel by spawning sub-agents with isolated context windows, whereas single-agent systems appe…",
+      "comment": "Watch — matches reinforcement, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tianming Sha",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-dragonwolfshovel-youtube-uploader",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "dragonwolfshovel/youtube-uploader",
+      "url": "https://github.com/dragonwolfshovel/youtube-uploader",
+      "summary": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy…",
+      "comment": "Watch — matches ppo.",
+      "score": 426,
+      "scoreLabel": "stars",
+      "author": "dragonwolfshovel",
+      "publishedAt": "2026-11-05T05:16:01Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-07261",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects",
+      "url": "https://arxiv.org/abs/2611.07261",
+      "summary": "arXiv:2611.07261v1 Announce Type: new Abstract: Deformable linear object (DLO) manipulation is challenging because high-dimensional configurations, nonlinear contact dynamics, and…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Vinay Rodrigues, Sara Zeynalpour, Gokhan Solak, Sebastian Hjorth, Arash Ajoudani",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-07069",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Finite-Time Convergence and Regret Guarantees for Neural Reinforcement Learning in POMDPs",
+      "url": "https://arxiv.org/abs/2611.07069",
+      "summary": "arXiv:2611.07069v1 Announce Type: new Abstract: Reinforcement learning (RL) in Partially Observable Markov Decision Processes (POMDPs) is computationally challenging due to the cu…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jingjuan Huang, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    }
+  ],
+  "failures": []
+}
