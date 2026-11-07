@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-07",
+  "fetchedAt": "2026-11-07T06:39:39.392Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-06-meta-introduces-spaces-a-new-way-to-collaborate-with-y",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-nbcnews-com-tech-tech-news-tesla-wind-cybertruck-production-years-poor-sales",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 951,
+      "scoreLabel": "pts",
+      "author": "PLenz",
+      "publishedAt": "2026-11-06T12:13:51.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:mitchellh-com-writing-libghostty-1-0",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 467,
+      "scoreLabel": "pts",
+      "author": "mfiguiere",
+      "publishedAt": "2026-11-06T23:30:52.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:hightouch-com-blog-llm-judges-identity-resolution",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 417,
+      "scoreLabel": "pts",
+      "author": "theanomaly",
+      "publishedAt": "2026-11-06T19:48:51.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-reuters-com-world-us-us-faa-says-it-will-phase-out-floppy-disks-air-traffic-",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 314,
+      "scoreLabel": "pts",
+      "author": "ChrisArchitect",
+      "publishedAt": "2026-11-06T04:00:28.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-05-former-trump-voters-economy",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Rural voters were feeling left behind before the midterms, poll shows",
+      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&amp;A: Ask your questions about Democrats’ win in the midterms Polli…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Aratani",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-nov-06-tesla-to-wind-down-cybertruck-product",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+      "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruc…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jasper Jolly",
+      "publishedAt": "2026-11-06T12:38:05.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-05-expedia-ai-agents-booking-habits-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
+      "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
+      "summary": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-05T17:03:35.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-06-nx-s1-6032607-the-cybertrucks-cause-of-death-insufficient",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "The Cybertruck's 'cause of death?' Insufficient demand",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032607/the-cybertrucks-cause-of-death-insufficient-demand",
+      "summary": "One of the most polarizing vehicles to hit the road will soon be a thing of history. Tesla will wind down manufacturing of its Cybertruck at the company's Gigafactory Texas mid-ne…",
+      "comment": "One of the most polarizing vehicles to hit the road will soon be a thing of history. Tesla will wind down man…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Linah Mohammad",
+      "publishedAt": "2026-11-06T22:22:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-06-nx-s1-6032695-this-was-the-week-the-ai-trade-cracked-so-w",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "This was the week the AI trade cracked. So what's next?",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032695/this-was-the-week-the-ai-trade-cracked-so-whats-next",
+      "summary": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken and wondering comes next.",
+      "comment": "Big losses by AI shares in stock markets after Democrats won the midterm elections have left investors shaken…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rafael Nam",
+      "publishedAt": "2026-11-06T21:58:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "What AI has changed in Design Systems, and what is still up to us",
+      "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anna Lefour",
+      "publishedAt": "2026-11-04T22:12:09.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "AI prototyping inside your design system",
+      "url": "https://heydesigner.com/2026-11-04/",
+      "summary": "I let AI build. I don’t let AI decide, There’s no better name for design systems, State of a system.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-04T13:46:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-i-dont-use-figma-anymore-and-it-cost-me-my-job",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "I don't use Figma anymore, and it cost me my job",
+      "url": "https://heydesigner.com/newsletter/i-dont-use-figma-anymore-and-it-cost-me-my-job/",
+      "summary": "Struggle together, Building beautiful websites with Claude, Design as a garden, Building an AI-ready design system library, and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-03T19:52:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-allenai-toyblocks",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-deepseek-ai-dsh-superagent-prototype",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "summary": "Towards a More Autonomous Agent System",
+      "comment": "Watch — matches agent.",
+      "score": 20414,
+      "scoreLabel": "stars",
+      "author": "deepseek-ai",
+      "publishedAt": "2026-10-31T09:32:46Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-kkkkhazix-agent-autoloop",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "comment": "Watch — matches agent.",
+      "score": 3765,
+      "scoreLabel": "stars",
+      "author": "KKKKhazix",
+      "publishedAt": "2026-11-03T08:02:11Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-caru-ini-stack-diagram",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "caru-ini/stack-diagram",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "comment": "Watch — matches agent.",
+      "score": 1991,
+      "scoreLabel": "stars",
+      "author": "caru-ini",
+      "publishedAt": "2026-11-01T05:35:12Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-sarpstar-cinecode",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, des…",
+      "comment": "Watch — matches agent.",
+      "score": 498,
+      "scoreLabel": "stars",
+      "author": "sarpstar",
+      "publishedAt": "2026-11-03T10:08:16Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
