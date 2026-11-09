@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-09T07:17:15.415Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-08-the-ex-secret-service-agent-who-flipped-a-hacker-is-no",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Connie Loizos",
+      "publishedAt": "2026-11-08T17:30:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:nvidianews-nvidia-com-news-a-message-to-our-company",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 539,
+      "scoreLabel": "pts",
+      "author": "karimf",
+      "publishedAt": "2026-11-08T22:20:09.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:declarative-dragging-github-io",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 475,
+      "scoreLabel": "pts",
+      "author": "smusamashah",
+      "publishedAt": "2026-11-04T17:05:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:ketchup3d-github-io-app",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 390,
+      "scoreLabel": "pts",
+      "author": "dcoulmbe",
+      "publishedAt": "2026-11-08T22:35:35.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:mailroute-net-blog-outlook-rejecting-email-without-dmarc",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 359,
+      "scoreLabel": "pts",
+      "author": "xmddmx",
+      "publishedAt": "2026-11-08T19:20:32.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-05-former-trump-voters-economy",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Rural voters were feeling left behind before the midterms, poll shows",
+      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&amp;A: Ask your questions about Democrats’ win in the midterms Polli…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Aratani",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-nov-06-tesla-to-wind-down-cybertruck-product",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+      "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruc…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jasper Jolly",
+      "publishedAt": "2026-11-06T12:38:05.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ckgel338xql3o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "comment": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-09T06:01:52.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqkg5g2970epo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Government's EV targets expected to be reduced this week",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "comment": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-09T05:00:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c3dxw10rjn9no-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "comment": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-09T00:50:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "AI prototyping inside your design system",
+      "url": "https://heydesigner.com/2026-11-04/",
+      "summary": "I let AI build. I don’t let AI decide, There’s no better name for design systems, State of a system.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-04T13:46:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-i-dont-use-figma-anymore-and-it-cost-me-my-job",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "I don't use Figma anymore, and it cost me my job",
+      "url": "https://heydesigner.com/newsletter/i-dont-use-figma-anymore-and-it-cost-me-my-job/",
+      "summary": "Struggle together, Building beautiful websites with Claude, Design as a garden, Building an AI-ready design system library, and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-03T19:52:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-08577",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation",
+      "url": "https://arxiv.org/abs/2611.08577",
+      "summary": "arXiv:2611.08577v1 Announce Type: new Abstract: We present Meituan-Robotics-0 (MR0), a vision-language-action foundation model and embodied-agent system for stationary-base deskto…",
+      "comment": "Watch — matches robot, embodied, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Meituan Robotics Team, Caicheng Wang, Chen Zhao, Chengpeng Jin, Duo Xu, Fengjiao Chen, Guanglu Wan, Heqing Yang, Jia Wang, Jiacong Zhou, Jie Hu, Jiyuan Ru, Lingfeng Zhang, Linjiang Huang, Manyuan Zhang, Ningchu Liu, Shijie Zhou, Si Liu, Shuo Li, Tianyi Zhang, Xi Zhang, Xin Chen, Xuezhi Cao, Xunliang Cai, Yanbin Zeng, Yang Yang, Yang Yi, Yanli Tan, Yifu Xu, Yimeng Jia, Yuchen Tang, Yuchen Xie, Yuxiang Zheng, Zerwei Chng, Zilong Huang, Zipeng Ye, Ziyuan Qin, Ziqin Wang",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "embodied",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-08814",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "It Takes Two to Tangram: Multi-Agent Object Centric Reinforcement Learning for Assembly",
+      "url": "https://arxiv.org/abs/2611.08814",
+      "summary": "arXiv:2611.08814v1 Announce Type: new Abstract: Geometric assembly requires fine spatiotemporal coordination to place parts without causing collisions or deadlocks under tight cle…",
+      "comment": "Watch — matches reinforcement, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Paul Knau{\\ss}t, Kay Pompetzki, Nico Bohlinger, Niklas Funk, Cristiana de Farias, Rolf Findeisen, Jan Peters",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-08576",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Q-OIL: Optimistic Exploration in Learning from Human Interventions",
+      "url": "https://arxiv.org/abs/2611.08576",
+      "summary": "arXiv:2611.08576v1 Announce Type: new Abstract: As robots are deployed in the real world, they will inevitably make mistakes. Human interventions provide valuable feedback for imp…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Pranav Teegavarapu, Sriyash Poddar, Rico Qi, Cleah Winston, Krisha Khandelwal, Aykut Onyol, Natasha Jaques, Abhishek Gupta",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-08664",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "ForPC: Force-Aware Whole-Body Control for Precise Humanoid Cart Pushing",
+      "url": "https://arxiv.org/abs/2611.08664",
+      "summary": "arXiv:2611.08664v1 Announce Type: new Abstract: Humanoid robots are expected to take over strenuous material handling in manufacturing, logistics, and healthcare, where operating…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "ZhenYu Zou, Xing Liu, ShiChuang Wang, YunLong Dong, LiNan Deng, Feng Hua, Jun Wan, Cheng Cheng",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-08698",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "VICTR: Value-Informed In-Context Learning for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2611.08698",
+      "summary": "arXiv:2611.08698v1 Announce Type: new Abstract: Recent advances in robot foundation models have highlighted the potential of in-context learning (ICL) for adapting robot behavior…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Luca Macesanu, Tianluo Zhang, Aditya Patil, Archit Sharma, Kevin Angers, Christopher M. Clark, Chen Feng, Juexiao Zhang",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
