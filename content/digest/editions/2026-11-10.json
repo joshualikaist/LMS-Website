@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-10",
+  "fetchedAt": "2026-11-10T07:49:17.463Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-09-otter-ai-can-now-follow-conversations-across-30-langua",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-11-10T07:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:www-foldableflight-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 967,
+      "scoreLabel": "pts",
+      "author": "vismit2000",
+      "publishedAt": "2026-11-09T12:19:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:postalpro-usps-com-zcb",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 600,
+      "scoreLabel": "pts",
+      "author": "munro",
+      "publishedAt": "2026-11-09T19:58:59.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-payments-ca-canada-launches-real-time-rail-bringing-247-payment-infrastructu",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 517,
+      "scoreLabel": "pts",
+      "author": "ocd",
+      "publishedAt": "2026-11-09T16:00:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-anthropic-com-claude-fable-and-mythos-5-2",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 488,
+      "scoreLabel": "pts",
+      "author": "lairv",
+      "publishedAt": "2026-11-09T18:01:10.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-09-nx-s1-6022405-the-business-of-el-nino",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "The business of El Niño",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino",
+      "summary": "El Niño is expected to bring wild weather, but it's also business opportunity for some. Contractors are booked up as homeowners prepare for heavy rains and ski resorts gear up to…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ava Berger",
+      "publishedAt": "2026-11-09T21:21:28.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-09-goodyear-roger-wood-interim-ceo-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
+      "url": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
+      "summary": "Goodyear Tire & Rubber appointed board member Roger Wood interim CEO and president, replacing Mark Stewart as the tire maker continues its turnaround plan.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-09T14:56:47.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-05-former-trump-voters-economy",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Rural voters were feeling left behind before the midterms, poll shows",
+      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&amp;A: Ask your questions about Democrats’ win in the midterms Polli…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Aratani",
+      "publishedAt": "2026-11-05T11:00:22.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-nov-06-tesla-to-wind-down-cybertruck-product",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+      "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruc…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jasper Jolly",
+      "publishedAt": "2026-11-06T12:38:05.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c64g1gzy2vdzo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "comment": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-10T06:01:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-04",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "AI prototyping inside your design system",
+      "url": "https://heydesigner.com/2026-11-04/",
+      "summary": "I let AI build. I don’t let AI decide, There’s no better name for design systems, State of a system.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-04T13:46:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-i-dont-use-figma-anymore-and-it-cost-me-my-job",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "I don't use Figma anymore, and it cost me my job",
+      "url": "https://heydesigner.com/newsletter/i-dont-use-figma-anymore-and-it-cost-me-my-job/",
+      "summary": "Struggle together, Building beautiful websites with Claude, Design as a garden, Building an AI-ready design system library, and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-03T19:52:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-09",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/2026-11-09/",
+      "summary": "Why I make mood boards, By taking away, Critical thinking when agents do the work, WebMCP, explained with a to-do app.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-09T09:39:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-allenai-toyblocks",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-kkkkhazix-agent-autoloop",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "comment": "Watch — matches agent.",
+      "score": 4358,
+      "scoreLabel": "stars",
+      "author": "KKKKhazix",
+      "publishedAt": "2026-11-03T08:02:11Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-sarpstar-cinecode",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "summary": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, des…",
+      "comment": "Watch — matches agent.",
+      "score": 1962,
+      "scoreLabel": "stars",
+      "author": "sarpstar",
+      "publishedAt": "2026-11-03T10:08:16Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-majorminorlabs-hermes-voice",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "majorminorlabs/hermes-voice",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "summary": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "comment": "Watch — matches agent.",
+      "score": 631,
+      "scoreLabel": "stars",
+      "author": "majorminorlabs",
+      "publishedAt": "2026-11-05T05:28:37Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-andrew-babo-muse4ai",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "andrew-babo/muse4ai",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "summary": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "comment": "Watch — matches agent.",
+      "score": 494,
+      "scoreLabel": "stars",
+      "author": "andrew-babo",
+      "publishedAt": "2026-11-03T17:45:18Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    }
+  ]
+}
