@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-11",
+  "fetchedAt": "2026-11-11T07:17:26.250Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:docodethatmatters-com-home-automation-overnight-success",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 856,
+      "scoreLabel": "pts",
+      "author": "skittleson",
+      "publishedAt": "2026-11-10T15:25:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:neil-fraser-name-news-2026-11-10",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 776,
+      "scoreLabel": "pts",
+      "author": "p4bl0",
+      "publishedAt": "2026-11-10T16:37:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-theautopian-com-scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 438,
+      "scoreLabel": "pts",
+      "author": "NaOH",
+      "publishedAt": "2026-11-10T19:50:46.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:teorth-github-io-tao-web-six-math-essentials-html",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Six Math Essentials",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 212,
+      "scoreLabel": "pts",
+      "author": "digital55",
+      "publishedAt": "2026-11-10T20:58:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:9to5mac-com-2026-11-10-apple-has-new-mac-app-coming-to-make-running-local-ai-mod",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 166,
+      "scoreLabel": "pts",
+      "author": "linolevan",
+      "publishedAt": "2026-11-10T21:25:03.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cj5yn24llxd6o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "comment": "Watch — matches robot, ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-11T00:19:13.000Z",
+      "interestHits": [
+        "robot",
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck1wvwwl3x0go-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-10T22:52:15.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-09-nx-s1-6022405-the-business-of-el-nino",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "The business of El Niño",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6022405/the-business-of-el-nino",
+      "summary": "El Niño is expected to bring wild weather, but it's also business opportunity for some. Contractors are booked up as homeowners prepare for heavy rains and ski resorts gear up to…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ava Berger",
+      "publishedAt": "2026-11-09T21:21:28.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-10-nx-s1-6018588-should-you-trust-new-ai-agents-with-your-mo",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Should you trust new AI agents with your money and data?",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+      "summary": "Tech companies want agentic AI to be the new way you shop. But should you trust AI when your money's involved?",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Stephan Bisaha",
+      "publishedAt": "2026-11-10T21:44:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cx5ynyg6j375o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "comment": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-11T00:16:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Christine Vallaure",
+      "publishedAt": "2026-11-10T23:34:58.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-beige-era-of-product-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/newsletter/the-beige-era-of-product-design/",
+      "summary": "On borrowing Apple's type scale, The new full-stack designer (video), AI prototyping inside your design system, Introducing Adaptive Dark Mode and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-09",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/2026-11-09/",
+      "summary": "Why I make mood boards, By taking away, Critical thinking when agents do the work, WebMCP, explained with a to-do app.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-09T09:39:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-13034",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "RoboACE: Adversarial Co-Evolution for Robot Self-Improvement",
+      "url": "https://arxiv.org/abs/2611.13034",
+      "summary": "arXiv:2611.13034v1 Announce Type: new Abstract: Robot agents can improve reusable skills, planning procedures, and recovery strategies from execution feedback, yet a fixed practic…",
+      "comment": "Watch — matches robot, agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Delin Zhao, Zhengrong Yue, Junlin He, Yali Wang",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-12964",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Exploration via Exploitation: The Blessing of Reward Diversity in Personalized Federated RL",
+      "url": "https://arxiv.org/abs/2611.12964",
+      "summary": "arXiv:2611.12964v1 Announce Type: new Abstract: While federated reinforcement learning (RL) has traditionally guaranteed high efficiency in homogeneous environments, collaboration…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jiin Woo, Gauri Joshi, Yuejie Chi",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ai:arxiv-org-abs-2611-12940",
+      "lane": "tech",
+      "source": "arXiv · cs.AI",
+      "sourceId": "arxiv-cs-ai",
+      "title": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
+      "url": "https://arxiv.org/abs/2611.12940",
+      "summary": "arXiv:2611.12940v1 Announce Type: new Abstract: Reinforcement Learning has achieved tremendous success in recent years. Extending its scope from the traditional complex games such…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jayakody Kankanamalage Chamani Shiranthika",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "github-python:github-com-hybridrobotics-supermimic",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "comment": "Watch — matches robot.",
+      "score": 747,
+      "scoreLabel": "stars",
+      "author": "HybridRobotics",
+      "publishedAt": "2026-11-10T10:46:56Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-12983",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions",
+      "url": "https://arxiv.org/abs/2611.12983",
+      "summary": "arXiv:2611.12983v1 Announce Type: new Abstract: Scene-driven robot autonomy requires selecting tasks from observations as well as executing them. We study scene-driven task formul…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Mingjia Chen, Xuewen Zhao, Philip Dames, Qi Mao, Fei Xie, Jun Chen",
+      "publishedAt": "2026-11-11T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
