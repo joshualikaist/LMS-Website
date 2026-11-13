@@ -1,0 +1,355 @@
+{
+  "date": "2026-11-13",
+  "fetchedAt": "2026-11-13T07:25:28.949Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:brave-com-blog-search-api-agentic-payments",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 65,
+      "scoreLabel": "pts",
+      "author": "sjdh76",
+      "publishedAt": "2026-11-13T03:08:08.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-12-nectar-launches-an-ai-agent-to-automate-creator-discov",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-11-12T19:11:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:apnews-com-article-nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 3369,
+      "scoreLabel": "pts",
+      "author": "lldb",
+      "publishedAt": "2026-11-12T13:52:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:blog-rust-lang-org-2026-11-12-rust-1-100-0",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 617,
+      "scoreLabel": "pts",
+      "author": "mbStavola",
+      "publishedAt": "2026-11-12T18:39:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-simpsoka-zigzag",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 477,
+      "scoreLabel": "pts",
+      "author": "simpsoka",
+      "publishedAt": "2026-11-12T17:02:42.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-live-2026-nov-12-nvidia-ceo-jensen-huang-affairs-",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "summary": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Hua…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucy Campbell, Nadeem Badshah, Tom Ambrose, Julia Kollewe and Jonathan Yerushalmy",
+      "publishedAt": "2026-11-12T21:33:08.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-nov-12-starbucks-workers-campus-rally-contract-",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+      "summary": "Rallies will take place on more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-11-12T11:00:48.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-11-democrats-election-medicaid-costs",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+      "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+      "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago laun…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Eduardo Porter",
+      "publishedAt": "2026-11-11T11:00:46.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-11-nx-s1-5979080-exxonmobil-oil-mou-venezuela",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Oil giant ExxonMobil left Venezuela years ago. Now it's considering a return",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela",
+      "summary": "ExxonMobil has signed a memorandum of understanding with the Venezuelan government and its state-owned oil company to explore opportunities in the country.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Julia Simon",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-nov-10-trump-10bn-defamation-lawsuit-bbc-allowe",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jeremy Barr",
+      "publishedAt": "2026-11-11T01:18:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-in-system-design-from-code-to-figma-and-back-prototyping-in-your-rea",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+      "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Christine Vallaure",
+      "publishedAt": "2026-11-11T22:08:32.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Christine Vallaure",
+      "publishedAt": "2026-11-10T23:34:58.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-beige-era-of-product-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/newsletter/the-beige-era-of-product-design/",
+      "summary": "On borrowing Apple's type scale, The new full-stack designer (video), AI prototyping inside your design system, Introducing Adaptive Dark Mode and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "devto:dev-to-alexandr-kalashnikov-aws-extended-support-what-it-costs-and-how-to-find-e",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "AWS Extended Support: what it costs and how to find everything you're about to pay for",
+      "url": "https://dev.to/alexandr_kalashnikov/aws-extended-support-what-it-costs-and-how-to-find-everything-youre-about-to-pay-for-6i",
+      "summary": "Disclosure: I build Expiry Radar, a tool that tracks dates like these. Nothing below needs it: the...",
+      "comment": "Watch — matches ppo.",
+      "score": 4,
+      "scoreLabel": "rxn",
+      "author": "Alexandr Kalashnikov",
+      "publishedAt": "2026-11-12T22:39:21Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-hybridrobotics-supermimic",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "comment": "Watch — matches robot.",
+      "score": 1360,
+      "scoreLabel": "stars",
+      "author": "HybridRobotics",
+      "publishedAt": "2026-11-10T10:46:56Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-agentes-chat-agentes-chat",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok…",
+      "comment": "Watch — matches agent.",
+      "score": 1247,
+      "scoreLabel": "stars",
+      "author": "agentes-chat",
+      "publishedAt": "2026-11-09T00:50:28Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-lxe-phoneuse",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "lxe/phoneuse",
+      "url": "https://github.com/lxe/phoneuse",
+      "summary": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "comment": "Watch — matches agent.",
+      "score": 638,
+      "scoreLabel": "stars",
+      "author": "lxe",
+      "publishedAt": "2026-11-07T01:28:30Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-dodaios-ste80-humanizer",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "summary": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy sh…",
+      "comment": "Watch — matches agent.",
+      "score": 467,
+      "scoreLabel": "stars",
+      "author": "Dodaios",
+      "publishedAt": "2026-11-09T17:18:59Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
