@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-16",
+  "fetchedAt": "2026-11-16T07:22:50.887Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:qwen-ai-blog-id-qwen4-max",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Qwen4-Max",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 382,
+      "scoreLabel": "pts",
+      "author": "ilreb",
+      "publishedAt": "2026-11-16T02:14:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:bruceroettgers-eu-blog-protomaps",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 280,
+      "scoreLabel": "pts",
+      "author": "bcye",
+      "publishedAt": "2026-11-15T19:26:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:iter-ca-post-ubo-uxss",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 279,
+      "scoreLabel": "pts",
+      "author": "zaik",
+      "publishedAt": "2026-11-16T02:04:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:ransomnews-com-burger-king-tweet-bitly-link-hijack-2026",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Old Bitly links are being hijacked",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 254,
+      "scoreLabel": "pts",
+      "author": "hspeiser",
+      "publishedAt": "2026-11-15T22:11:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-youtube-com-watch-v-7-jf3etiav8",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 218,
+      "scoreLabel": "pts",
+      "author": "nharada",
+      "publishedAt": "2026-11-15T18:23:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqr7gn1zmlj1o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Minister backs legal right to job support for young people",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-15T13:06:15.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-15-rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+      "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-15T13:00:02.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-nov-12-starbucks-workers-campus-rally-contract-",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "College students rally in support of Starbucks baristas urging boycott over contract negotiations",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+      "summary": "Rallies are planned at more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are pla…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-11-12T11:00:48.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-11-democrats-election-medicaid-costs",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+      "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+      "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago laun…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Eduardo Porter",
+      "publishedAt": "2026-11-11T11:00:46.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-nov-10-trump-10bn-defamation-lawsuit-bbc-allowe",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jeremy Barr",
+      "publishedAt": "2026-11-11T01:18:56.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-beige-era-of-product-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/newsletter/the-beige-era-of-product-design/",
+      "summary": "On borrowing Apple's type scale, The new full-stack designer (video), AI prototyping inside your design system, Introducing Adaptive Dark Mode and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-2026-11-09",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/2026-11-09/",
+      "summary": "Why I make mood boards, By taking away, Critical thinking when agents do the work, WebMCP, explained with a to-do app.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-09T09:39:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-17598",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "X-Nav Technical Report: Real-World Long-Horizon Indoor-to-Outdoor Navigation on a Humanoid Robot",
+      "url": "https://arxiv.org/abs/2611.17598",
+      "summary": "arXiv:2611.17598v1 Announce Type: new Abstract: Long-horizon navigation from indoors to outdoors remains an open problem for humanoid robots: one instruction covers rooms, doors a…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jiaxin Huang, Chengxing Lin, Xiaoyu Luo, Sirui Chen, Jingyu Guo, Aolin Li, Kairui Chen, Rui Zhen, Cheng Wen, Kerui Gu, Shunyao Wang, Zhihui Peng, Shaoli Huang",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-17619",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TouchTwin: Scaling Human Touch Data via Real-to-Sim-to-Real",
+      "url": "https://arxiv.org/abs/2611.17619",
+      "summary": "arXiv:2611.17619v1 Announce Type: new Abstract: Human demonstrations are becoming the main source of data for dexterous manipulation, and real-to-sim-to-real pipelines multiply ea…",
+      "comment": "Watch — matches sim-to-real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Huiwen Han, Nuo Chen, Ziyao Zeng, Dayou Li, Hao Wang, Amir Hossein Rahmati, Xiaoning Qian, Bangya Liu, Zhiwen Fan",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "interestHits": [
+        "sim-to-real"
+      ]
+    },
+    {
+      "id": "github-python:github-com-hybridrobotics-supermimic",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "comment": "Watch — matches robot.",
+      "score": 1605,
+      "scoreLabel": "stars",
+      "author": "HybridRobotics",
+      "publishedAt": "2026-11-10T10:46:56Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-17442",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
+      "url": "https://arxiv.org/abs/2611.17442",
+      "summary": "arXiv:2611.17442v1 Announce Type: new Abstract: A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Maitree Meher, Siming He, S. Shankar Sastry, Jitendra Malik, Claire Tomlin, Jonas Frey",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-17549",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Talk to Act: A Synthetic Multi-Turn Dialogue Benchmark for Human Intent Extraction and Action Planning in Robotics",
+      "url": "https://arxiv.org/abs/2611.17549",
+      "summary": "arXiv:2611.17549v1 Announce Type: new Abstract: Multi-turn conversational human-robot interaction (HRI) continues to be a challenging problem in robotics, as many existing systems…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Deepu Krishnareddy, Mohammad Haziq Khan, Michael Danner, Matthias R\\\"atsch",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
