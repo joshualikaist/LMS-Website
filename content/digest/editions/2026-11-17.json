@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-17",
+  "fetchedAt": "2026-11-17T08:35:42.221Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:xusheng-dev-posts-windows-coding-agent-telemetry",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 561,
+      "scoreLabel": "pts",
+      "author": "cwaffles",
+      "publishedAt": "2026-11-16T22:58:20.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-16-apple-reveals-new-mac-security-controls-as-ai-agents-r",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and oth…",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-16T21:01:02.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-16-california-state-ag-sues-openai-over-rogue-agent-incid",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Russell Brandom",
+      "publishedAt": "2026-11-16T20:07:13.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:www-cs-cmu-edu-learn",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1385,
+      "scoreLabel": "pts",
+      "author": "pcompeau",
+      "publishedAt": "2026-11-16T20:43:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-bugmenot-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 502,
+      "scoreLabel": "pts",
+      "author": "lode",
+      "publishedAt": "2026-11-16T21:32:17.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-nov-16-trump-backs-calls-for-reinstatement-o",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executi…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dan Milmo and Lauren Almeida",
+      "publishedAt": "2026-11-16T18:30:57.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-15-rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+      "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-15T13:00:02.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-us-news-2026-nov-12-starbucks-workers-campus-rally-contract-",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "College students rally in support of Starbucks baristas urging boycott over contract negotiations",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+      "summary": "Rallies are planned at more than US 40 campuses as workers seeking better pay and conditions decry stalled talks Starbucks baristas, students, elected officials and allies are pla…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Michael Sainato",
+      "publishedAt": "2026-11-12T11:00:48.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cw3djdjk5d7ko-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "comment": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-17T07:21:37.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-17-disney-dis-earnings-q-2026-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Here's what to expect when Disney reports earnings before the bell",
+      "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wide layoffs.",
+      "comment": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following a series of company-wid…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-17T05:01:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0-sourc",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "The trash robot that doesn’t pick up, but hands out",
+      "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+      "summary": "On kawaii, embarrassment, and designing to invite Continue reading on UX Collective »",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Hiroshi Sato / 佐藤 仁",
+      "publishedAt": "2026-11-16T12:16:15.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-beige-era-of-product-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/newsletter/the-beige-era-of-product-design/",
+      "summary": "On borrowing Apple's type scale, The new full-stack designer (video), AI prototyping inside your design system, Introducing Adaptive Dark Mode and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-10-embracing-playful-imperfection-css-random-function",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+      "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+      "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+      "publishedAt": "2026-10-20T10:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-18877",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Passage-Focused Soft Coordination for Hierarchical Multi-Robot Navigation in Bottleneck Environments",
+      "url": "https://arxiv.org/abs/2611.18877",
+      "summary": "arXiv:2611.18877v1 Announce Type: new Abstract: In multi-robot navigation, rigid global schedules are sensitive to execution deviations, while local methods lack long-horizon coor…",
+      "comment": "Watch — matches robot, navigation.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Haoze Dong, Stepan Dergachev, Meng Guo, Konstantin Yakovlev, Zhongkui Li",
+      "publishedAt": "2026-11-17T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "navigation"
+      ]
+    },
+    {
+      "id": "devto:dev-to-jarvisscript-what-are-your-goals-for-the-week-205-22pg",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "What are your goals for the week? #205",
+      "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
+      "summary": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for...",
+      "comment": "Watch — matches ppo.",
+      "score": 13,
+      "scoreLabel": "rxn",
+      "author": "Chris Jarvis",
+      "publishedAt": "2026-11-16T15:16:18Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-18976",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TMA: Sim-to-Real Forceful Humanoid Manipulation via Tactile-Driven Motor Adaptation",
+      "url": "https://arxiv.org/abs/2611.18976",
+      "summary": "arXiv:2611.18976v1 Announce Type: new Abstract: Recent humanoid loco-manipulation in articulated environments has largely focused on geometry-dominant interactions, where success…",
+      "comment": "Watch — matches sim-to-real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yiting Chen, Kelin Yu, Sarthak Kaingade, Bryan Trinh, Kaiyu Hang, Roberto Martin-martin, Nima Fazeli, X. Alice Wu",
+      "publishedAt": "2026-11-17T05:00:00.000Z",
+      "interestHits": [
+        "sim-to-real"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-18597",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Skill-Latent Rewards: LLM-Guided Reward Formulation for Hierarchical Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.18597",
+      "summary": "arXiv:2611.18597v1 Announce Type: new Abstract: Long-horizon reinforcement learning under sparse and delayed feedback remains an open challenge. Existing return-decomposition meth…",
+      "comment": "Watch — matches reinforcement.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Maryam Shoaeinaeini, Brent Harrison",
+      "publishedAt": "2026-11-17T05:00:00.000Z",
+      "interestHits": [
+        "reinforcement"
+      ]
+    },
+    {
+      "id": "github-python:github-com-hybridrobotics-supermimic",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "summary": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "comment": "Watch — matches robot.",
+      "score": 1700,
+      "scoreLabel": "stars",
+      "author": "HybridRobotics",
+      "publishedAt": "2026-11-10T10:46:56Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
