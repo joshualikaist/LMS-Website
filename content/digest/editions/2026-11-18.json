@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-18",
+  "fetchedAt": "2026-11-18T07:59:41.055Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-17-nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-a",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lucas Ropek",
+      "publishedAt": "2026-11-17T22:42:27.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:openai-com-index-introducing-gpt-6-2-astra-sol",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1236,
+      "scoreLabel": "pts",
+      "author": "jasondavies",
+      "publishedAt": "2026-11-17T17:46:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:calif-io-java4shell",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 839,
+      "scoreLabel": "pts",
+      "author": "werrett",
+      "publishedAt": "2026-11-17T21:11:28.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:blog-cloudflare-com-quad9-withdrawal-from-france",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 514,
+      "scoreLabel": "pts",
+      "author": "subset",
+      "publishedAt": "2026-11-17T22:13:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-ft-com-content-dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 508,
+      "scoreLabel": "pts",
+      "author": "louiereederson",
+      "publishedAt": "2026-11-17T17:12:06.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-ck79210y125xo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-17T18:43:05.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-technology-2026-nov-16-trump-backs-calls-for-reinstatement-o",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executi…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dan Milmo and Lauren Almeida",
+      "publishedAt": "2026-11-16T18:30:57.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cmy498kdkx3xo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving factories climbing.",
+      "comment": "There are also signs inflation is impacting the wider economy, with the cost raw materials and goods leaving…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-18T07:40:54.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c68798vdprwpo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "comment": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-18T06:04:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cke89jevqm1vo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "comment": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the wo…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-18T05:33:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0-sourc",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "The trash robot that doesn’t pick up, but hands out",
+      "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+      "summary": "On kawaii, embarrassment, and designing to invite Continue reading on UX Collective »",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Hiroshi Sato / 佐藤 仁",
+      "publishedAt": "2026-11-16T12:16:15.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-the-beige-era-of-product-design",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "The beige era of product design",
+      "url": "https://heydesigner.com/newsletter/the-beige-era-of-product-design/",
+      "summary": "On borrowing Apple's type scale, The new full-stack designer (video), AI prototyping inside your design system, Introducing Adaptive Dark Mode and more.",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-10T13:45:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-21771",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research",
+      "url": "https://arxiv.org/abs/2611.21771",
+      "summary": "arXiv:2611.21771v1 Announce Type: new Abstract: Studying electrosurgical tasks on a research robot requires control of both instrument motion and energy activation, along with a r…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Douglas McDonough, Justin Liao, Jiawei Ge, Antony Goldenberg, Yvonne Zhang, Mackenzie A Eagleson, Ravi Prakash, Axel Krieger, Chunwoo Kim",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-21908",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "From Human Videos to Bimanual Dexterous Manipulation Data: Confidence-Guided RL Refinement of Video Priors",
+      "url": "https://arxiv.org/abs/2611.21908",
+      "summary": "arXiv:2611.21908v1 Announce Type: new Abstract: Collecting demonstrations for bimanual dexterous manipulation is costly, motivating the use of human videos as a source of robot tr…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Yanghong Liu, Yang Chen, Kailang Xu, Bang Du, Feiyang Yang, Jiawei Xia, Zhengtao Yao, Yubiao Zhang, Masayoshi Tomizuka, Ruihai Wu, Wei Zhan",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-21919",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "ALOHA Lightning: Learning Fast and Precise Manipulation",
+      "url": "https://arxiv.org/abs/2611.21919",
+      "summary": "arXiv:2611.21919v1 Announce Type: new Abstract: Learning from human demonstrations has enabled robots to acquire a wide range of manipulation skills, but learned policies typicall…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "John Hua Yao. Qi Wu, Yihuai Gao, Chelsea Finn, Zipeng Fu",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-nvidia-simready-assets-robot-pick-and-place",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "summary": null,
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-21691",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "AdaFlowLite: Scalable and Non-blocking Inference on Asynchronous Mobile Data",
+      "url": "https://arxiv.org/abs/2611.21691",
+      "summary": "arXiv:2611.21691v1 Announce Type: new Abstract: The rise of mobile devices equipped with numerous sensors, such as LiDAR and cameras, has driven the adoption of multi-modal deep i…",
+      "comment": "Watch — matches lidar.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sicong Liu, Fengmin Wu, Yuan Gao, Bin Guo, Zimu Zhou, Hongkai Wen, Zhiwen Yu",
+      "publishedAt": "2026-11-18T05:00:00.000Z",
+      "interestHits": [
+        "lidar"
+      ]
+    }
+  ],
+  "failures": []
+}
