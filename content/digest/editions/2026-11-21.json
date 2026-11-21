@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-21",
+  "fetchedAt": "2026-11-21T07:46:30.080Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:ricapar-net-clawdos",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "https://ricapar.net/ClawDOS/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 27,
+      "scoreLabel": "pts",
+      "author": "Ricapar",
+      "publishedAt": "2026-11-21T05:38:01.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:alpo-ge-remark-pdf",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 2544,
+      "scoreLabel": "pts",
+      "author": "iamronaldo",
+      "publishedAt": "2026-11-20T14:16:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:math216-wordpress-com-2026-11-20-hurried-announcement-alessandro-masullo-grh",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1905,
+      "scoreLabel": "pts",
+      "author": "jasondavies",
+      "publishedAt": "2026-11-20T18:33:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:thinkingmachines-ai-news-inkling-2-mini",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 904,
+      "scoreLabel": "pts",
+      "author": "jasondavies",
+      "publishedAt": "2026-11-20T20:12:19.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:terrytao-wordpress-com-2026-11-20-unforced-euler-singularity-unforced-navier-sto",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 411,
+      "scoreLabel": "pts",
+      "author": "archon1410",
+      "publishedAt": "2026-11-20T17:21:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c9zr5nyv5dj2o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "comment": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c6808ym10vzgo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "comment": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-20T22:42:47.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-20-g-s1-154797-nasdaq-sp500-stock-market-ai-sink-negative",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big…",
+      "comment": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were respons…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "The Associated Press",
+      "publishedAt": "2026-11-20T22:11:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-20-global-stock-markets-slump-anthropic-ip",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founder…",
+      "comment": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge s…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Almeida and Graeme Wearden",
+      "publishedAt": "2026-11-20T21:38:17.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-20-nx-s1-5860971-trumps-impact-on-ohio-steel-plant",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Trump's impact on an Ohio steel plant",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+      "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas e…",
+      "comment": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Reid Frazier",
+      "publishedAt": "2026-11-20T21:38:11.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-qual-research-methods-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Qualitative User-Research Methods: An Overview",
+      "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.",
+      "comment": "Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Maria Rosala",
+      "publishedAt": "2026-11-20T18:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-raw-data-vs-synthesized-data-utm-source-rss-amp-utm-med",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
+      "comment": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Megan Chan, Rachel Banawa",
+      "publishedAt": "2026-11-20T18:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "devto:dev-to-devengers-dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-f",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
+      "summary": "TL;DR Welcome back to Dev Opportunity Radar! 💙 This is a weekly series where I share...",
+      "comment": "Watch — matches ppo.",
+      "score": 82,
+      "scoreLabel": "rxn",
+      "author": "Hemapriya Kanagala",
+      "publishedAt": "2026-11-20T18:28:13Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-python:github-com-sybil-solutions-inference-optimisation-skill",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "comment": "Watch — matches agent.",
+      "score": 1383,
+      "scoreLabel": "stars",
+      "author": "sybil-solutions",
+      "publishedAt": "2026-11-16T18:40:04Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-dmitrykurash-holospot",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "dmitrykurash/holospot",
+      "url": "https://github.com/dmitrykurash/holospot",
+      "summary": "The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent",
+      "comment": "Watch — matches agent.",
+      "score": 198,
+      "scoreLabel": "stars",
+      "author": "dmitrykurash",
+      "publishedAt": "2026-11-17T13:38:59Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-googleai-agentic-engineering-a-smart-home-energy-system-with-antigravity-",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "url": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md",
+      "summary": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
+      "comment": "Watch — matches agent.",
+      "score": 24,
+      "scoreLabel": "rxn",
+      "author": "Remigiusz Samborski",
+      "publishedAt": "2026-11-20T12:45:36Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-gylive-google-ultra",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "gylive/google-ultra",
+      "url": "https://github.com/gylive/google-ultra",
+      "summary": null,
+      "comment": "From GitHub · Python.",
+      "score": 2552,
+      "scoreLabel": "stars",
+      "author": "gylive",
+      "publishedAt": "2026-11-17T10:21:54Z",
+      "interestHits": []
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
