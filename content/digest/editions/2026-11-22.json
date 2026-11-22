@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-22",
+  "fetchedAt": "2026-11-22T07:33:22.809Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-21-all-the-ai-agents-that-can-live-in-your-text-messages",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:leanprover-community-github-io-blog-posts-riemann-hypothesis",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 965,
+      "scoreLabel": "pts",
+      "author": "g-b-r",
+      "publishedAt": "2026-11-21T14:36:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-theguardian-com-society-2026-nov-20-pill-pancreatic-cancer-breakthrough-dara",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 893,
+      "scoreLabel": "pts",
+      "author": "rafaelc",
+      "publishedAt": "2026-11-20T21:03:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-science-org-content-blog-post-detonating-huge-pile-lead-azide-really",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 593,
+      "scoreLabel": "pts",
+      "author": "beginning_end",
+      "publishedAt": "2026-11-21T13:23:14.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-shinmegamiboson-lookatmyquant",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 435,
+      "scoreLabel": "pts",
+      "author": "k__",
+      "publishedAt": "2026-11-21T18:02:19.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cqkgmy2nxy4lo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "comment": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-22T07:22:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c8e39qk5vrpdo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "comment": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-22T07:12:41.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-21-debt-laden-cloud-computing-company-core",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "summary": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-ce…",
+      "comment": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Aisha Down Global technology reporter",
+      "publishedAt": "2026-11-21T13:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-21-us-airlines-first-class-business-class-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+      "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+      "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "comment": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-21T12:00:01.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-21-nx-s1-6048729-ai-stock-markets-anthropic-nvidia",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "The AI boom had a really bad week — and it's raising loud alarms",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "summary": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here's what to know.",
+      "comment": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial syst…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rafael Nam",
+      "publishedAt": "2026-11-21T10:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-the-judge-used-to-be-the-user-0a958f24bb32-source-rss-138adf9c44c-4",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "The judge used to be the user",
+      "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+      "summary": "AI collapsed the slow middle of building models. The people who once defined correct went with it. Continue reading on UX Collective »",
+      "comment": "AI collapsed the slow middle of building models. The people who once defined correct went with it. Continue r…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Wira Indra Kusuma",
+      "publishedAt": "2026-11-21T14:34:16.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-raw-data-vs-synthesized-data-utm-source-rss-amp-utm-med",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Can AI Generate Good Designs from Raw User Data?",
+      "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.",
+      "comment": "In our study, AI-generated designs were better when the AI received synthesized findings and recommendations…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Megan Chan, Rachel Banawa",
+      "publishedAt": "2026-11-20T18:00:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "github-typescript:github-com-jimliu-open-artifact",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "JimLiu/open-artifact",
+      "url": "https://github.com/JimLiu/open-artifact",
+      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she…",
+      "comment": "Watch — matches design system, agent.",
+      "score": 251,
+      "scoreLabel": "stars",
+      "author": "JimLiu",
+      "publishedAt": "2026-11-17T02:25:25Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "github-python:github-com-sybil-solutions-inference-optimisation-skill",
+      "lane": "tech",
+      "source": "GitHub · Python",
+      "sourceId": "github-python",
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
+      "comment": "Watch — matches agent.",
+      "score": 1779,
+      "scoreLabel": "stars",
+      "author": "sybil-solutions",
+      "publishedAt": "2026-11-16T18:40:04Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-w01fb0ss-pibot",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A…",
+      "comment": "Watch — matches agent.",
+      "score": 244,
+      "scoreLabel": "stars",
+      "author": "w01fb0ss",
+      "publishedAt": "2026-11-21T06:54:24Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-dmitrykurash-holospot",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "dmitrykurash/holospot",
+      "url": "https://github.com/dmitrykurash/holospot",
+      "summary": "The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent",
+      "comment": "Watch — matches agent.",
+      "score": 215,
+      "scoreLabel": "stars",
+      "author": "dmitrykurash",
+      "publishedAt": "2026-11-17T13:38:59Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-effessdev-a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "A VS Code extension to turn ANY free chatbot website into an AI agent (kind of)",
+      "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
+      "summary": "If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...",
+      "comment": "Watch — matches agent.",
+      "score": 40,
+      "scoreLabel": "rxn",
+      "author": "EffessDev",
+      "publishedAt": "2026-11-21T11:49:40Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
