@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-24",
+  "fetchedAt": "2026-11-23T15:39:56.875Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-23-nvidia-reverses-course-and-brings-jensen-huang-back-as",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-11-23T14:21:59.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:nvidianews-nvidia-com-news-nvidia-board-reinstates-jensen-huang-as-president-ceo",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 1351,
+      "scoreLabel": "pts",
+      "author": "alanwong",
+      "publishedAt": "2026-11-23T14:01:23.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:spelunkr-tv",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 726,
+      "scoreLabel": "pts",
+      "author": "SockThief",
+      "publishedAt": "2026-11-23T01:13:51.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:z-ai-blog-glm-5-4",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 597,
+      "scoreLabel": "pts",
+      "author": "foohis",
+      "publishedAt": "2026-11-23T10:06:43.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:github-com-afk-surf-xnulinux",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 479,
+      "scoreLabel": "pts",
+      "author": "mmastrac",
+      "publishedAt": "2026-11-23T03:49:24.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-22-foundation-future-industries-health-benefits-payroll-bas",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-22T18:55:05.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-live-2026-nov-23-tech-sell-off-ai-stock-market-supp",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Nvidia shares surge 33% on Jensen Huang‘s return, adding $1tn to company’s value – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/23/tech-sell-off-ai-stock-market-support-measures-deployed-south-korea-taiwan-china-ftse-nasdaq-latest-news-updates",
+      "summary": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidia’s CEO Jensen Huang reinstated as Nvidia CEO Shares in UK housebuilde…",
+      "comment": "Donald Trump hails Huang as a ‘great patriot and national treasure’ after his surprise reinstatement as Nvidi…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Graeme Wearden",
+      "publishedAt": "2026-11-23T15:25:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c68798vdprwpo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "comment": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T15:15:48.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-23-nx-s1-6050910-nvidias-jensen-huang-trump",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a nati…",
+      "comment": "President Trump endorsed the announcement, calling it essential for the success of the company and the econom…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Scott Horsley",
+      "publishedAt": "2026-11-23T14:53:41.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-2026-nov-23-falling-markets-will-i-lose-money-share",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "summary": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too Business live – latest updates It has been a volatile time on gl…",
+      "comment": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investment…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Hilary Osborne",
+      "publishedAt": "2026-11-23T14:51:45.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-how-to-write-great-skills-91635bc45ada-source-rss-138adf9c44c-4",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "How to write great skills",
+      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+      "summary": "An advanced and practical guide to agent skills, learning from Matt Pocock, Nate Herk, Addy Osmani and Anthropic Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sen Lin",
+      "publishedAt": "2026-11-22T23:17:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-using-frontend-fallbacks",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "Using Fallbacks for a Robust Front-End",
+      "url": "https://css-tricks.com/using-frontend-fallbacks/",
+      "summary": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users. Using Fallbacks for a Robust Front…",
+      "comment": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Steve Frenzel",
+      "publishedAt": "2026-11-23T14:21:44.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-26803",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+      "url": "https://arxiv.org/abs/2611.26803",
+      "summary": "arXiv:2611.26803v1 Announce Type: new Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollout…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Vashisth Tiwari, Emma Strubell, J. Zico Kolter",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-jimliu-open-artifact",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "JimLiu/open-artifact",
+      "url": "https://github.com/JimLiu/open-artifact",
+      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she…",
+      "comment": "Watch — matches design system, agent.",
+      "score": 423,
+      "scoreLabel": "stars",
+      "author": "JimLiu",
+      "publishedAt": "2026-11-17T02:25:25Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26676",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications",
+      "url": "https://arxiv.org/abs/2611.26676",
+      "summary": "arXiv:2611.26676v1 Announce Type: new Abstract: System-level simulation is widely used to validate robotic applications before hardware deployment. However, Robot Operating System…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Chengzi Huang, Behnam Khodabandeloo, Duc Anh Nguyen, Chuanchao Gao, Wang Yi",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26745",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "MomentMem: Memorizing Key Moments for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2611.26745",
+      "summary": "arXiv:2611.26745v1 Announce Type: new Abstract: Robotic manipulation often requires remembering visual information that is no longer observable, such as the original location of a…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Guangyu Zhao, Yongchang Zhang, Ruizhang Jiang, Zhihong Yu, Yuhao Zhang, Tao Wu, Qimin Zhou, Kunsong Shi, Haoran Wen, Zeyu Zhang, Yin Li, Kun Zhan, Yiwu Zhong",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26764",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TacHOI: Contact-Aware Object Reconstruction and Tracking for Egocentric Videos",
+      "url": "https://arxiv.org/abs/2611.26764",
+      "summary": "arXiv:2611.26764v1 Announce Type: new Abstract: Egocentric videos offer a scalable source of human demonstrations for robot learning. However, recovering metric object geometry an…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jackson Codd, Haoyu Li, Xianyi Cheng",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
