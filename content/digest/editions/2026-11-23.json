@@ -1,0 +1,331 @@
+{
+  "date": "2026-11-23",
+  "fetchedAt": "2026-11-23T08:20:13.125Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-22-techcrunch-mobility-a-b-testing-robots-vs-humans",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-11-22T17:06:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "hn:openai-com-index-perplexity-and-intelligence",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 569,
+      "scoreLabel": "pts",
+      "author": "acossta",
+      "publishedAt": "2026-11-22T17:06:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-audubon-org-magazine-birds-of-gta-6-field-guide-vice-city-wildlife",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 472,
+      "scoreLabel": "pts",
+      "author": "gaws",
+      "publishedAt": "2026-11-22T19:10:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:spelunkr-tv",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 459,
+      "scoreLabel": "pts",
+      "author": "SockThief",
+      "publishedAt": "2026-11-23T01:13:51.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-gpupartner-com-blog-beginners-guide-local-ai-inkling-qwen-unsloth",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 456,
+      "scoreLabel": "pts",
+      "author": "Retell15",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-22-foundation-future-industries-health-benefits-payroll-bas",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-22T18:55:05.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cvlyj3rn201xo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "comment": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payme…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T08:19:13.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm4g10p2r0g9o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "comment": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T08:00:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-crm4rygl4m3o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "comment": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T01:05:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c8e39qk5vrpdo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "comment": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T00:33:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-how-to-write-great-skills-91635bc45ada-source-rss-138adf9c44c-4",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "How to write great skills",
+      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+      "summary": "An advanced and practical guide to agent skills, learning from Matt Pocock, Nate Herk, Addy Osmani and Anthropic Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sen Lin",
+      "publishedAt": "2026-11-22T23:17:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe-source-r",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Lessons from 3D scanning St John’s Co-Cathedral",
+      "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
+      "summary": null,
+      "comment": "From UX Collective.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Dylan Seychell",
+      "publishedAt": "2026-11-22T23:18:37.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-26803",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Don't Discard Your Rollouts: Reusing Teacher RL Traces for Student Distillation",
+      "url": "https://arxiv.org/abs/2611.26803",
+      "summary": "arXiv:2611.26803v1 Announce Type: new Abstract: RL post-training methods such as PPO and GRPO are computationally expensive, with substantial resources devoted to sampling rollout…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Vashisth Tiwari, Emma Strubell, J. Zico Kolter",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-jimliu-open-artifact",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "JimLiu/open-artifact",
+      "url": "https://github.com/JimLiu/open-artifact",
+      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, she…",
+      "comment": "Watch — matches design system, agent.",
+      "score": 388,
+      "scoreLabel": "stars",
+      "author": "JimLiu",
+      "publishedAt": "2026-11-17T02:25:25Z",
+      "interestHits": [
+        "design system",
+        "agent"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26676",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications",
+      "url": "https://arxiv.org/abs/2611.26676",
+      "summary": "arXiv:2611.26676v1 Announce Type: new Abstract: System-level simulation is widely used to validate robotic applications before hardware deployment. However, Robot Operating System…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Chengzi Huang, Behnam Khodabandeloo, Duc Anh Nguyen, Chuanchao Gao, Wang Yi",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26745",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "MomentMem: Memorizing Key Moments for Robot Manipulation",
+      "url": "https://arxiv.org/abs/2611.26745",
+      "summary": "arXiv:2611.26745v1 Announce Type: new Abstract: Robotic manipulation often requires remembering visual information that is no longer observable, such as the original location of a…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Guangyu Zhao, Yongchang Zhang, Ruizhang Jiang, Zhihong Yu, Yuhao Zhang, Tao Wu, Qimin Zhou, Kunsong Shi, Haoran Wen, Zeyu Zhang, Yin Li, Kun Zhan, Yiwu Zhong",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-26764",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "TacHOI: Contact-Aware Object Reconstruction and Tracking for Egocentric Videos",
+      "url": "https://arxiv.org/abs/2611.26764",
+      "summary": "arXiv:2611.26764v1 Announce Type: new Abstract: Egocentric videos offer a scalable source of human demonstrations for robot learning. However, recovering metric object geometry an…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jackson Codd, Haoyu Li, Xianyi Cheng",
+      "publishedAt": "2026-11-23T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
