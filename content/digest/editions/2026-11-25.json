@@ -1,0 +1,338 @@
+{
+  "date": "2026-11-25",
+  "fetchedAt": "2026-11-24T15:29:54.995Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "hn:michaelharley-net-posts-2026-11-01-llm-agents-work-for-their-parent-companies-no",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": 416,
+      "scoreLabel": "pts",
+      "author": "surprisetalk",
+      "publishedAt": "2026-11-24T12:40:15.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-23-anthropic-launches-claude-ship-letting-ai-agents-revie",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-23T22:05:50.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-23-supertake-raises-20m-to-let-ai-agents-turn-your-market",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sarah Perez",
+      "publishedAt": "2026-11-23T22:02:05.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:ladybird-org-posts-alpha",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 2236,
+      "scoreLabel": "pts",
+      "author": "janvdberg",
+      "publishedAt": "2026-11-23T16:13:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:stalw-art-blog-microsoft-exchange-replacement",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 591,
+      "scoreLabel": "pts",
+      "author": "shaunpud",
+      "publishedAt": "2026-11-23T22:32:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cq5y1k8ez407o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-24T10:53:37.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-22-foundation-future-industries-health-benefits-payroll-bas",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T23:28:19.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-live-2026-nov-24-jensen-huang-nvidia-stock-markets-",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Democrats hit out at Nvidia and Trump ov…",
+      "comment": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affai…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Graeme Wearden",
+      "publishedAt": "2026-11-24T15:09:05.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-24-best-buy-bby-q3-2027-earnings-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+      "comment": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-24T14:51:58.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cm7523pyk75lo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "World Cup drove profits surge, says Marston's",
+      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+      "comment": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-24T13:03:20.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-how-to-write-great-skills-91635bc45ada-source-rss-138adf9c44c-4",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "How to write great skills",
+      "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+      "summary": "An advanced and practical guide to agent skills, learning from Matt Pocock, Nate Herk, Addy Osmani and Anthropic Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Sen Lin",
+      "publishedAt": "2026-11-22T23:17:32.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "heydesigner:heydesigner-com-newsletter-inspiration-for-your-next-ui",
+      "lane": "design",
+      "source": "Hey Designer",
+      "sourceId": "heydesigner",
+      "title": "Inspiration for your next UI",
+      "url": "https://heydesigner.com/newsletter/inspiration-for-your-next-ui/",
+      "summary": "Design by playground, Design tools just got personal, On drawing icons, Writing for billions of users, Brand typography at scale, and more.",
+      "comment": "Design by playground, Design tools just got personal, On drawing icons, Writing for billions of users, Brand…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Tamas Sari",
+      "publishedAt": "2026-11-24T12:45:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-28274",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Neural Fidelity Calibration for Informative Sim-to-Real Adaptation",
+      "url": "https://arxiv.org/abs/2611.28274",
+      "summary": "arXiv:2611.28274v1 Announce Type: new Abstract: Deep reinforcement learning (RL) can transfer agile robot skills from simulation to the real world, but closing the sim-to-real gap…",
+      "comment": "Watch — matches robot, reinforcement, sim-to-real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Youwei Yu, Lantao Liu",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "reinforcement",
+        "sim-to-real"
+      ]
+    },
+    {
+      "id": "arxiv-cs-lg:arxiv-org-abs-2611-28234",
+      "lane": "tech",
+      "source": "arXiv · cs.LG",
+      "sourceId": "arxiv-cs-lg",
+      "title": "Learning the Projection onto the Data Support: Distribution Learning that Avoids Memorization",
+      "url": "https://arxiv.org/abs/2611.28234",
+      "summary": "arXiv:2611.28234v1 Announce Type: new Abstract: We introduce a framework for learning distributions supported on manifolds based on estimating the nearest-point projection onto th…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lin Chen, Dejan Slep\\v{c}ev",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-28053",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments",
+      "url": "https://arxiv.org/abs/2611.28053",
+      "summary": "arXiv:2611.28053v1 Announce Type: new Abstract: This paper investigates the performance of monostatic Integrated Sensing and Communication (ISAC) systems for tracking robotic arm…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Neeraj Varshney, Anuraag Bodi, Steve Blandino, Jian Wang, Camillo Gentile, Nada Golmie",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-28256",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference",
+      "url": "https://arxiv.org/abs/2611.28256",
+      "summary": "arXiv:2611.28256v1 Announce Type: new Abstract: Vision-Language-Action (VLA) models have emerged as a powerful paradigm for embodied AI, yet their high inference latency and memor…",
+      "comment": "Watch — matches embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Jintao Cheng, Yipu Zhang, Haozhe Wang, Lin Jiang, Jiang Xu, Wei Zhang",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "interestHits": [
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-28260",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.28260",
+      "summary": "arXiv:2611.28260v1 Announce Type: new Abstract: A policy that transfers from simulation to a lab robot often fails in the field. Calibrating a simulator from real-world data typic…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Youwei Yu, Lantao Liu",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
