@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-26",
+  "fetchedAt": "2026-11-25T15:17:04.180Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-25-amazon-and-meta-reportedly-in-talks-to-lift-blockade-o",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Lauren Forristal",
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hn:github-com-openai-math-blob-main-preprints-the-matrix-multiplication-exponent-is",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 827,
+      "scoreLabel": "pts",
+      "author": "E-Reverance",
+      "publishedAt": "2026-11-25T01:19:26.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:buttons-joshwcomeau-com",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 619,
+      "scoreLabel": "pts",
+      "author": "gaurang_tandon",
+      "publishedAt": "2026-11-25T03:23:07.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:www-lesswrong-com-posts-7wzwulp3hhyblmkfo-models-can-communicate-via-inference-s",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 346,
+      "scoreLabel": "pts",
+      "author": "gmays",
+      "publishedAt": "2026-11-25T02:34:21.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:rida-dev-blog-bypassing-ios-safari-60-fps-limit",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 329,
+      "scoreLabel": "pts",
+      "author": "vinhnx",
+      "publishedAt": "2026-11-25T03:04:37.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-22-foundation-future-industries-health-benefits-payroll-bas",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-23T23:28:19.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-25-nx-s1-6048524-what-to-know-before-using-ai-agents-for-bla",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Stephan Bisaha",
+      "publishedAt": "2026-11-25T13:51:56.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cq0md8g14zryo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "comment": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-25T15:05:38.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-business-live-2026-nov-25-rise-energy-bills-britain-2166-imp",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – business live",
+      "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+      "summary": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster , senior economist at the think tank New Economics Foundation , also called for…",
+      "comment": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’ Hannah Webster , senior e…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Julia Kollewe",
+      "publishedAt": "2026-11-25T14:55:25.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-c893r9ke5p97o-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "comment": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-25T14:52:22.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Designing for the AI agent customer",
+      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+      "summary": "Personal AI assistants already compare and buy on your behalf. But the marketing tactics designed to persuade humans don’t work on agents. Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Slava Polonski, PhD",
+      "publishedAt": "2026-11-24T22:11:59.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-agent-harness-utm-source-rss-amp-utm-medium-feed-amp-ut",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Agent Harness: Definition",
+      "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Caleb Sponheim",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "css-tricks:css-tricks-com-css-style-queries-as-conditional-modifiers",
+      "lane": "design",
+      "source": "CSS-Tricks",
+      "sourceId": "css-tricks",
+      "title": "Style Queries as Conditional Modifiers",
+      "url": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+      "summary": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep…",
+      "comment": "Where style queries shine is when the condition and the styles need to live in different places, or when one…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kevin Powell",
+      "publishedAt": "2026-11-25T14:06:34.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-nvidia-microduck-obstacle-avoidance",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "summary": null,
+      "comment": "Watch — matches isaac, sim2real.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-24T16:34:13.000Z",
+      "interestHits": [
+        "isaac",
+        "sim2real"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-31488",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Embodied Neuro-symbolic AI: Making Robot Behavior Auditable, Safe, and Scalable",
+      "url": "https://arxiv.org/abs/2611.31488",
+      "summary": "arXiv:2611.31488v1 Announce Type: new Abstract: Current Vision-Language-Action (VLA) end-to-end systems have driven major progress in robot learning, yet they still face persisten…",
+      "comment": "Watch — matches robot, embodied.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Ruwan Wickramarachchi, Jonathan Francis, Alessandro Oltramari",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "interestHits": [
+        "robot",
+        "embodied"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-31341",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "EvoMisty: Building, Optimizing, and Evolving Capabilities on a Social Robot",
+      "url": "https://arxiv.org/abs/2611.31341",
+      "summary": "arXiv:2611.31341v1 Announce Type: new Abstract: Social robots face diverse and changing tasks in companionship and education. LLM-based methods can generate task programs, but the…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Xiao Wang, Lu Dong, Ifeoma Nwogu, Srirangaraj Setlur, Venu Govindaraju",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-31446",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "Learning from Human Corrections through Temporal Preferences",
+      "url": "https://arxiv.org/abs/2611.31446",
+      "summary": "arXiv:2611.31446v1 Announce Type: new Abstract: When people intervene to correct a robot, they provide information not only through how they correct its behavior, but also through…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Anjiabei Wang, Tesca Fitzgerald",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    },
+    {
+      "id": "arxiv-cs-ro:arxiv-org-abs-2611-31577",
+      "lane": "tech",
+      "source": "arXiv · cs.RO",
+      "sourceId": "arxiv-cs-ro",
+      "title": "FabricBench: A Standardized Policy Benchmark for Bimanual Fabric Manipulation with a Contact-Driven Deformable Simulator",
+      "url": "https://arxiv.org/abs/2611.31577",
+      "summary": "arXiv:2611.31577v1 Announce Type: new Abstract: Fabric manipulation challenges robot policies with changing geometry, self-occlusion, and contact, yet standardized evaluation rema…",
+      "comment": "Watch — matches robot.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Wenkang Hu, Haoran Wang, Liu Liu, Wenchao Huang, Yiji Chen, Mengao Zhao, Xincheng Tang, Zhengjie Shu, Lai Jiang, Wei Li, Zhendong Wang, Zhizhong Su, Huamin Wang, Ruigang Yang",
+      "publishedAt": "2026-11-25T05:00:00.000Z",
+      "interestHits": [
+        "robot"
+      ]
+    }
+  ],
+  "failures": []
+}
