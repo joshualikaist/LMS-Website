@@ -1,0 +1,349 @@
+{
+  "date": "2026-11-28",
+  "fetchedAt": "2026-11-28T08:30:57.943Z",
+  "timezone": "Asia/Seoul",
+  "items": [
+    {
+      "id": "techcrunch:techcrunch-com-2026-11-25-fcc-approves-spacex-plan-to-put-ai-data-centers-in-spa",
+      "lane": "trend",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kirsten Korosec",
+      "publishedAt": "2026-11-25T20:56:44.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "hn:www-infohawk-com-news-2026-11-27-black-friday-webrtc-skimmer",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 511,
+      "scoreLabel": "pts",
+      "author": "scanr",
+      "publishedAt": "2026-11-27T15:40:31.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:generativehistory-substack-com-p-gpt-62-astra-solves-a-historical",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 431,
+      "scoreLabel": "pts",
+      "author": "dr_red_dog",
+      "publishedAt": "2026-11-25T15:16:53.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:research-google-blog-supercharging-transformer-residual-connections",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 346,
+      "scoreLabel": "pts",
+      "author": "ComputedCamp995",
+      "publishedAt": "2026-11-27T23:06:29.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "hn:localthunk-com-blog-balatro-timeline-3aarh",
+      "lane": "trend",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "summary": null,
+      "comment": "From Hacker News.",
+      "score": 306,
+      "scoreLabel": "pts",
+      "author": "sheepscreek",
+      "publishedAt": "2026-11-26T17:20:27.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-25-nx-s1-6048524-what-to-know-before-using-ai-agents-for-bla",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Stephan Bisaha",
+      "publishedAt": "2026-11-25T13:51:56.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "cnbc-business:www-cnbc-com-2026-11-27-black-friday-2026-inflation-value-deals-html",
+      "lane": "economy",
+      "source": "CNBC · Business",
+      "sourceId": "cnbc-business",
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+      "comment": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black…",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-27T22:00:57.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "guardian-business:www-theguardian-com-global-2026-nov-27-amazon-sale-deals-deceive-customers-black",
+      "lane": "economy",
+      "source": "The Guardian · Business",
+      "sourceId": "guardian-business",
+      "title": "Amazon’s sale deals deceive customers, thinktank alleges",
+      "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+      "summary": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Groundwork Collaborative finds, a claim Amazon disputes An Apple Watch o…",
+      "comment": "Two-thirds of Black Friday and Cyber Monday sale products were priced the same or lower in previous months Gr…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Gaya Gupta",
+      "publishedAt": "2026-11-27T14:00:12.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "bbc-business:www-bbc-co-uk-news-articles-cw8dv11dp2yeo-at-medium-rss-amp-at-campaign-rss",
+      "lane": "economy",
+      "source": "BBC Business",
+      "sourceId": "bbc-business",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&amp;at_campaign=rss",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "comment": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-27T10:10:36.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "npr-business:www-npr-org-2026-11-27-nx-s1-6026486-macys-tries-to-reinvent-with-luxury",
+      "lane": "economy",
+      "source": "NPR Business",
+      "sourceId": "npr-business",
+      "title": "Can luxury save Macy's?",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+      "summary": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a h…",
+      "comment": "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. Af…",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Alina Selyukh",
+      "publishedAt": "2026-11-27T10:01:00.000Z",
+      "interestHits": []
+    },
+    {
+      "id": "nngroup:www-nngroup-com-articles-usability-testing-101-utm-source-rss-amp-utm-medium-fee",
+      "lane": "design",
+      "source": "Nielsen Norman Group",
+      "sourceId": "nngroup",
+      "title": "Usability Testing 101",
+      "url": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication",
+      "summary": "Usability testing involves watching people use a design to uncover problems and opportunities. Anyone on a product team can learn this.",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Kate Moran, Maria Rosala",
+      "publishedAt": "2026-11-27T17:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185-source-rss",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Things you’re not supposed to say on LinkedIn",
+      "url": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4",
+      "summary": "What happens to how people write about work when readers can hire (or fire) them? Continue reading on UX Collective »",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Rita Kind-Envy",
+      "publishedAt": "2026-11-25T22:34:52.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-making-immersive-llm-chat-experiences-more-accessib",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Making Immersive LLM Chat Experiences More Accessible",
+      "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+      "summary": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on h…",
+      "comment": "Watch — matches ppo.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Eric Bailey)",
+      "publishedAt": "2026-11-05T13:00:00.000Z",
+      "interestHits": [
+        "ppo"
+      ]
+    },
+    {
+      "id": "smashing:smashingmagazine-com-2026-11-online-smashingconf-ai-2027",
+      "lane": "design",
+      "source": "Smashing Magazine",
+      "sourceId": "smashing",
+      "title": "Meet AI 2027 Conference (Dec 1)",
+      "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+      "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI…",
+      "comment": "Watch — matches design system.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "publishedAt": "2026-11-17T12:00:00.000Z",
+      "interestHits": [
+        "design system"
+      ]
+    },
+    {
+      "id": "uxcollective:uxdesign-cc-designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-",
+      "lane": "design",
+      "source": "UX Collective",
+      "sourceId": "uxcollective",
+      "title": "Designing for the AI agent customer",
+      "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+      "summary": "Personal AI assistants already compare and buy on your behalf. But the marketing tactics designed to persuade humans don’t work on agents. Continue reading on UX Collective »",
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": "Slava Polonski, PhD",
+      "publishedAt": "2026-11-24T22:11:59.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-nexu-io-opengame",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a ful…",
+      "comment": "Watch — matches agent.",
+      "score": 2520,
+      "scoreLabel": "stars",
+      "author": "nexu-io",
+      "publishedAt": "2026-11-25T10:35:45Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "github-typescript:github-com-w01fb0ss-pibot",
+      "lane": "tech",
+      "source": "GitHub · TypeScript",
+      "sourceId": "github-typescript",
+      "title": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "summary": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + A…",
+      "comment": "Watch — matches agent.",
+      "score": 688,
+      "scoreLabel": "stars",
+      "author": "w01fb0ss",
+      "publishedAt": "2026-11-21T06:54:24Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-aws-builders-porting-an-adk-research-and-judge-loop-to-strands-on-bedrock",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Porting an ADK Research and Judge Loop to Strands on Bedrock AgentCore, With A2A 1.x",
+      "url": "https://dev.to/aws-builders/porting-an-adk-research-and-judge-loop-to-strands-on-bedrock-agentcore-with-a2a-1x-209j",
+      "summary": "A three-agent researcher, judge and course builder moved from Google ADK to Strands Agents on Amazon Bedrock: Nova Web Grounding for search, a Strands graph for the loop, AgentCor…",
+      "comment": "Watch — matches agent.",
+      "score": 14,
+      "scoreLabel": "rxn",
+      "author": "xbill",
+      "publishedAt": "2026-11-27T21:03:32Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "devto:dev-to-gde-zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust",
+      "lane": "tech",
+      "source": "Dev.to",
+      "sourceId": "devto",
+      "title": "Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust",
+      "url": "https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857",
+      "summary": "Why we don't code by majority vote, opening our 375-ticket empirical ledger (including what broke), Barry Boehm's $1 : $500 : $25,000 token defect curve, the 4-Layer Verification…",
+      "comment": "Watch — matches agent.",
+      "score": 12,
+      "scoreLabel": "rxn",
+      "author": "Randal L. Schwartz",
+      "publishedAt": "2026-11-27T16:31:24Z",
+      "interestHits": [
+        "agent"
+      ]
+    },
+    {
+      "id": "hf-blog:huggingface-co-blog-training-swarms",
+      "lane": "tech",
+      "source": "Hugging Face Blog",
+      "sourceId": "hf-blog",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "summary": null,
+      "comment": "Watch — matches agent.",
+      "score": null,
+      "scoreLabel": null,
+      "author": null,
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "interestHits": [
+        "agent"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "sourceId": "css-tricks",
+      "error": "415 Unsupported Media Type for https://css-tricks.com/feed/"
+    },
+    {
+      "sourceId": "arxiv-cs-ro",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-lg",
+      "error": "no items"
+    },
+    {
+      "sourceId": "arxiv-cs-ai",
+      "error": "no items"
+    }
+  ]
+}
